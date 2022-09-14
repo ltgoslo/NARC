@@ -1,4 +1,4 @@
-#Version 1.0
+# NARC data version 1.0
 
 This version corresponds to the data presented in the following article 
 
