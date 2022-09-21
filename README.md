@@ -10,14 +10,14 @@ The accompanying [paper](NARC_CRAC.pdf) by Mæhlum et al. at CRAC 2022 describes
 
 ## Terms of Use
 
-# Distribution format
+## Distribution format
 
-# Obtaining the data
+## Obtaining the data
 ```
 git clone https://github.com/ltgoslo/NARC
 ```
 
-# Citing
+## Citing
 
 If you publish work that uses or references the data, please cite our [CRAC article](NARC_CRAC.pdf). BibEntry: 
 
