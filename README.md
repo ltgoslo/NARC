@@ -35,6 +35,12 @@ Three relations are annotated in NARC: coreference, bridging and split-anteceden
 
 ## License
 
+The license follows that of the underlying Norwegian Dependency Treebank and is Creative Commons (CC)
+Licence Name: Creative_Commons-ZERO (CC-ZERO). 
+
+### Non Standard Conditions Of Use: 
+* NORED * No redistribution * The original third-party contents are not included in this CC-0 license, and these individual works may not be republished as stand-alone texts.
+
 ## Obtaining the data
 ```
 git clone https://github.com/ltgoslo/NARC
