@@ -11,7 +11,7 @@ The original treebank contains  manually  annotated  syntactic and morphological
 
 ## Annotation
 
-Annotation was performed using the Brat annotation tool  \cite{Ste:Pyy:Top:2012}. 
+Annotation was performed using the Brat annotation tool. 
 Six students with a background in NLP and linguistics annotated the Norwegian Bokmål part of the corpus. The students received financial remuneration for their annotation work. All annotators completed an initial training round where they were tasked with annotation of the same set of documents, followed by a round of discussion and consolidation, along with updates to the annotation guidelines.
 
 ### Annotation guidelines
