@@ -21,6 +21,12 @@ The full set of annotation guidelines can be found [here](guidelines/README.md).
 
 ### Pre-annotation
 
+In order to alleviate the annotators' job of locating potential  mentions for coreference, we make use of the existing syntactic annotation of the treebank to perform a pre-annotation step. Using the dependency syntax, we extract all nominal heads that are either 
++ nouns (both common and proper nouns), 
++  referential personal pronouns,  
++  possessive pronouns,
++  adjectives in a nominal syntactic function (subject, object or prepositional complement).
+
 ### NARC markables
 
 ### NARC relations
