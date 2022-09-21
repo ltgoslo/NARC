@@ -10,7 +10,7 @@ The accompanying [paper](NARC_CRAC.pdf) by Mæhlum et al. at CRAC 2022 describes
 
 ## Terms of Use
 
-## Distribution format
+# Distribution format
 
 # Obtaining the data
 ```
