@@ -11,9 +11,23 @@ The original treebank contains  manually  annotated  syntactic and morphological
 
 ## Annotation
 
-## Terms of Use
+Annotation was performed using the Brat annotation tool  \cite{Ste:Pyy:Top:2012}. 
+Six students with a background in NLP and linguistics annotated the Norwegian Bokmål part of the corpus. The students received financial remuneration for their annotation work. All annotators completed an initial training round where they were tasked with annotation of the same set of documents, followed by a round of discussion and consolidation, along with updates to the annotation guidelines.
+
+### Annotation guidelines
+
+The annotation guidelines were developed during an initial pilot phase, where the documents used for training of the annotators were annotated by two of the project PIs. The guidelines were based largely on the guidelines from Ontonotes and the previous Norwegian BREDT dataset and were continuously refined following discussions and inputs from the annotators.
+The full set of annotation guidelines can be found [here](guidelines/README.md).
+
+### Pre-annotation
+
+### NARC markables
+
+### NARC relations
 
 ## Distribution format
+
+## License
 
 ## Obtaining the data
 ```
