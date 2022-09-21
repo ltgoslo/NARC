@@ -27,9 +27,9 @@ In order to alleviate the annotators' job of locating potential  mentions for co
 +  possessive pronouns,
 +  adjectives in a nominal syntactic function (subject, object or prepositional complement).
 
-### NARC markables
-
 ### NARC relations
+
+Three relations are annotated in NARC: coreference, bridging and split-antecedent. These are described further in the companion [paper](NARC_CRAC.pdf) and in the [annotation guidelines](guidelines/README.md)
 
 ## Distribution format
 
