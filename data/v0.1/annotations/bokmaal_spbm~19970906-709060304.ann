@@ -1,0 +1,82 @@
+T1	Markable 0 20	Superhelg for Vika |
+T2	Markable 14 18	Vika
+T3	Markable 21 31	Spjelkavik
+T4	Markable 41 108	en drømmestart på årets sesong , som ingen på forhånd kunne håpe på
+T5	Markable 59 64	årets
+T6	Markable 59 71	årets sesong
+T7	Markable 78 83	ingen
+T8	Markable 87 94	forhånd
+T9	Markable 111 122	Denne helga
+T10	Markable 133 162	seiersfesten for Vika-jentene
+T11	Markable 150 162	Vika-jentene
+T12	Markable 165 187	To seiere på to kamper
+T13	Markable 178 187	to kamper
+T14	Markable 194 199	laget
+T15	Markable 207 230	en 3. plass på tabellen
+T16	Markable 222 230	tabellen
+T17	Markable 235 270	Poengene vi har kapret nå i starten
+T18	Markable 244 246	vi
+T19	Markable 263 270	starten
+T20	Markable 291 294	oss
+T21	Markable 297 329	alle kampene vi har spilt til nå
+T22	Markable 310 312	vi
+T23	Markable 355 358	vår
+T24	Markable 355 362	vår vei
+T25	Markable 375 388	denne trenden
+T26	Markable 422 424	vi
+T27	Markable 436 453	flest mulig poeng
+T28	Markable 459 480	en lettet Vika-trener
+T29	Markable 459 493	en lettet Vika-trener Gunnar Hagen
+T30	Markable 500 509	søndagens
+T31	Markable 500 531	søndagens knappe seier over Ski
+T32	Markable 528 531	Ski
+T33	Markable 555 562	skygger
+T34	Markable 565 635	En klisje som aldri kan brukes for ofte når Vika spiller seriekamper ,
+T35	Markable 609 613	Vika
+T36	Markable 622 633	seriekamper
+T37	Markable 642 648	lagene
+T38	Markable 670 677	skygger
+T39	Markable 686 697	hele kampen
+T40	Markable 709 718	lørdagens
+T41	Markable 700 739	Spesielt lørdagens oppgjør mot Skjeberg
+T42	Markable 731 739	Skjeberg
+T43	Markable 764 771	slutten
+T44	Markable 779 783	Vika
+T45	Markable 798 834	et overtak på gjestene fra Østlandet
+T46	Markable 812 834	gjestene fra Østlandet
+T47	Markable 825 834	Østlandet
+T48	Markable 837 881	To straffekast , begge signert Marit Davik ,
+T49	Markable 854 859	begge
+T50	Markable 868 879	Marit Davik
+T51	Markable 905 919	to-målsseieren
+T52	Markable 929 934	Stord
+T53	Markable 943 949	Søndag
+T54	Markable 967 993	nok en hjemmekamp for Vika
+T55	Markable 989 993	Vika
+T56	Markable 1006 1011	Stord
+T57	Markable 1024 1037	Fagerlihallen
+T58	Markable 1045 1055	den kampen
+T59	Markable 1063 1069	en del
+T60	Markable 1063 1091	en del ting som må rettes på
+T61	Markable 1096 1110	Kampen mot Ski
+T62	Markable 1107 1110	Ski
+T63	Markable 1118 1183	den dårligste forsvarskampen vi har levert så lang denne sesongen
+T64	Markable 1147 1149	vi
+T65	Markable 1169 1183	denne sesongen
+T66	Markable 1186 1188	Vi
+R1	Coref Arg1:T14 Arg2:T11	
+R2	Bridging Arg1:T16 Arg2:T6	
+R3	Coref Arg1:T20 Arg2:T18	
+R4	Coref Arg1:T22 Arg2:T20	
+R5	Coref Arg1:T23 Arg2:T22	
+R6	Coref Arg1:T26 Arg2:T23	
+R7	Coref Arg1:T35 Arg2:T2	
+R8	Coref Arg1:T44 Arg2:T35	
+R9	Coref Arg1:T46 Arg2:T42	
+R10	Coref Arg1:T55 Arg2:T44	
+R11	Coref Arg1:T56 Arg2:T52	
+R12	Coref Arg1:T58 Arg2:T54	
+R13	Coref Arg1:T62 Arg2:T32	
+R14	Coref Arg1:T64 Arg2:T26	
+R15	Coref Arg1:T65 Arg2:T6	
+R16	Coref Arg1:T66 Arg2:T64	

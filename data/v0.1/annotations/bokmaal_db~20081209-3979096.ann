@@ -1,0 +1,92 @@
+T1	Markable 8 20	toppledernes
+T2	Markable 8 33	toppledernes fallskjermer
+T3	Markable 36 43	Landets
+T4	Markable 36 65	Landets største skattebetaler
+T5	Markable 36 84	Landets største skattebetaler Olav Thon ( 85 ) .
+T6	Markable 85 94	Olav Thon
+T7	Markable 124 136	finanskrisen
+T8	Markable 150 153	han
+T9	Markable 154 206	et saftig oppgjør med toppledernes fallskjermavtaler
+T10	Markable 176 188	toppledernes
+T11	Markable 176 206	toppledernes fallskjermavtaler
+T12	Markable 213 227	få dager siden
+T13	Markable 245 269	Notar-sjef Geir Hantveit
+T14	Markable 285 368	en fallskjerm i det konkursrammede selskapet på 5 millioner kroner over tre måneder
+T15	Markable 301 329	det konkursrammede selskapet
+T16	Markable 333 344	5 millioner
+T17	Markable 333 368	5 millioner kroner over tre måneder
+T18	Markable 357 368	tre måneder
+T19	Markable 373 397	Et eiendomsmeglerselskap
+T20	Markable 407 411	ende
+T21	Markable 417 452	en sjef som tiltrådte i september ,
+T22	Markable 441 450	september
+T23	Markable 457 475	en slik fallskjerm
+T24	Markable 478 481	Det
+T25	Markable 525 531	ledere
+T26	Markable 543 563	den ene fallskjermen
+T27	Markable 568 577	den andre
+T28	Markable 586 605	selskapene de leder
+T29	Markable 597 599	de
+T30	Markable 628 637	Feilskjær
+T31	Markable 659 671	fallskjermer
+T32	Markable 679 683	Thon
+T33	Markable 688 690	VG
+T34	Markable 693 696	Han
+T35	Markable 738 753	samfunnsmoralen
+T36	Markable 771 783	finanskrisen
+T37	Markable 790 808	slike fallskjermer
+T38	Markable 811 815	Thon
+T39	Markable 847 889	en tid med pengekrise og stigende ledighet
+T40	Markable 858 889	pengekrise og stigende ledighet
+T41	Markable 858 868	pengekrise
+T42	Markable 872 889	stigende ledighet
+T43	Markable 910 923	rikdommen sin
+T44	Markable 920 923	sin
+T45	Markable 928 931	Jeg
+T46	Markable 942 947	dette
+T47	Markable 960 973	disse folkene
+T48	Markable 976 979	Jeg
+T49	Markable 985 988	det
+T50	Markable 1031 1043;1052 1149	andre gleder enn å ha en yacht liggende i en eller annen havn nede ved Middelhavet som de bruker en uke i året
+T51	Markable 1046 1051	livet
+T52	Markable 1061 1069;1122 1149	en yacht som de bruker en uke i året
+T53	Markable 1081 1121	en eller annen havn nede ved Middelhavet
+T54	Markable 1110 1121	Middelhavet
+T55	Markable 1126 1128	de
+T56	Markable 1136 1149	en uke i året
+T57	Markable 1145 1149	året
+T58	Markable 1158 1219	en hytte på flere tusen kvadratmeter med 15 gjestetoaletter .
+T59	Markable 1170 1181	flere tusen
+T60	Markable 1170 1194	flere tusen kvadratmeter
+T61	Markable 1199 1217	15 gjestetoaletter
+T62	Markable 1220 1237	Hele næringslivet
+T63	Markable 1254 1296	de ledere og gründere jeg her snakker om ,
+T64	Markable 1254 1263;1295 1296	de ledere ,
+T65	Markable 1267 1294	gründere jeg her snakker om
+T66	Markable 1276 1279	jeg
+T67	Markable 1306 1309	noe
+T68	Markable 1303 1341	et noe mer begrenset og alminnelig liv
+T69	Markable 1349 1353	Thon
+T70	Markable 1356 1372	Hantveit i Notar
+T71	Markable 1367 1372	Notar
+T72	Markable 1381 1388	motmæle
+T73	Markable 1398 1402	Thon
+T74	Markable 1414 1423	kritikken
+R1	Coref Arg1:T6 Arg2:T5	
+R2	Coref Arg1:T8 Arg2:T6	
+R3	Coref Arg1:T11 Arg2:T2	
+T75	Markable 281 284	seg
+R4	Coref Arg1:T75 Arg2:T13	
+R5	Coref Arg1:T29 Arg2:T25	
+R6	Coref Arg1:T32 Arg2:T8	
+R7	Coref Arg1:T34 Arg2:T32	
+R8	Coref Arg1:T36 Arg2:T7	
+R9	Coref Arg1:T38 Arg2:T34	
+R11	Coref Arg1:T45 Arg2:T38	
+R12	Coref Arg1:T48 Arg2:T45	
+R13	Coref Arg1:T66 Arg2:T48	
+R14	Coref Arg1:T69 Arg2:T66	
+R15	Coref Arg1:T73 Arg2:T69	
+R16	Coref Arg1:T70 Arg2:T75	
+R17	Coref Arg1:T55 Arg2:T47	
+R10	Coref Arg1:T63 Arg2:T55	
