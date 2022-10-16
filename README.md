@@ -4,6 +4,10 @@ The Norwegian Anaphora Resolution Corpus (NARC) is the first publicly available 
 The annotation effort enriches the existing annotation of the Norwegian Dependency Treebank (NDT).
 The accompanying [paper](NARC_CRAC.pdf) by Mæhlum et al. at CRAC 2022 describes the (1st release of the) data in more detail.
 
+___
+<img width="907" alt="image" src="https://user-images.githubusercontent.com/5024871/171003897-1aac6483-0e95-4f38-94c2-13ae1a567d0c.png">
+___
+
 ## Data sources
 
 The underlying data for the annotation effort is the Norwegian Dependency Treebank (NDT), a richly annotated dataset. 
