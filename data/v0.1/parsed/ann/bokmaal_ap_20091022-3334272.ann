@@ -1,0 +1,95 @@
+T1	Markable 0 8	Pressens
+T2	Markable 0 15	Pressens kamp |
+T3	Markable 27 64	Danmark , Finland , Sverige og Irland
+T4	Markable 27 36	Danmark ,
+T5	Markable 37 46	Finland ,
+T6	Markable 47 54	Sverige
+T7	Markable 58 64	Irland
+T8	Markable 72 77	Norge
+T9	Markable 78 175	førsteplassen på den årlige rangeringen av pressefrihet fra organisasjonen Reportere uten grenser
+T10	Markable 95 175	den årlige rangeringen av pressefrihet fra organisasjonen Reportere uten grenser
+T11	Markable 121 133	pressefrihet
+T12	Markable 138 175	organisasjonen Reportere uten grenser
+T13	Markable 180 236	likhet med FN-kåringen om hvilke land som er best å bo i
+T14	Markable 191 236	FN-kåringen om hvilke land som er best å bo i
+T15	Markable 206 217	hvilke land
+T16	Markable 242 248	listen
+T17	Markable 249 454	en påminnelse om at Norge er plassert i et fredelig , privilegert og lettstyrt hjørne av verden , med sterke institusjoner og rettstradisjoner , og med stor grad av tillit mellom statsapparat og befolkning
+T18	Markable 269 274	Norge
+T19	Markable 289 454	et fredelig , privilegert og lettstyrt hjørne av verden , med sterke institusjoner og rettstradisjoner , og med stor grad av tillit mellom statsapparat og befolkning
+T20	Markable 338 344	verden
+T21	Markable 351 391	sterke institusjoner og rettstradisjoner
+T22	Markable 351 371	sterke institusjoner
+T23	Markable 375 391	rettstradisjoner
+T24	Markable 401 454	stor grad av tillit mellom statsapparat og befolkning
+T25	Markable 414 454	tillit mellom statsapparat og befolkning
+T26	Markable 428 454	statsapparat og befolkning
+T27	Markable 428 440	statsapparat
+T28	Markable 444 454	befolkning
+T29	Markable 470 487	slike betingelser
+T30	Markable 488 502	pressefriheten
+T31	Markable 520 558	styresett uten demokratisk legitimitet
+T32	Markable 535 558	demokratisk legitimitet
+T33	Markable 572 579	mediene
+T34	Markable 582 592	Oversikten
+T35	Markable 606 662	opplysninger om lovgivning , overgrep mot journalister ,
+T36	Markable 622 662	lovgivning , overgrep mot journalister ,
+T37	Markable 622 634	lovgivning ,
+T38	Markable 635 662	overgrep mot journalister ,
+T39	Markable 648 660	journalister
+T40	Markable 669 745	grunnlag av omfattende spørreundersøkelser om journalisters arbeidssituasjon
+T41	Markable 681 745	omfattende spørreundersøkelser om journalisters arbeidssituasjon
+T42	Markable 715 728	journalisters
+T43	Markable 715 745	journalisters arbeidssituasjon
+T44	Markable 748 758	Feilkilder
+T45	Markable 772 780	indeksen
+T46	Markable 795 854	en tankevekkende oversikt over utviklingstrekk i ulike land
+T47	Markable 826 854	utviklingstrekk i ulike land
+T48	Markable 844 854	ulike land
+T49	Markable 857 884;888 892	De første 13 land på listen alle
+T50	Markable 878 884	listen
+T51	Markable 910 912	vi
+T52	Markable 920 923	oss
+T53	Markable 927 945	Silvio Berlusconis
+T54	Markable 927 989	Silvio Berlusconis Italia , et av EUs opprinnelige medlemsland
+T55	Markable 961 964	EUs
+T56	Markable 961 989	EUs opprinnelige medlemsland
+T57	Markable 1018 1027	49. plass
+T58	Markable 1037 1084	unge demokratier som Mali , Sør-Afrika og Ghana
+T59	Markable 1058 1084	Mali , Sør-Afrika og Ghana
+T60	Markable 1058 1064	Mali ,
+T61	Markable 1065 1075	Sør-Afrika
+T62	Markable 1079 1084	Ghana
+T63	Markable 1097 1103	Israel
+T64	Markable 1124 1171	følge av medierestriksjoner under krigen i Gaza
+T65	Markable 1133 1171	medierestriksjoner under krigen i Gaza
+T66	Markable 1158 1171	krigen i Gaza
+T67	Markable 1167 1171	Gaza
+T68	Markable 1178 1181	46.
+T69	Markable 1186 1195	93. plass
+T70	Markable 1216 1260	det land i Midtøsten med størst pressefrihet
+T71	Markable 1227 1236	Midtøsten
+T72	Markable 1241 1260	størst pressefrihet
+T73	Markable 1268 1316	Kuwait , Libanon og De forente arabiske emirater
+T74	Markable 1268 1276	Kuwait ,
+T75	Markable 1277 1284	Libanon
+T76	Markable 1288 1316	De forente arabiske emirater
+T77	Markable 1333 1344	Nok en gang
+T78	Markable 1369 1373	krig
+T79	Markable 1395 1429	døde , sårede og materielle skader
+T80	Markable 1395 1401	døde ,
+T81	Markable 1402 1408	sårede
+T82	Markable 1412 1429	materielle skader
+T83	Markable 1432 1439	Krigens
+T84	Markable 1432 1445	Krigens offer
+T85	Markable 1454 1486	friheten til å rapportere om den
+T86	Markable 1483 1486	den
+R1	Bridging Arg1:T16 Arg2:T10	
+R2	Coref Arg1:T18 Arg2:T8	
+R3	Bridging Arg1:T34 Arg2:T10	
+R4	Bridging Arg1:T45 Arg2:T34	
+R5	Coref Arg1:T50 Arg2:T16	
+R6	Coref Arg1:T52 Arg2:T51	
+R7	Coref Arg1:T86 Arg2:T83	
+T87	Markable 1091 1094	seg
+R8	Coref Arg1:T87 Arg2:T54	

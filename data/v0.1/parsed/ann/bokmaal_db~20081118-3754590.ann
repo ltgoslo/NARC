@@ -1,0 +1,35 @@
+T1	Markable 0 30	Mer frukt , men mindre norsk |
+T2	Markable 0 11;29 30	Mer frukt , |
+T3	Markable 31 40	Forbruket
+T4	Markable 49 59	20 prosent
+T5	Markable 63 68	ti år
+T6	Markable 71 98	Forbruket av frukt og grønt
+T7	Markable 84 98	frukt og grønt
+T8	Markable 84 89	frukt
+T9	Markable 93 98	grønt
+T10	Markable 111 126	over 20 prosent
+T11	Markable 129 155	løpet av de siste ti årene
+T12	Markable 138 155	de siste ti årene
+T13	Markable 162 185	den norske produksjonen
+T14	Markable 195 236	Hele veksten og mer til av frukt og grønt
+T15	Markable 195 207	Hele veksten
+T16	Markable 211 236	mer til av frukt og grønt
+T17	Markable 222 236	frukt og grønt
+T18	Markable 222 227	frukt
+T19	Markable 231 236	grønt
+T20	Markable 248 254	import
+T21	Markable 257 280	Den norske produksjonen
+T22	Markable 301 311	10 prosent
+T23	Markable 333 341	Nationen
+T24	Markable 351 376	landbruks- og matminister
+T25	Markable 365 376	matminister
+T26	Markable 351 400	landbruks- og matminister Lars Peder Brekk ( Sp )
+T27	Markable 394 400	( Sp )
+T28	Markable 404 421	de norske kjedene
+T29	Markable 456 474	norske produsenter
+T30	Markable 478 485	bøndene
+T31	Markable 518 536	det kundene vil ha
+T32	Markable 522 529	kundene
+R1	Coref Arg1:T21 Arg2:T13	
+R2	Coref Arg1:T6 Arg2:T3	
+R3	Bridging Arg1:T13 Arg2:T7	

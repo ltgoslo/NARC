@@ -1,0 +1,43 @@
+[DEFAULT]
+data_dir = "/cluster/work/users/egilron/wl-coref-ncc/tomls/CUDA01"
+train_data = "/cluster/work/users/egilron/ncc/wl-ncc/bokmaal/bokmaal_train_head.jsonl"
+dev_data = "/cluster/work/users/egilron/ncc/wl-ncc/bokmaal/bokmaal_development_head.jsonl"
+test_data = "/cluster/work/users/egilron/ncc/wl-ncc/bokmaal/bokmaal_test_head.jsonl"
+device = "cuda:0"
+bert_model = "/cluster/shared/nlpl/data/vectors/latest/221/"
+bert_window_size = 128
+embedding_size = 20
+sp_embedding_size = 64
+a_scoring_batch_size = 512
+hidden_size = 1024
+n_hidden_layers = 1
+max_span_len = 16
+rough_k = 5
+bert_finetune = false
+dropout_rate = 0.3
+bert_learning_rate = 1e-5
+learning_rate = 0.0003
+train_epochs = 8
+bce_loss_weight = 0.5
+conll_log_dir = "/cluster/work/users/egilron/wl-coref-ncc/tomls/CUDA01/conll_logs"
+
+[CUDA01_000]
+a_scoring_batch_size = 64
+
+[CUDA01_001]
+a_scoring_batch_size = 128
+
+[CUDA01_002]
+a_scoring_batch_size = 256
+
+[CUDA01_003]
+a_scoring_batch_size = 512
+
+[DEFAULT.tokenizer_kwargs.roberta-large]
+add_prefix_space = true
+
+[DEFAULT.tokenizer_kwargs.spanbert-large-cased]
+do_lower_case = false
+
+[DEFAULT.tokenizer_kwargs.bert-large-cased]
+do_lower_case = false
