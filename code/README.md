@@ -2,15 +2,14 @@
 Baseline models for the Norwegian Anaphora Resolution Corpus
 This repository is the actual working repo for the experiments, probably containing imperfect and redundant code. We hope it may still be useful for anyone who wish to inspect the baseline model referenced in **NARC – Norwegian Anaphora Resolution Corpus** by Petter Mæhlum et al. 
 
-## Convert and prepare data
-Be in the root of this repository  
-
-### Virtual environment 
-- Not all Python versions work, need to specify which I have been using. See  `wl-coref-ncc/requirements.txt` for original requirements.
+### Setup
+- Use Python up to 3.9
+    - a dump of requirements is found in `code/requirements.txt`
+        - you might need to install `transformers` locally using `pip install -e .`
+            - https://github.com/huggingface/transformers/releases/tag/v3.2.0
 - For info about the HPC environment, see `wl-coref-ncc/tomls/fox_base.slurm`.
 
 ### Preprocessing 
-(Necceccary after downloading new versions of the dataset)  
 Run `preprocess.py`
 
 
@@ -21,12 +20,15 @@ The end result is a folder with `_heads` suffix inside the `data` folder.
 - The parameters are set in the toml config file, the wl-coref original file is `wl-coref-ncc/config.toml`
 - The training is executed through `python wl-coref-ncc/run.py train <experiment within the toml> <toml-file>`
 - The scripts `wl-coref-ncc/tomls/toml-configs.ipynb`and `wl-coref-ncc/tomls/toml-configs.py`can be used to create modification of the toml. These files are working tools, and not neccessarily tidy.
+    - An example script can be run, as found in *code/example_run.sh*. This runs a non-cuda variant for the highest compatability
+        - `python code/wl-coref-ncc/run.py train BERT_MULTILING --config-file code/wl-coref-ncc/tomls/POC_nocuda.toml`
+        - to run with CUDA, use the following example:
+            - `python code/wl-coref-ncc/run.py train POC_003 --config-file code/wl-coref-ncc/tomls/POC.toml`
 
 ### Notes on the configuration
-- The experiments require access to high-vram gpus. Preferable `>30` GB. `rough_k` can be set to 5, to train on 12 GB resources, for sample (poor performance) runs.
-- Some Norwegian transformers-based models would not download with the transformers Automodel, but we got it to load from a local file storage. 
-- With our repo-in-repo structure, setting absolute paths can be helpful
-- Originally, wl-coref saves the model after each epoch. This we modify in coref_model.py, where save_weights() is called 
+- The experiments require access to high-vram gpus. Preferable `>30 GB`. `rough_k` can be set to 5 to train on 12 GB resources, for lower performance debug runs.
+- Some Norwegian transformers-based models might not download with the transformers Automodel. Attempt to load models from local files instead.
+- Originally, wl-coref saves the model after each epoch. This is modified in *coref_model.py*, where `save_weights` is called.
 
 
 ##  Evaluation and prediction

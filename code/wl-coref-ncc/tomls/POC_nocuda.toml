@@ -1,0 +1,37 @@
+[DEFAULT]
+data_dir = "wl-coref-ncc/tomls/POC"
+train_data = "data/v0.1/parsed/wordlevel_heads/narc_train_head.jsonl"
+test_data = "data/v0.1/parsed/wordlevel_heads/narc_test_head.jsonl"
+dev_data = "data/v0.1/parsed/wordlevel_heads/narc_dev_head.jsonl"
+device = "cpu"
+bert_model = "bert-base-multilingual-cased"
+bert_window_size = 512
+embedding_size = 20
+sp_embedding_size = 64
+a_scoring_batch_size = 512
+hidden_size = 1024
+n_hidden_layers = 1
+max_span_len = 64
+rough_k = 50
+bert_finetune = true
+dropout_rate = 0.3
+bert_learning_rate = 1e-5
+learning_rate = 0.0003
+train_epochs = 20
+bce_loss_weight = 0.5
+conll_log_dir = "code/wl-coref-ncc/tomls/POC/conll_logs"
+
+[ROBERTA]
+bert_model = "xlm-roberta-base"
+
+[BERT_MULTILING]
+bert_model = "bert-base-multilingual-cased"
+
+[DEFAULT.tokenizer_kwargs.roberta-large]
+add_prefix_space = true
+
+[DEFAULT.tokenizer_kwargs.spanbert-large-cased]
+do_lower_case = false
+
+[DEFAULT.tokenizer_kwargs.bert-large-cased]
+do_lower_case = false
