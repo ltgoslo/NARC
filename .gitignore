@@ -3,4 +3,6 @@
 *.pickle
 *.pyc
 installs
-reference-coreference-scorers/
+reference-coreference-scorers
+__pycache__
+
