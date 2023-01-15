@@ -19,17 +19,16 @@ def jsonlines_wl(source_folder, dest_folder, spacy_id="nb_core_news_sm",name_cor
             # assert len(rf.readlines()) == 1
             # print(f_name)
             doc = json.loads(rf.readline().strip())
-        wl_data = {"document_id": "nw"+doc["doc_key"], 
-                    "cased_words" : [t for s in doc["sentences"] for t in s],
-                    "sent_id" : [i for i, s in enumerate(doc["sentences"] )for t in s], 
-                    "part_id" : idx ,
-                    "speaker": ["blank" for s in doc["sentences"] for t in s],
-                    "head": [None for s in doc["sentences"] for t in s], # Change this to real head when possible
-                    "clusters": []
-                    }
-        # Add head information
-        texts = ["Første setningen . Andre setningen er her nå ."]
-        # texts = []
+        wl_data = {
+            "document_id": "nw"+doc["doc_key"], 
+            "cased_words" : [t for s in doc["sentences"] for t in s],
+            "sent_id" : [i for i, s in enumerate(doc["sentences"] )for t in s], 
+            "part_id" : idx,
+            "speaker": ["blank" for s in doc["sentences"] for t in s],
+            "head": [None for s in doc["sentences"] for t in s],
+            # Change this to real head when possible
+            "clusters": []
+        }
         docs = nlp.pipe([" ".join(wl_data["cased_words"])])
         heads = [token.head.i for token in next(iter(docs))]
         # Spacy gives heads its own index as head. wl-coref wants Null
@@ -56,8 +55,12 @@ def splits(source_folder, split_splits = (0.7, 0.85), name_core="narc"):
     random.shuffle(wl_formatted)
     train_max = int(len(wl_formatted)*split_splits[0])
     dev_max = int(len(wl_formatted)*split_splits[1])
-    splits = {"train":wl_formatted[:train_max], "development": wl_formatted[train_max:dev_max], "test":wl_formatted[dev_max:]}
-    for split, data in splits.items():
+    _splits = {
+        "train":wl_formatted[:train_max],
+        "development": wl_formatted[train_max:dev_max],
+        "test":wl_formatted[dev_max:]
+    }
+    for split, data in _splits.items():
         print(split,len(data))
         with jsonlines.open(os.path.join(source_folder,f'{name_core}_{split}.jsonl'), 'w') as wf:
             wf.write_all(data)

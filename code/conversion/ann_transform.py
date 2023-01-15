@@ -1,8 +1,8 @@
 from typing import List, Set, Tuple
 
-from coref_types import (CorefClusters, Markable, MarkableGroup,
+from conversion.coref_types import (CorefClusters, Markable, MarkableGroup,
                          MarkableReference, Sentences, Tokens)
-from utils import char_to_word_index, create_character_map, mark_to_idx, expand_child
+from conversion.utils import char_to_word_index, create_character_map, mark_to_idx, expand_child
 
 
 def get_references(ann_data: Tokens) -> Tuple[Markable, List[MarkableReference]]:

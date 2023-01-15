@@ -1,6 +1,6 @@
 import os
-from gather_annotations import gather
-from batch_ann2jsonlines import convert as ann2jsonlines
+from conversion.gather_annotations import gather
+from conversion.batch_ann2jsonlines import convert as ann2jsonlines
 from jsonlines_wl import jsonlines_wl, splits
 from ncc_to_heads import get_heads
 

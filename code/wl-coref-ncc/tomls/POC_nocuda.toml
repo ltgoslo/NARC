@@ -1,8 +1,8 @@
 [DEFAULT]
-data_dir = "wl-coref-ncc/tomls/POC"
-train_data = "data/v0.1/parsed/wordlevel_heads/narc_train_head.jsonl"
-test_data = "data/v0.1/parsed/wordlevel_heads/narc_test_head.jsonl"
-dev_data = "data/v0.1/parsed/wordlevel_heads/narc_dev_head.jsonl"
+data_dir = "tomls/POC"
+train_data = "../../data/v0.1/parsed/wordlevel_heads/narc_train_head.jsonl"
+test_data = "../../data/v0.1/parsed/wordlevel_heads/narc_test_head.jsonl"
+dev_data = "../../data/v0.1/parsed/wordlevel_heads/narc_development_head.jsonl"
 device = "cpu"
 bert_model = "bert-base-multilingual-cased"
 bert_window_size = 512
@@ -19,13 +19,16 @@ bert_learning_rate = 1e-5
 learning_rate = 0.0003
 train_epochs = 20
 bce_loss_weight = 0.5
-conll_log_dir = "code/wl-coref-ncc/tomls/POC/conll_logs"
+conll_log_dir = "data/conll_logs"
 
 [ROBERTA]
 bert_model = "xlm-roberta-base"
 
 [BERT_MULTILING]
 bert_model = "bert-base-multilingual-cased"
+
+[NORBERT]
+bert_model = "huggingface_models/norbert2"
 
 [DEFAULT.tokenizer_kwargs.roberta-large]
 add_prefix_space = true

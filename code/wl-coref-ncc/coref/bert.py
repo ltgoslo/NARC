@@ -3,7 +3,7 @@
 from typing import List, Tuple
 
 import numpy as np                                 # type: ignore
-from transformers import AutoModel, AutoTokenizer  # type: ignore
+from transformers import AutoModel, AutoTokenizer, AutoModelForMaskedLM  # type: ignore
 
 from coref.config import Config
 from coref.const import Doc
@@ -65,10 +65,9 @@ def load_bert(config: Config) -> Tuple[AutoModel, AutoTokenizer]:
     tokenizer_kwargs = config.tokenizer_kwargs.get(base_bert_name, {})
     if tokenizer_kwargs:
         print(f"Using tokenizer kwargs: {tokenizer_kwargs}")
-    tokenizer = AutoTokenizer.from_pretrained(config.bert_model,
-                                              **tokenizer_kwargs)
-
+    tokenizer = AutoTokenizer.from_pretrained(config.bert_model, **tokenizer_kwargs)
     model = AutoModel.from_pretrained(config.bert_model).to(config.device)
+    # model = AutoModelForMaskedLM.from_pretrained(config.bert_model).to(config.device)
 
     print("Bert successfully loaded.")
 

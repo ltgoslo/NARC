@@ -267,12 +267,16 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
         to_save.extend(self.schedulers.items())
 
         time = datetime.strftime(datetime.now(), "%Y.%m.%d_%H.%M")
-        path = os.path.join(self.config.data_dir,
-                            f"{self.config.section}"
-                            f"_(e{self.epochs_trained}_{time}).pt")
+        # path = os.path.join(self.config.data_dir,
+        #                     f"{self.config.section}"
+        #                     f"_(e{self.epochs_trained}_{time}).pt")
         savedict = {name: module.state_dict() for name, module in to_save}
         savedict["epochs_trained"] = self.epochs_trained  # type: ignore
-        torch.save(savedict, path)
+        # try:
+        #     torch.save(savedict, path)
+        # except:
+        #     print("failed to save at path", path)
+        torch.save(savedict, f"model_{time}.pt")
 
     def train(self):
         """
@@ -322,6 +326,7 @@ class CorefModel:  # pylint: disable=too-many-instance-attributes
                     f" c_loss: {running_c_loss / (pbar.n + 1):<.5f}"
                     f" s_loss: {running_s_loss / (pbar.n + 1):<.5f}"
                 )
+            self.evaluate()
 
             self.epochs_trained += 1
             remaining_epochs = self.config.train_epochs - self.epochs_trained
