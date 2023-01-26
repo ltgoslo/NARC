@@ -1,0 +1,84 @@
+T1	Markable 0 32	Jacobsen på åttende i Granåsen |
+T2	Markable 12 19	åttende
+T3	Markable 22 30	Granåsen
+T4	Markable 43 51	trygghet
+T5	Markable 54 66	Simon Ammann
+T6	Markable 72 95	verdenscuprennet i hopp
+T7	Markable 91 95	hopp
+T8	Markable 98 106	Granåsen
+T9	Markable 107 113	søndag
+T10	Markable 116 131	Anders Jacobsen
+T11	Markable 136 150	beste nordmann
+T12	Markable 154 166	åttendeplass
+T13	Markable 171 174	Det
+T14	Markable 184 195	100 prosent
+T15	Markable 184 203	100 prosent hopping
+T16	Markable 218 222	pari
+T17	Markable 226 239	begge hoppene
+T18	Markable 254 267	litt trygghet
+T19	Markable 273 280	hoppene
+T20	Markable 312 322	23-åringen
+T21	Markable 325 344	Johan Remen Evensen
+T22	Markable 355 385	den store norske overraskelsen
+T23	Markable 388 402	Molde-hopperen
+T24	Markable 418 433	det store intet
+T25	Markable 450 461	tolvteplass
+T26	Markable 462 468	søndag
+T27	Markable 471 477	Lørdag
+T28	Markable 482 485	han
+T29	Markable 486 492	nummer
+T30	Markable 500 503	Jeg
+T31	Markable 523 528	Dette
+T32	Markable 538 553	all forventning
+T33	Markable 559 566	Evensen
+T34	Markable 571 574	NTB
+T35	Markable 581 590	søndagens
+T36	Markable 581 595	søndagens renn
+T37	Markable 598 604	Ammann
+T38	Markable 615 629	finaleomgangen
+T39	Markable 636 733	et hopp på 140 meter , som var tangering av Gregor Schlierenzauers bakkerekord fra lørdagens renn
+T40	Markable 647 733	140 meter , som var tangering av Gregor Schlierenzauers bakkerekord fra lørdagens renn
+T41	Markable 667 733	tangering av Gregor Schlierenzauers bakkerekord fra lørdagens renn
+T42	Markable 680 702	Gregor Schlierenzauers
+T43	Markable 680 733	Gregor Schlierenzauers bakkerekord fra lørdagens renn
+T44	Markable 719 728	lørdagens
+T45	Markable 719 733	lørdagens renn
+T46	Markable 738 745	finalen
+T47	Markable 753 763	sveitseren
+T48	Markable 767 776	135 meter
+T49	Markable 786 795	1,9 poeng
+T50	Markable 802 829	Matti Hautamäki fra Finland
+T51	Markable 822 829	Finland
+T52	Markable 832 840	Jacobsen
+T53	Markable 845 851	nummer
+T54	Markable 862 875	første omgang
+T55	Markable 887 895	en plass
+T56	Markable 902 929	et sistehopp på 131,5 meter
+T57	Markable 918 929	131,5 meter
+T58	Markable 932 935	Han
+T59	Markable 940 950	17,4 poeng
+T60	Markable 955 963	vinneren
+T61	Markable 966 985	Johan Remen Evensen
+T62	Markable 1011 1022	tolvteplass
+T63	Markable 1030 1043	Anders Bardal
+T64	Markable 1048 1054	nummer
+T65	Markable 1060 1079	Bjørn Einar Romøren
+T66	Markable 1090 1099	16.-plass
+T67	Markable 1103 1117	Roar Ljøkelsøy
+T68	Markable 1122 1128	nummer
+T69	Markable 1134 1150	Kim René Elverum
+T70	Markable 1155 1161	nummer
+T71	Markable 1194 1201	finalen
+R1	Coref Arg1:T8 Arg2:T3	
+R2	Coref Arg1:T10 Arg2:T1	
+R3	Coref Arg1:T12 Arg2:T2	
+R4	Coref Arg1:T20 Arg2:T10	
+R5	Coref Arg1:T23 Arg2:T21	
+R6	Coref Arg1:T28 Arg2:T23	
+R7	Coref Arg1:T30 Arg2:T28	
+R8	Coref Arg1:T33 Arg2:T30	
+R9	Coref Arg1:T37 Arg2:T5	
+R10	Coref Arg1:T47 Arg2:T37	
+R11	Coref Arg1:T52 Arg2:T20	
+R12	Coref Arg1:T58 Arg2:T52	
+R13	Coref Arg1:T61 Arg2:T33	

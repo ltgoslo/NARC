@@ -1,0 +1,44 @@
+T1	Markable 0 11	Tora Berger
+T2	Markable 38 49	sjetteplass
+T3	Markable 52 60	Èn bom :
+T4	Markable 61 76	Solveig Rogstad
+T5	Markable 104 116	ellevteplass
+T6	Markable 121 124	går
+T7	Markable 131 134	hun
+T8	Markable 153 156	dag
+T9	Markable 166 177	Tora Berger
+T10	Markable 197 209	Skiskytteren
+T11	Markable 216 229	fire bomskudd
+T12	Markable 260 300	tyske Martina Beck , som skjøt feilfritt
+T13	Markable 303 309	Berger
+T14	Markable 316 329	53,6 sekunder
+T15	Markable 334 342	tyskeren
+T16	Markable 351 365	sprinten i går
+T17	Markable 362 365	går
+T18	Markable 371 374	hun
+T19	Markable 382 388	nummer
+T20	Markable 418 435	tre strafferunder
+T21	Markable 439 460	de to første liggende
+T22	Markable 468 493	én bom på siste stående ,
+T23	Markable 478 491	siste stående
+T24	Markable 498 512	pallplassering
+T25	Markable 513 525	en umulighet
+T26	Markable 531 537	pallen
+T27	Markable 545 587	Jekaterina Jourijeva og Svetlana Sleptsova
+T28	Markable 545 565	Jekaterina Jourijeva
+T29	Markable 569 587	Svetlana Sleptsova
+T30	Markable 592 607	dobbelt russisk
+T31	Markable 635 646	tredjeplass
+T32	Markable 662 668	Berger
+T33	Markable 673 688	Solveig Rogstad
+T34	Markable 689 726	eneste norske jente blant de 30 beste
+T35	Markable 715 726	de 30 beste
+R1	Coref Arg1:T7 Arg2:T1	
+R2	Coref Arg1:T9 Arg2:T7	
+R3	Coref Arg1:T10 Arg2:T9	
+R4	Coref Arg1:T13 Arg2:T10	
+R5	Coref Arg1:T15 Arg2:T12	
+R6	Coref Arg1:T18 Arg2:T13	
+R7	Bridging Arg1:T26 Arg2:T24	
+R8	Coref Arg1:T32 Arg2:T18	
+R9	Coref Arg1:T33 Arg2:T4	

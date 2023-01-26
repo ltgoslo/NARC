@@ -1,0 +1,187 @@
+T1	Markable 11 25	bryllupsmiddag
+T2	Markable 43 56	klokken 20.25
+T3	Markable 65 81	bryllupsgjestene
+T4	Markable 90 95	bords
+T5	Markable 107 131	gallamiddagen på Slottet
+T6	Markable 124 131	Slottet
+T7	Markable 137 142	galla
+T8	Markable 146 165	utsøkte festantrekk
+T9	Markable 177 193	bryllupsmiddagen
+T10	Markable 208 219	presidenter
+T11	Markable 222 238	familiemedlemmer
+T12	Markable 241 247	venner
+T13	Markable 251 322	representanter for regjering , storting og viktige norske institusjoner
+T14	Markable 270 322	regjering , storting og viktige norske institusjoner
+T15	Markable 294 322	viktige norske institusjoner
+T16	Markable 282 290	storting
+T17	Markable 353 367	dronning Sonja
+T18	Markable 432 453	Det kongelige bryllup
+T19	Markable 459 467	høy grad
+T21	Markable 370 381	kong Harald
+T22	Markable 384 400	kronprins Haakon
+T23	Markable 404 429	kronprinsesse Mette-Marit
+T24	Markable 326 328	De
+T25	Markable 170 172	de
+T26	Markable 82 85	seg
+R2	Coref Arg1:T26 Arg2:T3	
+T20	Markable 473 493	en privat begivenhet
+T28	Markable 506 546	prosesjonen til gallamiddagen på Slottet
+T29	Markable 589 600	prosesjonen
+T30	Markable 606 617	kong Harald
+T31	Markable 621 648	brudens mor , Marit Tjessem
+T35	Markable 696 720	dronning Sonja ved armen
+T36	Markable 715 720	armen
+R6	Bridging Arg1:T36 Arg2:T33	
+T37	Markable 731 743	tredje rekke
+T38	Markable 748 775	svenskekongen , Carl Gustaf
+T41	Markable 522 546	gallamiddagen på Slottet
+T42	Markable 539 546	Slottet
+T43	Markable 550 578	plasseringen ved hovedbordet
+T44	Markable 567 578	hovedbordet
+R7	Coref Arg1:T5 Arg2:T1	
+R8	Split_antecedent Arg1:T24 Arg2:T13	
+R9	Split_antecedent Arg1:T24 Arg2:T12	
+T45	Markable 781 810	dronning Margrethe av Danmark
+T47	Markable 825 837	hverdagskost
+T49	Markable 853 869	våre to naboland
+T48	Markable 841 869	monarkene i våre to naboland
+T50	Markable 887 914	vanlige norske statsborgere
+T51	Markable 932 970	bryllupet mellom Haakon og Mette-Marit
+T52	Markable 949 955	Haakon
+T53	Markable 959 970	Mette-Marit
+T54	Markable 971 983	hverdagskost
+T56	Markable 997 1008	Presidenter
+T57	Markable 1012 1019	prinser
+T58	Markable 1024 1053	våre nabolands statsoverhoder
+T61	Markable 1106 1132	dronning Silvia av Sverige
+T63	Markable 1144 1224	storhertug Henri av Luxembourg med Finlands kvinnelige president , Tarja Halonen
+T64	Markable 1179 1224	Finlands kvinnelige president , Tarja Halonen
+T67	Markable 1257 1283	den spanske dronning Sofia
+T68	Markable 1299 1310	prosesjonen
+T70	Markable 1311 1395	den nederlandske kronprinsen , Willem-Alexander med sin forlovede Maxima Zorreguieta
+T71	Markable 1377 1395	Maxima Zorreguieta
+T72	Markable 1363 1366	sin
+R12	Coref Arg1:T72 Arg2:T70	
+T73	Markable 1363 1395	sin forlovede Maxima Zorreguieta
+T74	Markable 1398 1411	Forlovede par
+T75	Markable 1427 1448	en kongelig prosesjon
+T76	Markable 1465 1485	det kongelige taffel
+T77	Markable 1488 1499	Prosesjonen
+T78	Markable 1517 1554	den 90 år gamle prins Carl Bernadotte
+T79	Markable 1565 1599	brudgommens søster , Märtha Louise
+T81	Markable 1606 1611	bords
+T82	Markable 1061 1068	Islands
+T83	Markable 1061 1132	Islands president Olafur Ragnar Grimsson med dronning Silvia av Sverige
+T60	Markable 1179 1187	Finlands
+T84	Markable 1024 1038	våre nabolands
+T59	Markable 1565 1576	brudgommens
+T85	Markable 1614 1621	Prinsen
+T86	Markable 1625 1684	yngste bror av Märtha Louises farmor , kronprinsesse Märtha
+T87	Markable 1640 1684	Märtha Louises farmor , kronprinsesse Märtha
+T88	Markable 1640 1654	Märtha Louises
+R5	Coref Arg1:T85 Arg2:T78	
+T90	Markable 1712 1726	norsk dronning
+T91	Markable 1736 1747	prosesjonen
+T92	Markable 1752 1796	dagens hovedpersoner : Haakon og Mette-Marit
+T93	Markable 1752 1758	dagens
+T96	Markable 1799 1810	Statsmakter
+T97	Markable 1813 1822	kongelige
+T98	Markable 1826 1833	familie
+T99	Markable 1838 1849	hovedbordet
+T100	Markable 1854 1891	representanter for de tre statsmakter
+T101	Markable 1873 1891	de tre statsmakter
+T102	Markable 1894 1913	brudeparets familie
+T103	Markable 1917 1947	de mest fremtredende kongelige
+T104	Markable 1967 1977	brudeparet
+T105	Markable 1894 1905	brudeparets
+T106	Markable 1986 1997	kong Harald
+T107	Markable 2001 2014	Sven O. Høiby
+T108	Markable 2015 2019	sine
+R13	Split_antecedent Arg1:T108 Arg2:T107	
+R14	Split_antecedent Arg1:T108 Arg2:T106	
+R4	Coref Arg1:T41 Arg2:T9	
+R1	Coref Arg1:T9 Arg2:T5	
+T109	Markable 2015 2045	sine borddamer fra prosesjonen
+T110	Markable 2034 2045	prosesjonen
+T111	Markable 2053 2066	svenskekongen
+R17	Coref Arg1:T111 Arg2:T38	
+T112	Markable 2072 2090	Finlands president
+T113	Markable 2072 2080	Finlands
+T114	Markable 2095 2100	bords
+T115	Markable 2104 2129	den islandske presidenten
+T116	Markable 2138 2156	dronning Margrethe
+T117	Markable 2161 2173	sin borddame
+T118	Markable 2161 2164	sin
+R18	Coref Arg1:T118 Arg2:T115	
+R19	Coref Arg1:T110 Arg2:T91	
+R20	Coref Arg1:T91 Arg2:T77	
+R22	Coref Arg1:T29 Arg2:T28	
+R23	Coref Arg1:T42 Arg2:T6	
+T40	Markable 662 669	brudens
+T55	Markable 621 628	brudens
+T66	Markable 1230 1283	prins Albert av Monaco med den spanske dronning Sofia
+R24	Coref Arg1:T68 Arg2:T29	
+R25	Coref Arg1:T55 Arg2:T23	
+R26	Coref Arg1:T40 Arg2:T55	
+R27	Split_antecedent Arg1:T48 Arg2:T45	
+R28	Split_antecedent Arg1:T48 Arg2:T38	
+R21	Coref Arg1:T77 Arg2:T75	
+R29	Coref Arg1:T88 Arg2:T79	
+R30	Coref Arg1:T106 Arg2:T30	
+R31	Coref Arg1:T52 Arg2:T22	
+R32	Coref Arg1:T53 Arg2:T40	
+T33	Markable 662 720	brudens far , Sven O. Høiby , med dronning Sonja ved armen
+R35	Coref Arg1:T113 Arg2:T60	
+R36	Coref Arg1:T112 Arg2:T64	
+R37	Coref Arg1:T115 Arg2:T83	
+R38	Coref Arg1:T116 Arg2:T45	
+T119	Markable 2176 2199	Prinsesse Märtha Louise
+T120	Markable 2213 2216	sin
+R39	Coref Arg1:T120 Arg2:T119	
+T121	Markable 2213 2220	sin Ari
+R40	Coref Arg1:T119 Arg2:T88	
+T122	Markable 2225 2255	statsminister Jens Stoltenberg
+T123	Markable 2260 2267	kavaler
+T124	Markable 2273 2313	stortingspresident Kirsti Kolle Grøndahl
+T125	Markable 2343 2369	storhertugen av Luxembourg
+T127	Markable 2372 2410	Høyesterettsjustitiarius Carsten Smith
+T128	Markable 2417 2450	eks-dronning Anne-Marie av Hellas
+T130	Markable 2455 2458	sin
+R41	Coref Arg1:T130 Arg2:T127	
+T131	Markable 2455 2467	sin borddame
+T132	Markable 2475 2490	dronning Silvia
+R42	Coref Arg1:T132 Arg2:T61	
+T133	Markable 2506 2509	sin
+R43	Coref Arg1:T133 Arg2:T132	
+T135	Markable 2506 2565	sin " onkel Mulle " , den 90 år gamle prins Carl Bernadotte
+T136	Markable 2572 2596	den norske kongefamilien
+T137	Markable 2601 2631	prinsessene Ragnhild og Astrid
+T140	Markable 2645 2656	hovedbordet
+R44	Coref Arg1:T140 Arg2:T99	
+T141	Markable 2664 2675	Espen Høiby
+T142	Markable 2679 2720	Kristin Høiby Bjørnøy fra brudens familie
+T143	Markable 2705 2720	brudens familie
+T144	Markable 2705 2712	brudens
+R45	Coref Arg1:T144 Arg2:T53	
+T145	Markable 2731 2745	de 27 utvalgte
+R15	Coref Arg1:T104 Arg2:T105	
+T146	Markable 196 205	kongelige
+R48	Coref Arg1:T25 Arg2:T26	
+R3	Coref Arg1:T35 Arg2:T17	
+R49	Coref Arg1:T28 Arg2:T24	
+T32	Markable 853 857	våre
+T34	Markable 1024 1028	våre
+R50	Coref Arg1:T34 Arg2:T32	
+R51	Coref Arg1:T84 Arg2:T49	
+R52	Coref Arg1:T101 Arg2:T96	
+R57	Coref Arg1:T30 Arg2:T21	
+R58	Coref Arg1:T58 Arg2:T48	
+R59	Coref Arg1:T105 Arg2:T92	
+R33	Split_antecedent Arg1:T92 Arg2:T52	
+R34	Coref Arg1:T99 Arg2:T44	
+R10	Split_antecedent Arg1:T24 Arg2:T11	
+R11	Split_antecedent Arg1:T24 Arg2:T10	
+R16	Split_antecedent Arg1:T24 Arg2:T146	
+R46	Split_antecedent Arg1:T92 Arg2:T53	
+T27	Markable 984 987	det
+R47	Coref Arg1:T27 Arg2:T51	

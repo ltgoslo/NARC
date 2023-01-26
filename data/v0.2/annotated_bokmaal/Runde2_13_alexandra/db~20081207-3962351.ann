@@ -1,0 +1,86 @@
+T1	Markable 2 5	Jeg
+T2	Markable 33 37	Lund
+T3	Markable 33 82	Lund Svindal på tredjeplass etter første omgang .
+T4	Markable 49 60	tredjeplass
+T5	Markable 67 80	første omgang
+T6	Markable 89 131	to seire på like mange renn i Beaver Creek
+T7	Markable 101 116	like mange renn
+T8	Markable 119 131	Beaver Creek
+T9	Markable 139 144	Aksel
+T10	Markable 145 149	Lund
+T11	Markable 139 157	Aksel Lund Svindal
+T12	Markable 160 165	kveld
+T13	Markable 166 176	storslalåm
+T14	Markable 179 191	ulykkesløypa
+T15	Markable 194 207	Første omgang
+T16	Markable 214 233	bud om nye triumfer
+T17	Markable 221 233	nye triumfer
+T18	Markable 238 297	nordmannen som endelig er tilbake for fullt i aplinsirkuset
+T19	Markable 276 281	fullt
+T20	Markable 284 297	aplinsirkuset
+T21	Markable 300 304	Lund
+T22	Markable 300 312	Lund Svindal
+T23	Markable 343 355	flere ganger
+T24	Markable 363 370	balanse
+T25	Markable 373 408	den vanskelige løypa i Beaver Creek
+T26	Markable 396 408	Beaver Creek
+T27	Markable 413 416	mål
+T28	Markable 421 424	han
+T29	Markable 425 439	69 hundredeler
+T30	Markable 457 460	Ted
+T31	Markable 444 467	amerikaneren Ted Ligety
+T32	Markable 473 503	en til da foreløpig andreplass
+T33	Markable 508 511	Jeg
+T34	Markable 528 538	tre ganger
+T35	Markable 556 559	meg
+T36	Markable 570 579	hver gang
+T37	Markable 587 591	Lund
+T38	Markable 587 599	Lund Svindal
+T39	Markable 604 616	Dagbladet.no
+T40	Markable 621 624	Jeg
+T41	Markable 652 655	jeg
+T42	Markable 675 683	ubalanse
+T43	Markable 686 764	Tida , som så ut som en middels tid da han med startnummer fire kjørte i mål ,
+T44	Markable 707 721	en middels tid
+T45	Markable 725 728	han
+T46	Markable 733 749	startnummer fire
+T47	Markable 759 762	mål
+T48	Markable 819 838	førstepuljekjørerne
+T49	Markable 861 864	den
+T50	Markable 875 889	69 hundredeler
+T51	Markable 898 905	lederen
+T52	Markable 912 928	en dårlig omgang
+T53	Markable 933 936	alt
+T54	Markable 944 949	andre
+T55	Markable 959 962	Ted
+T56	Markable 959 969	Ted Ligety
+T57	Markable 980 990	et bra løp
+T58	Markable 1013 1027	69 hundredeler
+T59	Markable 1030 1042	andre omgang
+T60	Markable 1050 1053	han
+T61	Markable 1066 1070	feil
+T62	Markable 1092 1095	det
+T63	Markable 1118 1122	Lund
+T64	Markable 1118 1130	Lund Svindal
+T65	Markable 1135 1147	Dagbladet.no
+R1	Coref Arg1:T2 Arg2:T1	
+R2	Coref Arg1:T11 Arg2:T2	
+R3	Coref Arg1:T15 Arg2:T5	
+R4	Coref Arg1:T18 Arg2:T11	
+R5	Coref Arg1:T22 Arg2:T18	
+R6	Coref Arg1:T26 Arg2:T8	
+R7	Coref Arg1:T25 Arg2:T14	
+R8	Coref Arg1:T28 Arg2:T22	
+R9	Coref Arg1:T33 Arg2:T28	
+R10	Coref Arg1:T35 Arg2:T33	
+R11	Coref Arg1:T38 Arg2:T35	
+R12	Coref Arg1:T40 Arg2:T38	
+R13	Coref Arg1:T41 Arg2:T40	
+R14	Coref Arg1:T45 Arg2:T41	
+R15	Coref Arg1:T56 Arg2:T51	
+R16	Coref Arg1:T49 Arg2:T43	
+R17	Coref Arg1:T51 Arg2:T31	
+R18	Coref Arg1:T59 Arg2:T54	
+R19	Coref Arg1:T60 Arg2:T56	
+R20	Coref Arg1:T64 Arg2:T45	
+R21	Coref Arg1:T65 Arg2:T39	

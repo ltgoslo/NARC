@@ -1,0 +1,53 @@
+T1	Markable 0 46	Aktiv verdiskapningspolitikk for distriktene |
+T2	Markable 33 44	distriktene
+T3	Markable 70 87	mange kystsamfunn
+T4	Markable 93 152	et sterkt initiativ og en evne til å etablere nye bedrifter
+T5	Markable 93 112	et sterkt initiativ
+T6	Markable 116 152	en evne til å etablere nye bedrifter
+T7	Markable 139 152	nye bedrifter
+T8	Markable 155 191	Fremveksten til norsk havbruksnæring
+T9	Markable 171 191	norsk havbruksnæring
+T10	Markable 195 281	et godt eksempel på hvordan privat initiativ har utviklet sterke bedrifter og næringer
+T11	Markable 223 239	privat initiativ
+T12	Markable 253 281	sterke bedrifter og næringer
+T13	Markable 253 269	sterke bedrifter
+T14	Markable 273 281	næringer
+T15	Markable 286 329	en tid med økende internasjonal konkurranse
+T16	Markable 297 329	økende internasjonal konkurranse
+T17	Markable 343 412	behov for at nye ideer blir omdannet til forretningsmessige løsninger
+T18	Markable 356 365	nye ideer
+T19	Markable 384 412	forretningsmessige løsninger
+T20	Markable 427 456	sterke og robuste kystsamfunn
+T21	Markable 474 486	myndighetene
+T22	Markable 505 560	rammevilkår som skaper grunnlag for lønnsomme bedrifter
+T23	Markable 528 560	grunnlag for lønnsomme bedrifter
+T24	Markable 541 560	lønnsomme bedrifter
+T25	Markable 563 581	Fremskrittspartiet
+T26	Markable 588 593	dette
+T27	Markable 617 644	marine og maritime næringer
+T28	Markable 647 658	større grad
+T29	Markable 663 674	rammevilkår
+T30	Markable 678 705	linje med ordinære næringer
+T31	Markable 688 705	ordinære næringer
+T32	Markable 731 760	nærings- og distriktspolitikk
+T33	Markable 731 739	nærings-
+T34	Markable 743 760	distriktspolitikk
+T35	Markable 770 779	næringens
+T36	Markable 770 796	næringens rammebetingelser
+T37	Markable 821 828	hensikt
+T38	Markable 837 874	en robust og konkurransedyktig næring
+T39	Markable 884 889	dette
+T40	Markable 897 905	resultat
+T41	Markable 906 977	økonomisk vekst , nye arbeidsplasser og mange livskraftige lokalsamfunn
+T42	Markable 906 923	økonomisk vekst ,
+T43	Markable 924 942	nye arbeidsplasser
+T44	Markable 946 977	mange livskraftige lokalsamfunn
+T45	Markable 980 986	Dagens
+T46	Markable 980 1004	Dagens distriktspolitikk
+T47	Markable 1025 1028	man
+T48	Markable 1038 1093	hensyn til at næringer og markedene er i stadig endring
+T49	Markable 1052 1073	næringer og markedene
+T50	Markable 1052 1060	næringer
+T51	Markable 1064 1073	markedene
+T52	Markable 1079 1093	stadig endring
+R1	Coref Arg1:T35 Arg2:T14	

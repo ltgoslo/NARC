@@ -1,0 +1,53 @@
+T1	Markable 0 23	Barna , barna , barna !
+T3	Markable 8 13	barna
+T4	Markable 16 21	barna
+T5	Markable 30 36	skolen
+T6	Markable 39 43	gang
+T7	Markable 53 77	forfallet rundt i landet
+T8	Markable 71 77	landet
+T9	Markable 97 130	Tryggheten for hjem , hus og jobb
+T10	Markable 119 122	hus
+T11	Markable 126 130	jobb
+T12	Markable 139 184	trygghet for helsa til våre barn og barnebarn
+T13	Markable 152 184	helsa til våre barn og barnebarn
+T14	Markable 162 166	våre
+T15	Markable 162 184	våre barn og barnebarn
+T16	Markable 162 171	våre barn
+T17	Markable 175 184	barnebarn
+T18	Markable 187 223	Råte , muggsopp , og farlig inneluft
+T19	Markable 187 193	Råte ,
+T20	Markable 194 204	muggsopp ,
+T21	Markable 208 223	farlig inneluft
+T22	Markable 231 240	hverdagen
+T23	Markable 245 275	stadig flere skolebarn i Norge
+T24	Markable 270 275	Norge
+T25	Markable 278 294	Fattige kommuner
+T26	Markable 311 314	lån
+T27	Markable 319 342	den fattige norske stat
+T28	Markable 358 365	skolene
+T29	Markable 368 370	De
+T30	Markable 401 405	låna
+T31	Markable 413 417	5 år
+T32	Markable 432 441	kommunene
+T33	Markable 447 477	stand til å betale lån om 5 år
+T34	Markable 466 469	lån
+T35	Markable 473 477	5 år
+T36	Markable 480 483	Det
+T37	Markable 504 526	den sittende regjering
+T38	Markable 538 543	barns
+T39	Markable 538 551	barns hverdag
+T40	Markable 566 569	Det
+T41	Markable 584 594	dette året
+T42	Markable 597 613	Lokalpolitikeren
+T43	Markable 625 641	tom verktøykasse
+T44	Markable 647 662	rikspolitikeren
+T45	Markable 667 690	overfylte verktøykasser
+R1	Coref Arg1:T16 Arg2:T4	
+R5	Coref Arg1:T29 Arg2:T25	
+T2	Markable 0 5	Barna
+R2	Coref Arg1:T4 Arg2:T3	
+R3	Coref Arg1:T3 Arg2:T2	
+R8	Coref Arg1:T24 Arg2:T8	
+R4	Bridging Arg1:T28 Arg2:T25	
+R7	Coref Arg1:T32 Arg2:T29	
+R6	Coref Arg1:T30 Arg2:T26	

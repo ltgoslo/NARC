@@ -1,0 +1,83 @@
+T1	Markable 0 25	Dragkamp om klimaavtale |
+T2	Markable 12 23	klimaavtale
+T3	Markable 26 68	Durban / Oslo ( NTB - Lars M. Hjorthol ) :
+T4	Markable 26 34;40 68	Durban / ( NTB - Lars M. Hjorthol ) :
+T5	Markable 35 39	Oslo
+T6	Markable 40 47	( NTB -
+T7	Markable 48 66	Lars M. Hjorthol )
+T8	Markable 69 102	EU og de fleste utviklingslandene
+T9	Markable 69 71	EU
+T10	Markable 75 102	de fleste utviklingslandene
+T11	Markable 108 163	presset på de store utslippslandene USA , Kina og India
+T12	Markable 119 143	de store utslippslandene
+T13	Markable 119 163	de store utslippslandene USA , Kina og India
+T14	Markable 119 149	de store utslippslandene USA ,
+T15	Markable 150 154	Kina
+T16	Markable 158 163	India
+T17	Markable 166 199	innspurten av klimamøtet i Durban
+T18	Markable 180 199	klimamøtet i Durban
+T19	Markable 193 199	Durban
+T20	Markable 202 207	Møtet
+T21	Markable 221 227	planen
+T22	Markable 238 250	fredag kveld
+T23	Markable 245 250	kveld
+T24	Markable 257 266	de fleste
+T25	Markable 281 291	dragkampen
+T26	Markable 323 329	lørdag
+T27	Markable 332 362	Nesten 90 utviklingsland og EU
+T28	Markable 332 356	Nesten 90 utviklingsland
+T29	Markable 360 362	EU
+T30	Markable 366 372	fredag
+T31	Markable 378 442	en felles erklæring med krav om et ambisiøst resultat fra Durban
+T32	Markable 402 442	krav om et ambisiøst resultat fra Durban
+T33	Markable 410 442	et ambisiøst resultat fra Durban
+T34	Markable 436 442	Durban
+T35	Markable 445 454	Alliansen
+T36	Markable 469 555	de fattigste landene og mange små øystater , som er de mest sårbare for klimaendringer
+T37	Markable 469 489	de fattigste landene
+T38	Markable 493 555	mange små øystater , som er de mest sårbare for klimaendringer
+T39	Markable 541 555	klimaendringer
+T40	Markable 558 569	Erklæringen
+T41	Markable 585 713	en ny runde med forpliktende utslippskutt under Kyoto-avtalen og et « robust mandat og veikart for en juridisk bindende avtale »
+T42	Markable 585 646	en ny runde med forpliktende utslippskutt under Kyoto-avtalen
+T43	Markable 601 646	forpliktende utslippskutt under Kyoto-avtalen
+T44	Markable 633 646	Kyoto-avtalen
+T45	Markable 650 713	et « robust mandat og veikart for en juridisk bindende avtale »
+T46	Markable 650 668;712 713	et « robust mandat »
+T47	Markable 672 711	veikart for en juridisk bindende avtale
+T48	Markable 684 711	en juridisk bindende avtale
+T49	Markable 721 747	de store utviklingslandene
+T50	Markable 716 768	Også de store utviklingslandene Brasil og Sør-Afrika
+T51	Markable 716 754	Også de store utviklingslandene Brasil
+T52	Markable 758 768	Sør-Afrika
+T53	Markable 781 787	fredag
+T54	Markable 792 803	initiativet
+T55	Markable 809 812	EUs
+T56	Markable 809 827	EUs klimakommissær
+T57	Markable 809 844	EUs klimakommissær Connie Hedegaard
+T58	Markable 849 852	AFP
+T59	Markable 868 881	ingen løsning
+T60	Markable 884 890	Durban
+T61	Markable 899 923	de store utslippslandene
+T62	Markable 936 939	hun
+T63	Markable 948 1021	Alliansen mellom de mest progressive industrilandene og utviklingslandene
+T64	Markable 965 1021	de mest progressive industrilandene og utviklingslandene
+T65	Markable 965 1000	de mest progressive industrilandene
+T66	Markable 1004 1021	utviklingslandene
+T67	Markable 1025 1038	svært positiv
+T68	Markable 1054 1110	betydning for det videre klimaarbeidet etter dette møtet
+T69	Markable 1068 1110	det videre klimaarbeidet etter dette møtet
+T70	Markable 1099 1110	dette møtet
+T71	Markable 1118 1146	miljø- og utviklingsminister
+T72	Markable 1128 1146	utviklingsminister
+T73	Markable 1118 1166	miljø- og utviklingsminister Erik Solheim ( SV )
+T74	Markable 1160 1166	( SV )
+R1	Coref Arg1:T20 Arg2:T18	
+R2	Coref Arg1:T25 Arg2:T1	
+R3	Coref Arg1:T29 Arg2:T9	
+R4	Coref Arg1:T34 Arg2:T19	
+R5	Coref Arg1:T40 Arg2:T31	
+R6	Coref Arg1:T55 Arg2:T29	
+R7	Coref Arg1:T60 Arg2:T34	
+R8	Coref Arg1:T61 Arg2:T13	
+R9	Coref Arg1:T70 Arg2:T20	
