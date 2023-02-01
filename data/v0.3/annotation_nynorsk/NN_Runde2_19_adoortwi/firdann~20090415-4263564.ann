@@ -1,0 +1,64 @@
+T1	Markable 5 17	ny heimekamp
+T2	Markable 20 25	cupen
+T3	Markable 28 33	Florø
+T4	Markable 37 49	siste hinder
+T5	Markable 53 65	vegen mot NM
+T6	Markable 63 65	NM
+T7	Markable 70 76	Høyang
+T8	Markable 85 114	oppsettet for dei lokale laga
+T9	Markable 99 114	dei lokale laga
+T10	Markable 121 138	Nytt avansement ?
+T11	Markable 139 160	Edin Agovic og Høyang
+T12	Markable 139 150	Edin Agovic
+T13	Markable 154 160	Høyang
+T14	Markable 170 182	ny heimekamp
+T15	Markable 185 200	kvaliken til NM
+T16	Markable 198 200	NM
+T17	Markable 203 237	Foto Rune Fossum Avishuset Firda |
+T18	Markable 208 235	Rune Fossum Avishuset Firda
+T19	Markable 220 235	Avishuset Firda
+T20	Markable 238 244	Høyang
+T21	Markable 252 257	Årdal
+T22	Markable 261 270	heimebane
+T23	Markable 273 322	den første kvalifiserande runden til NM i fotball
+T24	Markable 310 322	NM i fotball
+T25	Markable 315 322	fotball
+T26	Markable 344 355	raudtrøyene
+T27	Markable 366 375	heimekamp
+T28	Markable 378 400	den andre kvalikrunden
+T29	Markable 403 415	Denne gongen
+T30	Markable 423 428	Florø
+T31	Markable 432 438	Sletta
+T32	Markable 441 449	vinnaren
+T33	Markable 465 503	den første ordinære runden av årets NM
+T34	Markable 495 500	årets
+T35	Markable 495 503	årets NM
+T36	Markable 506 511	Dette
+T37	Markable 515 552	oppsettet med dei lokale laga i cupen
+T38	Markable 529 552	dei lokale laga i cupen
+T39	Markable 547 552	cupen
+T40	Markable 555 571	Høyang - Florø |
+T41	Markable 555 561	Høyang
+T42	Markable 564 569	Florø
+T43	Markable 572 589	Fjøra - Tertnes |
+T44	Markable 572 577	Fjøra
+T45	Markable 580 587	Tertnes
+T46	Markable 590 613	Stryn - Tornado Måløy |
+T47	Markable 590 595	Stryn
+T48	Markable 598 611	Tornado Måløy
+T49	Markable 614 623	Speledato
+T50	Markable 636 645	22. april
+R1	Coref Arg1:T13 Arg2:T7	
+R2	Coref Arg1:T14 Arg2:T1	
+R3	Coref Arg1:T15 Arg2:T2	
+R4	Coref Arg1:T20 Arg2:T13	
+R5	Bridging Arg1:T23 Arg2:T15	
+R6	Bridging Arg1:T28 Arg2:T15	
+R7	Bridging Arg1:T26 Arg2:T20	
+R8	Coref Arg1:T30 Arg2:T3	
+R9	Coref Arg1:T35 Arg2:T24	
+R10	Coref Arg1:T24 Arg2:T16	
+R11	Coref Arg1:T16 Arg2:T6	
+R12	Coref Arg1:T39 Arg2:T15	
+R13	Coref Arg1:T41 Arg2:T26	
+R14	Coref Arg1:T42 Arg2:T30	

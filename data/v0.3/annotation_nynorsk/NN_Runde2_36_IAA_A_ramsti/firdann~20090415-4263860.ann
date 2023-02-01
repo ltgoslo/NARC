@@ -1,0 +1,62 @@
+T1	Markable 13 23	sakna mann
+T2	Markable 45 53	påsketur
+T3	Markable 70 74	gang
+T4	Markable 75 172	ein leiteaksjon etter ein 50 år gammal mann som ikkje er komen heim frå påsketur i Aurlandsfjella
+T5	Markable 101 106	50 år
+T6	Markable 97 172	ein 50 år gammal mann som ikkje er komen heim frå påsketur i Aurlandsfjella
+T7	Markable 147 172	påsketur i Aurlandsfjella
+T8	Markable 158 172	Aurlandsfjella
+T9	Markable 177 183	Mannen
+T10	Markable 203 214	ein kollega
+T11	Markable 215 221	onsdag
+T12	Markable 233 286	operasjonsleiar ved Sogn og Fjordane politidistrikt ,
+T13	Markable 253 284	Sogn og Fjordane politidistrikt
+T14	Markable 233 301	operasjonsleiar ved Sogn og Fjordane politidistrikt , Kjell Biesmans
+T15	Markable 306 314	firda.no
+T16	Markable 328 334	Mannen
+T17	Markable 342 358	Aurlandstraktene
+T18	Markable 361 369	Politiet
+T19	Markable 380 418	informasjon om når mannen la ut på tur
+T20	Markable 399 405	mannen
+T21	Markable 415 418	tur
+T22	Markable 423 425	Vi
+T23	Markable 444 447	det
+T24	Markable 450 453	Han
+T25	Markable 490 493	han
+T26	Markable 516 518	vi
+T27	Markable 527 529	Vi
+T28	Markable 540 550	bilen hans
+T29	Markable 546 550	hans
+T30	Markable 553 563	Kvamsdalen
+T31	Markable 573 591	utgangspunkt i det
+T32	Markable 588 591	det
+T33	Markable 598 600	vi
+T34	Markable 615 618	han
+T35	Markable 632 637	hytte
+T36	Markable 642 647	hytte
+T37	Markable 659 661	ha
+T38	Markable 671 678	tilhald
+T39	Markable 682 698	ei bestemt hytte
+T40	Markable 717 744	eit enormt område å leite i
+T41	Markable 753 761	Biesmans
+T42	Markable 764 818	Mannskap frå politiet , Røde Kors samd skuterpatruljar
+T43	Markable 764 787	Mannskap frå politiet ,
+T44	Markable 777 785	politiet
+T45	Markable 788 797	Røde Kors
+T46	Markable 803 818	skuterpatruljar
+T47	Markable 828 841	leiteaksjonen
+R1	Coref Arg1:T9 Arg2:T6	
+R2	Coref Arg1:T16 Arg2:T9	
+R3	Coref Arg1:T18 Arg2:T13	
+R4	Coref Arg1:T20 Arg2:T16	
+R5	Coref Arg1:T22 Arg2:T18	
+R6	Coref Arg1:T24 Arg2:T20	
+R7	Coref Arg1:T25 Arg2:T24	
+R8	Coref Arg1:T26 Arg2:T22	
+R9	Coref Arg1:T27 Arg2:T26	
+R10	Coref Arg1:T29 Arg2:T25	
+R11	Coref Arg1:T33 Arg2:T27	
+R12	Coref Arg1:T34 Arg2:T29	
+R13	Coref Arg1:T37 Arg2:T34	
+R14	Coref Arg1:T41 Arg2:T14	
+R15	Coref Arg1:T44 Arg2:T33	

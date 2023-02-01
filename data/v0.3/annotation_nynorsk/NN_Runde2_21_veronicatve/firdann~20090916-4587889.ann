@@ -1,0 +1,121 @@
+T1	Markable 0 17	Tidlegare SV-topp
+T2	Markable 28 39	Grande Røys
+T3	Markable 49 78	partiprogrammet hennar frå SV
+T4	Markable 65 71	hennar
+T5	Markable 76 78	SV
+T6	Markable 89 94	henne
+T7	Markable 95 102	nok rom
+T8	Markable 105 127	Tidlegare SV-politikar
+T9	Markable 105 140	Tidlegare SV-politikar Paul Chaffey
+T10	Markable 151 186	fornyingsminister Heidi Grande Røys
+T11	Markable 206 262	ein meir profilert politikar , helst frå Arbeidarpartiet
+T12	Markable 247 262	Arbeidarpartiet
+T13	Markable 265 287	Tidlegare SV-politikar
+T14	Markable 265 300	Tidlegare SV-politikar Paul Chaffey
+T15	Markable 308 330	partiprogrammet til SV
+T16	Markable 328 330	SV
+T17	Markable 339 376	fornyings- og administrasjonsminister
+T18	Markable 353 376	administrasjonsminister
+T19	Markable 339 394	fornyings- og administrasjonsminister Heidi Grande Røys
+T20	Markable 397 404	Chaffey
+T21	Markable 411 521	administrerande direktør i IT-bransjeforeininga Abelia , NHO si foreining for kunnskaps- og teknologibedrifter
+T22	Markable 438 521	IT-bransjeforeininga Abelia , NHO si foreining for kunnskaps- og teknologibedrifter
+T23	Markable 468 471	NHO
+T24	Markable 468 474	NHO si
+T25	Markable 468 521	NHO si foreining for kunnskaps- og teknologibedrifter
+T26	Markable 489 521	kunnskaps- og teknologibedrifter
+T27	Markable 489 499	kunnskaps-
+T28	Markable 503 521	teknologibedrifter
+T29	Markable 534 551	Heidi Grande Røys
+T30	Markable 556 574	dei siste fire åra
+T31	Markable 580 597	" it-ministeren "
+T32	Markable 602 637	statsråd for Fornyingsdepartementet
+T33	Markable 615 637	Fornyingsdepartementet
+T34	Markable 679 685	Abelia
+T35	Markable 690 732	Fornyings- og administrasjonsdepartementet
+T36	Markable 739 750	ei styrking
+T37	Markable 781 816	effektivisering av offentleg sektor
+T38	Markable 800 816	offentleg sektor
+T39	Markable 825 832	Chaffey
+T40	Markable 837 850	Computerworld
+T41	Markable 853 856	Han
+T42	Markable 864 867	FAD
+T43	Markable 894 899	media
+T44	Markable 905 912	Chaffey
+T45	Markable 925 1017	ein handlekraftig og profilert politikar i denne statsrådsposten , helst frå Arbeiderpartiet
+T46	Markable 968 989	denne statsrådsposten
+T47	Markable 1002 1017	Arbeiderpartiet
+T48	Markable 1035 1084	Heidi Grande Røys som person som ikkje passar der
+T49	Markable 1057 1063	person
+T50	Markable 1091 1097	hennar
+T51	Markable 1091 1117	hennar partiprogram frå SV
+T52	Markable 1115 1117	SV
+T53	Markable 1122 1127	henne
+T54	Markable 1134 1165	nok rom til å gjennomføre dette
+T55	Markable 1160 1165	dette
+T56	Markable 1174 1181	Chaffey
+T57	Markable 1194 1197	han
+T58	Markable 1203 1247	aktiv avstand frå si fortid som SV-politikar
+T59	Markable 1221 1223	si
+T60	Markable 1221 1247	si fortid som SV-politikar
+T61	Markable 1235 1247	SV-politikar
+T62	Markable 1257 1266	han sjølv
+T63	Markable 1279 1289	Stortinget
+T64	Markable 1303 1314	Grande Røys
+T65	Markable 1315 1318	ros
+T66	Markable 1321 1381	IKT Norge , interesseorganisasjonen for norske IKT-bedrifter
+T67	Markable 1333 1383	interesseorganisasjonen for norske IKT-bedrifter ,
+T68	Markable 1361 1381	norske IKT-bedrifter
+T69	Markable 1412 1429	Heidi Grande Røys
+T70	Markable 1443 1465	Fornyingsdepartementet
+T71	Markable 1470 1472	Vi
+T72	Markable 1480 1483	FAD
+T73	Markable 1492 1498	tyngde
+T74	Markable 1530 1543	organiseringa
+T75	Markable 1548 1556	personen
+T76	Markable 1565 1610	Per Morten Hoff , generalsekretær i IKT Norge
+T77	Markable 1583 1610	generalsekretær i IKT Norge
+T78	Markable 1601 1610	IKT Norge
+T79	Markable 1615 1628	Computerworld
+T80	Markable 1631 1634	Han
+T81	Markable 1663 1674	Grande Røys
+T82	Markable 1687 1689	ho
+T83	Markable 1700 1712	ein god jobb
+R1	Coref Arg1:T6 Arg2:T4	
+R2	Coref Arg1:T4 Arg2:T2	
+R3	Coref Arg1:T9 Arg2:T1	
+R4	Coref Arg1:T10 Arg2:T6	
+R5	Coref Arg1:T14 Arg2:T9	
+R6	Coref Arg1:T15 Arg2:T3	
+R7	Coref Arg1:T16 Arg2:T5	
+R8	Coref Arg1:T19 Arg2:T10	
+R9	Coref Arg1:T20 Arg2:T14	
+R10	Coref Arg1:T29 Arg2:T19	
+R11	Coref Arg1:T34 Arg2:T22	
+R12	Coref Arg1:T35 Arg2:T33	
+R13	Coref Arg1:T39 Arg2:T20	
+R14	Coref Arg1:T41 Arg2:T39	
+R15	Coref Arg1:T42 Arg2:T35	
+R16	Coref Arg1:T44 Arg2:T41	
+R17	Coref Arg1:T46 Arg2:T32	
+R18	Coref Arg1:T47 Arg2:T12	
+T84	Markable 1035 1052	Heidi Grande Røys
+R19	Coref Arg1:T84 Arg2:T29	
+R20	Coref Arg1:T50 Arg2:T84	
+R21	Coref Arg1:T51 Arg2:T15	
+R22	Coref Arg1:T52 Arg2:T16	
+R23	Coref Arg1:T53 Arg2:T50	
+R24	Coref Arg1:T56 Arg2:T44	
+R25	Coref Arg1:T57 Arg2:T56	
+R26	Coref Arg1:T59 Arg2:T57	
+R27	Coref Arg1:T62 Arg2:T59	
+R28	Coref Arg1:T64 Arg2:T53	
+R29	Coref Arg1:T69 Arg2:T64	
+R30	Coref Arg1:T70 Arg2:T42	
+R31	Coref Arg1:T72 Arg2:T70	
+R32	Coref Arg1:T75 Arg2:T69	
+R33	Coref Arg1:T78 Arg2:T66	
+R34	Coref Arg1:T79 Arg2:T40	
+R35	Coref Arg1:T80 Arg2:T76	
+R36	Coref Arg1:T82 Arg2:T81	
+R37	Coref Arg1:T81 Arg2:T75	

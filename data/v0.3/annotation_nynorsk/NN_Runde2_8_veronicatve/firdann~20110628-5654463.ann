@@ -1,0 +1,47 @@
+T1	Markable 5 12	problem
+T2	Markable 16 28	Utvikfjellet
+T3	Markable 31 53	Gloppen ( firda.no ) :
+T4	Markable 39 51	( firda.no )
+T5	Markable 54 66	Utvikfjellet
+T6	Markable 82 93	all trafikk
+T7	Markable 96 108	fleire timar
+T8	Markable 109 115	måndag
+T9	Markable 127 139	to trailarar
+T10	Markable 158 198	Ein fullasta tungtransport frå Nistad AS
+T11	Markable 189 198	Nistad AS
+T12	Markable 204 211	trøbbel
+T13	Markable 215 218	han
+T14	Markable 226 246	veg ned Utvikfjellet
+T15	Markable 234 246	Utvikfjellet
+T16	Markable 247 259	måndag kveld
+T17	Markable 254 259	kveld
+T18	Markable 268 275	vegbana
+T19	Markable 280 285	Bilen
+T20	Markable 295 414	problem med den friksjonsstyrte akslinga , som har tatt tak og gjort til at cirka halve traileren hamna utanfor vegbana
+T21	Markable 307 414	den friksjonsstyrte akslinga , som har tatt tak og gjort til at cirka halve traileren hamna utanfor vegbana
+T22	Markable 351 354	tak
+T23	Markable 371 392	cirka halve traileren
+T24	Markable 407 414	vegbana
+T25	Markable 424 454	Oddvar Nyland ved NAF Byrkjelo
+T26	Markable 442 454	NAF Byrkjelo
+T27	Markable 457 465	Episoden
+T28	Markable 477 561	Øvreseth , omkring rett ved avkøyringa mot Reed på veg opp Utvikfjellet frå Byrkjelo
+T29	Markable 505 561	avkøyringa mot Reed på veg opp Utvikfjellet frå Byrkjelo
+T30	Markable 520 561	Reed på veg opp Utvikfjellet frå Byrkjelo
+T31	Markable 528 561	veg opp Utvikfjellet frå Byrkjelo
+T32	Markable 536 548	Utvikfjellet
+T33	Markable 553 561	Byrkjelo
+T34	Markable 576 579	tur
+T35	Markable 582 626	Bilistar som skulle over fjellet mot Stryn ,
+T36	Markable 607 614	fjellet
+T37	Markable 619 624	Stryn
+T38	Markable 646 728	anna val enn å snu og køyre til Sandane , for deretter å ta ferje over Nordfjorden
+T39	Markable 678 685	Sandane
+T40	Markable 706 711	ferje
+T41	Markable 717 728	Nordfjorden
+R1	Coref Arg1:T5 Arg2:T2	
+R2	Coref Arg1:T15 Arg2:T5	
+R4	Coref Arg1:T32 Arg2:T15	
+R3	Coref Arg1:T13 Arg2:T10	
+R5	Coref Arg1:T19 Arg2:T13	
+R6	Bridging Arg1:T23 Arg2:T19	

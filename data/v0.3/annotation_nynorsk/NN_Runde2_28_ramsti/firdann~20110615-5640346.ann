@@ -1,0 +1,53 @@
+T1	Markable 22 28	posten
+T2	Markable 50 56	posten
+T3	Markable 65 70	lyden
+T4	Markable 92 101	to minutt
+T5	Markable 104 140	Dette postkassestativet i ytre Gulen
+T6	Markable 130 140	ytre Gulen
+T7	Markable 162 194	dei fleste andre postkassestativ
+T8	Markable 209 277	posthorn , roterande lys og eit 12 volts anlegg med brytar på kassen
+T9	Markable 209 219	posthorn ,
+T10	Markable 220 233	roterande lys
+T11	Markable 241 249	12 volts
+T12	Markable 237 277	eit 12 volts anlegg med brytar på kassen
+T13	Markable 261 267	brytar
+T14	Markable 271 277	kassen
+T15	Markable 313 318	avisa
+T16	Markable 328 334	kassen
+T17	Markable 337 344	Eigaren
+T18	Markable 352 359	beskjed
+T19	Markable 364 381	hjelp av ei uling
+T20	Markable 373 381	ei uling
+T21	Markable 392 487	Sigvald Kidøy frå Eivindvik som « ikkje kunne dy seg » då han var på besøk hos postkasseeigaren
+T22	Markable 410 419	Eivindvik
+T23	Markable 450 453	han
+T24	Markable 461 487	besøk hos postkasseeigaren
+T25	Markable 471 487	postkasseeigaren
+T26	Markable 492 494	Eg
+T27	Markable 502 507	denne
+T28	Markable 525 527	eg
+T29	Markable 539 542	den
+T30	Markable 547 561	Firda-lesarane
+T31	Markable 570 573	han
+T32	Markable 576 581	Kidøy
+T33	Markable 595 611	lyden i stativet
+T34	Markable 603 611	stativet
+T35	Markable 630 633	den
+T36	Markable 655 664	to minutt
+T37	Markable 679 688	postbodet
+T38	Markable 689 697	kvar dag
+T39	Markable 706 729	ein høglydt overrasking
+R1	Coref Arg1:T2 Arg2:T1	
+R2	Bridging Arg1:T17 Arg2:T16	
+R3	Coref Arg1:T25 Arg2:T17	
+R4	Coref Arg1:T23 Arg2:T21	
+R5	Coref Arg1:T26 Arg2:T23	
+R6	Coref Arg1:T28 Arg2:T26	
+R7	Coref Arg1:T29 Arg2:T27	
+R8	Coref Arg1:T31 Arg2:T28	
+R9	Coref Arg1:T27 Arg2:T16	
+R10	Coref Arg1:T32 Arg2:T31	
+R11	Coref Arg1:T33 Arg2:T3	
+R12	Coref Arg1:T34 Arg2:T5	
+R13	Coref Arg1:T35 Arg2:T33	
+R14	Bridging Arg1:T16 Arg2:T5	

@@ -1,0 +1,76 @@
+T1	Markable 8 24	korps og parolar
+T2	Markable 8 13	korps
+T3	Markable 17 24	parolar
+T4	Markable 27 53	1. mai-markering i Førde .
+T5	Markable 46 51	Førde
+T6	Markable 54 81	1. mai-arrangementet i fjor
+T7	Markable 77 81	fjor
+T8	Markable 95 135	demonstrasjonar mot gruve og korpsmusikk
+T9	Markable 95 120	demonstrasjonar mot gruve
+T10	Markable 115 120	gruve
+T11	Markable 124 135	korpsmusikk
+T12	Markable 140 142	år
+T13	Markable 151 165	1.mai-komiteen
+T14	Markable 166 174	musikken
+T15	Markable 177 195	LO Førde og omland
+T16	Markable 201 251	gang med å planleggje 1. mai-arrangementet i Førde
+T17	Markable 223 251	1. mai-arrangementet i Førde
+T18	Markable 246 251	Førde
+T19	Markable 254 257	Det
+T20	Markable 263 266	dei
+T21	Markable 269 271	år
+T22	Markable 282 291	SV og Ap.
+T23	Markable 282 284	SV
+T24	Markable 288 291	Ap.
+T25	Markable 300 302	år
+T26	Markable 311 314	dei
+T27	Markable 315 331	korps og parolar
+T28	Markable 315 320	korps
+T29	Markable 324 331	parolar
+T30	Markable 336 408	fordel for eit innandørs arrangement i Førdehuset med appellar og kultur
+T31	Markable 347 408	eit innandørs arrangement i Førdehuset med appellar og kultur
+T32	Markable 375 385	Førdehuset
+T33	Markable 390 408	appellar og kultur
+T34	Markable 390 398	appellar
+T35	Markable 402 408	kultur
+T36	Markable 411 413	SV
+T37	Markable 423 450	tur til å skaffe hovudtalar
+T38	Markable 440 450	hovudtalar
+T39	Markable 453 458	Dette
+T40	Markable 464 477	Heikki Holmås
+T41	Markable 480 495	Åshild Kjelsnes
+T42	Markable 508 524	appellant frå AP
+T43	Markable 522 524	AP
+T44	Markable 528 563	Rita Tonning for LO Førde og omland
+T45	Markable 545 563	LO Førde og omland
+T46	Markable 590 636	ein siste appellant som ikkje er på plass enno
+T47	Markable 626 631	plass
+T48	Markable 641 661	Den kulturelle biten
+T49	Markable 666 680	Fritdjov Urdal
+T50	Markable 690 711	ein strålande innsats
+T51	Markable 727 742	all ære for den
+T52	Markable 739 742	den
+T53	Markable 745 748	Han
+T54	Markable 773 787	Rune Timberlid
+T55	Markable 812 846	ei historie frå barndommens 1. mai
+T56	Markable 828 839	barndommens
+T57	Markable 828 846	barndommens 1. mai
+T58	Markable 849 879	Cony Hamre og Stein Uno Rambøl
+T59	Markable 849 859	Cony Hamre
+T60	Markable 863 879	Stein Uno Rambøl
+T61	Markable 892 906	song og musikk
+T62	Markable 892 896	song
+T63	Markable 900 906	musikk
+R1	Coref Arg1:T14 Arg2:T11	
+R2	Bridging Arg1:T13 Arg2:T6	
+R3	Coref Arg1:T17 Arg2:T4	
+R4	Coref Arg1:T18 Arg2:T5	
+R5	Coref Arg1:T20 Arg2:T15	
+R6	Split_antecedent Arg1:T26 Arg2:T20	
+R7	Coref Arg1:T36 Arg2:T23	
+R8	Coref Arg1:T43 Arg2:T24	
+R9	Coref Arg1:T45 Arg2:T26	
+R10	Split_antecedent Arg1:T26 Arg2:T22	
+R11	Bridging Arg1:T48 Arg2:T35	
+R12	Coref Arg1:T52 Arg2:T48	
+R13	Coref Arg1:T53 Arg2:T49	

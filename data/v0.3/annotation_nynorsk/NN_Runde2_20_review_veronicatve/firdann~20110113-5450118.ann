@@ -1,0 +1,80 @@
+T1	Markable 13 32	telefon og breiband
+T2	Markable 13 20	telefon
+T3	Markable 24 32	breiband
+T4	Markable 49 68	kontakt med omverda
+T5	Markable 61 68	omverda
+T6	Markable 71 84	over eit døgn
+T7	Markable 87 94	Telenor
+T8	Markable 117 123	feilen
+T9	Markable 128 141	over eit døgn
+T10	Markable 146 180	690 abonnentar i Fjaler og Askvoll
+T11	Markable 163 180	Fjaler og Askvoll
+T12	Markable 163 169	Fjaler
+T13	Markable 173 180	Askvoll
+T14	Markable 191 198	telefon
+T15	Markable 203 210	tillegg
+T16	Markable 215 229	683 abonnentar
+T17	Markable 240 248	breiband
+T18	Markable 251 296	Askvoll , Fjaler , Gaular , Høyanger og Gulen
+T19	Markable 251 258	Askvoll
+T20	Markable 261 267	Fjaler
+T21	Markable 270 278	Gaular ,
+T22	Markable 279 287	Høyanger
+T23	Markable 291 296	Gulen
+T24	Markable 311 338	redusert kapasitet på mobil
+T25	Markable 333 338	mobil
+T26	Markable 349 361	nokre kundar
+T27	Markable 373 410	breiband , telefon eller mobiltilgang
+T28	Markable 373 383	breiband ,
+T29	Markable 384 391	telefon
+T30	Markable 398 410	mobiltilgang
+T31	Markable 426 432	feilen
+T32	Markable 437 439	Vi
+T33	Markable 450 460	feilsøking
+T34	Markable 467 469	vi
+T35	Markable 475 491	melding om dette
+T36	Markable 486 491	dette
+T37	Markable 492 505	onsdag morgon
+T38	Markable 499 505	morgon
+T39	Markable 514 547;564 573	informasjonssjef for Vestlandet , i Telenor
+T40	Markable 535 545	Vestlandet
+T41	Markable 514 573	informasjonssjef for Vestlandet , Per Aril Meling i Telenor
+T42	Markable 566 573	Telenor
+T43	Markable 578 591	Entreprenøren
+T44	Markable 605 608	dei
+T45	Markable 619 625	feilen
+T46	Markable 630 636	Myrmel
+T47	Markable 648 651	veg
+T48	Markable 665 670	dette
+T49	Markable 682 688	Meling
+T50	Markable 693 701	firda.no
+T51	Markable 702 720	torsdag føremiddag
+T52	Markable 710 720	føremiddag
+T53	Markable 738 744	feilen
+T54	Markable 762 811	All trafikk som går på fiberkabelen som er broten
+T55	Markable 785 811	fiberkabelen som er broten
+T56	Markable 822 827	drift
+T57	Markable 830 835	Dette
+T58	Markable 847 889	breiband , telefon og for nokre også mobil
+T59	Markable 847 857	breiband ,
+T60	Markable 858 865	telefon
+T61	Markable 873 878	nokre
+T62	Markable 869 889	for nokre også mobil
+T63	Markable 892 894	Vi
+T64	Markable 914 916	vi
+T65	Markable 927 933	feilen
+T66	Markable 956 959	det
+R1	Coref Arg1:T19 Arg2:T13	
+R2	Coref Arg1:T20 Arg2:T12	
+R3	Coref Arg1:T31 Arg2:T8	
+R4	Coref Arg1:T32 Arg2:T7	
+R5	Coref Arg1:T34 Arg2:T32	
+R6	Coref Arg1:T42 Arg2:T34	
+R7	Coref Arg1:T44 Arg2:T43	
+R8	Coref Arg1:T45 Arg2:T31	
+R9	Coref Arg1:T48 Arg2:T45	
+R10	Coref Arg1:T49 Arg2:T41	
+R11	Coref Arg1:T53 Arg2:T48	
+R12	Coref Arg1:T63 Arg2:T42	
+R13	Coref Arg1:T64 Arg2:T63	
+R14	Coref Arg1:T65 Arg2:T53	

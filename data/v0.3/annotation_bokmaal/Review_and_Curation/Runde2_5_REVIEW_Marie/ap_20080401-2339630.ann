@@ -1,0 +1,138 @@
+T1	Markable 8 18	krokodille
+T2	Markable 25 31	dyrene
+T3	Markable 36 44	Akvariet
+T4	Markable 53 88	Talsmann for nettstedet reptilweb ,
+T5	Markable 66 86	nettstedet reptilweb
+T6	Markable 53 102	Talsmann for nettstedet reptilweb , Vålen Gånev ,
+T7	Markable 108 111	han
+T8	Markable 118 129	krokodillen
+T9	Markable 132 138	Bergen
+T10	Markable 141 176	protest mot forholdene ved Akvariet
+T11	Markable 153 176	forholdene ved Akvariet
+T12	Markable 168 176	Akvariet
+T13	Markable 179 198	Dyrene ved Akvariet
+T14	Markable 190 198	Akvariet
+T15	Markable 213 218	Gånev
+T16	Markable 223 238	Flere av dyrene
+T17	Markable 232 238	dyrene
+T18	Markable 245 290	ingen mulighet til å gjemme seg for hverandre
+T19	Markable 303 306	deg
+T20	Markable 307 376	en liten krokodille i et lite bur med en stor krokodille ved siden av
+T21	Markable 329 340	et lite bur
+T22	Markable 345 363	en stor krokodille
+T23	Markable 368 376	siden av
+T24	Markable 382 401	alt som skiller dem
+T25	Markable 398 401	dem
+T26	Markable 405 420	en hønsenetting
+T27	Markable 423 460	Flere av krokodillene på utstillingen
+T28	Markable 432 444	krokodillene
+T29	Markable 448 460	utstillingen
+T30	Markable 469 474	frykt
+T31	Markable 495 503	reptiler
+T32	Markable 512 523	denne måten
+T33	Markable 534 539	Gånev
+T34	Markable 542 551	en e-post
+T35	Markable 556 561	bt.no
+T36	Markable 564 569	Gånev
+T37	Markable 573 606	talsmann for nettstedet reptilweb
+T38	Markable 586 606	nettstedet reptilweb
+T39	Markable 612 683	spørsmål om hvordan han stiller seg til en eventuell straffeforfølgelse
+T40	Markable 632 635	han
+T41	Markable 652 683	en eventuell straffeforfølgelse
+T42	Markable 693 696	han
+T43	Markable 700 703	man
+T44	Markable 728 759	konsekvensen av sine handlinger
+T45	Markable 744 748	sine
+T46	Markable 744 759	sine handlinger
+T47	Markable 762 780	Krokodillen Taggen
+T48	Markable 797 814	Akvariet i Bergen
+T49	Markable 808 814	Bergen
+T50	Markable 817 823	helgen
+T51	Markable 837 842	rette
+T52	Markable 843 849	mandag
+T53	Markable 843 855	mandag kveld
+T54	Markable 858 882	Akvariet-sjef Kees Ekeli
+T55	Markable 902 908	Gånevs
+T56	Markable 902 953	Gånevs påstander om at reptilene lider ved Akvariet
+T57	Markable 925 934;941 953	reptilene ved Akvariet
+T58	Markable 945 953	Akvariet
+T59	Markable 958 961	Det
+T60	Markable 978 981	jeg
+T61	Markable 996 999	jeg
+T62	Markable 1004 1016	full avstand
+T63	Markable 1021 1043	slike idiotiske utsagn
+T64	Markable 1046 1048	Vi
+T65	Markable 1056 1068	alle forhold
+T66	Markable 1073 1108	rette for at dyrene skal ha det bra
+T67	Markable 1086 1092	dyrene
+T68	Markable 1114 1117	det
+T69	Markable 1122 1124	de
+T70	Markable 1141 1146	Ekeli
+T71	Markable 1149 1184	Den formelle eieren av krokodillene
+T72	Markable 1172 1184	krokodillene
+T73	Markable 1188 1280	René Hedegaard i Krokodillezoo i Danmark , som flere ganger har besøkt utstillingen i Bergen
+T74	Markable 1205 1228	Krokodillezoo i Danmark
+T75	Markable 1221 1228	Danmark
+T76	Markable 1235 1247	flere ganger
+T77	Markable 1259 1280	utstillingen i Bergen
+T78	Markable 1274 1280	Bergen
+T79	Markable 1285 1294	Hedegaard
+T80	Markable 1306 1308	vi
+T81	Markable 1325 1337	utstillingen
+T82	Markable 1340 1346	ett år
+T83	Markable 1353 1359	dyrene
+T84	Markable 1377 1380	Han
+T85	Markable 1390 1397	verdens
+T86	Markable 1390 1425	verdens fremste krokodilleeksperter
+T87	Markable 1431 1434	vår
+T88	Markable 1431 1463	vår mentor når det gjelder stell
+T89	Markable 1458 1463	stell
+T90	Markable 1473 1488	reinspikket tøv
+T91	Markable 1492 1498	dyrene
+T92	Markable 1512 1517	Ekeli
+T93	Markable 1520 1525	Ekeli
+T94	Markable 1544 1562	sikkerhetsrutinene
+T95	Markable 1576 1590	flere tyverier
+R1	Coref Arg1:T7 Arg2:T6	
+R2	Coref Arg1:T8 Arg2:T1	
+R3	Coref Arg1:T12 Arg2:T3	
+R4	Coref Arg1:T13 Arg2:T2	
+R5	Coref Arg1:T14 Arg2:T12	
+R6	Coref Arg1:T15 Arg2:T7	
+R7	Coref Arg1:T17 Arg2:T13	
+R8	Coref Arg1:T33 Arg2:T15	
+R9	Split_antecedent Arg1:T25 Arg2:T22	
+R10	Split_antecedent Arg1:T25 Arg2:T20	
+R11	Coref Arg1:T36 Arg2:T33	
+R12	Coref Arg1:T38 Arg2:T5	
+R13	Coref Arg1:T40 Arg2:T36	
+R14	Coref Arg1:T42 Arg2:T98	
+R15	Coref Arg1:T47 Arg2:T8	
+R16	Coref Arg1:T48 Arg2:T14	
+R17	Coref Arg1:T55 Arg2:T42	
+R18	Coref Arg1:T58 Arg2:T48	
+R19	Coref Arg1:T60 Arg2:T54	
+R20	Coref Arg1:T61 Arg2:T60	
+R21	Coref Arg1:T67 Arg2:T57	
+R22	Coref Arg1:T69 Arg2:T67	
+R23	Coref Arg1:T70 Arg2:T61	
+R24	Coref Arg1:T77 Arg2:T29	
+R25	Coref Arg1:T79 Arg2:T73	
+R26	Coref Arg1:T80 Arg2:T64	
+R27	Coref Arg1:T81 Arg2:T77	
+R28	Coref Arg1:T84 Arg2:T79	
+R29	Coref Arg1:T87 Arg2:T80	
+R30	Coref Arg1:T91 Arg2:T83	
+R31	Coref Arg1:T72 Arg2:T69	
+R32	Coref Arg1:T57 Arg2:T28	
+R33	Coref Arg1:T28 Arg2:T17	
+R34	Coref Arg1:T92 Arg2:T70	
+R35	Coref Arg1:T93 Arg2:T92	
+T96	Markable 273 276	seg
+T97	Markable 281 290	hverandre
+R36	Coref Arg1:T97 Arg2:T96	
+R37	Coref Arg1:T96 Arg2:T16	
+T98	Markable 644 647	seg
+R38	Coref Arg1:T98 Arg2:T40	
+R39	Coref Arg1:T45 Arg2:T43	
+R40	Coref Arg1:T83 Arg2:T72	

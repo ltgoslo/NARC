@@ -1,0 +1,41 @@
+T1	Markable 0 32	Sogn og Fjordane best i 16 fag |
+T2	Markable 24 30	16 fag
+T3	Markable 33 69	Gode resultat på skriftleg eksamen .
+T4	Markable 50 67	skriftleg eksamen
+T5	Markable 70 86	Sogn og Fjordane
+T6	Markable 105 111	landet
+T7	Markable 120 161	32 faga det i vår var skriftleg eksamen i
+T8	Markable 134 137	vår
+T9	Markable 142 161	skriftleg eksamen i
+T10	Markable 167 181	fylkeskommunen
+T11	Markable 167 186	fylkeskommunen sine
+T12	Markable 167 197	fylkeskommunen sine heimesider
+T13	Markable 203 250	eksamensresultata frå årets skritlege eksamenar
+T14	Markable 225 230	årets
+T15	Markable 225 250	årets skritlege eksamenar
+T16	Markable 265 309	over 1000 kandidatar , og i alt 32 ulike fag
+T17	Markable 265 287	over 1000 kandidatar ,
+T18	Markable 293 296	alt
+T19	Markable 291 309	i alt 32 ulike fag
+T20	Markable 316 332	Sogn og Fjordane
+T21	Markable 343 355	heile 16 fag
+T22	Markable 360 367	tillegg
+T23	Markable 372 383	fylket vårt
+T24	Markable 379 383	vårt
+T25	Markable 389 403	gjennomsnittet
+T26	Markable 412 416	faga
+T27	Markable 436 452	Sogn og Fjordane
+T28	Markable 458 486	beste fylket i norsk sidemål
+T29	Markable 473 486	norsk sidemål
+T30	Markable 493 505	nytt av året
+T31	Markable 501 505	året
+T32	Markable 512 514	vi
+T33	Markable 527 539	statestikken
+T34	Markable 542 581	mange av programfaga til VG3 allmennfag
+T35	Markable 551 581	programfaga til VG3 allmennfag
+T36	Markable 567 581	VG3 allmennfag
+R1	Coref Arg1:T5 Arg2:T1	
+R2	Coref Arg1:T20 Arg2:T5	
+R3	Coref Arg1:T23 Arg2:T20	
+R4	Coref Arg1:T27 Arg2:T23	
+R5	Coref Arg1:T32 Arg2:T27	

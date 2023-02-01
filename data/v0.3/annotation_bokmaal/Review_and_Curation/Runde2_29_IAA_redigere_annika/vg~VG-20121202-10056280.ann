@@ -1,0 +1,67 @@
+T1	Markable 0 17	Brev fra Napoleon
+T2	Markable 9 17	Napoleon
+T3	Markable 27 37	millionsum
+T4	Markable 41 48	auksjon
+T5	Markable 54 60	200 år
+T6	Markable 51 96	Et 200 år gammelt brev fra Napoleon Bonaparte
+T7	Markable 78 96	Napoleon Bonaparte
+T8	Markable 111 132	nærmere 1,4 millioner
+T9	Markable 111 139	nærmere 1,4 millioner kroner
+T10	Markable 143 153	en auksjon
+T11	Markable 158 164	brevet
+T12	Markable 175 194	den franske lederen
+T13	Markable 198 202	sine
+T14	Markable 198 228	sine planer om å sprenge Kreml
+T15	Markable 223 228	Kreml
+T16	Markable 233 236	Jeg
+T17	Markable 249 254	Kreml
+T18	Markable 257 262	lufta
+T19	Markable 271 277	klokka
+T20	Markable 285 293	morgenen
+T21	Markable 309 362	brevet , som er skrevet i tallkode og signert " Nap "
+T22	Markable 335 343	tallkode
+T23	Markable 355 362	" Nap "
+T24	Markable 365 371	Brevet
+T25	Markable 382 464	20. oktober 1812 , dagen etter at Napoleon trakk seg tilbake fra sentrum av Moskva
+T26	Markable 401 464	dagen etter at Napoleon trakk seg tilbake fra sentrum av Moskva
+T27	Markable 416 424	Napoleon
+T28	Markable 447 464	sentrum av Moskva
+T29	Markable 458 464	Moskva
+T30	Markable 488 525	utenriksminister Hugues-Bernard Maret
+T31	Markable 528 536	Napoleon
+T32	Markable 550 573	planen om sprenge Kreml
+T33	Markable 568 573	Kreml
+T34	Markable 579 599	flere tårn og vegger
+T35	Markable 579 589	flere tårn
+T36	Markable 593 599	vegger
+T37	Markable 611 617	ruiner
+T38	Markable 620 632	eksplosjonen
+T39	Markable 635 637	De
+T40	Markable 676 685	søndagens
+T41	Markable 676 725	søndagens auksjon i Fountanbleau sørøst for Paris
+T42	Markable 696 725	Fountanbleau sørøst for Paris
+T43	Markable 720 725	Paris
+T44	Markable 744 750	brevet
+T45	Markable 771 799	mellom 10.000 og 15.000 euro
+T46	Markable 802 813	Sluttprisen
+T47	Markable 829 889	hele 187.500 euro , tilsvarende nærmere 1,4 millioner kroner
+T48	Markable 861 882	nærmere 1,4 millioner
+T49	Markable 861 889	nærmere 1,4 millioner kroner
+R1	Coref Arg1:T7 Arg2:T2	
+R2	Coref Arg1:T11 Arg2:T6	
+R3	Coref Arg1:T12 Arg2:T7	
+R4	Coref Arg1:T13 Arg2:T12	
+R5	Coref Arg1:T16 Arg2:T13	
+R6	Coref Arg1:T17 Arg2:T15	
+R7	Coref Arg1:T21 Arg2:T11	
+R8	Coref Arg1:T24 Arg2:T21	
+R9	Coref Arg1:T27 Arg2:T16	
+T50	Markable 431 434	seg
+R10	Coref Arg1:T50 Arg2:T27	
+R11	Coref Arg1:T31 Arg2:T50	
+R12	Bridging Arg1:T32 Arg2:T14	
+R13	Bridging Arg1:T38 Arg2:T32	
+R14	Coref Arg1:T39 Arg2:T34	
+R15	Coref Arg1:T44 Arg2:T24	
+R16	Bridging Arg1:T46 Arg2:T44	
+R17	Coref Arg1:T41 Arg2:T10	

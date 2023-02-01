@@ -1,0 +1,85 @@
+T1	Markable 0 20	Nullføre og snødekke
+T2	Markable 0 8	Nullføre
+T3	Markable 12 20	snødekke
+T4	Markable 42 54	Sognefjellet
+T5	Markable 67 70	dag
+T6	Markable 73 86	Meteorologane
+T7	Markable 92 108	meir snø i høgda
+T8	Markable 103 108	høgda
+T9	Markable 111 127	Statens vegvesen
+T10	Markable 138 188	snø og fare på for glatte parti over ca 1200 meter
+T11	Markable 138 141	snø
+T12	Markable 145 188	fare på for glatte parti over ca 1200 meter
+T13	Markable 153 188	for glatte parti over ca 1200 meter
+T14	Markable 175 188	ca 1200 meter
+T15	Markable 191 200	Isdekke |
+T16	Markable 204 234	fylkesveg 55 over Sognefjellet
+T17	Markable 222 234	Sognefjellet
+T18	Markable 251 276	snø og isdekke på vegbana
+T19	Markable 251 254	snø
+T20	Markable 258 276	isdekke på vegbana
+T21	Markable 269 276	vegbana
+T22	Markable 289 291	du
+T23	Markable 313 315	du
+T24	Markable 322 330	piggdekk
+T25	Markable 336 342	klokka
+T26	Markable 355 365	føremiddag
+T27	Markable 376 404	berre 0 grader , vind og snø
+T28	Markable 376 392	berre 0 grader ,
+T29	Markable 393 397	vind
+T30	Markable 401 404	snø
+T31	Markable 408 420	Sognefjellet
+T32	Markable 431 444	Strynefjellet
+T33	Markable 449 460	kong vinter
+T34	Markable 466 470	grep
+T35	Markable 473 489	Statens Vegvesen
+T36	Markable 504 510	klokka
+T37	Markable 521 548	nullføre , lett bris og snø
+T38	Markable 521 531	nullføre ,
+T39	Markable 532 541	lett bris
+T40	Markable 545 548	snø
+T41	Markable 551 569	Meir snø i vente |
+T42	Markable 562 567	vente
+T43	Markable 578 630	meteorolog Solbjørg Apeland ved Storm Weather Senter
+T44	Markable 610 630	Storm Weather Senter
+T45	Markable 649 677	meir snø på fjellovergangane
+T46	Markable 661 677	fjellovergangane
+T47	Markable 678 697	dei kommande dagane
+T48	Markable 702 709	Laurdag
+T49	Markable 725 744	litt regn eller snø
+T50	Markable 725 734	litt regn
+T51	Markable 741 744	snø
+T52	Markable 754 759	dagen
+T53	Markable 783 787	regn
+T54	Markable 799 804	dagen
+T55	Markable 810 822	Sognefjellet
+T56	Markable 832 850	rundt 3 - 2 grader
+T57	Markable 854 859	dagen
+T58	Markable 868 893	temperaturane på nattetid
+T59	Markable 885 893	nattetid
+T60	Markable 928 935	Apeland
+T61	Markable 938 962	Mykje regn i låglandet |
+T62	Markable 951 960	låglandet
+T63	Markable 965 983	låglandet i fylket
+T64	Markable 977 983	fylket
+T65	Markable 1006 1014	det våte
+T66	Markable 1028 1073	byggaktivitet , pålandsvind og mykje regnbyer
+T67	Markable 1028 1043	byggaktivitet ,
+T68	Markable 1044 1055	pålandsvind
+T69	Markable 1059 1073	mykje regnbyer
+T70	Markable 1088 1093	helga
+T71	Markable 1096 1108	Temperaturen
+T72	Markable 1129 1140	tolv grader
+T73	Markable 1149 1156	Apeland
+R1	Coref Arg1:T17 Arg2:T4	
+R2	Bridging Arg1:T21 Arg2:T16	
+R3	Coref Arg1:T31 Arg2:T17	
+R4	Coref Arg1:T35 Arg2:T9	
+R5	Split_antecedent Arg1:T46 Arg2:T32	
+R6	Split_antecedent Arg1:T46 Arg2:T31	
+R7	Coref Arg1:T55 Arg2:T31	
+R8	Coref Arg1:T63 Arg2:T62	
+T74	Markable 938 948	Mykje regn
+R9	Bridging Arg1:T65 Arg2:T74	
+R10	Coref Arg1:T60 Arg2:T43	
+R11	Coref Arg1:T73 Arg2:T60	

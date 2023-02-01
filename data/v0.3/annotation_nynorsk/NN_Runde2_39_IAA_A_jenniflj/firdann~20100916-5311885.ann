@@ -1,0 +1,110 @@
+T1	Markable 6 21	indisk storfilm
+T2	Markable 24 30	fylket
+T3	Markable 56 81	ti millionar i heimlandet
+T4	Markable 71 81	heimlandet
+T5	Markable 84 166	Regissør K. V. Anand , Sigmund Elias Holm og produsent C. K. Ashok ved Gudvangen .
+T6	Markable 84 106;151 166	Regissør K. V. Anand , ved Gudvangen .
+T7	Markable 107 125	Sigmund Elias Holm
+T8	Markable 129 150	produsent C. K. Ashok
+T9	Markable 155 164	Gudvangen
+T10	Markable 167 182	Aurlandsfjellet
+T11	Markable 186 221	kulisse i den indiske filmen « Ko »
+T12	Markable 196 214	den indiske filmen
+T13	Markable 196 221	den indiske filmen « Ko »
+T14	Markable 224 234	Denne veka
+T15	Markable 252 292	ei eksotisk filminnspeling på Vestlandet
+T16	Markable 282 292	Vestlandet
+T17	Markable 295 321	Den indiske filmregissøren
+T18	Markable 295 331	Den indiske filmregissøren K.V Anand
+T19	Markable 338 343	plass
+T20	Markable 360 398	scener til den nye filmen sin , « Ko »
+T21	Markable 371 391	den nye filmen sin ,
+T22	Markable 386 389	sin
+T23	Markable 371 398	den nye filmen sin , « Ko »
+T24	Markable 401 411	Døropnar |
+T25	Markable 414 421	Opptaka
+T26	Markable 437 443	Bergen
+T27	Markable 446 457	nokre dagar
+T28	Markable 467 472	turen
+T29	Markable 479 545	Hardangerfjorden og Nærøyfjorden i fjordlandskap og på fjelltoppar
+T30	Markable 479 495	Hardangerfjorden
+T31	Markable 499 545	Nærøyfjorden i fjordlandskap og på fjelltoppar
+T32	Markable 514 527	fjordlandskap
+T33	Markable 534 545	fjelltoppar
+T34	Markable 555 609	spektakulære stader som Rosendal , Stalheim og Aurland
+T35	Markable 579 609	Rosendal , Stalheim og Aurland
+T36	Markable 579 589	Rosendal ,
+T37	Markable 590 598	Stalheim
+T38	Markable 602 609	Aurland
+T39	Markable 618 680	Sigmund Elias Holm , leiar for Western Norway Film Comission ,
+T40	Markable 639 680	leiar for Western Norway Film Comission ,
+T41	Markable 649 678	Western Norway Film Comission
+T42	Markable 685 688	NTB
+T43	Markable 691 721	Western Norway Film Commission
+T44	Markable 738 760	produsenten C.K. Ashok
+T45	Markable 763 777	fleire månader
+T46	Markable 787 814	den indiske filminnspelinga
+T47	Markable 821 843	Det indiske filmteamet
+T48	Markable 855 861	opptak
+T49	Markable 864 872	ti dagar
+T50	Markable 877 879	Vi
+T51	Markable 886 889	det
+T52	Markable 895 937	ein døropnar for fleire tilsvarande filmar
+T53	Markable 912 937	fleire tilsvarande filmar
+T54	Markable 978 982	Holm
+T55	Markable 985 996	Kollywood |
+T56	Markable 997 1011	Regissør Anand
+T57	Markable 1018 1024	filmar
+T58	Markable 1029 1178	den tamilske filmindustrien , kalla Kollywood , i Chennai , i motsetnad til den hinduistiske filmindustrien , kalla Bollywood , som har base i Mumbai
+T59	Markable 1065 1074	Kollywood
+T60	Markable 1079 1086	Chennai
+T61	Markable 1091 1178	motsetnad til den hinduistiske filmindustrien , kalla Bollywood , som har base i Mumbai
+T62	Markable 1105 1178	den hinduistiske filmindustrien , kalla Bollywood , som har base i Mumbai
+T63	Markable 1145 1154	Bollywood
+T64	Markable 1165 1178	base i Mumbai
+T65	Markable 1172 1178	Mumbai
+T66	Markable 1181 1190	Kollywood
+T67	Markable 1202 1214	66 millionar
+T68	Markable 1202 1222	66 millionar indarar
+T69	Markable 1237 1247	150 filmar
+T70	Markable 1256 1261	Anand
+T71	Markable 1282 1380	National Film Award i India , som er for ein indisk Oscar å rekne med rundt tusen nominerte filmar
+T72	Markable 1304 1309	India
+T73	Markable 1323 1339	ein indisk Oscar
+T74	Markable 1352 1380	rundt tusen nominerte filmar
+T75	Markable 1383 1389	« Ko »
+T76	Markable 1417 1429	ti millionar
+T77	Markable 1417 1437	ti millionar sjåarar
+T78	Markable 1440 1450	heimlandet
+T79	Markable 1455 1500	tillegg til eit stort internasjonalt publikum
+T80	Markable 1467 1500	eit stort internasjonalt publikum
+T81	Markable 1505 1534	Vestlandet og filmkommisjonen
+T82	Markable 1505 1515	Vestlandet
+T83	Markable 1519 1534	filmkommisjonen
+T84	Markable 1555 1570	tittelsekvensen
+T85	Markable 1576 1578	me
+T86	Markable 1603 1606	oss
+T87	Markable 1615 1641	heile den indiske bransjen
+T88	Markable 1667 1682	fjordlandskapet
+T89	Markable 1691 1723	millionar av indiske kinosjåarar
+T90	Markable 1704 1723	indiske kinosjåarar
+R1	Bridging Arg1:T4 Arg2:T1	
+R2	Coref Arg1:T18 Arg2:T6	
+R3	Coref Arg1:T23 Arg2:T13	
+R4	Bridging Arg1:T25 Arg2:T15	
+R5	Coref Arg1:T39 Arg2:T7	
+R6	Coref Arg1:T43 Arg2:T41	
+R7	Coref Arg1:T44 Arg2:T8	
+R8	Coref Arg1:T46 Arg2:T15	
+R9	Coref Arg1:T54 Arg2:T39	
+R10	Coref Arg1:T56 Arg2:T18	
+R11	Coref Arg1:T59 Arg2:T55	
+R12	Coref Arg1:T66 Arg2:T59	
+R13	Coref Arg1:T70 Arg2:T56	
+R14	Coref Arg1:T75 Arg2:T23	
+R15	Coref Arg1:T78 Arg2:T72	
+R16	Coref Arg1:T72 Arg2:T4	
+R17	Coref Arg1:T82 Arg2:T16	
+R18	Coref Arg1:T83 Arg2:T43	
+R19	Coref Arg1:T86 Arg2:T85	
+R20	Bridging Arg1:T88 Arg2:T82	

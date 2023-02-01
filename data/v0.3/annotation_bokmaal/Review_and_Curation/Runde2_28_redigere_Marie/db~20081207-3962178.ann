@@ -1,0 +1,100 @@
+T1	Markable 0 12	Tommy Sharif
+T2	Markable 20 32	Kollentårnet
+T3	Markable 37 51	270.000 kroner
+T4	Markable 65 86	angrep på Trond Giske
+T5	Markable 75 86	Trond Giske
+T6	Markable 89 101	Tommy Sharif
+T7	Markable 113 164	vinnerbudet på « Diamanten » på Holmenkollen-tårnet
+T8	Markable 128 164	« Diamanten » på Holmenkollen-tårnet
+T9	Markable 145 164	Holmenkollen-tårnet
+T10	Markable 168 181	nettauksjonen
+T11	Markable 196 202	søndag
+T12	Markable 205 211	Sharif
+T13	Markable 224 235	regjeringen
+T14	Markable 246 257	paviljongen
+T15	Markable 268 352	Prisen bildekkremmeren måtte ut med for toppen av det historiske Holmenkollen-tårnet
+T16	Markable 275 290	bildekkremmeren
+T17	Markable 308 352	toppen av det historiske Holmenkollen-tårnet
+T18	Markable 318 352	det historiske Holmenkollen-tårnet
+T19	Markable 357 400	37.300 dollar , eller om lag 270.000 kroner
+T20	Markable 357 372	37.300 dollar ,
+T21	Markable 382 385	lag
+T22	Markable 379 400	om lag 270.000 kroner
+T23	Markable 405 417	Holmenkollen
+T24	Markable 421 441	et unikt kulturminne
+T25	Markable 462 473	en skandale
+T26	Markable 477 480	den
+T27	Markable 505 511	landet
+T28	Markable 526 529	jeg
+T29	Markable 536 539	jeg
+T30	Markable 549 555	ansvar
+T31	Markable 563 569	Sharif
+T32	Markable 574 581	VG Nett
+T33	Markable 584 652	Toppen av det historiske Holmenkollen-tårnet , den såkalte diamanten
+T34	Markable 594 628	det historiske Holmenkollen-tårnet
+T35	Markable 631 654	den såkalte diamanten ,
+T36	Markable 659 665	søndag
+T37	Markable 675 686	nettauksjon
+T38	Markable 691 705	270.000 kroner
+T39	Markable 708 763	Auksjonen på det internasjonale auksjonsnettstedet eBay
+T40	Markable 721 758	det internasjonale auksjonsnettstedet
+T41	Markable 721 763	det internasjonale auksjonsnettstedet eBay
+T42	Markable 778 785	klokken
+T43	Markable 792 810	søndag ettermiddag
+T44	Markable 799 810	ettermiddag
+T45	Markable 830 836	53 bud
+T46	Markable 842 854	to budgivere
+T47	Markable 882 942	paviljongen på toppen av tårnet av den historiske hoppbakken
+T48	Markable 897 942	toppen av tårnet av den historiske hoppbakken
+T49	Markable 907 942	tårnet av den historiske hoppbakken
+T50	Markable 917 942	den historiske hoppbakken
+T51	Markable 945 958	« Diamanten »
+T52	Markable 973 992	resten av ovarennet
+T53	Markable 983 992	ovarennet
+T54	Markable 995 1044	forbindelse med at den gamle hoppbakken ble revet
+T55	Markable 1014 1034	den gamle hoppbakken
+T56	Markable 1047 1073	En ny og mer moderne bakke
+T57	Markable 1099 1110	Paviljongen
+T58	Markable 1123 1197	tegninger og autografer fra mange av de største skihopperne gjennom tidene
+T59	Markable 1123 1132	tegninger
+T60	Markable 1136 1197	autografer fra mange av de største skihopperne gjennom tidene
+T61	Markable 1151 1197	mange av de største skihopperne gjennom tidene
+T62	Markable 1160 1197	de største skihopperne gjennom tidene
+T63	Markable 1191 1197	tidene
+T64	Markable 1200 1210	Selgeren ,
+T65	Markable 1211 1242	det danske entreprenørselskapet
+T66	Markable 1200 1255	Selgeren , det danske entreprenørselskapet NKR Riving ,
+T67	Markable 1263 1276	« Diamanten »
+T68	Markable 1277 1363	et ekte samlerobjekt som er i grei stand og som kan brukes på mange forskjellige måter
+T69	Markable 1307 1317	grei stand
+T70	Markable 1339 1363	mange forskjellige måter
+T71	Markable 1366 1450	- Rik mulighet til å imponere dine venner , kolleger eller forretningsforbindelser .
+T72	Markable 1396 1400	dine
+T73	Markable 1396 1448	dine venner , kolleger eller forretningsforbindelser
+T74	Markable 1396 1409	dine venner ,
+T75	Markable 1410 1418	kolleger
+T76	Markable 1425 1448	forretningsforbindelser
+R1	Coref Arg1:T6 Arg2:T1	
+R3	Coref Arg1:T12 Arg2:T77	
+R4	Coref Arg1:T17 Arg2:T14	
+R5	Coref Arg1:T18 Arg2:T9	
+R6	Coref Arg1:T14 Arg2:T8	
+R7	Coref Arg1:T16 Arg2:T12	
+R9	Coref Arg1:T26 Arg2:T17	
+R10	Coref Arg1:T28 Arg2:T16	
+R11	Coref Arg1:T29 Arg2:T28	
+R12	Coref Arg1:T31 Arg2:T29	
+R13	Coref Arg1:T33 Arg2:T26	
+R16	Coref Arg1:T39 Arg2:T37	
+R17	Coref Arg1:T47 Arg2:T33	
+R19	Coref Arg1:T51 Arg2:T47	
+R20	Coref Arg1:T57 Arg2:T51	
+R21	Coref Arg1:T67 Arg2:T57	
+R22	Bridging Arg1:T10 Arg2:T7	
+T77	Markable 109 112	seg
+R23	Coref Arg1:T77 Arg2:T6	
+R24	Coref Arg1:T15 Arg2:T3	
+R8	Bridging Arg1:T53 Arg2:T50	
+R14	Coref Arg1:T34 Arg2:T18	
+R2	Coref Arg1:T8 Arg2:T2	
+R15	Coref Arg1:T49 Arg2:T34	

@@ -1,0 +1,120 @@
+T1	Markable 36 38	Ap
+T2	Markable 0 7	Jagland
+T3	Markable 18 34	utenrikskomitéen
+T5	Markable 58 104	de store internasjonale spørsmål på Stortinget
+T6	Markable 94 104	Stortinget
+T7	Markable 112 117	Høyre
+T8	Markable 138 150	de nære ting
+T9	Markable 131 134	seg
+R1	Coref Arg1:T9 Arg2:T7	
+T10	Markable 154 171	Thorbjørn Jagland
+T11	Markable 182 198	utenrikskomitéen
+R2	Coref Arg1:T10 Arg2:T2	
+R3	Coref Arg1:T11 Arg2:T3	
+T12	Markable 201 240	De parlamentariske ledere på Stortinget
+T13	Markable 230 240	Stortinget
+R4	Coref Arg1:T13 Arg2:T6	
+T14	Markable 267 332	hvilke partier som skal ha ledelsen for de forskjellige komitéene
+T15	Markable 294 332	ledelsen for de forskjellige komitéene
+T16	Markable 307 332	de forskjellige komitéene
+T17	Markable 245 257	mandag kveld
+T19	Markable 360 365	Fr.p.
+T20	Markable 373 420	ledervervene i finanskomitéen og sosialkomitéen
+T21	Markable 388 402	finanskomitéen
+T22	Markable 406 420	sosialkomitéen
+T23	Markable 439 449	Siv Jensen
+T24	Markable 453 465	John Alvheim
+T25	Markable 468 475	Alvheim
+R5	Coref Arg1:T25 Arg2:T24	
+T26	Markable 482 496	sosialkomitéen
+T27	Markable 504 519	forrige periode
+R6	Coref Arg1:T26 Arg2:T22	
+T28	Markable 527 533	Jensen
+R7	Coref Arg1:T28 Arg2:T23	
+T29	Markable 538 568	menig medlem av finanskomitéen
+T30	Markable 554 568	finanskomitéen
+R8	Coref Arg1:T30 Arg2:T21	
+T31	Markable 574 589	Arbeiderpartiet
+R9	Coref Arg1:T31 Arg2:T1	
+T32	Markable 594 624	ledervervet i utenrikskomitéen
+T33	Markable 608 624	utenrikskomitéen
+T34	Markable 630 694	et signal om at partiet forbereder seg på opposisjonstilværelsen
+T35	Markable 646 653	partiet
+T36	Markable 665 668	seg
+R10	Coref Arg1:T36 Arg2:T35	
+T37	Markable 672 694	opposisjonstilværelsen
+T38	Markable 697 709	Dette vervet
+T39	Markable 733 765	en representant for opposisjonen
+T40	Markable 753 765	opposisjonen
+T41	Markable 774 793	sentrumsregjeringen
+T42	Markable 798 814	utenrikskomitéen
+R11	Coref Arg1:T42 Arg2:T33	
+R12	Coref Arg1:T33 Arg2:T11	
+T43	Markable 824 828	Ap.s
+T44	Markable 824 847	Ap.s Haakon Blankenborg
+T45	Markable 855 861	Kr.F.s
+T46	Markable 855 877	Kr.F.s Einar Steensnæs
+T47	Markable 886 892	vervet
+T48	Markable 899 916	regjeringsskiftet
+R14	Coref Arg1:T47 Arg2:T38	
+R15	Coref Arg1:T38 Arg2:T32	
+T49	Markable 919 936	Thorbjørn Jagland
+T50	Markable 950 966	utenrikskomitéen
+T51	Markable 974 977	NTB
+R16	Coref Arg1:T50 Arg2:T42	
+R17	Coref Arg1:T49 Arg2:T10	
+T52	Markable 980 983	Ap.
+R18	Coref Arg1:T52 Arg2:T43	
+T53	Markable 993 1040	lederverv i forsvarskomitéen og næringskomitéen
+T54	Markable 1005 1021	forsvarskomitéen
+T55	Markable 1025 1040	næringskomitéen
+R13	Coref Arg1:T35 Arg2:T31	
+R19	Coref Arg1:T43 Arg2:T36	
+T56	Markable 1043 1048	Høyre
+R20	Coref Arg1:T56 Arg2:T9	
+T57	Markable 1053 1077	lederverv i tre komitéer
+T58	Markable 1065 1077	tre komitéer
+T59	Markable 1080 1125	familie- , kultur- og administrasjonskomitéen
+T60	Markable 1128 1142	justiskomitéen
+T61	Markable 1146 1165	samferdselskomitéen
+T62	Markable 1170 1186	de to sistnevnte
+T63	Markable 1193 1198	Høyre
+T64	Markable 1215 1230	forrige periode
+T65	Markable 1199 1207	ledelsen
+R21	Coref Arg1:T63 Arg2:T56	
+R22	Split_antecedent Arg1:T62 Arg2:T61	
+R23	Split_antecedent Arg1:T62 Arg2:T60	
+T66	Markable 1233 1238	Kr.F.
+R24	Coref Arg1:T66 Arg2:T45	
+T67	Markable 1249 1273	energi- og miljøkomitéen
+T68	Markable 1281 1284	Sp.
+T69	Markable 1289 1305	kommunalkomitéen
+T70	Markable 1308 1310	SV
+T71	Markable 1331 1335	sine
+R25	Coref Arg1:T71 Arg2:T70	
+T72	Markable 1331 1348	sine komitéledere
+T73	Markable 1351 1363	Rolf Reikvam
+T74	Markable 1376 1430	ledelsen av kirke- , utdannings- og forskningskomitéen
+T75	Markable 1388 1430	kirke- , utdannings- og forskningskomitéen
+T76	Markable 1437 1440	han
+R27	Coref Arg1:T76 Arg2:T73	
+T78	Markable 1445 1475	menig medlem i forrige periode
+T79	Markable 1460 1475	forrige periode
+T80	Markable 1478 1488	Ågot Valle
+T81	Markable 1494 1540	ny leder av kontroll- og konstitusjonskomitéen
+T82	Markable 1506 1540	kontroll- og konstitusjonskomitéen
+T4	Markable 44 104	styringen med de store internasjonale spørsmål på Stortinget
+R26	Split_antecedent Arg1:T72 Arg2:T73	
+R28	Split_antecedent Arg1:T72 Arg2:T80	
+R29	Split_antecedent Arg1:T16 Arg2:T21	
+R30	Split_antecedent Arg1:T16 Arg2:T22	
+R31	Split_antecedent Arg1:T16 Arg2:T33	
+R32	Split_antecedent Arg1:T16 Arg2:T54	
+R33	Split_antecedent Arg1:T16 Arg2:T55	
+R34	Split_antecedent Arg1:T16 Arg2:T59	
+R35	Split_antecedent Arg1:T16 Arg2:T60	
+R36	Split_antecedent Arg1:T16 Arg2:T61	
+R37	Split_antecedent Arg1:T16 Arg2:T67	
+R38	Split_antecedent Arg1:T16 Arg2:T69	
+R39	Split_antecedent Arg1:T16 Arg2:T75	
+R40	Split_antecedent Arg1:T16 Arg2:T82	

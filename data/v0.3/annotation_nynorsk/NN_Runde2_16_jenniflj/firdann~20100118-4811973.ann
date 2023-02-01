@@ -1,0 +1,51 @@
+T1	Markable 7 9	vi
+T2	Markable 22 27	kulda
+T3	Markable 30 40	Reisebyråa
+T4	Markable 56 79	solhungrige frostpinnar
+T5	Markable 82 101	Illustrasjonsfoto |
+T6	Markable 102 106	Folk
+T7	Markable 123 140	snø , is og kulde
+T8	Markable 123 128	snø ,
+T9	Markable 129 131	is
+T10	Markable 135 140	kulde
+T11	Markable 150 153	dei
+T12	Markable 157 169	sol og varme
+T13	Markable 157 160	sol
+T14	Markable 164 169	varme
+T15	Markable 175 180	dette
+T16	Markable 185 224	Travelnet Fjordane Reisebyrå i Høyanger
+T17	Markable 216 224	Høyanger
+T18	Markable 249 252	oss
+T19	Markable 257 259	vi
+T20	Markable 266 314	auka pågang av folk som no vil til varmare strok
+T21	Markable 281 314	folk som no vil til varmare strok
+T22	Markable 301 314	varmare strok
+T23	Markable 317 320	Dei
+T24	Markable 343 372	kulda som har vore siste tida
+T25	Markable 362 372	siste tida
+T26	Markable 381 409	avdelingsleiar Kjetil Bakken
+T27	Markable 414 423	Ytre Sogn
+T28	Markable 430 436	nyttår
+T29	Markable 456 464	pågangen
+T30	Markable 480 482	vi
+T31	Markable 487 498	reisebyrået
+T32	Markable 508 512	folk
+T33	Markable 524 534	reisemålet
+T34	Markable 553 565	sol og varme
+T35	Markable 553 556	sol
+T36	Markable 560 565	varme
+T37	Markable 571 575	folk
+T38	Markable 595 611	avdelingsleiaren
+T39	Markable 614 625	Kanariøyane
+T40	Markable 629 657	det mest populære reisemålet
+T41	Markable 662 666	tida
+T42	Markable 672 712	først og fremst Gran Canaria og Tenerife
+T43	Markable 672 700	først og fremst Gran Canaria
+T44	Markable 704 712	Tenerife
+R1	Coref Arg1:T11 Arg2:T6	
+R2	Coref Arg1:T18 Arg2:T16	
+R3	Coref Arg1:T19 Arg2:T18	
+R4	Coref Arg1:T23 Arg2:T21	
+R5	Coref Arg1:T31 Arg2:T19	
+R6	Bridging Arg1:T33 Arg2:T31	
+R7	Coref Arg1:T38 Arg2:T26	

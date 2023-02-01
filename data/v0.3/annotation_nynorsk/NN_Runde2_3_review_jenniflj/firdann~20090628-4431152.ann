@@ -1,0 +1,76 @@
+T1	Markable 5 7	NM
+T2	Markable 10 17	køyring
+T3	Markable 20 55	Monica Stubseid ( 42 ) frå Skilbrei
+T4	Markable 47 55	Skilbrei
+T5	Markable 67 119	tre deløvingar i norgesmesterskap i køyring med hest
+T6	Markable 84 119	norgesmesterskap i køyring med hest
+T7	Markable 103 119	køyring med hest
+T8	Markable 115 119	hest
+T9	Markable 145 152	sigeren
+T10	Markable 157 160	Det
+T11	Markable 173 195	Monica Stubseid ( 42 )
+T12	Markable 209 231	tittelen norgesmeister
+T16	Markable 295 307	www.firda.no
+T17	Markable 314 321	torsdag
+T18	Markable 326 332	søndag
+T19	Markable 346 372	norgesmesterskap i køyring
+T20	Markable 365 372	køyring
+T21	Markable 376 378	Mo
+T23	Markable 411 421	NM-klassen
+T24	Markable 430 433	dei
+T26	Markable 474 485	Deltakarane
+T27	Markable 503 517	tre deløvingar
+T30	Markable 530 537	maraton
+T31	Markable 541 550	presisjon
+T32	Markable 555 557	Eg
+T33	Markable 565 588	fjerde plass på dressur
+T34	Markable 581 588	dressur
+T35	Markable 595 597	eg
+T36	Markable 603 610	maraton
+T37	Markable 644 647	dag
+T38	Markable 653 655	eg
+T39	Markable 656 665	presisjon
+T40	Markable 678 680	eg
+T41	Markable 681 684	dei
+T42	Markable 702 769	Stubseid som er strålande nøgd med den nye tittelen , noregsmeistar
+T43	Markable 737 769	den nye tittelen , noregsmeistar
+T44	Markable 772 774	Ho
+T45	Markable 789 792	æra
+T46	Markable 797 857	Stein Ove Skilbrei , som stod bakpå vogna og hesten , Torgar
+T47	Markable 833 857	vogna og hesten , Torgar
+T48	Markable 833 838	vogna
+T50	Markable 842 857	hesten , Torgar
+T51	Markable 864 866	NM
+T52	Markable 891 899	Stubseid
+T54	Markable 891 907	Stubseid sin del
+T55	Markable 915 921	Onsdag
+T56	Markable 936 948	NM fjordhest
+T57	Markable 939 948	fjordhest
+R1	Coref Arg1:T11 Arg2:T3	
+R2	Coref Arg1:T19 Arg2:T6	
+R3	Bridging Arg1:T23 Arg2:T19	
+T58	Markable 434 440	Monica
+R8	Coref Arg1:T58 Arg2:T11	
+R9	Coref Arg1:T32 Arg2:T58	
+R10	Coref Arg1:T35 Arg2:T32	
+R11	Coref Arg1:T36 Arg2:T30	
+R12	Coref Arg1:T38 Arg2:T35	
+R13	Coref Arg1:T39 Arg2:T31	
+R14	Coref Arg1:T40 Arg2:T38	
+R15	Coref Arg1:T42 Arg2:T40	
+R16	Coref Arg1:T43 Arg2:T12	
+R17	Coref Arg1:T44 Arg2:T42	
+R19	Coref Arg1:T51 Arg2:T19	
+T22	Markable 396 408	5 deltakarar
+R4	Coref Arg1:T24 Arg2:T22	
+R21	Coref Arg1:T26 Arg2:T24	
+T25	Markable 443 445	To
+T28	Markable 520 550	Dressur , maraton og presisjon
+T29	Markable 520 527	Dressur
+R6	Coref Arg1:T34 Arg2:T29	
+T49	Markable 797 815	Stein Ove Skilbrei
+R7	Coref Arg1:T52 Arg2:T44	
+T13	Markable 278 283	Førde
+T14	Markable 252 263	Firda Media
+T15	Markable 239 251	Asgeir Årdal
+T53	Markable 234 238	Foto

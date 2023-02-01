@@ -1,0 +1,57 @@
+T1	Markable 0 15	To arbeidsuhell
+T2	Markable 18 21	Ein
+T3	Markable 40 48	sjukehus
+T4	Markable 55 70	fall på Havyard
+T5	Markable 63 70	Havyard
+T6	Markable 73 82	Arkivfoto
+T7	Markable 95 105	føremiddag
+T8	Markable 111 126	to arbeidsuhell
+T9	Markable 129 135	fylket
+T10	Markable 141 158	Havyard i Leirvik
+T11	Markable 151 158	Leirvik
+T12	Markable 164 172	ein mann
+T13	Markable 185 198	ei fallulykke
+T14	Markable 209 215	klokka
+T15	Markable 221 231	føremiddag
+T16	Markable 236 242	Mannen
+T17	Markable 253 268	kring 1,5 meter
+T18	Markable 280 317	operasjonsleiar Per Rimmen i politiet
+T19	Markable 309 317	politiet
+T20	Markable 320 326	Mannen
+T21	Markable 341 349	sjukehus
+T22	Markable 356 370	lettare skader
+T23	Markable 373 383	Kuttskadar
+T24	Markable 393 401	Naustdal
+T25	Markable 407 415	ein mann
+T26	Markable 428 466	eit arbeidsuhell på Sunnfjord Industri
+T27	Markable 448 466	Sunnfjord Industri
+T28	Markable 469 475	Mannen
+T29	Markable 487 507	kuttskadar i ei hand
+T30	Markable 500 507	ei hand
+T31	Markable 518 540	operasjonsleiar Rimmen
+T32	Markable 543 551	Politiet
+T33	Markable 557 575	melding om uhellet
+T34	Markable 568 575	uhellet
+T35	Markable 593 604	verksemdene
+T36	Markable 609 621	begge sakene
+T37	Markable 626 634	politiet
+T38	Markable 641 687	ei gransking av stadene der ulukkene fann stad
+T39	Markable 657 687	stadene der ulukkene fann stad
+T40	Markable 669 677	ulukkene
+T41	Markable 683 687	stad
+T42	Markable 692 707	Arbeidstilsynet
+T43	Markable 725 728	dei
+T44	Markable 743 753	bedriftene
+T45	Markable 764 776	det tekniske
+T46	Markable 812 819	skadane
+R1	Coref Arg1:T8 Arg2:T1	
+R2	Coref Arg1:T16 Arg2:T12	
+R3	Coref Arg1:T20 Arg2:T16	
+R4	Coref Arg1:T28 Arg2:T25	
+R5	Coref Arg1:T29 Arg2:T23	
+R6	Coref Arg1:T31 Arg2:T18	
+R7	Coref Arg1:T32 Arg2:T19	
+R8	Coref Arg1:T34 Arg2:T26	
+R9	Coref Arg1:T37 Arg2:T32	
+R10	Coref Arg1:T43 Arg2:T42	
+R11	Coref Arg1:T44 Arg2:T39	

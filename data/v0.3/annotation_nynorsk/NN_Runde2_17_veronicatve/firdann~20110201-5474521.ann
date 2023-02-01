@@ -1,0 +1,91 @@
+T1	Markable 0 15	To sambygdingar
+T2	Markable 32 38	rattet
+T3	Markable 41 49	E-post |
+T4	Markable 68 73	Origo
+T5	Markable 97 99	kl
+T6	Markable 129 131	kl
+T7	Markable 140 159	Illustrasjonsfoto .
+T8	Markable 160 176	To menn i 40-åra
+T9	Markable 170 176	40-åra
+T10	Markable 190 203	Sogn tingrett
+T11	Markable 221 223	si
+T12	Markable 216 227	kvar si sak
+T13	Markable 232 252	fyllekøyring i Årdal
+T14	Markable 247 252	Årdal
+T15	Markable 279 294	Den eine mannen
+T16	Markable 311 341	ein fuktig septemberdag i 2009
+T17	Markable 353 359	rattet
+T18	Markable 366 394	ein køyretur på to kilometer
+T19	Markable 382 394	to kilometer
+T20	Markable 402 408	mannen
+T21	Markable 419 427	politiet
+T22	Markable 447 453	mannen
+T23	Markable 460 480	ein promille på 1,98
+T24	Markable 483 486	Han
+T25	Markable 514 530	gyldig førarkort
+T26	Markable 533 555	Fleire promilleturar |
+T27	Markable 573 620	første gong mannen må svare for slike hendingar
+T28	Markable 585 591	mannen
+T29	Markable 605 620	slike hendingar
+T30	Markable 623 631	Tiltalte
+T31	Markable 654 669	promillekøyring
+T32	Markable 681 718	tredje gong han køyrde utan førarkort
+T33	Markable 693 696	han
+T34	Markable 709 718	førarkort
+T35	Markable 721 730	Sogningen
+T36	Markable 745 799	36 dagar i fengsel på villkår med ei prøvetid på to år
+T37	Markable 756 763	fengsel
+T38	Markable 767 774	villkår
+T39	Markable 779 799	ei prøvetid på to år
+T40	Markable 794 799	to år
+T41	Markable 802 805	Han
+T42	Markable 824 837	15.000 kroner
+T43	Markable 840 843	bot
+T44	Markable 852 892	sperrefrist på to år til å ta sertifikat
+T45	Markable 867 872	to år
+T46	Markable 882 892	sertifikat
+T47	Markable 899 906	frådrag
+T48	Markable 895 949	Til frådrag det halvanna året sidan hendinga skjedde .
+T49	Markable 931 939	hendinga
+T50	Markable 950 975	Fotgjengar og tusenlappar
+T51	Markable 950 960	Fotgjengar
+T52	Markable 964 975	tusenlappar
+T53	Markable 992 1001	sogningen
+T54	Markable 1040 1055	promillekøyring
+T55	Markable 1058 1082	Ein annan mann frå Årdal
+T56	Markable 1077 1082	Årdal
+T57	Markable 1099 1132	promillekøyring i desember i fjor
+T58	Markable 1117 1132	desember i fjor
+T59	Markable 1128 1132	fjor
+T60	Markable 1135 1141	Mannen
+T61	Markable 1156 1176	ein promille på 0,65
+T62	Markable 1181 1199	skjerpande retning
+T63	Markable 1207 1213	retten
+T64	Markable 1232 1245	ein passasjer
+T65	Markable 1248 1253	bilen
+T66	Markable 1256 1262	Mannen
+T67	Markable 1277 1331	fengsel i 16 dagar på villkår med ei prøvetid på to år
+T68	Markable 1287 1306	16 dagar på villkår
+T69	Markable 1299 1306	villkår
+T70	Markable 1311 1331	ei prøvetid på to år
+T71	Markable 1326 1331	to år
+T72	Markable 1354 1357	bot
+T73	Markable 1360 1363	Han
+T74	Markable 1376 1382	lappen
+T75	Markable 1385 1395	13 månader
+R1	Coref Arg1:T11 Arg2:T8	
+R2	Bridging Arg1:T15 Arg2:T8	
+R3	Coref Arg1:T20 Arg2:T15	
+R4	Coref Arg1:T22 Arg2:T20	
+R5	Coref Arg1:T24 Arg2:T22	
+R6	Coref Arg1:T28 Arg2:T24	
+R7	Coref Arg1:T30 Arg2:T28	
+R8	Coref Arg1:T33 Arg2:T30	
+R9	Coref Arg1:T35 Arg2:T33	
+R10	Coref Arg1:T41 Arg2:T35	
+R11	Coref Arg1:T53 Arg2:T41	
+R12	Coref Arg1:T60 Arg2:T55	
+R13	Coref Arg1:T66 Arg2:T60	
+R14	Coref Arg1:T73 Arg2:T66	
+R15	Coref Arg1:T63 Arg2:T10	
+R16	Coref Arg1:T56 Arg2:T14	

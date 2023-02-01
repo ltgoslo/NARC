@@ -1,0 +1,126 @@
+T1	Markable 0 4	USAs
+T2	Markable 0 39	USAs store mistak etter 11. september |
+T3	Markable 24 37	11. september
+T4	Markable 40 79	Amerikansk politikk etter 11. september
+T5	Markable 66 79	11. september
+T6	Markable 95 104	feiltrinn
+T8	Markable 129 172	ein krig mot terror og fanatiske islamistar
+T9	Markable 142 172	terror og fanatiske islamistar
+T10	Markable 142 148	terror
+T11	Markable 152 172	fanatiske islamistar
+T12	Markable 184 226	to mislukka krigar mot Afghanistan og Irak
+T13	Markable 207 226	Afghanistan og Irak
+T14	Markable 207 218	Afghanistan
+T15	Markable 222 226	Irak
+T16	Markable 233 274	fangeovergrepa i Abu Ghraib og Guantánamo
+T17	Markable 250 274	Abu Ghraib og Guantánamo
+T18	Markable 250 260	Abu Ghraib
+T19	Markable 264 274	Guantánamo
+T20	Markable 279 289	nullpunkta
+T21	Markable 292 307	Krigen mot Irak
+T22	Markable 303 307	Irak
+T23	Markable 343 346	Han
+T24	Markable 361 391	lygn frå Bush-administrasjonen
+T25	Markable 370 391	Bush-administrasjonen
+T27	Markable 406 462	den dåverande norske regjeringa som sa nei til deltaking
+T28	Markable 445 462	nei til deltaking
+T29	Markable 453 462	deltaking
+T30	Markable 482 500	Afghanistan-krigen
+T31	Markable 571 598	Al-Qaida-basane i Tora Bora
+T32	Markable 589 598	Tora Bora
+T33	Markable 614 632	Al-Qaida-medlemene
+T34	Markable 639 727	bakkeinvasjonen av Afghanistan og det tunge militære engasjementet for å slå ned Taliban
+T35	Markable 639 669	bakkeinvasjonen av Afghanistan
+T36	Markable 658 669	Afghanistan
+T37	Markable 673 727	det tunge militære engasjementet for å slå ned Taliban
+T38	Markable 720 727	Taliban
+T39	Markable 732 742	eit mistak
+T40	Markable 770 805	den norske regjeringa og Stortinget
+T41	Markable 770 791	den norske regjeringa
+T42	Markable 795 805	Stortinget
+T43	Markable 813 824	nei til USA
+T44	Markable 821 824	USA
+T45	Markable 827 904	Overmotet og vikarierande argument som kvinnefrigjering og kampen mot burkaen
+T46	Markable 827 836	Overmotet
+T47	Markable 840 904	vikarierande argument som kvinnefrigjering og kampen mot burkaen
+T48	Markable 866 904	kvinnefrigjering og kampen mot burkaen
+T49	Markable 866 882	kvinnefrigjering
+T50	Markable 886 904	kampen mot burkaen
+T51	Markable 897 904	burkaen
+T53	Markable 933 1041	ei heil mappe med naive sitat frå norske politikarar månadene etter at krigen starta om kva dei skulle oppnå
+T54	Markable 951 1041	naive sitat frå norske politikarar månadene etter at krigen starta om kva dei skulle oppnå
+T55	Markable 967 985	norske politikarar
+T56	Markable 986 1017	månadene etter at krigen starta
+T57	Markable 1004 1010	krigen
+T58	Markable 1025 1028	dei
+T59	Markable 1044 1047	Det
+T60	Markable 1057 1071	ein dyr lærdom
+T61	Markable 1080 1086	krigen
+T62	Markable 1089 1099	realiteten
+T63	Markable 1122 1143	den norske regjeringa
+T64	Markable 1144 1159	norske ungdomar
+T65	Markable 1164 1197	livsfarlege oppdrag i Afghanistan
+T66	Markable 1186 1197	Afghanistan
+T67	Markable 1200 1261	påvente av at Obama-administrasjonen skal trekkja troppane ut
+T68	Markable 1214 1236	Obama-administrasjonen
+T69	Markable 1250 1258	troppane
+T70	Markable 1264 1286	Minst 137.000 menneske
+T71	Markable 1299 1329	Irak , Afghanistan og Pakistan
+T72	Markable 1299 1305	Irak ,
+T73	Markable 1306 1317	Afghanistan
+T74	Markable 1321 1329	Pakistan
+T75	Markable 1332 1336	USAs
+T76	Markable 1332 1352	USAs kamp mot terror
+T77	Markable 1346 1352	terror
+T78	Markable 1355 1371	Fleire millionar
+T79	Markable 1382 1393	flyktningar
+T81	Markable 1424 1427	dei
+T82	Markable 1446 1449	USA
+T83	Markable 1464 1472	Pakistan
+T85	Markable 1504 1541	ei endå meir vanvitig økonomisk gjeld
+T86	Markable 1558 1572	den minste sak
+T87	Markable 1585 1588	USA
+T88	Markable 1593 1623	politikken etter 11. september
+T89	Markable 1610 1623	11. september
+T90	Markable 1670 1683	Johan Galtung
+T91	Markable 1686 1696	Denne veka
+T92	Markable 1702 1705	han
+T93	Markable 1706 1715	Erik Byes
+T94	Markable 1706 1725	Erik Byes minnepris
+T95	Markable 1752 1832	norske « snikskyttarar » i Afghanistan som « med kaldt blod drep talibanarar » ,
+T96	Markable 1779 1790	Afghanistan
+T97	Markable 1801 1811	kaldt blod
+T98	Markable 1817 1828	talibanarar
+T99	Markable 1837 1857	massemordet på Utøya
+T100	Markable 1852 1857	Utøya
+R1	Coref Arg1:T3 Arg2:T5	
+R2	Coref Arg1:T22 Arg2:T15	
+R3	Coref Arg1:T23 Arg2:T21	
+T102	Markable 1651 1683	få som driv på som Johan Galtung
+R4	Coref Arg1:T36 Arg2:T14	
+R5	Bridging Arg1:T34 Arg2:T30	
+R7	Coref Arg1:T1 Arg2:T44	
+R8	Coref Arg1:T57 Arg2:T30	
+R9	Coref Arg1:T58 Arg2:T55	
+R10	Coref Arg1:T61 Arg2:T57	
+R11	Coref Arg1:T63 Arg2:T41	
+R12	Coref Arg1:T66 Arg2:T36	
+R13	Coref Arg1:T72 Arg2:T22	
+R14	Coref Arg1:T73 Arg2:T66	
+R15	Coref Arg1:T75 Arg2:T44	
+R16	Coref Arg1:T82 Arg2:T75	
+T52	Markable 1437 1449	6000 frå USA
+R17	Coref Arg1:T83 Arg2:T74	
+T84	Markable 1493 1496	USA
+R18	Coref Arg1:T84 Arg2:T82	
+R19	Coref Arg1:T87 Arg2:T84	
+R20	Coref Arg1:T88 Arg2:T4	
+R21	Coref Arg1:T89 Arg2:T5	
+R22	Coref Arg1:T92 Arg2:T90	
+R23	Coref Arg1:T96 Arg2:T73	
+T7	Markable 107 172	Det som burde ha vore ein krig mot terror og fanatiske islamistar
+T26	Markable 394 462	All ære til den dåverande norske regjeringa som sa nei til deltaking
+T80	Markable 1396 1418	7500 allierte soldatar
+R24	Coref Arg1:T81 Arg2:T80	
+T101	Markable 406 437	den dåverande norske regjeringa
+R6	Coref Arg1:T41 Arg2:T101	

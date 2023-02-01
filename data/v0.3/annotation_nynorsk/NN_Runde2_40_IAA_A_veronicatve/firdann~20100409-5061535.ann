@@ -1,0 +1,72 @@
+T1	Markable 16 20	sola
+T2	Markable 66 78	meteorologen
+T3	Markable 82 92	helgevêret
+T4	Markable 95 110	Også neste veke
+T5	Markable 126 131	Vêret
+T6	Markable 165 170	helga
+T7	Markable 179 231	meteorolog Martin Grønnevet hos Storm Weather Center
+T8	Markable 211 231	Storm Weather Center
+T9	Markable 245 248	dag
+T10	Markable 253 258	vêret
+T11	Markable 296 310	nokre regnbyer
+T12	Markable 314 320	kysten
+T13	Markable 330 334	sola
+T14	Markable 354 362	skylaget
+T15	Markable 370 373	det
+T16	Markable 381 413	trenden vi har i vente for helga
+T17	Markable 389 391	vi
+T18	Markable 398 403	vente
+T19	Markable 408 413	helga
+T20	Markable 416 418	Vi
+T21	Markable 427 437	litt skyer
+T22	Markable 440 464	kanskje spesielt laurdag
+T23	Markable 478 484	søndag
+T24	Markable 491 493	eg
+T25	Markable 499 501	vi
+T26	Markable 512 524	mykje nedbør
+T27	Markable 537 546	Grønnevet
+T28	Markable 552 564	meteorologen
+T29	Markable 608 615	ein del
+T30	Markable 608 619	ein del sol
+T31	Markable 622 628	fylket
+T32	Markable 644 655	indre strøk
+T33	Markable 666 672	kysten
+T34	Markable 677 680	dei
+T35	Markable 684 699	litt meir skyer
+T36	Markable 719 743	ein risiko for litt tåke
+T37	Markable 734 743	litt tåke
+T38	Markable 772 777	helga
+T39	Markable 793 807	den siste tida
+T40	Markable 814 816	du
+T41	Markable 829 832	deg
+T42	Markable 833 857	meir enn 10 og 12 grader
+T43	Markable 860 874	Det gode vêret
+T44	Markable 887 892	taket
+T45	Markable 897 907	det første
+T46	Markable 912 918	Måndag
+T47	Markable 923 925	vi
+T48	Markable 926 935	litt regn
+T49	Markable 954 956	vi
+T50	Markable 957 960	oss
+T51	Markable 961 978	mykje opphaldsver
+T52	Markable 979 1003	den første delen av veka
+T53	Markable 999 1003	veka
+T54	Markable 1014 1035	slutten av neste veke
+T55	Markable 1025 1035	neste veke
+R1	Coref Arg1:T7 Arg2:T2	
+R2	Coref Arg1:T5 Arg2:T3	
+R3	Coref Arg1:T10 Arg2:T5	
+R4	Coref Arg1:T13 Arg2:T1	
+R5	Coref Arg1:T20 Arg2:T17	
+R6	Coref Arg1:T25 Arg2:T20	
+R7	Coref Arg1:T24 Arg2:T7	
+R8	Coref Arg1:T27 Arg2:T24	
+R9	Coref Arg1:T28 Arg2:T27	
+R10	Coref Arg1:T41 Arg2:T40	
+R11	Coref Arg1:T43 Arg2:T56	
+R12	Coref Arg1:T47 Arg2:T25	
+R13	Coref Arg1:T49 Arg2:T47	
+R14	Coref Arg1:T50 Arg2:T49	
+T56	Markable 271 274	seg
+R15	Coref Arg1:T56 Arg2:T10	
+R16	Coref Arg1:T33 Arg2:T12	

@@ -1,0 +1,87 @@
+T1	Markable 17 20	løn
+T2	Markable 23 52	Dei tilsette ved Fundo Wheels
+T3	Markable 40 52	Fundo Wheels
+T4	Markable 74 86	desemberløna
+T5	Markable 89 119	Eirik Flæthe ( til venstre ) |
+T6	Markable 108 115	venstre
+T7	Markable 125 141	Bent Are Iversen
+T9	Markable 142 173	Firda Media PB.160 , 6801 Førde
+T10	Markable 185 197	www.firda.no
+T11	Markable 202 207	Dette
+T12	Markable 225 230	mange
+T13	Markable 245 264	fleire utfordringar
+T14	Markable 282 310	hovudtillitsvald Erik Flæthe
+T15	Markable 315 323	firda.no
+T16	Markable 328 337	styremøte
+T17	Markable 338 344	søndag
+T18	Markable 347 359	Søndag kveld
+T19	Markable 354 359	kveld
+T20	Markable 364 407	Flæthe og dei andre styremedlemmene i Fundo
+T21	Markable 364 370	Flæthe
+T22	Markable 374 407	dei andre styremedlemmene i Fundo
+T23	Markable 402 407	Fundo
+T24	Markable 410 419	styremøte
+T25	Markable 426 432	Flæthe
+T26	Markable 447 470	høve for ein liten prat
+T27	Markable 456 470	ein liten prat
+T28	Markable 475 477	Vi
+T29	Markable 482 496	ei usikker tid
+T30	Markable 499 503	møte
+T31	Markable 506 508	Vi
+T32	Markable 534 542	fingrane
+T33	Markable 548 553	dagen
+T34	Markable 563 592	fleire ting som skal på plass
+T35	Markable 587 592	plass
+T36	Markable 595 601	Fredag
+T37	Markable 607 609	vi
+T38	Markable 610 637	ein mellombels driftsavtale
+T39	Markable 641 646	plass
+T40	Markable 653 655	vi
+T41	Markable 660 697	mange spørsmål som vi ønskjer svar på
+T42	Markable 679 681	vi
+T43	Markable 690 697	svar på
+T44	Markable 704 709	dømes
+T45	Markable 720 722	vi
+T46	Markable 723 732	neste løn
+T47	Markable 735 754	Borbet på synfaring
+T48	Markable 745 754	synfaring
+T49	Markable 757 763	Fredag
+T50	Markable 768 827	representantar frå Borbet , Europas største felgprodusent ,
+T51	Markable 787 825	Borbet , Europas største felgprodusent
+T52	Markable 796 803	Europas
+T53	Markable 796 825	Europas største felgprodusent
+T54	Markable 831 850	synfaring hjå Fundo
+T55	Markable 845 850	Fundo
+T56	Markable 853 856	Dei
+T57	Markable 889 913	felgfabrikken i Høyanger
+T58	Markable 905 913	Høyanger
+T59	Markable 964 1004	moglegheiter for at nye eigarar tek over
+T60	Markable 984 995	nye eigarar
+T61	Markable 1007 1013	Borbet
+T62	Markable 1020 1040	nokre representantar
+T63	Markable 1044 1057	synfaring her
+T64	Markable 1063 1065	vi
+T65	Markable 1083 1091	fingrane
+R1	Coref Arg1:T4 Arg2:T1	
+R2	Coref Arg1:T11 Arg2:T4	
+R3	Coref Arg1:T14 Arg2:T5	
+R4	Coref Arg1:T15 Arg2:T10	
+R5	Coref Arg1:T24 Arg2:T16	
+R6	Coref Arg1:T18 Arg2:T17	
+R7	Coref Arg1:T21 Arg2:T14	
+R8	Bridging Arg1:T20 Arg2:T3	
+R9	Coref Arg1:T25 Arg2:T21	
+R10	Coref Arg1:T42 Arg2:T40	
+R11	Coref Arg1:T40 Arg2:T37	
+R12	Coref Arg1:T37 Arg2:T31	
+R13	Coref Arg1:T31 Arg2:T28	
+R14	Coref Arg1:T45 Arg2:T42	
+R15	Coref Arg1:T55 Arg2:T23	
+R16	Coref Arg1:T47 Arg2:T50	
+R17	Coref Arg1:T56 Arg2:T50	
+R18	Coref Arg1:T61 Arg2:T51	
+R19	Coref Arg1:T62 Arg2:T56	
+R20	Coref Arg1:T64 Arg2:T45	
+R21	Coref Arg1:T57 Arg2:T55	
+R22	Coref Arg1:T54 Arg2:T48	
+R23	Coref Arg1:T63 Arg2:T54	

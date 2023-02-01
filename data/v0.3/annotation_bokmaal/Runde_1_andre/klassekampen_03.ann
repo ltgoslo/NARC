@@ -1,0 +1,1003 @@
+T1	Markable 11 14	dei
+T2	Markable 26 36	Rukkedalen
+T3	Markable 41 52	heile bygda
+T4	Markable 62 79	ein enorm innsats
+T5	Markable 93 122	den vesle raudmåla skolen sin
+T6	Markable 119 122	sin
+R1	Coref Arg1:T6 Arg2:T3	
+T7	Markable 137 161	den raudgrøne regjeringa
+T8	Markable 168 179	ein stoppar
+T9	Markable 192 222	Elevane på Rukkedalen friskole
+T10	Markable 203 222	Rukkedalen friskole
+R2	Coref Arg1:T10 Arg2:T5	
+T11	Markable 243 251	akebrett
+T12	Markable 255 274	snøholer i storefri
+T13	Markable 266 274	storefri
+T14	Markable 279 291	Klassekampen
+T15	Markable 300 305	besøk
+T16	Markable 313 325	Brede ( 11 )
+T17	Markable 351 354	oss
+T18	Markable 334 337	tid
+T19	Markable 330 333	seg
+R3	Coref Arg1:T19 Arg2:T16	
+T20	Markable 359 369	fotografen
+T21	Markable 385 391	elevar
+T22	Markable 526 530	tala
+T23	Markable 537 542	Brede
+T24	Markable 543 548	turen
+R4	Coref Arg1:T23 Arg2:T19	
+T25	Markable 556 575	kontoret til rektor
+T26	Markable 569 575	rektor
+T27	Markable 586 593	eit ark
+T28	Markable 607 625	heile reknestykket
+T29	Markable 630 633	oss
+R5	Coref Arg1:T29 Arg2:T17	
+T30	Markable 636 639	Han
+R6	Coref Arg1:T30 Arg2:T23	
+T31	Markable 719 744	33 elevar på heile skolen
+T32	Markable 732 744	heile skolen
+R7	Coref Arg1:T32 Arg2:T10	
+R8	Coref Arg1:T17 Arg2:T14	
+T33	Markable 747 754	Pultane
+T34	Markable 772 775	oss
+T35	Markable 781 785	tida
+T36	Markable 786 802	eit drøyt halvår
+T37	Markable 813 822	Tre veker
+T38	Markable 827 844	skolestart i fjor
+T39	Markable 840 844	fjor
+T40	Markable 849 864	kommunale bilar
+T41	Markable 900 906	skolen
+T42	Markable 887 942	det utstyret skolen trong for å starta eit nytt skoleår
+T43	Markable 926 942	eit nytt skoleår
+T44	Markable 874 942	det meste av det utstyret skolen trong for å starta eit nytt skoleår
+T45	Markable 945 951	Pultar
+T46	Markable 955 967	andre møblar
+R9	Coref Arg1:T33 Arg2:T45	
+T47	Markable 970 981	høvelbenkar
+T48	Markable 1029 1038	lasteplan
+T49	Markable 1052 1059	Nesbyen
+T50	Markable 1062 1131	Kommunestyrefleirtalet av Høgre og Arbeidarpartiet i Nes i Hallingdal
+T51	Markable 1088 1093	Høgre
+T52	Markable 1097 1112	Arbeidarpartiet
+T53	Markable 1115 1131	Nes i Hallingdal
+T54	Markable 1121 1131	Hallingdal
+T55	Markable 1149 1155	skolen
+T56	Markable 1180 1192	hausten 2006
+R10	Coref Arg1:T55 Arg2:T41	
+R11	Coref Arg1:T41 Arg2:T32	
+T57	Markable 1195 1204	Økonomien
+T58	Markable 1221 1227	Elevar
+T59	Markable 1231 1238	lærarar
+T60	Markable 1259 1266	Nesbyen
+T61	Markable 1269 1283	seks kilometer
+R12	Coref Arg1:T60 Arg2:T49	
+T62	Markable 1311 1332	foreldra i Rukkedalen
+T63	Markable 1322 1332	Rukkedalen
+T64	Markable 1337 1339	Vi
+T65	Markable 1359 1396	noko ønske om å driva ein privatskole
+T66	Markable 1381 1396	ein privatskole
+T67	Markable 1399 1401	vi
+R13	Coref Arg1:T67 Arg2:T64	
+T68	Markable 1426 1434	kommunen
+T69	Markable 1447 1453	skolen
+T70	Markable 1465 1484	ein offentleg skole
+R14	Coref Arg1:T69 Arg2:T55	
+T71	Markable 1495 1514	nedleggingsvedtaket
+T72	Markable 1519 1529	eit faktum
+T73	Markable 1537 1539	vi
+R15	Coref Arg1:T73 Arg2:T67	
+T74	Markable 1559 1569	ei løysing
+T75	Markable 1572 1574	Vi
+R16	Coref Arg1:T75 Arg2:T73	
+T76	Markable 1593 1599	skolen
+R17	Coref Arg1:T76 Arg2:T69	
+T77	Markable 1608 1619	Tore Løkken
+T78	Markable 1622 1628	Løkken
+R18	Coref Arg1:T78 Arg2:T77	
+T79	Markable 1632 1666	styreleiar for Rukkedalen friskole
+T80	Markable 1647 1666	Rukkedalen friskole
+R19	Coref Arg1:T80 Arg2:T76	
+T81	Markable 1669 1672	Han
+R20	Coref Arg1:T81 Arg2:T78	
+T82	Markable 1702 1715	ein enkel sak
+T83	Markable 1720 1728	foreldra
+R21	Coref Arg1:T83 Arg2:T75	
+T84	Markable 1734 1745	godkjenning
+T85	Markable 1758 1764	skolen
+T86	Markable 1769 1777	friskole
+R22	Coref Arg1:T85 Arg2:T80	
+T87	Markable 1795 1798	ein
+T88	Markable 1811 1837	det offentlege byråkratiet
+T89	Markable 13024 13027	Ein
+T90	Markable 1875 1896	stor spenning i bygda
+T91	Markable 1891 1896	bygda
+R23	Coref Arg1:T91 Arg2:T6	
+T92	Markable 1906 1911	våren
+T93	Markable 1918 1923	rykta
+T94	Markable 1937 1950	departementet
+T95	Markable 1973 1982	friskolen
+R24	Coref Arg1:T95 Arg2:T85	
+T96	Markable 2003 2006	håp
+T97	Markable 2010 2020	fortviling
+T98	Markable 2025 2058	dei mange som hadde engasjert seg
+T99	Markable 2055 2058	seg
+R25	Coref Arg1:T99 Arg2:T98	
+T100	Markable 2066 2073	lærarar
+T101	Markable 2074 2100	Rektor Lillemor Lerskallen
+T102	Markable 2110 2129	rektor i Rukkedalen
+T103	Markable 2119 2129	Rukkedalen
+R26	Coref Arg1:T103 Arg2:T63	
+R27	Coref Arg1:T63 Arg2:T2	
+T104	Markable 2133 2139	skolen
+R28	Coref Arg1:T104 Arg2:T95	
+T105	Markable 2155 2185	ein skole med ei lang historie
+T106	Markable 2169 2185	ei lang historie
+T107	Markable 2191 2207	veggene i gangen
+T108	Markable 2201 2207	gangen
+T109	Markable 2213 2268	bileta frå tidlegare generasjonar som har gått på skole
+T110	Markable 2224 2268	tidlegare generasjonar som har gått på skole
+T111	Markable 2263 2268	skole
+T112	Markable 2275 2285	det eldste
+T113	Markable 2301 2305	fjor
+T114	Markable 2310 2312	eg
+R29	Coref Arg1:T114 Arg2:T101	
+T115	Markable 2326 2338	siste gongen
+T116	Markable 2339 2341	vi
+T117	Markable 2352 2385	fana vår i 17. maitoget i Nesbyen
+T118	Markable 2357 2360	vår
+R30	Coref Arg1:T118 Arg2:T116	
+T119	Markable 2363 2385	17. maitoget i Nesbyen
+T120	Markable 2378 2385	Nesbyen
+T121	Markable 2395 2401	rektor
+T122	Markable 2406 2408	Vi
+R31	Coref Arg1:T122 Arg2:T118	
+T123	Markable 2421 2430	butikkane
+T124	Markable 2440 2446	skolen
+R32	Coref Arg1:T124 Arg2:T104	
+T125	Markable 2477 2492	foreldreflokken
+T126	Markable 2508 2517	anna hald
+T127	Markable 2543 2548	bygda
+T128	Markable 2557 2563	rektor
+R33	Coref Arg1:T127 Arg2:T91	
+T129	Markable 2566 2570	Tida
+T130	Markable 2582 2596	ein drøy månad
+T131	Markable 2601 2611	skolestart
+T132	Markable 2619 2622	dei
+T133	Markable 2632 2643	godkjenning
+T134	Markable 2654 2660	skolen
+R34	Coref Arg1:T132 Arg2:T124	
+R35	Coref Arg1:T134 Arg2:T132	
+T135	Markable 2666 2673	lærarar
+T136	Markable 2681 2692	godkjenning
+T137	Markable 2717 2733	lærarstillingane
+T138	Markable 2739 2780	dei som hadde jobb i den kommunale skolen
+T139	Markable 2753 2780	jobb i den kommunale skolen
+T140	Markable 2760 2780	den kommunale skolen
+T141	Markable 2794 2845	tilbod om nye jobbar på den andre skolen i kommunen
+T142	Markable 2804 2814	nye jobbar
+T143	Markable 2818 2845	den andre skolen i kommunen
+T144	Markable 2837 2845	kommunen
+R36	Coref Arg1:T144 Arg2:T120	
+T145	Markable 2854 2860	rektor
+T146	Markable 2864 2875	assistenten
+T147	Markable 2887 2894	sjansen
+T148	Markable 2914 2926	den 11. juli
+T149	Markable 2939 2979	den skriftlege godkjenninga av friskolen
+T150	Markable 2970 2979	friskolen
+T151	Markable 2989 3001	hard innsats
+T152	Markable 3019 3039	kvalifiserte lærarar
+T153	Markable 3046 3054	kommunen
+R38	Coref Arg1:T153 Arg2:T144	
+T154	Markable 3074 3077	alt
+T155	Markable 3102 3121	dei lokale kreftene
+T156	Markable 3178 3181	dei
+R39	Coref Arg1:T156 Arg2:T155	
+T157	Markable 3208 3250	sympati for prosjektet Rukkedalen friskole
+T158	Markable 3196 3201	mange
+T159	Markable 3220 3250	prosjektet Rukkedalen friskole
+R40	Coref Arg1:T159 Arg2:T150	
+T160	Markable 3253 3267	Privatpersonar
+T161	Markable 3271 3280	bedrifter
+T162	Markable 3295 3301	utstyr
+T163	Markable 3302 3305	dei
+R37	Coref Arg1:T163 Arg2:T156	
+T164	Markable 3324 3329	somme
+T165	Markable 3334 3340	pengar
+T166	Markable 3348 3359	arkivskapet
+T167	Markable 3363 3368	safen
+T168	Markable 3385 3395	lastebilen
+T169	Markable 3400 3407	Nesbyen
+R41	Coref Arg1:T169 Arg2:T153	
+T170	Markable 3418 3421	dei
+R42	Coref Arg1:T170 Arg2:T163	
+T171	Markable 3431 3460	gåve frå eit rekneskapskontor
+T172	Markable 3440 3460	eit rekneskapskontor
+T173	Markable 3469 3476	grunnen
+T174	Markable 3485 3499	Telenor på Gol
+T175	Markable 3496 3499	Gol
+T176	Markable 3507 3511	logo
+T177	Markable 3528 3532	sofa
+T178	Markable 3535 3545	lenestolar
+T179	Markable 3549 3579	anna utstyr med « feil farge »
+T180	Markable 3567 3577	feil farge
+T181	Markable 3592 3602	Rukkedalen
+R43	Coref Arg1:T181 Arg2:T103	
+T182	Markable 3607 3609	Vi
+R44	Coref Arg1:T182 Arg2:T170	
+T183	Markable 3619 3621	vi
+R45	Coref Arg1:T183 Arg2:T182	
+T184	Markable 3653 3655	vi
+R46	Coref Arg1:T184 Arg2:T183	
+T185	Markable 3667 3671	bruk
+T186	Markable 3681 3687	rektor
+T187	Markable 3699 3737	den vesle raudmåla skolen i Rukkedalen
+T188	Markable 3727 3737	Rukkedalen
+R47	Coref Arg1:T188 Arg2:T181	
+T189	Markable 3762 3776	sine 33 elevar
+T190	Markable 3762 3766	sine
+R48	Coref Arg1:T190 Arg2:T187	
+R49	Coref Arg1:T187 Arg2:T159	
+T191	Markable 3779 3791	seks lærarar
+T192	Markable 3795 3808	ein assistent
+T193	Markable 3811 3823	Folk i bygda
+T194	Markable 3818 3823	bygda
+T195	Markable 3826 3845	engasjerte foreldre
+T196	Markable 3849 3873	politiske støttespelarar
+T197	Markable 3882 3887	bygda
+R50	Coref Arg1:T197 Arg2:T194	
+T198	Markable 3919 3921	Ap
+T199	Markable 3925 3930	Høgre
+T200	Markable 3954 3959	våren
+T201	Markable 3965 3975	Stortinget
+T202	Markable 3985 4005	den nye friskolelova
+R51	Coref Arg1:T194 Arg2:T184	
+T203	Markable 4023 4048	den raudgrønne regjeringa
+T204	Markable 4080 4161	ein stoppar for å gi statsstøtte til Rukkedalen og andre foreldredrivne friskolar
+T205	Markable 3945 3950	løpet
+R52	Coref Arg1:T203 Arg2:T7	
+T206	Markable 4117 4127	Rukkedalen
+T207	Markable 4131 4161	andre foreldredrivne friskolar
+R53	Coref Arg1:T206 Arg2:T190	
+T208	Markable 4171 4182	heile bygda
+T209	Markable 4183 4193	Rukkedalen
+R54	Coref Arg1:T209 Arg2:T188	
+T210	Markable 4194 4200	skolen
+R55	Coref Arg1:T210 Arg2:T206	
+T211	Markable 4204 4223	midtpunktet i bygda
+T212	Markable 4218 4223	bygda
+R56	Coref Arg1:T212 Arg2:T208	
+R57	Coref Arg1:T208 Arg2:T197	
+T213	Markable 4237 4242	ungar
+T214	Markable 4246 4252	vaksne
+T215	Markable 4257 4268	juletrefest
+T216	Markable 4285 4288	dei
+T217	Markable 4289 4296	17. mai
+T218	Markable 4317 4322	dagen
+T219	Markable 4326 4329	dei
+R60	Coref Arg1:T219 Arg2:T216	
+T220	Markable 4337 4365	17. maiarrangement i Nesbyen
+T221	Markable 4358 4365	Nesbyen
+R61	Coref Arg1:T221 Arg2:T169	
+T222	Markable 4371 4391	elevane i Rukkedalen
+T223	Markable 4381 4391	Rukkedalen
+T224	Markable 4401 4413	skolekorpset
+R62	Coref Arg1:T223 Arg2:T209	
+R63	Coref Arg1:T222 Arg2:T189	
+T225	Markable 4427 4434	kvelden
+T226	Markable 4442 4488	samling til 17. maifest på skolen i Rukkedalen
+T227	Markable 4454 4488	17. maifest på skolen i Rukkedalen
+T228	Markable 4469 4488	skolen i Rukkedalen
+T229	Markable 4478 4488	Rukkedalen
+R64	Coref Arg1:T228 Arg2:T210	
+R65	Coref Arg1:T229 Arg2:T223	
+T230	Markable 4505 4516	heile bygda
+R66	Coref Arg1:T230 Arg2:T219	
+T231	Markable 4521 4533	aksjonskveld
+T232	Markable 4545 4565	TV-aksjon på hausten
+T233	Markable 4558 4565	hausten
+T234	Markable 4572 4577	basar
+T235	Markable 4581 4592	kakelotteri
+T236	Markable 4595 4633	Ein innsamlingsrekord på 18.000 kroner
+T237	Markable 4620 4633	18.000 kroner
+T238	Markable 4637 4656	inga skam for bygda
+T239	Markable 4651 4656	bygda
+R67	Coref Arg1:T239 Arg2:T230	
+T240	Markable 4689 4698	ein skole
+T241	Markable 4707 4709	de
+T242	Markable 4726 4739	eit grendehus
+T243	Markable 4749 4754	skole
+T244	Markable 4779 4787	det same
+R68	Coref Arg1:T241 Arg2:T239	
+T245	Markable 4790 4792	Vi
+R69	Coref Arg1:T245 Arg2:T437	
+T246	Markable 4810 4834	den kontakten med ungane
+T247	Markable 4828 4834	ungane
+T248	Markable 4843 4849	rektor
+T249	Markable 4859 4882	ein skole med 33 elevar
+T250	Markable 4873 4882	33 elevar
+T251	Markable 4883 4907	eit stort nok skolemiljø
+T252	Markable 4913 4934	fagmiljø for lærarane
+T253	Markable 4926 4934	lærarane
+T254	Markable 4937 4967	Førsteklassingane , seks gutar
+T255	Markable 4973 4982	ei gruppe
+T256	Markable 4995 4997	år
+T257	Markable 5005 5029	ingen som går andre året
+T258	Markable 5019 5029	andre året
+T259	Markable 5032 5046	3. og 4. trinn
+T260	Markable 5053 5056	lag
+T261	Markable 5062 5081	5. , 6. og 7. trinn
+T262	Markable 5110 5120	to grupper
+R70	Coref Arg1:T253 Arg2:T191	
+T263	Markable 5142 5163	Lærarane i Rukkedalen
+R71	Coref Arg1:T263 Arg2:T253	
+T264	Markable 5153 5163	Rukkedalen
+R72	Coref Arg1:T264 Arg2:T229	
+T265	Markable 5184 5193	fordelane
+T266	Markable 5208 5211	dei
+T267	Markable 5217 5223	elevar
+T268	Markable 5227 5235	foreldre
+T269	Markable 5241 5252	alle elevar
+T270	Markable 5267 5269	Vi
+R73	Coref Arg1:T270 Arg2:T266	
+T271	Markable 5287 5294	mobbing
+T272	Markable 5304 5306	vi
+R74	Coref Arg1:T272 Arg2:T270	
+T273	Markable 5311 5320	få elevar
+T274	Markable 5327 5329	vi
+R75	Coref Arg1:T274 Arg2:T272	
+T275	Markable 5342 5356	eit betre høve
+T276	Markable 5361 5377	dei fleste andre
+T277	Markable 5400 5408	ein gong
+T278	Markable 5411 5419	Disiplin
+T279	Markable 5451 5458	elevane
+T280	Markable 5462 5465	dei
+T281	Markable 5477 5480	seg
+T282	Markable 5508 5514	rektor
+R76	Coref Arg1:T281 Arg2:T280	
+R77	Coref Arg1:T280 Arg2:T279	
+R78	Coref Arg1:T279 Arg2:T273	
+T283	Markable 5522 5524	vi
+R79	Coref Arg1:T283 Arg2:T274	
+T284	Markable 5544 5553	ungetalet
+T285	Markable 5595 5617	prevensjonsundervising
+T286	Markable 5624 5626	ho
+T287	Markable 5582 5584	vi
+R80	Coref Arg1:T287 Arg2:T283	
+R81	Coref Arg1:T286 Arg2:T282	
+T288	Markable 5636 5644	kunnskap
+T289	Markable 5666 5713	pedagogiske eller sosialiseringsmessige grunnar
+T290	Markable 5756 5771	dei små skolane
+T291	Markable 5780 5825	Professor Rune Kvalsund ved Høgskolen i Volda
+T292	Markable 5808 5825	Høgskolen i Volda
+T293	Markable 5828 5836	Kvalsund
+R82	Coref Arg1:T293 Arg2:T291	
+T294	Markable 5855 5876	storleiken på skolane
+T295	Markable 5869 5876	skolane
+T296	Markable 5899 5905	læring
+T297	Markable 5913 5941	sosial utvikling hos elevane
+T298	Markable 5934 5941	elevane
+T299	Markable 5944 5947	Han
+R83	Coref Arg1:T299 Arg2:T293	
+T300	Markable 5957 5973	doktorgraden sin
+T301	Markable 5970 5973	sin
+R84	Coref Arg1:T301 Arg2:T299	
+T302	Markable 5977 6006	eit arbeid om uformell læring
+T303	Markable 5991 6006	uformell læring
+T304	Markable 6013 6016	han
+R85	Coref Arg1:T304 Arg2:T301	
+T305	Markable 6029 6061	fådelte og fulldelte bygdeskolar
+T306	Markable 6081 6084	lag
+T307	Markable 6089 6211	forskarar i andre land som samanliknar erfaringar med nærmiljøskolar i dei nordiske landa og i Wales , Skotland og England
+T308	Markable 6101 6111	andre land
+T309	Markable 6128 6138	erfaringar
+T310	Markable 6143 6178	nærmiljøskolar i dei nordiske landa
+T311	Markable 6184 6189	Wales
+T312	Markable 6160 6178	dei nordiske landa
+T313	Markable 6192 6200	Skotland
+T314	Markable 6204 6211	England
+T315	Markable 6214 6217	Han
+R86	Coref Arg1:T315 Arg2:T304	
+T316	Markable 6228 6247	alle undersøkingane
+T317	Markable 6272 6287	dei små skolane
+T318	Markable 6311 6321	dei større
+T319	Markable 6335 6338	dei
+R87	Coref Arg1:T319 Arg2:T317	
+R88	Coref Arg1:T317 Arg2:T290	
+T320	Markable 6395 6412	omgrepet kunnskap
+T321	Markable 6384 6387	ein
+T322	Markable 6356 6361	grunn
+T323	Markable 6415 6443	Skole i denne delen av livet
+T324	Markable 6423 6443	denne delen av livet
+T325	Markable 6438 6443	livet
+T326	Markable 6477 6487	hovudvekta
+T327	Markable 6505 6512	elevane
+R89	Coref Arg1:T327 Arg2:T298	
+T328	Markable 6523 6573	mobil arbeidskraft i ein konkurranseutsett økonomi
+T329	Markable 6544 6573	ein konkurranseutsett økonomi
+T330	Markable 6599 6679	abstrakt skolefagkunnskap fråkopla brukssamanhengane i natur , samfunn og kultur
+T331	Markable 6634 6679	brukssamanhengane i natur , samfunn og kultur
+T332	Markable 6654 6659	natur
+T333	Markable 6662 6669	samfunn
+T334	Markable 6673 6679	kultur
+T335	Markable 6688 6699	professoren
+R90	Coref Arg1:T335 Arg2:T315	
+T336	Markable 6702 6705	Han
+R91	Coref Arg1:T336 Arg2:T335	
+T337	Markable 6719 6734	dei små skolane
+R92	Coref Arg1:T337 Arg2:T319	
+T338	Markable 6739 6829	potensial for ei kunnskapslæring som er forankra i folk , handlingar og lokale aktivitetar
+T339	Markable 6753 6829	ei kunnskapslæring som er forankra i folk , handlingar og lokale aktivitetar
+T340	Markable 6790 6794	folk
+T341	Markable 6797 6807	handlingar
+T342	Markable 6811 6829	lokale aktivitetar
+T343	Markable 6832 6835	Dei
+R93	Coref Arg1:T343 Arg2:T337	
+T344	Markable 6855 6860	natur
+T345	Markable 6864 6881	lokalt næringsliv
+T346	Markable 6886 6895	det heile
+T347	Markable 6896 6899	det
+T348	Markable 6913 6916	seg
+R94	Coref Arg1:T348 Arg2:T347	
+T349	Markable 6919 6931	lokalmiljøet
+T350	Markable 6934 6941	Elevane
+T351	Markable 6956 6966	kunnskapen
+T352	Markable 6999 7002	ein
+R95	Coref Arg1:T350 Arg2:T327	
+T353	Markable 7052 7070	innhaldet i skolen
+T354	Markable 7064 7070	skolen
+T355	Markable 7094 7105	denne måten
+T356	Markable 7111 7117	skolen
+R96	Coref Arg1:T356 Arg2:T354	
+T357	Markable 7127 7145	livet til dei unge
+T358	Markable 7137 7145	dei unge
+T359	Markable 7155 7158	dei
+R97	Coref Arg1:T359 Arg2:T358	
+T360	Markable 7180 7183	dei
+R98	Coref Arg1:T360 Arg2:T359	
+T361	Markable 7208 7216	menneske
+T362	Markable 7189 7193	ferd
+T363	Markable 6850 6854	bruk
+T364	Markable 7228 7238	kvalitetar
+T365	Markable 7239 7242	ein
+T366	Markable 7268 7271	ein
+T367	Markable 7281 7287	skolar
+T368	Markable 7290 7298	Kvalsund
+R99	Coref Arg1:T368 Arg2:T336	
+T369	Markable 7308 7323	skolestrukturen
+T370	Markable 7326 7335	samanheng
+T371	Markable 7340 7393	eit ønske om å oppretthalda busettinga i heile landet
+T372	Markable 7368 7393	busettinga i heile landet
+T373	Markable 7381 7393	heile landet
+T374	Markable 7403 7405	vi
+T375	Markable 7417 7439	bruken av heile landet
+T376	Markable 7427 7439	heile landet
+T377	Markable 7459 7497	dei som kjem frå dei små lokalsamfunna
+T378	Markable 7476 7497	dei små lokalsamfunna
+T379	Markable 7512 7525	ei oppfatning
+T380	Markable 7508 7511	seg
+R100	Coref Arg1:T380 Arg2:T377	
+T381	Markable 7540 7552	ein god stad
+T382	Markable 7565 7577	ein god stad
+T383	Markable 7600 7603	dei
+R101	Coref Arg1:T383 Arg2:T380	
+T384	Markable 7616 7634	Innhaldet i skolen
+T385	Markable 7628 7634	skolen
+R102	Coref Arg1:T385 Arg2:T356	
+T386	Markable 7658 7675	eit visst sannsyn
+T387	Markable 7683 7690	elevane
+R103	Coref Arg1:T384 Arg2:T353	
+R104	Coref Arg1:T387 Arg2:T350	
+T388	Markable 7718 7728	erfaringar
+T389	Markable 7732 7737	idear
+T390	Markable 7742 7756	oppvekststaden
+T391	Markable 7760 7768	regionen
+T392	Markable 7769 7772	dei
+R105	Coref Arg1:T392 Arg2:T387	
+T393	Markable 7796 7807	professoren
+R106	Coref Arg1:T393 Arg2:T368	
+T394	Markable 7810 7828	Sosial samhandling
+T395	Markable 7831 7879	sine undersøkingar om relasjonane mellom elevane
+T396	Markable 7831 7835	sine
+T397	Markable 7853 7879	relasjonane mellom elevane
+T398	Markable 7872 7879	elevane
+T399	Markable 7884 7892	Kvalsund
+R107	Coref Arg1:T399 Arg2:T396	
+R108	Coref Arg1:T398 Arg2:T392	
+T400	Markable 7899 7960	vesentlege skilnader i ungane sin leik på små og store skolar
+R109	Coref Arg1:T396 Arg2:T393	
+T401	Markable 7922 7928	ungane
+T402	Markable 7922 7960	ungane sin leik på små og store skolar
+T404	Markable 7941 7960	små og store skolar
+T405	Markable 7966 7977	noko av det
+T406	Markable 7978 7981	han
+T407	Markable 7992 7995	seg
+R111	Coref Arg1:T407 Arg2:T406	
+R112	Coref Arg1:T406 Arg2:T399	
+T408	Markable 8004 8030	elevane på dei små skolane
+T409	Markable 8015 8030	dei små skolane
+T410	Markable 8033 8050	langt større grad
+T411	Markable 8086 8110	kjønns- og aldersgrenser
+T412	Markable 8142 8149	jentene
+T413	Markable 8162 8172	guteleikar
+T414	Markable 8189 8195	gutane
+T415	Markable 8208 8219	jenteleikar
+T416	Markable 8252 8258	gutane
+R114	Coref Arg1:T416 Arg2:T414	
+T417	Markable 8281 8292	aktivitetar
+T418	Markable 8311 8314	Ein
+T419	Markable 8330 8359	dei mest intime grupperingane
+T420	Markable 8386 8397	små forhold
+T421	Markable 8408 8410	mi
+T422	Markable 8408 8422	mi overrasking
+R115	Coref Arg1:T421 Arg2:T407	
+T423	Markable 8428 8430	eg
+R116	Coref Arg1:T423 Arg2:T421	
+T424	Markable 8431 8494	mest av små alders- og kjønnsdelte grupper på dei store skolane
+T425	Markable 8477 8494	dei store skolane
+T426	Markable 8517 8519	eg
+R117	Coref Arg1:T426 Arg2:T423	
+T427	Markable 8532 8536	mine
+R118	Coref Arg1:T427 Arg2:T426	
+T428	Markable 8532 8550	mine undersøkingar
+T429	Markable 8554 8569	dei små skolane
+T430	Markable 8574 8581	elevane
+R120	Coref Arg1:T430 Arg2:T401	
+T431	Markable 8582 8627	ein breiare kompetanse for sosial samhandling
+T432	Markable 8609 8627	sosial samhandling
+T433	Markable 8632 8653	dei store skolemiljøa
+T434	Markable 8662 8665	han
+R121	Coref Arg1:T434 Arg2:T427	
+T435	Markable 8675 8684	ein skole
+T436	Markable 8707 8716	seg sjølv
+T438	Markable 8717 8741	ein garanti for kvalitet
+T439	Markable 8733 8741	kvalitet
+T440	Markable 8748 8756	Kvalsund
+R122	Coref Arg1:T440 Arg2:T434	
+T441	Markable 8786 8799	desse skolane
+T442	Markable 8804 8817	eit potensial
+T443	Markable 8851 8861	god læring
+T444	Markable 8865 8882	gode løringsmiljø
+T445	Markable 8900 8932	situasjonen i dei større skolane
+T446	Markable 8914 8932	dei større skolane
+R123	Coref Arg1:T446 Arg2:T433	
+T447	Markable 8935 8938	Han
+R124	Coref Arg1:T447 Arg2:T440	
+T448	Markable 8953 8998	samanlikninga mellom supertankaren og sjarken
+T449	Markable 8974 8987	supertankaren
+T450	Markable 8991 8998	sjarken
+T451	Markable 9003 9006	han
+R125	Coref Arg1:T451 Arg2:T447	
+T452	Markable 9022 9041	store og små skolar
+T453	Markable 9046 9059	Supertankaren
+R126	Coref Arg1:T453 Arg2:T449	
+T454	Markable 9064 9083	stor lastekapasitet
+T455	Markable 9095 9102	innhald
+T456	Markable 9108 9117	farkosten
+T457	Markable 9140 9154	Ein stor skole
+T458	Markable 9161 9187	eit system for planlegging
+T459	Markable 9176 9187	planlegging
+T460	Markable 9232 9239	planane
+T461	Markable 9242 9249	Sjarken
+R127	Coref Arg1:T461 Arg2:T450	
+T462	Markable 9278 9294	den vesle skolen
+T463	Markable 9305 9309	sine
+R128	Coref Arg1:T463 Arg2:T462	
+T464	Markable 9305 9329	sine time- og vekeplanar
+T465	Markable 9343 9356	noko spesielt
+T466	Markable 9388 9393	vêret
+T467	Markable 9420 9423	seg
+T468	Markable 9398 9402	noko
+R129	Coref Arg1:T467 Arg2:T468	
+T469	Markable 9448 9503	spesielle hendingar som gir grunn til å gjera endringar
+T470	Markable 9476 9481	grunn
+T471	Markable 9494 9503	endringar
+T472	Markable 9522 9541	økonomiske argument
+T473	Markable 9574 9589	dei små skolane
+R130	Coref Arg1:T473 Arg2:T441	
+T474	Markable 9594 9597	Ein
+T475	Markable 9633 9639	pengar
+T476	Markable 9655 9670	dei små skolane
+R131	Coref Arg1:T476 Arg2:T473	
+T477	Markable 9684 9695	mange måtar
+T478	Markable 9713 9718	dømes
+T479	Markable 9730 9768	transportkostnadene ved sentralisering
+T480	Markable 9754 9768	sentralisering
+T481	Markable 9772 9792	skolen sitt budsjett
+T482	Markable 9772 9778	skolen
+T484	Markable 9806 9820	fylkeskommunen
+T485	Markable 9795 9798	dei
+R133	Coref Arg1:T485 Arg2:T479	
+T486	Markable 9841 9848	verdiar
+T487	Markable 9851 9866	dei små skolane
+R134	Coref Arg1:T487 Arg2:T476	
+T488	Markable 9870 9875	måten
+T489	Markable 9876 9879	dei
+R135	Coref Arg1:T489 Arg2:T487	
+T490	Markable 9901 9904	ein
+T491	Markable 9924 9943	vanlege reknestykke
+T492	Markable 9960 9962	vi
+T493	Markable 9990 9993	oss
+R136	Coref Arg1:T493 Arg2:T492	
+T494	Markable 10011 10017	prisar
+T495	Markable 10021 10028	verdiar
+T496	Markable 10032 10059	samanhengen i skolespørsmål
+T497	Markable 10046 10059	skolespørsmål
+T498	Markable 10068 10076	Kvalsund
+R137	Coref Arg1:T498 Arg2:T451	
+T499	Markable 9994 10028	skilnaden mellom prisar og verdiar
+T500	Markable 10090 10100	regjeringa
+T501	Markable 10103 10108	løpet
+T502	Markable 10112 10130	dei siste tjue åra
+T503	Markable 10142 10168	800 nærmiljøskolar i Noreg
+T504	Markable 10138 10141	lag
+T505	Markable 10163 10168	Noreg
+T506	Markable 10187 10204	Styreleiar Løkken
+R138	Coref Arg1:T506 Arg2:T78	
+T507	Markable 10231 10247	ei opning i lova
+T508	Markable 10243 10247	lova
+T509	Markable 10281 10318	godkjenning til foreldredrivne skolar
+T510	Markable 10297 10318	foreldredrivne skolar
+T511	Markable 10330 10382	stor motstand mot å leggja ned den offentlege skolen
+T512	Markable 10361 10382	den offentlege skolen
+R139	Coref Arg1:T512 Arg2:T70	
+T513	Markable 10405 10425	eit ris bak spegelen
+T514	Markable 10417 10425	spegelen
+T515	Markable 10430 10496	dei kommunane som tenkjer på å leggja ned levedyktige grendeskolar
+T516	Markable 10472 10496	levedyktige grendeskolar
+T517	Markable 10505 10508	han
+R140	Coref Arg1:T517 Arg2:T506	
+T518	Markable 10522 10525	han
+R141	Coref Arg1:T518 Arg2:T517	
+T519	Markable 10542 10583	stortingsrepresentant Per Olaf Lundteigen
+T520	Markable 10586 10588	Sp
+T521	Markable 10606 10645	ein viktig støttespelar for rukkedølane
+T522	Markable 10655 10680	godkjenninga av friskolen
+T523	Markable 10687 10692	orden
+T524	Markable 10634 10645	rukkedølane
+T525	Markable 10526 10583	full støtte frå stortingsrepresentant Per Olaf Lundteigen
+T526	Markable 10697 10707	Rukkedalen
+R142	Coref Arg1:T526 Arg2:T264	
+T527	Markable 10711 10817	eit glimrande eksempel på kva skolen har å seia for lokalsamfunnet , for identitet , samhald og dugnadsånd
+T528	Markable 10741 10747	skolen
+T529	Markable 10763 10777	lokalsamfunnet
+T530	Markable 10784 10793	identitet
+T531	Markable 10796 10803	samhald
+T532	Markable 10807 10817	dugnadsånd
+T533	Markable 10824 10839	alle statsrådar
+T534	Markable 10855 10902	det beste med lokalsamfunn og lokalt sjølvstyre
+T535	Markable 10869 10881	lokalsamfunn
+T536	Markable 10885 10902	lokalt sjølvstyre
+T537	Markable 10911 10921	Lundteigen
+R143	Coref Arg1:T537 Arg2:T519	
+T538	Markable 10924 10927	Han
+R144	Coref Arg1:T538 Arg2:T537	
+T539	Markable 10946 10997	lovendringsframlegget frå den raudgrønne regjeringa
+T540	Markable 10972 10997	den raudgrønne regjeringa
+T541	Markable 11032 11035	det
+R145	Coref Arg1:T541 Arg2:T539	
+R146	Coref Arg1:T540 Arg2:T500	
+R147	Coref Arg1:T500 Arg2:T203	
+T542	Markable 11040 11053	lovframlegget
+R148	Coref Arg1:T542 Arg2:T541	
+T543	Markable 11080 11104	privatdrivne grunnskolar
+T544	Markable 11117 11139	eit religiøst grunnlag
+T545	Markable 11159 11184	eit pedagogisk alternativ
+T546	Markable 11192 11195	dei
+T547	Markable 11204 11215	statsstøtte
+R149	Coref Arg1:T546 Arg2:T543	
+T548	Markable 11069 11073	krav
+R150	Coref Arg1:T539 Arg2:T202	
+T549	Markable 11220 11245	Den raudgrønne regjeringa
+R151	Coref Arg1:T549 Arg2:T540	
+T550	Markable 11259 11309	nokon garanti mot nedlegging av lokale grunnskolar
+T551	Markable 11277 11309	nedlegging av lokale grunnskolar
+T552	Markable 11291 11309	lokale grunnskolar
+T553	Markable 11329 11365	ei sak for det kommunale sjølvstyret
+T554	Markable 11340 11365	det kommunale sjølvstyret
+T555	Markable 11371 11389	mange sentralistar
+T556	Markable 11409 11411	Vi
+T557	Markable 11428 11468	ei kraftig forbetring i kommuneøkonomien
+T558	Markable 11452 11468	kommuneøkonomien
+T559	Markable 11482 11494	kommunestyra
+T560	Markable 11508 11523	skolestrukturen
+T561	Markable 11526 11592	Retten til å få statsstøtte til å starta friskole i slike tilfelle
+T562	Markable 11542 11592	statsstøtte til å starta friskole i slike tilfelle
+T563	Markable 11567 11575	friskole
+T564	Markable 11578 11592	slike tilfelle
+T565	Markable 11596 11617	ein sikkerheitsventil
+T566	Markable 11620 11652	eit godt vern mot sentralisering
+T567	Markable 11638 11652	sentralisering
+T568	Markable 11655 11682	Økonomien i sentraliseringa
+T569	Markable 11667 11682	sentraliseringa
+R152	Coref Arg1:T569 Arg2:T567	
+T570	Markable 11712 11720	foreldra
+T571	Markable 11732 11740	friskole
+T572	Markable 11749 11763	Sp-politikaren
+R153	Coref Arg1:T572 Arg2:T538	
+T573	Markable 11785 11788	han
+R154	Coref Arg1:T573 Arg2:T572	
+T574	Markable 11807 11824	denne lovendringa
+R155	Coref Arg1:T574 Arg2:T542	
+R156	Coref Arg1:T125 Arg2:T83	
+R157	Coref Arg1:T570 Arg2:T268	
+T575	Markable 11833 11843	denne saka
+R158	Coref Arg1:T575 Arg2:T553	
+R159	Coref Arg1:T556 Arg2:T549	
+R160	Coref Arg1:T568 Arg2:T558	
+T576	Markable 11853 11877	partigruppa i Stortinget
+T577	Markable 11867 11877	Stortinget
+T578	Markable 11884 11886	eg
+R161	Coref Arg1:T578 Arg2:T573	
+T579	Markable 11898 11900	eg
+R162	Coref Arg1:T579 Arg2:T578	
+T580	Markable 11928 11938	Lundteigen
+R163	Coref Arg1:T580 Arg2:T579	
+R164	Coref Arg1:T577 Arg2:T201	
+T581	Markable 11951 11954	han
+R165	Coref Arg1:T581 Arg2:T580	
+T582	Markable 11964 11977	dette punktet
+T584	Markable 12000 12025	den raudgrønne regjeringa
+R166	Coref Arg1:T584 Arg2:T556	
+R167	Coref Arg1:T582 Arg2:T575	
+T585	Markable 12028 12056	Alt i Soria Moria-erklæringa
+T586	Markable 12034 12056	Soria Moria-erklæringa
+T587	Markable 12064 12087	den sitjande regjeringa
+R168	Coref Arg1:T587 Arg2:T584	
+T588	Markable 12091 12094	dei
+R169	Coref Arg1:T588 Arg2:T587	
+T589	Markable 12119 12169	retten til å få statsstøtte til å starta friskolar
+T590	Markable 12135 12169	statsstøtte til å starta friskolar
+T591	Markable 12160 12169	friskolar
+T592	Markable 12172 12201	Den tidlegare privatskolelova
+T593	Markable 12268 12271	dei
+T594	Markable 12245 12264	private grunnskolar
+R170	Coref Arg1:T593 Arg2:T594	
+T595	Markable 12218 12264	vilkår for statsstøtte til private grunnskolar
+T596	Markable 12229 12264	statsstøtte til private grunnskolar
+T597	Markable 12298 12323	eit pedagogisk alternativ
+T598	Markable 12330 12357	eit anna religiøst grunnsyn
+T599	Markable 12364 12384	den førre regjeringa
+T600	Markable 12394 12404	ei endring
+T601	Markable 12442 12493	foreldredrivne skolar som følgde offentleg læreplan
+T602	Markable 12475 12493	offentleg læreplan
+T603	Markable 12419 12493	rom for godkjenning av foreldredrivne skolar som følgde offentleg læreplan
+T604	Markable 12427 12493	godkjenning av foreldredrivne skolar som følgde offentleg læreplan
+T605	Markable 12514 12572	16 av dei 163 frittståande grunnskolane som da var i drift
+T606	Markable 12567 12572	drift
+T607	Markable 12496 12509	1. april 2006
+T608	Markable 12588 12604	dette grunnlaget
+T609	Markable 12614 12630	religiøse skolar
+T610	Markable 12636 12665	fagleg-pedagogiske alternativ
+T611	Markable 12672 12693	internasjonale skolar
+T612	Markable 12700 12724	norske skolar i utlandet
+T613	Markable 12716 12724	utlandet
+T614	Markable 12734 12756	religiøse grendeskolar
+T615	Markable 12774 12784	regjeringa
+T616	Markable 12804 12828	for mange private skolar
+R171	Coref Arg1:T615 Arg2:T588	
+T617	Markable 12833 12840	samband
+T618	Markable 12845 12858	lovframlegget
+R172	Coref Arg1:T618 Arg2:T574	
+T619	Markable 12883 12891	kommunar
+T620	Markable 12895 12909	fylkeskommunar
+T621	Markable 12914 12955	ansvar for den offentlege skolestrukturen
+T622	Markable 12925 12955	den offentlege skolestrukturen
+T623	Markable 12973 12986	departementet
+T624	Markable 12990 12996	pålegg
+R173	Coref Arg1:T623 Arg2:T94	
+T625	Markable 13050 13065	privatskolelova
+R174	Coref Arg1:T625 Arg2:T618	
+T626	Markable 13076 13103	godkjenning av grendeskolar
+T627	Markable 13091 13103	grendeskolar
+T628	Markable 13108 13125	eit eige grunnlag
+T629	Markable 13147 13155	kommunen
+T630	Markable 13156 13214	et insitament til å legge ned den kommunale grendeskolen »
+T631	Markable 13186 13212	den kommunale grendeskolen
+T632	Markable 13217 13247	Statssekretær Lisbeth Rugtvedt
+T633	Markable 13250 13252	SV
+T634	Markable 13257 13279	Kunnskapsdepartementet
+R175	Coref Arg1:T634 Arg2:T623	
+T635	Markable 13290 13307	skolenedleggingar
+T636	Markable 13337 13360	dei lokale styremaktene
+T637	Markable 13371 13374	dei
+R176	Coref Arg1:T637 Arg2:T636	
+T638	Markable 13379 13401	det politiske ansvaret
+R177	Coref Arg1:T554 Arg2:T536	
+R178	Coref Arg1:T636 Arg2:T554	
+T639	Markable 13408 13421	departementet
+R179	Coref Arg1:T639 Arg2:T634	
+T640	Markable 13441 13503	klare kriterium for godkjenning knytt til føremålet med skolen
+T641	Markable 13461 13503	godkjenning knytt til føremålet med skolen
+T642	Markable 13483 13503	føremålet med skolen
+T643	Markable 13497 13503	skolen
+T644	Markable 13522 13524	du
+R180	Coref Arg1:T644 Arg2:T632	
+T645	Markable 13529 13623	dei som ser på retten til å starta foreldredrivne grendeskolar som eit vern mot sentralisering
+T646	Markable 13544 13623	retten til å starta foreldredrivne grendeskolar som eit vern mot sentralisering
+T647	Markable 13564 13623	foreldredrivne grendeskolar som eit vern mot sentralisering
+T648	Markable 13596 13623	eit vern mot sentralisering
+T649	Markable 13635 13651	inga god løysing
+T650	Markable 13660 13676	kommunale skolar
+T651	Markable 13684 13698	private skolar
+T652	Markable 13717 13736	ei lokal nedlegging
+T653	Markable 13750 13758	seg sjøv
+T654	Markable 13759 13805	eit godt kriterium for å oppretta ein friskole
+T655	Markable 13793 13805	ein friskole
+T656	Markable 13821 13840	ein Montesorriskole
+T657	Markable 13850 13857	ein veg
+T658	Markable 13873 13875	eg
+R181	Coref Arg1:T658 Arg2:T644	
+T659	Markable 13898 13913	statssekretæren
+R182	Coref Arg1:T659 Arg2:T658	
+T660	Markable 13916 13941	Ine Marie Eriksen Søreide
+T661	Markable 13944 13945	H
+T662	Markable 13951 14014	leiar for Kyrkje- utdannings- og forskingskomiteen i Stortinget
+T663	Markable 13961 14014	Kyrkje- utdannings- og forskingskomiteen i Stortinget
+T664	Markable 14004 14014	Stortinget
+R183	Coref Arg1:T664 Arg2:T577	
+T665	Markable 14084 14094	Stortinget
+R184	Coref Arg1:T665 Arg2:T664	
+T666	Markable 14017 14019	Ho
+R185	Coref Arg1:T666 Arg2:T660	
+T667	Markable 14034 14048	dei raudgrønne
+T668	Markable 14066 14068	ho
+R186	Coref Arg1:T668 Arg2:T666	
+T669	Markable 14073 14094	fleirtal i Stortinget
+T670	Markable 14110 14164	retten til statsstøtte til foreldredrivne grendeskolar
+T671	Markable 14121 14164	statsstøtte til foreldredrivne grendeskolar
+T672	Markable 14137 14164	foreldredrivne grendeskolar
+R187	Coref Arg1:T670 Arg2:T589	
+R188	Coref Arg1:T589 Arg2:T561	
+T673	Markable 14169 14172	Ein
+T674	Markable 14181 14197	skole i nærmiljø
+T675	Markable 14189 14197	nærmiljø
+T676	Markable 14215 14237	mange små bygdesamfunn
+T677	Markable 14253 14263	utflytting
+T678	Markable 14300 14352	omvegen om eit religiøst eller pedagogisk alternativ
+T679	Markable 14311 14352	eit religiøst eller pedagogisk alternativ
+T680	Markable 14371 14386	ein grendeskole
+T681	Markable 14413 14416	ein
+T682	Markable 14427 14432	Dette
+T683	Markable 14452 14474	mange små lokalsamfunn
+T684	Markable 14483 14498	Eriksen Søreide
+R189	Coref Arg1:T684 Arg2:T668	
+T685	Markable 14501 14503	Ho
+R190	Coref Arg1:T685 Arg2:T684	
+T686	Markable 14517 14532	eitt hovudpunkt
+T687	Markable 14537 14545	den lova
+T688	Markable 14567 14570	ein
+T689	Markable 14587 14592	vekta
+T690	Markable 14597 14604	føremål
+T691	Markable 14609 14627	kvalitetsvurdering
+T692	Markable 14655 14700	eit religiøst eller eit pedagogisk alternativ
+T693	Markable 14704 14728	ein garanti for kvalitet
+T694	Markable 14720 14728	kvalitet
+T695	Markable 14785 14831	ein grendeskole som følgjer offentleg læreplan
+T696	Markable 14813 14831	offentleg læreplan
+T697	Markable 14838 14861	ein kristen grendeskole
+T698	Markable 14870 14895	ein montesorrigrendeskole
+T699	Markable 14898 14902	Mitt
+T700	Markable 14898 14906	Mitt syn
+R191	Coref Arg1:T699 Arg2:T685	
+T701	Markable 14913 14921	kunnskap
+T702	Markable 14939 14948	eigarskap
+T703	Markable 14957 14977	Høgre-representanten
+R192	Coref Arg1:T703 Arg2:T699	
+T704	Markable 14996 15029	Senterpartiet sine representantar
+T705	Markable 14996 15009	Senterpartiet
+T706	Markable 15042 15081	kritikken av den foreslåtte lovendringa
+T707	Markable 15055 15081	den foreslåtte lovendringa
+R193	Coref Arg1:T707 Arg2:T625	
+R194	Coref Arg1:T705 Arg2:T520	
+T708	Markable 15084 15097	Komiteleiaren
+R195	Coref Arg1:T708 Arg2:T703	
+T709	Markable 15140 15184	ei nedre grense på 20 elevar i lovframlegget
+T710	Markable 15159 15168	20 elevar
+T711	Markable 15171 15184	lovframlegget
+R196	Coref Arg1:T711 Arg2:T707	
+T713	Markable 15193 15196	meg
+R197	Coref Arg1:T713 Arg2:T708	
+T714	Markable 15215 15218	ein
+T715	Markable 15229 15256	metoden « tenk på eit tal »
+T716	Markable 15259 15261	Eg
+R198	Coref Arg1:T716 Arg2:T713	
+T717	Markable 15286 15291	grunn
+T718	Markable 15301 15322	ei slik grense i lova
+T719	Markable 15318 15322	lova
+T720	Markable 15345 15366	godkjenningsprosessen
+T721	Markable 15375 15377	ho
+R199	Coref Arg1:T721 Arg2:T716	
+T722	Markable 15383 15417	rektorkontoret på Rukkedalen skole
+T723	Markable 15401 15417	Rukkedalen skole
+T724	Markable 15422 15441	Lillemor Lerskallen
+T725	Markable 15456 15460	tvil
+T726	Markable 15468 15470	ho
+R200	Coref Arg1:T726 Arg2:T724	
+R201	Coref Arg1:T724 Arg2:T114	
+T727	Markable 15492 15538	dei seks kilometrane ned til skolen på Nesbyen
+T728	Markable 15521 15538	skolen på Nesbyen
+T729	Markable 15531 15538	Nesbyen
+R202	Coref Arg1:T723 Arg2:T228	
+T730	Markable 15562 15564	vi
+T731	Markable 15581 15587	skolen
+T732	Markable 15595 15613	nokon dårleg skole
+R203	Coref Arg1:T731 Arg2:T728	
+T733	Markable 15636 15638	vi
+R204	Coref Arg1:T733 Arg2:T730	
+T734	Markable 15654 15720	Retten til å få statsstøtte til å starta friskole i slike tilfelle
+T735	Markable 15670 15720	statsstøtte til å starta friskole i slike tilfelle
+T736	Markable 15695 15703	friskole
+R205	Coref Arg1:T734 Arg2:T670	
+T737	Markable 15724 15745	ein sikkerheitsventil
+T738	Markable 15706 15720	slike tilfelle
+T739	Markable 15748 15780	eit godt vern mot sentralisering
+T740	Markable 15766 15780	sentralisering
+T741	Markable 15838 15841	ånd
+T742	Markable 15846 15853	materie
+T743	Markable 15783 15802	Per Olav Lundteigen
+T744	Markable 15805 15807	Sp
+T745	Markable 15812 15833	stortingsrepresentant
+R206	Coref Arg1:T744 Arg2:T705	
+R207	Coref Arg1:T743 Arg2:T581	
+R208	Coref Arg1:T730 Arg2:T766	
+R209	Coref Arg1:T722 Arg2:T25	
+R210	Coref Arg1:T3 Arg2:T1	
+T746	Markable 985 994	det meste
+R211	Coref Arg1:T64 Arg2:T62	
+R212	Coref Arg1:T199 Arg2:T51	
+R213	Coref Arg1:T198 Arg2:T52	
+R214	Coref Arg1:T120 Arg2:T60	
+R215	Coref Arg1:T729 Arg2:T221	
+R216	Coref Arg1:T401 Arg2:T398	
+R217	Coref Arg1:T661 Arg2:T199	
+T437	Markable 4761 4763	vi
+R218	Coref Arg1:T437 Arg2:T241	
+R219	Coref Arg1:T155 Arg2:T127	
+T747	Markable 3414 3460	det dei fekk som gåve frå eit rekneskapskontor
+T748	Markable 3528 3602	sofa , lenestolar og anna utstyr med « feil farge » som kom til Rukkedalen
+T749	Markable 1853 1866	sommaren 2006
+T750	Markable 4101 4112	statsstøtte
+T751	Markable 8513 8550	det eg har funne i mine undersøkingar
+T583	Markable 11981 12025	kollisjonskurs med den raudgrønne regjeringa
+R132	Coref Arg1:T528 Arg2:T482	
+R220	Coref Arg1:T643 Arg2:T528	
+T483	Markable 3615 3618	alt
+T712	Markable 430 435	ingen
+T752	Markable 414 418	seks
+T753	Markable 446 449	sju
+T754	Markable 461 465	åtte
+T755	Markable 663 666	tre
+T756	Markable 677 681	fire
+T757	Markable 694 697	fem
+T758	Markable 669 674	femte
+T759	Markable 684 690	sjette
+T760	Markable 700 707	sjuande
+T761	Markable 421 427	første
+T762	Markable 438 443	andre
+T763	Markable 452 458	tredje
+T764	Markable 468 474	fjerde
+R221	Coref Arg1:T150 Arg2:T134	
+T765	Markable 3160 3165	dette
+R222	Split_antecedent Arg1:T158 Arg2:T160	
+R223	Split_antecedent Arg1:T158 Arg2:T161	
+R224	Split_antecedent Arg1:T158 Arg2:T164	
+R225	Coref Arg1:T216 Arg2:T212	
+R58	Coref Arg1:T266 Arg2:T263	
+T766	Markable 10671 10680	friskolen
+R59	Coref Arg1:T766 Arg2:T287	
+R226	Coref Arg1:T441 Arg2:T429	
+R113	Coref Arg1:T409 Arg2:T343	
+R119	Coref Arg1:T429 Arg2:T409	
+R227	Coref Arg1:T433 Arg2:T425	
+R228	Coref Arg1:T425 Arg2:T318	
+T767	Markable 7219 7224	Dette
+R110	Coref Arg1:T456 Arg2:T453	
+R229	Coref Arg1:T524 Arg2:T245	
+R230	Coref Arg1:T608 Arg2:T603	
+T403	Markable 12607 12609	62
+T768	Markable 12633 12635	64
+T769	Markable 12668 12671	fem
+T770	Markable 12697 12699	16
+R231	Coref Arg1:T622 Arg2:T560	
+R232	Coref Arg1:T667 Arg2:T615	
+R233	Coref Arg1:T728 Arg2:T143	

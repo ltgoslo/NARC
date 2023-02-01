@@ -1,0 +1,131 @@
+T2	Markable 15 46	Arbeidsminister Hanne Bjurstrøm
+T3	Markable 69 114	nyliberalistane i Civita og Dagens Næringsliv
+T4	Markable 87 114	Civita og Dagens Næringsliv
+T5	Markable 87 93	Civita
+T6	Markable 97 114	Dagens Næringsliv
+T7	Markable 119 154	eit intervju med Dagsavisen i helga
+T8	Markable 136 146	Dagsavisen
+T9	Markable 149 154	helga
+T10	Markable 158 167	Bjurstrøm
+T11	Markable 171 176	Norge
+T12	Markable 190 306	eit « Kuwait light » , der underbetalte arbeidstakarar frå fattige land gjer jobbane nordmenn ikkje gidd å ta sjølve
+T13	Markable 217 261	underbetalte arbeidstakarar frå fattige land
+T14	Markable 249 261	fattige land
+T15	Markable 267 306	jobbane nordmenn ikkje gidd å ta sjølve
+T16	Markable 275 283	nordmenn
+T17	Markable 309 318	Bjurstrøm
+T18	Markable 352 357	mange
+T19	Markable 398 402	side
+T20	Markable 403 455	tryggleik , anstendig lønn og ryddige arbeidsforhold
+T21	Markable 403 414	tryggleik ,
+T22	Markable 415 429	anstendig lønn
+T23	Markable 433 455	ryddige arbeidsforhold
+T24	Markable 471 480	vi sjølve
+T25	Markable 563 573	statsråden
+T26	Markable 576 578	Ho
+T27	Markable 595 597	ho
+T28	Markable 611 652	avstand frå at folk kjøper hjelp i heimen
+T29	Markable 626 630	folk
+T30	Markable 638 643	hjelp
+T31	Markable 646 652	heimen
+T32	Markable 671 688	desse arbeidarane
+T33	Markable 701 724	lønns- og arbeidsvilkår
+T35	Markable 711 724	arbeidsvilkår
+T36	Markable 808 825	Dagens Næringsliv
+T37	Markable 829 839	leiarplass
+T38	Markable 880 887	Civitas
+T39	Markable 880 902	Civitas Kristin Clemet
+T40	Markable 911 914	sin
+T41	Markable 911 920	sin blogg
+T42	Markable 923 929	Clemet
+T43	Markable 956 965	Bjurstrøm
+T44	Markable 976 1087	betre forståing for « den spesialisering og arbeidsdeling som er en helt naturlig del av vår velstandsutvikling
+T45	Markable 996 1087	« den spesialisering og arbeidsdeling som er en helt naturlig del av vår velstandsutvikling
+T46	Markable 996 1016	« den spesialisering
+T47	Markable 1020 1087	arbeidsdeling som er en helt naturlig del av vår velstandsutvikling
+T48	Markable 1041 1087	en helt naturlig del av vår velstandsutvikling
+T49	Markable 1065 1068	vår
+T50	Markable 1065 1087	vår velstandsutvikling
+T51	Markable 1092 1094	Ho
+T52	Markable 1103 1128	statsråden og venstresida
+T53	Markable 1103 1113	statsråden
+T54	Markable 1117 1128	venstresida
+T55	Markable 1146 1158	vaskehjelper
+T56	Markable 1174 1176	ho
+T57	Markable 1208 1233	menneske frå fattige land
+T58	Markable 1221 1233	fattige land
+T59	Markable 1254 1263	fattigdom
+T60	Markable 1266 1271	Norge
+T61	Markable 1286 1289	dei
+T62	Markable 1294 1331	« lovlig og ikke tariffstridig lønn »
+T63	Markable 1336 1371	Argumentasjonen mot Hanne Bjurstrøm
+T64	Markable 1356 1371	Hanne Bjurstrøm
+T65	Markable 1398 1443	golva til Kristin Clemet og Dagens Næringsliv
+T66	Markable 1408 1443	Kristin Clemet og Dagens Næringsliv
+T67	Markable 1408 1422	Kristin Clemet
+T68	Markable 1426 1443	Dagens Næringsliv
+T69	Markable 1446 1461	Dei seinare åra
+T70	Markable 1484 1516	grove tilfelle av sosial dumping
+T71	Markable 1502 1516	sosial dumping
+T72	Markable 1519 1534	fleire bransjar
+T73	Markable 1537 1557	Reinhaldsarbeidarane
+T74	Markable 1567 1588	det mest underbetalte
+T75	Markable 1594 1611	reinhaldsbransjen
+T76	Markable 1621 1633	svart arbeid
+T77	Markable 1643 1657	private heimar
+T78	Markable 1665 1686	skitne arbeidsforhold
+T79	Markable 1689 1727	Ei undersøking for Skatteetaten i 2009
+T80	Markable 1708 1720	Skatteetaten
+T82	Markable 1773 1809	særleg vaskehjelp og snekkartenester
+T83	Markable 1773 1790	særleg vaskehjelp
+T84	Markable 1794 1809	snekkartenester
+T85	Markable 1830 1847	arbeidsministeren
+T86	Markable 1860 1874	sosial dumping
+T87	Markable 1880 1882	vi
+T88	Markable 1889 1895	hennar
+T89	Markable 1889 2004	hennar frykt for at Norge skal utstyre seg med ein underbetalt underklasse som gjer arbeidet vi ikkje vil ta sjølve
+T90	Markable 1909 1914	Norge
+T91	Markable 1936 2004	ein underbetalt underklasse som gjer arbeidet vi ikkje vil ta sjølve
+T92	Markable 1973 2004	arbeidet vi ikkje vil ta sjølve
+T93	Markable 1982 1984	vi
+R1	Coref Arg1:T10 Arg2:T2	
+R2	Coref Arg1:T17 Arg2:T10	
+R3	Coref Arg1:T24 Arg2:T16	
+R4	Coref Arg1:T25 Arg2:T94	
+T94	Markable 497 500	Jeg
+T95	Markable 540 552	vaskehjelpen
+T96	Markable 0 10	Vaskehjelp
+R6	Coref Arg1:T94 Arg2:T17	
+R7	Coref Arg1:T26 Arg2:T25	
+R8	Coref Arg1:T27 Arg2:T26	
+R9	Bridging Arg1:T32 Arg2:T95	
+R10	Coref Arg1:T33 Arg2:T20	
+T1	Markable 742 746	brød
+T34	Markable 751 758	bakeren
+T97	Markable 774 779	håret
+T98	Markable 784 792	frisøren
+T99	Markable 774 792	håret til frisøren
+T100	Markable 855 870	skomakerens sko
+R11	Coref Arg1:T38 Arg2:T5	
+R12	Coref Arg1:T40 Arg2:T39	
+R13	Bridging Arg1:T3 Arg2:T39	
+R14	Coref Arg1:T36 Arg2:T6	
+R15	Coref Arg1:T42 Arg2:T40	
+R16	Coref Arg1:T43 Arg2:T27	
+R17	Coref Arg1:T51 Arg2:T42	
+R18	Coref Arg1:T53 Arg2:T43	
+R19	Coref Arg1:T55 Arg2:T32	
+R20	Coref Arg1:T56 Arg2:T51	
+R21	Coref Arg1:T61 Arg2:T57	
+R22	Coref Arg1:T64 Arg2:T53	
+R23	Coref Arg1:T67 Arg2:T56	
+R24	Coref Arg1:T68 Arg2:T36	
+R25	Coref Arg1:T73 Arg2:T55	
+T81	Markable 1756 1764	tenester
+R26	Coref Arg1:T83 Arg2:T96	
+R5	Coref Arg1:T85 Arg2:T64	
+R27	Coref Arg1:T86 Arg2:T71	
+R28	Coref Arg1:T88 Arg2:T85	
+R29	Coref Arg1:T90 Arg2:T60	
+R30	Coref Arg1:T60 Arg2:T11	
+R31	Coref Arg1:T92 Arg2:T15	
