@@ -1,0 +1,57 @@
+T1	Markable 0 30	Super sesong i Jølstravatnet |
+T2	Markable 15 28	Jølstravatnet
+T3	Markable 31 60	Betre fiske enn på mange år .
+T4	Markable 50 58	mange år
+T5	Markable 61 71	Finn Årdal
+T6	Markable 87 107	ein svært god sesong
+T7	Markable 110 123	Jølstravatnet
+T8	Markable 126 133	Torsdag
+T9	Markable 138 217	siste dag denne sesongen for det tradisjonsrike flytegarnfisket i Jølstravatnet
+T10	Markable 148 162	denne sesongen
+T11	Markable 167 217	det tradisjonsrike flytegarnfisket i Jølstravatnet
+T12	Markable 204 217	Jølstravatnet
+T13	Markable 223 228	årets
+T14	Markable 223 235	årets sesong
+T15	Markable 259 261	Eg
+T16	Markable 267 284	rekorden frå 2007
+T17	Markable 289 296	eit par
+T18	Markable 289 303	eit par hundre
+T19	Markable 289 308	eit par hundre kilo
+T20	Markable 311 321	Den gongen
+T21	Markable 326 328	eg
+T22	Markable 334 343	6000 kilo
+T23	Markable 348 350	år
+T24	Markable 354 361	totalen
+T25	Markable 362 377	rundt 6200 kilo
+T26	Markable 386 425	Finn Årdal i Jølsterlia aure og rakfisk
+T27	Markable 399 425	Jølsterlia aure og rakfisk
+T28	Markable 430 442	Firda Tidend
+T29	Markable 448 471	fiskemottaket i Årdalen
+T30	Markable 464 471	Årdalen
+T31	Markable 476 479	han
+T32	Markable 498 548	fisken som vert teken på flytegarn i Jølstravatnet
+T33	Markable 523 532	flytegarn
+T34	Markable 535 548	Jølstravatnet
+T35	Markable 554 559	Årdal
+T36	Markable 576 596	kvaliteten på fisken
+T37	Markable 590 596	fisken
+T38	Markable 604 623	også denne sesongen
+T39	Markable 641 657	jamnt godt fiske
+T40	Markable 658 672	heile sesongen
+T41	Markable 679 682	det
+T42	Markable 712 719	slutten
+T43	Markable 722 736	Den siste veka
+T44	Markable 769 774	Årdal
+R1	Coref Arg1:T7 Arg2:T2	
+R2	Coref Arg1:T12 Arg2:T7	
+R3	Coref Arg1:T14 Arg2:T10	
+R4	Coref Arg1:T15 Arg2:T5	
+R5	Coref Arg1:T21 Arg2:T15	
+R6	Coref Arg1:T26 Arg2:T21	
+R7	Coref Arg1:T31 Arg2:T26	
+R8	Coref Arg1:T34 Arg2:T12	
+R9	Coref Arg1:T35 Arg2:T31	
+R10	Coref Arg1:T37 Arg2:T32	
+R11	Coref Arg1:T38 Arg2:T14	
+R12	Coref Arg1:T40 Arg2:T38	
+R13	Coref Arg1:T44 Arg2:T35	

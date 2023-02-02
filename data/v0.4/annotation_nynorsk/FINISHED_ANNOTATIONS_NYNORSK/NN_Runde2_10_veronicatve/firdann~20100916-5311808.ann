@@ -1,0 +1,100 @@
+T1	Markable 0 30	Eigen reklamefilm for fylket |
+T2	Markable 22 28	fylket
+T3	Markable 44 60	Sogn og Fjordane
+T4	Markable 64 83	fylket for framtida
+T5	Markable 75 83	framtida
+T6	Markable 91 93	du
+T7	Markable 94 99	dette
+T8	Markable 107 128	kompetanse til fylket
+T9	Markable 122 128	fylket
+T10	Markable 135 137	di
+T11	Markable 135 145	di meining
+T12	Markable 152 172	ein eigen rekamefilm
+T13	Markable 178 188	kompetanse
+T14	Markable 209 215	fylket
+T15	Markable 218 225	Biletet
+T16	Markable 233 289	karrieremessa til Framtidsfylket i Bergen i februar 2010
+T17	Markable 251 265	Framtidsfylket
+T18	Markable 268 274	Bergen
+T19	Markable 277 289	februar 2010
+T20	Markable 292 314	Tre produksjonsselskap
+T21	Markable 343 406	filmen som skal vise at Sogn og Fjordane er fylket for framtida
+T22	Markable 367 383	Sogn og Fjordane
+T23	Markable 387 406	fylket for framtida
+T24	Markable 398 406	framtida
+T25	Markable 409 440	Fristen for å levere inn tilbod
+T26	Markable 434 440	tilbod
+T27	Markable 453 459	onsdag
+T28	Markable 487 497	sju tilbod
+T29	Markable 502 526	ulike produksjonsselskap
+T30	Markable 538 568	Sogn og Fjordane fylkeskommune
+T31	Markable 572 584	heimesida si
+T32	Markable 582 584	si
+T33	Markable 593 603	kompetanse
+T34	Markable 635 653	siste tilbodsrunde
+T35	Markable 657 723	Dinamo ( Oslo ) , Pandora Film ( Bergen ) og Feber Film ( Bergen )
+T36	Markable 657 674	Dinamo ( Oslo ) ,
+T37	Markable 664 672	( Oslo )
+T38	Markable 675 723	Pandora Film ( Bergen ) og Feber Film ( Bergen )
+T39	Markable 675 698	Pandora Film ( Bergen )
+T40	Markable 688 698	( Bergen )
+T41	Markable 702 723	Feber Film ( Bergen )
+T42	Markable 713 723	( Bergen )
+T43	Markable 726 732	Filmen
+T44	Markable 736 832	eit samarbeidsprosjekt mellom blant andre Sogn og Fjordane fylkeskommune , Framtidsfylket og NHO
+T45	Markable 766 832	blant andre Sogn og Fjordane fylkeskommune , Framtidsfylket og NHO
+T46	Markable 766 810	blant andre Sogn og Fjordane fylkeskommune ,
+T47	Markable 811 825	Framtidsfylket
+T48	Markable 829 832	NHO
+T49	Markable 853 917	marknadsføringa av fylket som eit attraktiv bu- og arbeidsområde
+T50	Markable 872 878	fylket
+T51	Markable 883 917	eit attraktiv bu- og arbeidsområde
+T52	Markable 883 900	eit attraktiv bu-
+T53	Markable 904 917	arbeidsområde
+T54	Markable 920 925	Målet
+T55	Markable 945 1002	dyktige og framtidsretta menneske med relevant kompetanse
+T56	Markable 983 1002	relevant kompetanse
+T57	Markable 1007 1013	fylket
+T58	Markable 1021 1023	du
+T59	Markable 1024 1050	ein reklamefilm for fylket
+T60	Markable 1044 1050	fylket
+T61	Markable 1083 1099	ønskt kompetanse
+T62	Markable 1106 1108	di
+T63	Markable 1106 1116	di meining
+T64	Markable 1119 1151	kommentarfeltet under artikkelen
+T65	Markable 1141 1151	artikkelen
+T66	Markable 1164 1173	Internett
+T67	Markable 1176 1185	Målgruppa
+T68	Markable 1191 1204	første rekkje
+T69	Markable 1205 1253	menneske med høgare utdanning mellom 20 og 45 år
+T70	Markable 1218 1234	høgare utdanning
+T71	Markable 1248 1253	45 år
+T72	Markable 1259 1265	filmen
+T73	Markable 1289 1407	nettstadene til fylkeskommunen , Framtidsfylket , kommunane , verksemder i fylket og på sosiale nettstader som YouTube
+T74	Markable 1305 1370	fylkeskommunen , Framtidsfylket , kommunane , verksemder i fylket
+T75	Markable 1305 1321	fylkeskommunen ,
+T76	Markable 1322 1338	Framtidsfylket ,
+T77	Markable 1339 1350	kommunane ,
+T78	Markable 1351 1370	verksemder i fylket
+T79	Markable 1364 1370	fylket
+T80	Markable 1377 1407	sosiale nettstader som YouTube
+T81	Markable 1400 1407	YouTube
+T82	Markable 1423 1450	oppdraget med å lage filmen
+T83	Markable 1444 1450	filmen
+T84	Markable 1464 1471	veke 39
+R1	Coref Arg1:T2 Arg2:T3	
+R2	Coref Arg1:T9 Arg2:T3	
+R3	Coref Arg1:T14 Arg2:T9	
+R4	Coref Arg1:T22 Arg2:T14	
+R5	Coref Arg1:T32 Arg2:T30	
+R6	Coref Arg1:T43 Arg2:T21	
+R7	Coref Arg1:T21 Arg2:T12	
+R8	Coref Arg1:T46 Arg2:T32	
+R9	Coref Arg1:T47 Arg2:T17	
+R10	Coref Arg1:T50 Arg2:T22	
+R11	Coref Arg1:T57 Arg2:T50	
+R12	Coref Arg1:T60 Arg2:T57	
+R13	Coref Arg1:T62 Arg2:T58	
+R14	Coref Arg1:T72 Arg2:T43	
+R15	Coref Arg1:T75 Arg2:T46	
+R16	Coref Arg1:T83 Arg2:T75	

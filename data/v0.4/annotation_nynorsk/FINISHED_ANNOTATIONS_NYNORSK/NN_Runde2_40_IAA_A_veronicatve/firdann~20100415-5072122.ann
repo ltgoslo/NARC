@@ -1,0 +1,52 @@
+T1	Markable 0 2	Få
+T2	Markable 12 28	straumleverandør
+T3	Markable 34 47	vestlendingar
+T4	Markable 71 90	Illustrasjonsfoto .
+T5	Markable 99 136	dei rekordhøge straumprisane i vinter
+T6	Markable 130 136	vinter
+T7	Markable 145 177	berre sju prosent av husstandane
+T8	Markable 166 177	husstandane
+T9	Markable 178 193	kraftleverandør
+T10	Markable 221 242	den same leverandøren
+T11	Markable 246 250	nytt
+T12	Markable 254 257	dei
+T13	Markable 269 279	blanke ark
+T14	Markable 288 320	energibarometeret til TNS Gallup
+T15	Markable 310 320	TNS Gallup
+T16	Markable 323 338	Byteaktiviteten
+T17	Markable 356 421	rundt eitt prosentpoeng frå desember 2009 til midten av mars i år
+T18	Markable 384 397	desember 2009
+T19	Markable 402 421	midten av mars i år
+T20	Markable 412 421	mars i år
+T21	Markable 419 421	år
+T22	Markable 435 448	straumkundane
+T23	Markable 473 489	leverandøren sin
+T24	Markable 486 489	sin
+T25	Markable 506 549	prisen , verken nettleiga eller kraftprisen
+T26	Markable 522 549	nettleiga eller kraftprisen
+T27	Markable 522 531	nettleiga
+T28	Markable 538 549	kraftprisen
+T29	Markable 554 572	Misnøye med prisen
+T30	Markable 566 572	prisen
+T31	Markable 603 628	særleg mange straumkundar
+T32	Markable 640 650	leverandør
+T33	Markable 660 723	mange andre forhold som knyter straumkundane til selskapet sitt
+T34	Markable 691 704	straumkundane
+T35	Markable 709 723	selskapet sitt
+T36	Markable 719 723	sitt
+T37	Markable 732 746;765 777	avdelingsleiar i TNS Gallup
+T38	Markable 732 777	avdelingsleiar Eva Fosby Livgard i TNS Gallup
+T39	Markable 767 777	TNS Gallup
+T40	Markable 780 796	ei pressemelding
+T41	Markable 799 827	Vel 81 prosent av dei spurte
+T42	Markable 817 827	dei spurte
+T43	Markable 846 867	kraftleverandøren sin
+T44	Markable 864 867	sin
+T45	Markable 881 901	noko ønske om å byte
+R1	Coref Arg1:T24 Arg2:T22	
+R2	Coref Arg1:T30 Arg2:T25	
+R3	Coref Arg1:T34 Arg2:T24	
+R4	Coref Arg1:T36 Arg2:T34	
+R5	Coref Arg1:T39 Arg2:T15	
+R6	Coref Arg1:T44 Arg2:T42	
+R7	Coref Arg1:T12 Arg2:T8	

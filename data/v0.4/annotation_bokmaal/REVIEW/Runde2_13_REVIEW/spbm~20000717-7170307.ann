@@ -1,0 +1,98 @@
+T1	Markable 0 10	E-stoffene
+T2	Markable 25 35	bakverkene
+T3	Markable 38 59	De såkalte E-stoffene
+T4	Markable 85 96	bakervarene
+T5	Markable 111 168	en kontinuerlig prosess med stadig mindre bruk av E-stoff
+T6	Markable 139 168	stadig mindre bruk av E-stoff
+T7	Markable 161 168	E-stoff
+T8	Markable 176 202	bakermester Reidar Kjersem
+T9	Markable 205 212	Ålesund
+T10	Markable 219 224	helga
+T11	Markable 232 246	Hildur Rødstøl
+T12	Markable 247 258	et julebrød
+T13	Markable 268 285	varehusene i byen
+T14	Markable 281 285	byen
+T15	Markable 288 294	Brødet
+T16	Markable 320 323	jul
+T17	Markable 326 329	det
+T18	Markable 333 398	et bakverk som kommer i butikkene hver uke som noe godt til helga
+T19	Markable 357 366	butikkene
+T20	Markable 367 375	hver uke
+T21	Markable 380 398	noe godt til helga
+T22	Markable 393 398	helga
+T23	Markable 401 407	Hennes
+T24	Markable 401 414	Hennes ærende
+T25	Markable 421 442	innholdsdeklarasjonen
+T26	Markable 455 461	brødet
+T27	Markable 473 485	ni E-stoffer
+T28	Markable 488 496	Slik mat
+T29	Markable 501 504	hun
+T30	Markable 520 523	Jeg
+T31	Markable 559 582	julebrød uten E-stoffer
+T32	Markable 573 582	E-stoffer
+T33	Markable 592 595	jul
+T34	Markable 608 612	året
+T35	Markable 620 670	hun som representerer Naturvernforbundet i Ålesund
+T36	Markable 642 660	Naturvernforbundet
+T37	Markable 663 670	Ålesund
+T38	Markable 673 683	E-stoffene
+T39	Markable 688 720	forskjellige virkninger i deigen
+T40	Markable 714 720	deigen
+T41	Markable 726 740	Hildur Rødstøl
+T42	Markable 754 762	stoffene
+T43	Markable 788 796	kvaliten
+T44	Markable 800 806	varene
+T45	Markable 822 824	de
+T46	Markable 847 886	billigere brød enn uten slik tilsetting
+T47	Markable 871 886	slik tilsetting
+T48	Markable 889 922	Folk som er plaget av allergier ,
+T49	Markable 911 920	allergier
+T50	Markable 948 962	farge og annet
+T51	Markable 948 953	farge
+T52	Markable 965 1007	En brosjyre over næringsmiddeltilsettinger
+T53	Markable 982 1007	næringsmiddeltilsettinger
+T54	Markable 1029 1050	stoffene i julebrødet
+T55	Markable 1040 1050	julebrødet
+T56	Markable 1055 1065	uskadelige
+T57	Markable 1079 1082	dem
+T58	Markable 1090 1100	reaksjoner
+T59	Markable 1105 1129	allergifølsomme personer
+T60	Markable 1132 1158	Bakermester Reidar Kjersem
+T61	Markable 1171 1181	E-stoffene
+T62	Markable 1188 1194	veg ut
+T63	Markable 1197 1202	Dette
+T64	Markable 1217 1219	de
+T65	Markable 1278 1281	dem
+T66	Markable 1288 1292	tida
+T67	Markable 1300 1381	signaler om at vi skal gå bort fra E-stoffene og å bruke produkter uten E-stoffer
+T68	Markable 1315 1317	vi
+T69	Markable 1335 1345	E-stoffene
+T70	Markable 1357 1381	produkter uten E-stoffer
+T71	Markable 1372 1381	E-stoffer
+T72	Markable 1386 1400	noen produkter
+T73	Markable 1404 1418	disse stoffene
+T74	Markable 1439 1441	de
+T75	Markable 1448 1456	utfasing
+R1	Coref Arg1:T4 Arg2:T2	
+R2	Coref Arg1:T3 Arg2:T1	
+R3	Coref Arg1:T14 Arg2:T9	
+R4	Coref Arg1:T15 Arg2:T12	
+R5	Coref Arg1:T26 Arg2:T15	
+R6	Coref Arg1:T29 Arg2:T23	
+R7	Coref Arg1:T23 Arg2:T11	
+R8	Coref Arg1:T30 Arg2:T29	
+R9	Coref Arg1:T32 Arg2:T3	
+R10	Coref Arg1:T37 Arg2:T14	
+R11	Coref Arg1:T38 Arg2:T32	
+R12	Coref Arg1:T41 Arg2:T35	
+R13	Coref Arg1:T35 Arg2:T30	
+R14	Coref Arg1:T42 Arg2:T38	
+R15	Coref Arg1:T45 Arg2:T42	
+R16	Coref Arg1:T57 Arg2:T54	
+R17	Coref Arg1:T60 Arg2:T8	
+R18	Coref Arg1:T61 Arg2:T45	
+R19	Coref Arg1:T64 Arg2:T61	
+R20	Coref Arg1:T65 Arg2:T64	
+R21	Coref Arg1:T69 Arg2:T65	
+R22	Coref Arg1:T73 Arg2:T69	
+R23	Coref Arg1:T74 Arg2:T73	

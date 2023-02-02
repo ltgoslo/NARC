@@ -1,0 +1,122 @@
+T1	Markable 7 21	2500 kilometer
+T2	Markable 24 35	eitt strekk
+T3	Markable 50 55	bilen
+T4	Markable 70 78	Kirkenes
+T5	Markable 82 94	flytrafikken
+T6	Markable 111 162	Morten Engebø ( t.h. ) og kollega Øystein Halbrendt
+T7	Markable 111 133	Morten Engebø ( t.h. )
+T8	Markable 137 162	kollega Øystein Halbrendt
+T9	Markable 173 212	gang med ein køyretur på 2500 kilometer
+T10	Markable 182 212	ein køyretur på 2500 kilometer
+T11	Markable 198 212	2500 kilometer
+T12	Markable 215 227	Dagleg leiar
+T13	Markable 215 290	Dagleg leiar Morten Engebø og kollega Øystein Halbrendt i firmaet Nortronik
+T14	Markable 215 241	Dagleg leiar Morten Engebø
+T15	Markable 245 252;271 290	kollega i firmaet Nortronik
+T16	Markable 245 290	kollega Øystein Halbrendt i firmaet Nortronik
+T17	Markable 253 270	Øystein Halbrendt
+T18	Markable 273 290	firmaet Nortronik
+T19	Markable 298 312	torsdag morgon
+T20	Markable 306 312	morgon
+T21	Markable 322 327	Førde
+T22	Markable 334 363	eit arbeidsoppdrag i Kirkenes
+T23	Markable 355 363	Kirkenes
+T24	Markable 369 372	dei
+T25	Markable 378 458	beskjed om at flytrafikken i Norge er innstilt på grunn av vulkanoska frå Island
+T26	Markable 392 412	flytrafikken i Norge
+T27	Markable 407 412	Norge
+T28	Markable 428 458	grunn av vulkanoska frå Island
+T29	Markable 437 458	vulkanoska frå Island
+T30	Markable 452 458	Island
+T31	Markable 470 473	dei
+T32	Markable 496 499	bil
+T33	Markable 509 523	2500 kilometer
+T34	Markable 533 538	Førde
+T35	Markable 541 560	Ikkje tid å vente |
+T36	Markable 572 577	vêret
+T37	Markable 601 613	to-tre dagar
+T38	Markable 618 622	oska
+T39	Markable 634 637	Det
+T40	Markable 642 644	vi
+T41	Markable 634 637;651 669	Det tid til å vente på
+T42	Markable 672 674	Vi
+T43	Markable 679 709	mange kundar som ventar på oss
+T44	Markable 706 709	oss
+T45	Markable 715 718	det
+T46	Markable 744 750	Engebø
+T47	Markable 753 769	Han og kollegaen
+T48	Markable 753 756	Han
+T49	Markable 760 769	kollegaen
+T50	Markable 788 815	heile strekninga på 250 mil
+T51	Markable 808 815	250 mil
+T52	Markable 818 862	eitt strekk , ein køyretur på rundt 25 timar
+T53	Markable 832 862	ein køyretur på rundt 25 timar
+T54	Markable 848 862	rundt 25 timar
+T55	Markable 882 927	stopp for å fylle diesel og få i seg litt mat
+T56	Markable 900 906	diesel
+T57	Markable 919 927	litt mat
+T58	Markable 936 942	Engebø
+T59	Markable 945 948	Han
+T60	Markable 968 978	køyreturen
+T61	Markable 994 997	han
+T62	Markable 1008 1031	den aktuelle strekninga
+T63	Markable 1032 1045	fleire gonger
+T64	Markable 1063 1065	vi
+T65	Markable 1075 1078	det
+T66	Markable 1085 1097	noko problem
+T67	Markable 1106 1112	Engebø
+T68	Markable 1133 1138	dette
+T69	Markable 1141 1144	Han
+T70	Markable 1159 1162	dei
+T71	Markable 1174 1179	Førde
+T72	Markable 1186 1192	klokka
+T73	Markable 1196 1213	fredag føremiddag
+T74	Markable 1203 1213	føremiddag
+T75	Markable 1222 1257	over eitt døgn med effektiv køyring
+T76	Markable 1241 1257	effektiv køyring
+T77	Markable 1262 1264	Eg
+T78	Markable 1281 1291	mykje rart
+T79	Markable 1301 1303	eg
+T80	Markable 1335 1355	ein vulkan på Island
+T81	Markable 1349 1355	Island
+T82	Markable 1362 1364	eg
+T83	Markable 1383 1389	Engebø
+T84	Markable 1395 1403	firda.no
+T85	Markable 1415 1421	Engebø
+T86	Markable 1428 1434	klokka
+T87	Markable 1444 1447	dei
+T88	Markable 1450 1472	nærleiken av Rovaniemi
+T89	Markable 1463 1472	Rovaniemi
+R1	Coref Arg1:T14 Arg2:T7	
+R2	Coref Arg1:T17 Arg2:T8	
+R3	Coref Arg1:T23 Arg2:T4	
+R4	Coref Arg1:T24 Arg2:T13	
+R5	Coref Arg1:T26 Arg2:T5	
+R6	Coref Arg1:T31 Arg2:T24	
+R7	Coref Arg1:T34 Arg2:T21	
+R8	Coref Arg1:T38 Arg2:T29	
+R9	Coref Arg1:T40 Arg2:T31	
+R10	Coref Arg1:T42 Arg2:T40	
+R11	Coref Arg1:T44 Arg2:T42	
+R12	Coref Arg1:T46 Arg2:T14	
+R13	Coref Arg1:T48 Arg2:T46	
+R14	Coref Arg1:T49 Arg2:T17	
+R15	Coref Arg1:T58 Arg2:T48	
+R16	Coref Arg1:T59 Arg2:T58	
+R17	Coref Arg1:T60 Arg2:T53	
+R18	Coref Arg1:T61 Arg2:T59	
+R19	Coref Arg1:T62 Arg2:T50	
+R20	Coref Arg1:T64 Arg2:T47	
+R21	Coref Arg1:T67 Arg2:T61	
+R22	Coref Arg1:T69 Arg2:T67	
+R23	Coref Arg1:T70 Arg2:T64	
+R24	Coref Arg1:T71 Arg2:T34	
+R25	Coref Arg1:T77 Arg2:T69	
+R26	Coref Arg1:T79 Arg2:T77	
+R27	Coref Arg1:T81 Arg2:T30	
+R28	Coref Arg1:T82 Arg2:T79	
+R29	Coref Arg1:T83 Arg2:T82	
+R30	Coref Arg1:T85 Arg2:T83	
+R31	Coref Arg1:T87 Arg2:T70	
+R32	Coref Arg1:T13 Arg2:T6	
+R33	Coref Arg1:T47 Arg2:T44	

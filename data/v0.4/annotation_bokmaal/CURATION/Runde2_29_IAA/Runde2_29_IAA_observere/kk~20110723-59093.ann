@@ -1,0 +1,106 @@
+T1	Markable 0 15	Ingen grenser |
+T2	Markable 16 22	Dagens
+T3	Markable 16 30	Dagens leder |
+T4	Markable 31 115	Usikkerheten rundt hva som vil bli den endelige prislappen for kjøpet av F-35-flyene
+T5	Markable 66 115	den endelige prislappen for kjøpet av F-35-flyene
+T6	Markable 94 115	kjøpet av F-35-flyene
+T7	Markable 104 115	F-35-flyene
+T8	Markable 123 137	berettiget uro
+T9	Markable 145 151	dagens
+T10	Markable 145 156	dagens avis
+T11	Markable 164 201	statssekretær i Forsvarsdepartementet
+T12	Markable 180 201	Forsvarsdepartementet
+T13	Markable 164 227	statssekretær i Forsvarsdepartementet Roger Ingebriktsen ( Ap )
+T14	Markable 221 227	( Ap )
+T15	Markable 228 234	bensin
+T16	Markable 238 243	bålet
+T17	Markable 249 369	spørsmål om hvorvidt departementet har en smertegrense for hvor stor prisøkning vi kan tåle på de amerikanske kampflyene
+T18	Markable 270 283	departementet
+T19	Markable 288 303	en smertegrense
+T20	Markable 308 328	hvor stor prisøkning
+T21	Markable 329 331	vi
+T22	Markable 344 369	de amerikanske kampflyene
+T23	Markable 379 382	han
+T24	Markable 396 421	Enhver demokratisk nasjon
+T25	Markable 429 453	et eller annet tidspunkt
+T26	Markable 470 475	foten
+T27	Markable 483 500	økonomiske rammer
+T28	Markable 516 518	vi
+T29	Markable 529 554	nærheten av å være der nå
+T30	Markable 562 647	spørsmål om hvorvidt regjeringen har en plan B dersom prisen på flyene skyter i været
+T31	Markable 583 594	regjeringen
+T32	Markable 599 608	en plan B
+T33	Markable 607 608	B
+T34	Markable 616 632	prisen på flyene
+T35	Markable 626 632	flyene
+T36	Markable 642 647	været
+T37	Markable 653 659	svaret
+T38	Markable 694 706	de rødgrønne
+T39	Markable 709 719	Stortinget
+T40	Markable 720 766	« klare øvre kostnadsrammer » på 42 milliarder
+T41	Markable 753 766	42 milliarder
+T42	Markable 769 775	Kravet
+T43	Markable 800 813	30 milliarder
+T44	Markable 819 822	mye
+T45	Markable 835 858	den endelige prislappen
+T46	Markable 882 884	vi
+T47	Markable 904 916	disse flyene
+T48	Markable 929 932	det
+T49	Markable 947 979	Debatten om flyene internt i USA
+T50	Markable 959 979	flyene internt i USA
+T51	Markable 976 979	USA
+T52	Markable 1007 1030	stadig flere over there
+T53	Markable 1044 1096	grunn til å revurdere antall fly som skal produseres
+T54	Markable 1066 1096	antall fly som skal produseres
+T55	Markable 1073 1096	fly som skal produseres
+T56	Markable 1099 1107	Debatten
+T57	Markable 1136 1142	flyene
+T58	Markable 1166 1224	utfordringene USA kommer til å stå overfor i tida framover
+T59	Markable 1180 1183	USA
+T60	Markable 1211 1224	tida framover
+T61	Markable 1231 1244	The Economist
+T62	Markable 1255 1267	siste nummer
+T63	Markable 1316 1330	Ideen med F-35
+T64	Markable 1326 1330	F-35
+T65	Markable 1342 1414	et rimelig taktisk kampfly som skulle erstatte minst fire andre flytyper
+T66	Markable 1389 1414	minst fire andre flytyper
+T67	Markable 1417 1420	USA
+T68	Markable 1434 1448	2400 kampfly ,
+T69	Markable 1483 1488	deres
+T70	Markable 1483 1517	deres allierte - blant annet Norge
+T71	Markable 1512 1517	Norge
+T72	Markable 1520 1542	Det store antallet fly
+T73	Markable 1539 1542	fly
+T74	Markable 1556 1565	hvert fly
+T75	Markable 1579 1585	flyene
+T76	Markable 1613 1623	Den datoen
+T77	Markable 1656 1670	prisen per fly
+T78	Markable 1667 1670	fly
+T79	Markable 1681 1694	The Economist
+T80	Markable 1712 1721	Magasinet
+T81	Markable 1732 1764	selv F-35-tilhenger Robert Gates
+T82	Markable 1798 1808	antall fly
+T83	Markable 1805 1808	fly
+T84	Markable 1815 1827	lys av dette
+T85	Markable 1822 1827	dette
+T86	Markable 1854 1876	Forsvarsdepartementets
+T87	Markable 1854 1905	Forsvarsdepartementets uforbeholdne støtte til F-35
+T88	Markable 1901 1905	F-35
+R1	Coref Arg1:T23 Arg2:T13	
+R2	Bridging Arg1:T42 Arg2:T40	
+R3	Coref Arg1:T67 Arg2:T59	
+R4	Coref Arg1:T69 Arg2:T67	
+R5	Coref Arg1:T79 Arg2:T61	
+R6	Coref Arg1:T86 Arg2:T18	
+R7	Coref Arg1:T9 Arg2:T2	
+R8	Coref Arg1:T22 Arg2:T7	
+R9	Coref Arg1:T18 Arg2:T12	
+R10	Coref Arg1:T35 Arg2:T22	
+R11	Bridging Arg1:T37 Arg2:T30	
+R12	Coref Arg1:T45 Arg2:T5	
+R13	Coref Arg1:T47 Arg2:T35	
+R14	Coref Arg1:T57 Arg2:T49	
+R15	Coref Arg1:T88 Arg2:T64	
+R16	Coref Arg1:T75 Arg2:T73	
+R17	Bridging Arg1:T62 Arg2:T61	
+R18	Bridging Arg1:T26 Arg2:T24	

@@ -1,0 +1,78 @@
+T1	Markable 0 3	Han
+T2	Markable 7 32	ny styreleiar i SafeClean
+T3	Markable 23 32	SafeClean
+T4	Markable 35 43	Litsheim
+T5	Markable 53 83	styrevervet til skulekameraten
+T6	Markable 69 83	skulekameraten
+T7	Markable 86 118	Johnny Arild Litsheim i Høyanger
+T8	Markable 110 118	Høyanger
+T9	Markable 122 147	ny styreleiar i SafeClean
+T10	Markable 138 147	SafeClean
+T11	Markable 150 171	Johnny Arild Litsheim
+T12	Markable 175 288	ny styreleiar i Høyanger-selskapet SafeClean , ei bedrift som er løfta fram som suksessbedrift i Sogn og Fjordane
+T13	Markable 191 288	Høyanger-selskapet SafeClean , ei bedrift som er løfta fram som suksessbedrift i Sogn og Fjordane
+T14	Markable 222 288	ei bedrift som er løfta fram som suksessbedrift i Sogn og Fjordane
+T15	Markable 255 288	suksessbedrift i Sogn og Fjordane
+T16	Markable 272 288	Sogn og Fjordane
+T17	Markable 291 294	Han
+T18	Markable 304 317	stafettpinnen
+T19	Markable 324 393	Jon Martin Huslid , som er dagleg leiar i Industrial Chemicals ( IC )
+T20	Markable 351 393	dagleg leiar i Industrial Chemicals ( IC )
+T21	Markable 366 386	Industrial Chemicals
+T22	Markable 366 393	Industrial Chemicals ( IC )
+T23	Markable 398 404	Huslid
+T24	Markable 408 438	ein gammal skulekamerat av meg
+T25	Markable 435 438	meg
+T26	Markable 441 443	vi
+T27	Markable 455 458	lag
+T28	Markable 461 463	Vi
+T29	Markable 497 503	musikk
+T30	Markable 519 527	Litsheim
+T31	Markable 532 541	Ytre Sogn
+T32	Markable 547 555	Litsheim
+T33	Markable 565 587	styrevervet i bedrifta
+T34	Markable 579 587	bedrifta
+T35	Markable 606 612	Huslid
+T36	Markable 645 656	jobben i IC
+T37	Markable 654 656	IC
+T38	Markable 661 670	SafeClean
+T39	Markable 676 687	sterk vekst
+T40	Markable 693 728	søsterselskapet Industrial Chemical
+T41	Markable 754 759	dette
+T42	Markable 769 812	Litsheim , som også er medeigar i SafeClean
+T43	Markable 792 812	medeigar i SafeClean
+T44	Markable 803 812	SafeClean
+T45	Markable 815 832	Høyanger-bedrifta
+T46	Markable 857 923	rens av system og komponentar samt kildesortering av fjerna belegg
+T47	Markable 857 886	rens av system og komponentar
+T48	Markable 865 886	system og komponentar
+T49	Markable 865 871	system
+T50	Markable 875 886	komponentar
+T51	Markable 892 923	kildesortering av fjerna belegg
+T52	Markable 910 923	fjerna belegg
+R1	Coref Arg1:T4 Arg2:T1	
+R2	Coref Arg1:T7 Arg2:T4	
+R3	Coref Arg1:T10 Arg2:T3	
+R4	Coref Arg1:T11 Arg2:T7	
+R6	Coref Arg1:T17 Arg2:T11	
+R7	Coref Arg1:T19 Arg2:T6	
+R8	Coref Arg1:T23 Arg2:T19	
+R9	Coref Arg1:T25 Arg2:T17	
+R10	Split_antecedent Arg1:T26 Arg2:T25	
+R11	Split_antecedent Arg1:T26 Arg2:T23	
+R12	Coref Arg1:T28 Arg2:T26	
+R13	Coref Arg1:T30 Arg2:T25	
+R14	Coref Arg1:T32 Arg2:T30	
+R15	Coref Arg1:T34 Arg2:T13	
+R16	Coref Arg1:T35 Arg2:T23	
+R17	Coref Arg1:T37 Arg2:T21	
+R18	Coref Arg1:T38 Arg2:T34	
+R19	Coref Arg1:T40 Arg2:T37	
+R20	Coref Arg1:T42 Arg2:T32	
+R21	Coref Arg1:T44 Arg2:T38	
+R22	Coref Arg1:T45 Arg2:T44	
+R5	Coref Arg1:T13 Arg2:T10	
+T53	Markable 633 636	seg
+R23	Coref Arg1:T53 Arg2:T35	
+T54	Markable 850 853	seg
+R24	Coref Arg1:T54 Arg2:T45	

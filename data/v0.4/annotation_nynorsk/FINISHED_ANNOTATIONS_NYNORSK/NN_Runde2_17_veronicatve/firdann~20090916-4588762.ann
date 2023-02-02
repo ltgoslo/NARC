@@ -1,0 +1,73 @@
+T1	Markable 0 28	Krass kritikk mot to legar |
+T2	Markable 18 26	to legar
+T3	Markable 40 57	operasjonspasient
+T4	Markable 62 68	blødar
+T5	Markable 71 93	Fylkeslege Petter Øgar
+T6	Markable 98 110	kraftig refs
+T7	Markable 115 187	to legar ved Førde sentralsjukehus som oversåg at ein pasient var blødar
+T8	Markable 128 149	Førde sentralsjukehus
+T9	Markable 165 176	ein pasient
+T10	Markable 181 187	blødar
+T11	Markable 198 207	journalen
+T12	Markable 210 215	Dette
+T13	Markable 230 272	ein operasjon tidlegare i år på sjukehuset
+T14	Markable 256 258	år
+T15	Markable 262 272	sjukehuset
+T16	Markable 295 318	journalen til pasienten
+T17	Markable 309 318	pasienten
+T18	Markable 322 325	han
+T19	Markable 330 336	blødar
+T20	Markable 350 355	dette
+T21	Markable 365 377	etterretning
+T22	Markable 382 389	tillegg
+T23	Markable 409 492	ein eigen obs-lapp på tilvisningsskrivet der det stod at pasienten hadde sjukdommen
+T24	Markable 431 449	tilvisningsskrivet
+T25	Markable 466 475	pasienten
+T26	Markable 482 492	sjukdommen
+T27	Markable 511 517	legane
+T28	Markable 518 606	blødarsjukdomen som i praksis betyr at pasienten ikkje sluttar å blø frå operasjonssåret
+T29	Markable 540 547	praksis
+T30	Markable 557 566	pasienten
+T31	Markable 591 606	operasjonssåret
+T32	Markable 630 641	Fylkeslegen
+T33	Markable 664 675	behandlinga
+T34	Markable 701 714	Dei to legane
+T35	Markable 743 752	pasienten
+T36	Markable 755 759	fare
+T37	Markable 762 768	Legane
+T38	Markable 781 785	refs
+T39	Markable 797 807	sjukehuset
+T40	Markable 810 814	Øgar
+T41	Markable 834 840	legane
+T42	Markable 849 869	ein formell reaksjon
+T43	Markable 890 899	to gonger
+T44	Markable 919 961	første gong at pasienten har opplevd dette
+T45	Markable 934 943	pasienten
+T46	Markable 956 961	dette
+T47	Markable 966 971	Dette
+T48	Markable 985 994	pasienten
+T49	Markable 1001 1014	ein operasjon
+T50	Markable 1019 1031	sju år sidan
+T51	Markable 1038 1046	den gong
+T52	Markable 1059 1065	legane
+T53	Markable 1066 1100	kunnskap om at personen var blødar
+T54	Markable 1081 1089	personen
+T55	Markable 1094 1100	blødar
+R1	Coref Arg1:T15 Arg2:T8	
+R2	Coref Arg1:T16 Arg2:T11	
+R3	Coref Arg1:T17 Arg2:T9	
+R4	Coref Arg1:T18 Arg2:T17	
+R5	Coref Arg1:T25 Arg2:T18	
+R6	Coref Arg1:T27 Arg2:T7	
+R7	Coref Arg1:T28 Arg2:T26	
+R8	Coref Arg1:T30 Arg2:T25	
+R9	Coref Arg1:T32 Arg2:T5	
+R10	Coref Arg1:T34 Arg2:T27	
+R11	Coref Arg1:T35 Arg2:T30	
+R12	Coref Arg1:T37 Arg2:T34	
+R13	Coref Arg1:T39 Arg2:T15	
+R14	Coref Arg1:T40 Arg2:T32	
+R15	Coref Arg1:T41 Arg2:T37	
+R16	Coref Arg1:T45 Arg2:T35	
+R17	Coref Arg1:T48 Arg2:T45	
+R18	Coref Arg1:T54 Arg2:T48	

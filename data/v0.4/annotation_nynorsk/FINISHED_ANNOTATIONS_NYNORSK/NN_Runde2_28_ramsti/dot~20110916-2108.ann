@@ -1,0 +1,99 @@
+T1	Markable 0 13	Det nye Høgre
+T2	Markable 16 19	Ein
+T3	Markable 72 85	valresultatet
+T4	Markable 106 129	stortingsvalet om to år
+T5	Markable 124 129	to år
+T6	Markable 139 147	to veker
+T7	Markable 159 169	politikken
+T8	Markable 185 194	eurokrisa
+T9	Markable 209 227	veljaroppslutnaden
+T10	Markable 234 252	neste stortingsval
+T11	Markable 256 258	vi
+T12	Markable 299 420	tiltakspakker for å motverka aukande statsgjeld , låg vekst , eit europeiske bankvesen i krise og ein euro med låg tillit
+T13	Markable 328 420	aukande statsgjeld , låg vekst , eit europeiske bankvesen i krise og ein euro med låg tillit
+T14	Markable 328 348	aukande statsgjeld ,
+T15	Markable 349 360	låg vekst ,
+T16	Markable 361 393	eit europeiske bankvesen i krise
+T17	Markable 388 393	krise
+T18	Markable 397 420	ein euro med låg tillit
+T19	Markable 410 420	låg tillit
+T20	Markable 423 441	Seinast denne veka
+T21	Markable 447 449	vi
+T22	Markable 450 507	melding om den fyrste franske banken med kredittmistillit
+T23	Markable 461 507	den fyrste franske banken med kredittmistillit
+T24	Markable 491 507	kredittmistillit
+T25	Markable 510 522	Slike kriser
+T26	Markable 539 562	den sitjande regjeringa
+T27	Markable 569 572	det
+T28	Markable 580 583	det
+T29	Markable 588 604	sist finanskrise
+T30	Markable 622 653	eit problem for Arbeidarpartiet
+T31	Markable 638 653	Arbeidarpartiet
+T32	Markable 695 702	partiet
+T33	Markable 707 712	Høgre
+T34	Markable 715 720	Høgre
+T35	Markable 737 740	Det
+T36	Markable 744 772	mindre snakk om lågare skatt
+T37	Markable 760 772	lågare skatt
+T38	Markable 775 804	Innhaldet i valtalane i haust
+T39	Markable 787 804	valtalane i haust
+T40	Markable 799 804	haust
+T41	Markable 831 893	den induvidualistbaserte retorikken frå Jan Tore Sanner i 2005
+T42	Markable 871 886	Jan Tore Sanner
+T43	Markable 902 907	valet
+T44	Markable 913 925	Erna Solberg
+T45	Markable 930 934	fall
+T46	Markable 967 1020	kritikken frå den eldre konservative garden i partiet
+T47	Markable 981 1020	den eldre konservative garden i partiet
+T48	Markable 1013 1020	partiet
+T49	Markable 1025 1032	tillegg
+T50	Markable 1037 1108	miljøet rundt Civita og Minerva , med skriveføre og lesande politikarar
+T51	Markable 1051 1068	Civita og Minerva
+T52	Markable 1051 1057	Civita
+T53	Markable 1061 1068	Minerva
+T54	Markable 1075 1108	skriveføre og lesande politikarar
+T55	Markable 1118 1125	partiet
+T56	Markable 1135 1138	det
+T57	Markable 1153 1176	vekteggjinga på økonomi
+T58	Markable 1169 1176	økonomi
+T59	Markable 1179 1225	Dei fire hovudsakene til Høgre denne valkampen
+T60	Markable 1204 1209	Høgre
+T61	Markable 1210 1225	denne valkampen
+T62	Markable 1232 1344	« Kunnskap i skolen » , « Kvalitet i omsorgen » , « Trygge lokalsamfunn » og « Flere , bedre og tryggere veier »
+T63	Markable 1232 1255	« Kunnskap i skolen » ,
+T64	Markable 1256 1281	« Kvalitet i omsorgen » ,
+T65	Markable 1282 1305	« Trygge lokalsamfunn »
+T66	Markable 1309 1344	« Flere , bedre og tryggere veier »
+T67	Markable 1347 1396	Slagord som Arbeidarpartiet kunne stilt seg bak .
+T68	Markable 1359 1374	Arbeidarpartiet
+T69	Markable 1397 1403	Høgres
+T70	Markable 1397 1415	Høgres verdiskifte
+T71	Markable 1424 1439	Arbeidarpartiet
+T72	Markable 1453 1476	ein tydelegare politikk
+T73	Markable 1486 1489	det
+T74	Markable 1501 1504	det
+T75	Markable 1527 1529	SV
+T76	Markable 1545 1554	regjering
+T77	Markable 1563 1580	det dårlege valet
+T78	Markable 1607 1609	SV
+T79	Markable 1610 1618	noko val
+T80	Markable 1621 1657	Ei tilbakevending til protestpartiet
+T81	Markable 1643 1657	protestpartiet
+T82	Markable 1677 1700	så mange år i regjering
+T83	Markable 1691 1700	regjering
+R1	Coref Arg1:T32 Arg2:T31	
+R2	Coref Arg1:T34 Arg2:T33	
+R3	Bridging Arg1:T39 Arg2:T34	
+R4	Coref Arg1:T48 Arg2:T34	
+R5	Coref Arg1:T55 Arg2:T48	
+R6	Bridging Arg1:T43 Arg2:T3	
+R7	Coref Arg1:T56 Arg2:T55	
+R8	Coref Arg1:T60 Arg2:T56	
+R9	Coref Arg1:T68 Arg2:T32	
+R10	Coref Arg1:T69 Arg2:T60	
+R11	Coref Arg1:T71 Arg2:T84	
+R12	Coref Arg1:T67 Arg2:T62	
+T84	Markable 1387 1390	seg
+R13	Coref Arg1:T84 Arg2:T68	
+R15	Bridging Arg1:T77 Arg2:T75	
+R16	Coref Arg1:T78 Arg2:T75	

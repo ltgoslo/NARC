@@ -1,0 +1,75 @@
+T1	Markable 8 38	halvferdig sykehus i Trondheim
+T2	Markable 29 38	Trondheim
+T3	Markable 41 71	Helse- og omsorgsdepartementet
+T4	Markable 41 47	Helse-
+T5	Markable 51 71	omsorgsdepartementet
+T6	Markable 81 159	beskjed om at nye St. Olavs hospital ikke kan forvente flere statlige tilskudd
+T7	Markable 95 117	nye St. Olavs hospital
+T8	Markable 136 159	flere statlige tilskudd
+T9	Markable 162 194	Fylkesordføreren i Sør-Trøndelag
+T10	Markable 181 194	Sør-Trøndelag
+T11	Markable 206 236	byggingen av det nye sykehuset
+T12	Markable 219 236	det nye sykehuset
+T13	Markable 260 292	et møte med departementet onsdag
+T14	Markable 272 285	departementet
+T15	Markable 286 292	onsdag
+T16	Markable 298 314	Helse Midt-Norge
+T17	Markable 315 457	beskjed om at det ikke kan ventes ytterligere tilskudd til investeringer eller driftskostnader knyttet til bygging av nytt sykehus i Trondheim
+T18	Markable 349 457	ytterligere tilskudd til investeringer eller driftskostnader knyttet til bygging av nytt sykehus i Trondheim
+T19	Markable 374 457	investeringer eller driftskostnader knyttet til bygging av nytt sykehus i Trondheim
+T20	Markable 374 387	investeringer
+T21	Markable 394 457	driftskostnader knyttet til bygging av nytt sykehus i Trondheim
+T22	Markable 422 457	bygging av nytt sykehus i Trondheim
+T23	Markable 433 457	nytt sykehus i Trondheim
+T24	Markable 448 457	Trondheim
+T25	Markable 473 479	planen
+T26	Markable 483 521	byggefase to av nye St. Olavs hospital
+T27	Markable 499 521	nye St. Olavs hospital
+T28	Markable 543 580	styremøtet i Helse Midt-Norge tirsdag
+T29	Markable 556 572	Helse Midt-Norge
+T30	Markable 573 580	tirsdag
+T31	Markable 585 591	stedet
+T32	Markable 595 601	styret
+T33	Markable 608 619	en ny runde
+T34	Markable 623 648	rammene rundt utbyggingen
+T35	Markable 637 648	utbyggingen
+T36	Markable 651 661	Resultatet
+T37	Markable 670 744	mindre areal , tap av senger , dårligere kvalitet og høyere driftsutgifter
+T38	Markable 670 684	mindre areal ,
+T39	Markable 685 700	tap av senger ,
+T40	Markable 692 698	senger
+T41	Markable 701 719	dårligere kvalitet
+T42	Markable 723 744	høyere driftsutgifter
+T43	Markable 755 768	Adresseavisen
+T44	Markable 779 786	kortene
+T45	Markable 797 800	det
+T46	Markable 805 847	en større bør å bære for oss enn vi trodde
+T47	Markable 830 833	oss
+T48	Markable 838 840	vi
+T49	Markable 850 855	Dette
+T50	Markable 878 880	vi
+T51	Markable 890 920	et foretaksmøte med statsråden
+T52	Markable 910 920	statsråden
+T53	Markable 928 952	administrerende direktør
+T54	Markable 928 988	administrerende direktør Paul Hellandsvik i Helse Midt-Norge
+T55	Markable 972 988	Helse Midt-Norge
+T56	Markable 993 998	Dette
+T57	Markable 1013 1015	Vi
+T58	Markable 1031 1054	et topp moderne sykehus
+T59	Markable 1086 1107	et halvferdig sykehus
+T60	Markable 1122 1153	kvaliteten på det nye sykehuset
+T61	Markable 1136 1153	det nye sykehuset
+T62	Markable 1160 1176	driftskostnadene
+R2	Coref Arg1:T12 Arg2:T7	
+R3	Coref Arg1:T14 Arg2:T3	
+R4	Coref Arg1:T24 Arg2:T2	
+R1	Coref Arg1:T27 Arg2:T12	
+R5	Coref Arg1:T29 Arg2:T16	
+R6	Bridging Arg1:T32 Arg2:T29	
+R7	Bridging Arg1:T35 Arg2:T26	
+R8	Coref Arg1:T48 Arg2:T47	
+R9	Coref Arg1:T50 Arg2:T48	
+R10	Coref Arg1:T55 Arg2:T29	
+R11	Coref Arg1:T57 Arg2:T50	
+R12	Coref Arg1:T61 Arg2:T27	
+R13	Coref Arg1:T62 Arg2:T42	

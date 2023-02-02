@@ -1,0 +1,73 @@
+T1	Markable 12 28	namn på omkommen
+T2	Markable 20 28	omkommen
+T3	Markable 31 53	Ove Johan Veien ( 63 )
+T4	Markable 67 83	fall frå eit tre
+T5	Markable 76 83	eit tre
+T6	Markable 84 103	torsdag ettermiddag
+T7	Markable 92 103	ettermiddag
+T8	Markable 106 114	Politiet
+T9	Markable 130 229	namnet på mannen som torsdag ettermiddag omkom i Naustdal , som er den 63 år gammle Ove Johan Veien
+T10	Markable 140 229	mannen som torsdag ettermiddag omkom i Naustdal , som er den 63 år gammle Ove Johan Veien
+T11	Markable 151 170	torsdag ettermiddag
+T12	Markable 159 170	ettermiddag
+T13	Markable 179 187	Naustdal
+T14	Markable 201 206	63 år
+T15	Markable 197 229	den 63 år gammle Ove Johan Veien
+T16	Markable 232 235	Det
+T17	Markable 243 263	NRK Sogn og Fjordane
+T18	Markable 266 272	Ulykka
+T19	Markable 285 333	lia ovanfor mannen sin bustad på Hove i Naustdal
+T20	Markable 297 303	mannen
+T21	Markable 297 307	mannen sin
+T22	Markable 297 333	mannen sin bustad på Hove i Naustdal
+T23	Markable 318 333	Hove i Naustdal
+T24	Markable 325 333	Naustdal
+T25	Markable 334 353	torsdag ettermiddag
+T26	Markable 342 353	ettermiddag
+T27	Markable 356 369	Familiemedlem
+T28	Markable 385 399	helsepersonell
+T29	Markable 408 414	staden
+T30	Markable 421 427	klokka
+T31	Markable 440 446	mannen
+T32	Markable 462 470	politiet
+T33	Markable 481 567	eit familiemedlem som melde til AMK-sentralen , som deretter melde vidare til politiet
+T34	Markable 513 567	AMK-sentralen , som deretter melde vidare til politiet
+T35	Markable 559 567	politiet
+T36	Markable 572 582	Fallulykka
+T37	Markable 593 616	samband med skogsarbeid
+T38	Markable 605 616	skogsarbeid
+T39	Markable 619 625	Mannen
+T40	Markable 639 645	skogen
+T41	Markable 666 688	ingen vitne til ulykka
+T42	Markable 682 688	ulykka
+T43	Markable 698 743	Jan Arild Nervik , førstebetjent i politiet ,
+T44	Markable 717 743	førstebetjent i politiet ,
+T45	Markable 733 741	politiet
+T46	Markable 748 756	firda.no
+T47	Markable 759 782	Legar først på staden |
+T48	Markable 774 780	staden
+T49	Markable 783 827	Kommunelege Arne Bjørnetun og ein turnuslege
+T50	Markable 783 809	Kommunelege Arne Bjørnetun
+T51	Markable 813 827	ein turnuslege
+T52	Markable 842 868	ulykkesstaden i Naustdalen
+T53	Markable 858 868	Naustdalen
+T54	Markable 871 914	nokre få kilometer ovanfor Naustdal sentrum
+T55	Markable 898 914	Naustdal sentrum
+T56	Markable 917 961	Ambulansebil , ambulansehelikopter og politi
+T57	Markable 917 931	Ambulansebil ,
+T58	Markable 932 951	ambulansehelikopter
+T59	Markable 955 961	politi
+T60	Markable 982 987	Førde
+R1	Coref Arg1:T10 Arg2:T3	
+R2	Coref Arg1:T18 Arg2:T4	
+R3	Coref Arg1:T20 Arg2:T10	
+R4	Coref Arg1:T24 Arg2:T13	
+R5	Coref Arg1:T31 Arg2:T20	
+R6	Coref Arg1:T32 Arg2:T8	
+R7	Coref Arg1:T35 Arg2:T32	
+R8	Coref Arg1:T36 Arg2:T18	
+R9	Coref Arg1:T39 Arg2:T31	
+R10	Coref Arg1:T42 Arg2:T36	
+R11	Coref Arg1:T45 Arg2:T35	
+R12	Coref Arg1:T53 Arg2:T24	
+R13	Coref Arg1:T52 Arg2:T19	

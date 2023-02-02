@@ -1,0 +1,117 @@
+T1	Markable 0 13	Stadig fleire
+T2	Markable 18 28	dekkhotell
+T3	Markable 31 56	Klar trend i dekkbransjen
+T4	Markable 44 56	dekkbransjen
+T5	Markable 70 106	Dagleg leiar hjå Bil & Dekkservice ,
+T6	Markable 87 104	Bil & Dekkservice
+T7	Markable 70 117	Dagleg leiar hjå Bil & Dekkservice , Tore Olsen
+T8	Markable 125 132	kundane
+T9	Markable 165 175	dekkhotell
+T10	Markable 192 199	tenster
+T12	Markable 216 226	Førde Vulk
+T13	Markable 202 242	Salsleiar hjå Førde Vulk , Ståle Kvammen
+T14	Markable 252 334	ein aukande tendens til at folk heller kjøper tenester enn å utføre oppgåva sjølve
+T15	Markable 279 283	folk
+T16	Markable 298 306	tenester
+T17	Markable 320 327	oppgåva
+T18	Markable 337 369	Foto Tone Merete Lillesvangstu |
+T19	Markable 342 367	Tone Merete Lillesvangstu
+T20	Markable 370 402	Foto Tone Merete Lillesvangstu |
+T21	Markable 375 400	Tone Merete Lillesvangstu
+T22	Markable 411 414	dag
+T23	Markable 419 421	vi
+T24	Markable 425 428	lag
+T25	Markable 422 468	om lag 500 kundar som nyttar dekkhotellet vårt
+T26	Markable 451 468	dekkhotellet vårt
+T27	Markable 464 468	vårt
+T28	Markable 471 476	Dette
+T29	Markable 480 531	noko som har vakse ganske mykje berre dei siste åra
+T30	Markable 512 531	berre dei siste åra
+T31	Markable 554 575	byggjeskikken i Førde
+T32	Markable 570 575	Førde
+T33	Markable 586 610	husa eller leilegheitene
+T34	Markable 586 590	husa
+T35	Markable 597 610	leilegheitene
+T36	Markable 620 633	lite bodplass
+T37	Markable 672 688	vinterdekka sine
+T38	Markable 684 688	sine
+T39	Markable 689 703	ein annan stad
+T40	Markable 706 715	Fire dekk
+T41	Markable 728 738	litt plass
+T43	Markable 761 771	Førde Vulk
+T44	Markable 747 787	salsleiar hjå Førde Vulk , Ståle Kvammen
+T45	Markable 805 817	stadig færre
+T46	Markable 823 837	noko som helst
+T47	Markable 842 851	bilen sin
+T48	Markable 848 851	sin
+T49	Markable 867 882	Populær teneste
+T50	Markable 887 891	Folk
+T51	Markable 908 916	tenester
+T52	Markable 925 932	Kvammen
+T53	Markable 938 941	han
+T54	Markable 969 987	dekkhotell-trenden
+T55	Markable 992 1012	Drifta av dekkhotell
+T56	Markable 1002 1012	dekkhotell
+T57	Markable 1041 1043	eg
+T58	Markable 1048 1060	nøyaktig tal
+T59	Markable 1070 1072	vi
+T60	Markable 1073 1118	iallfall 300 kundar som lagrar dekka sine her
+T61	Markable 1104 1114	dekka sine
+T62	Markable 1110 1114	sine
+T63	Markable 1121 1126	Dette
+T64	Markable 1168 1195	dagleg leiar ved Dekkmann ,
+T65	Markable 1185 1193	Dekkmann
+T66	Markable 1168 1211	dagleg leiar ved Dekkmann , Frode Romarheim
+T67	Markable 1218 1235	Bil & Dekkservice
+T68	Markable 1240 1243	dei
+T69	Markable 1247 1250	lag
+T70	Markable 1244 1279	om lag 400 dekksett på dekkhotellet
+T71	Markable 1267 1279	dekkhotellet
+T72	Markable 1290 1297	standen
+T73	Markable 1302 1304	Vi
+T74	Markable 1350 1358	kvart år
+T75	Markable 1361 1364	Det
+T76	Markable 1376 1451	hop med at bustadene i sentrum ofte berre har carport og null lagringsplass
+T77	Markable 1387 1406	bustadene i sentrum
+T78	Markable 1399 1406	sentrum
+T79	Markable 1422 1451	carport og null lagringsplass
+T80	Markable 1422 1429	carport
+T81	Markable 1433 1451	null lagringsplass
+T82	Markable 1489 1499	dekka sine
+T83	Markable 1495 1499	sine
+T84	Markable 1500 1510	nokon stad
+T85	Markable 1525 1530	dette
+T86	Markable 1552 1561	forbrukar
+T87	Markable 1580 1583	dei
+T88	Markable 1584 1591	skiftet
+T89	Markable 1604 1609	dekka
+T90	Markable 1641 1643	vi
+T91	Markable 1657 1666	kva stand
+T92	Markable 1667 1672	dekka
+R1	Bridging Arg1:T8 Arg2:T6	
+R2	Bridging Arg1:T17 Arg2:T16	
+R3	Coref Arg1:T23 Arg2:T12	
+R4	Coref Arg1:T27 Arg2:T23	
+R5	Bridging Arg1:T33 Arg2:T32	
+R6	Coref Arg1:T44 Arg2:T13	
+R7	Coref Arg1:T48 Arg2:T45	
+R8	Coref Arg1:T52 Arg2:T44	
+R9	Coref Arg1:T53 Arg2:T52	
+R10	Coref Arg1:T54 Arg2:T3	
+R11	Coref Arg1:T57 Arg2:T66	
+R12	Coref Arg1:T59 Arg2:T65	
+R13	Coref Arg1:T62 Arg2:T60	
+R14	Coref Arg1:T68 Arg2:T67	
+R15	Bridging Arg1:T71 Arg2:T68	
+R16	Coref Arg1:T67 Arg2:T6	
+R17	Coref Arg1:T73 Arg2:T68	
+R18	Bridging Arg1:T77 Arg2:T32	
+R19	Coref Arg1:T87 Arg2:T86	
+R20	Coref Arg1:T90 Arg2:T73	
+R21	Coref Arg1:T92 Arg2:T89	
+R22	Bridging Arg1:T88 Arg2:T82	
+R23	Bridging Arg1:T89 Arg2:T88	
+R24	Coref Arg1:T21 Arg2:T19	
+R25	Coref Arg1:T43 Arg2:T27	
+T11	Markable 904 907	seg
+R26	Coref Arg1:T11 Arg2:T50	

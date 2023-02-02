@@ -1,0 +1,125 @@
+T1	Markable 17 26	Princeton
+T2	Markable 29 52	Torsdagsdansen i Fjaler
+T3	Markable 46 52	Fjaler
+T4	Markable 58 105	hovudoppgåve på amerikansk prestisjeuniversitet
+T5	Markable 74 105	amerikansk prestisjeuniversitet
+T6	Markable 108 135	Sabrina Szeto frå Singapore
+T7	Markable 126 135	Singapore
+T8	Markable 150 160	gammaldans
+T9	Markable 167 202	den første Torsdagsdansen ho var på
+T10	Markable 193 195	ho
+T11	Markable 211 213	ho
+T12	Markable 224 230	Fjaler
+T13	Markable 244 274	hovudoppgåve om Torsdagsdansen
+T14	Markable 260 274	Torsdagsdansen
+T15	Markable 280 287	biletet
+T16	Markable 295 297	ho
+T17	Markable 308 324	Kristian Risting
+T18	Markable 327 350	Torsdagsdansen i Fjaler
+T19	Markable 344 350	Fjaler
+T20	Markable 354 403	eit populært tilbod for danseglade dalsfjordingar
+T21	Markable 378 403	danseglade dalsfjordingar
+T22	Markable 408 419	snart 30 år
+T23	Markable 424 449	danseglade dalsfjordingar
+T24	Markable 464 468	dans
+T25	Markable 472 503	ungdomshusa rundt om i kommunen
+T26	Markable 495 503	kommunen
+T27	Markable 517 534	noko stort nummer
+T28	Markable 541 544	det
+T29	Markable 555 583	Torsdagsdansen i Dalsfjorden
+T30	Markable 572 583	Dalsfjorden
+T31	Markable 590 651	hovudoppgåve på det prestisjefylte Princeton University i USA
+T32	Markable 606 651	det prestisjefylte Princeton University i USA
+T33	Markable 648 651	USA
+T34	Markable 657 660	det
+T35	Markable 661 732	ei ung kvinne frå Singapore som skal studere dei danseglade fjalerbuene
+T36	Markable 679 688	Singapore
+T37	Markable 706 732	dei danseglade fjalerbuene
+T38	Markable 741 746	Firda
+T39	Markable 749 763	ein reportasje
+T40	Markable 767 774	laurdag
+T41	Markable 789 800	første dans
+T42	Markable 803 816	Sabrina Szeto
+T43	Markable 825 834	Singapore
+T44	Markable 839 868	United World College i Flekke
+T45	Markable 862 868	Flekke
+T46	Markable 873 881	17-åring
+T47	Markable 891 898	Ein dag
+T48	Markable 903 917	læraren hennar
+T49	Markable 911 917	hennar
+T50	Markable 926 933	Sabrina
+T51	Markable 937 951	Torsdagsdansen
+T52	Markable 963 992	norsk folkedans og gammaldans
+T53	Markable 963 978	norsk folkedans
+T54	Markable 982 992	gammaldans
+T55	Markable 998 1012	den unge jenta
+T56	Markable 1030 1047	den første dansen
+T57	Markable 1052 1059	Dansane
+T58	Markable 1096 1116	så positiv atmosfære
+T59	Markable 1119 1169	Masse latter og energi , seier Sabrina til Firda .
+T61	Markable 1135 1141	energi
+T62	Markable 1150 1157	Sabrina
+T63	Markable 1162 1167	Firda
+T64	Markable 1170 1193	Gode tilbakemeldingar |
+T65	Markable 1194 1237	Året etter ho avslutta skulegangen på UWC ,
+T66	Markable 1205 1207	ho
+T67	Markable 1217 1235	skulegangen på UWC
+T68	Markable 1232 1235	UWC
+T69	Markable 1242 1244	ho
+T70	Markable 1257 1263	Flekke
+T71	Markable 1264 1271	ei veke
+T72	Markable 1288 1305	to Torsdagsdansar
+T73	Markable 1308 1315	Sabrina
+T74	Markable 1332 1343	hardingfele
+T75	Markable 1353 1355	ho
+T76	Markable 1374 1385	antropologi
+T77	Markable 1390 1399	Princeton
+T78	Markable 1411 1413	ho
+T79	Markable 1447 1457	gammaldans
+T80	Markable 1472 1479	Sabrina
+T81	Markable 1487 1542	oppgåva til bachelor-graden sin om folkemusikk i Fjaler
+T82	Markable 1499 1518	bachelor-graden sin
+T83	Markable 1515 1518	sin
+T84	Markable 1522 1542	folkemusikk i Fjaler
+T85	Markable 1536 1542	Fjaler
+T86	Markable 1548 1550	ho
+T87	Markable 1560 1607	gode tilbakemeldingar frå lærarane på Princeton
+T88	Markable 1586 1607	lærarane på Princeton
+T89	Markable 1598 1607	Princeton
+T90	Markable 1612 1615	Dei
+T91	Markable 1622 1627	ideen
+T92	Markable 1648 1655	Sabrina
+R1	Coref Arg1:T10 Arg2:T6	
+T93	Markable 178 192	Torsdagsdansen
+R2	Coref Arg1:T93 Arg2:T2	
+R3	Coref Arg1:T11 Arg2:T10	
+R4	Coref Arg1:T12 Arg2:T3	
+R5	Coref Arg1:T14 Arg2:T93	
+R6	Coref Arg1:T16 Arg2:T11	
+R7	Coref Arg1:T18 Arg2:T14	
+R8	Coref Arg1:T29 Arg2:T18	
+R9	Coref Arg1:T32 Arg2:T5	
+R10	Coref Arg1:T37 Arg2:T23	
+R11	Coref Arg1:T36 Arg2:T7	
+R12	Coref Arg1:T43 Arg2:T36	
+R13	Coref Arg1:T42 Arg2:T16	
+R14	Coref Arg1:T49 Arg2:T42	
+R15	Coref Arg1:T50 Arg2:T49	
+R16	Coref Arg1:T51 Arg2:T29	
+R18	Coref Arg1:T62 Arg2:T50	
+R19	Coref Arg1:T63 Arg2:T38	
+R21	Coref Arg1:T66 Arg2:T62	
+R17	Coref Arg1:T69 Arg2:T66	
+R20	Coref Arg1:T68 Arg2:T44	
+R22	Coref Arg1:T70 Arg2:T45	
+R23	Coref Arg1:T73 Arg2:T69	
+R24	Coref Arg1:T75 Arg2:T73	
+R25	Coref Arg1:T77 Arg2:T1	
+R26	Coref Arg1:T78 Arg2:T75	
+R27	Coref Arg1:T80 Arg2:T78	
+R28	Coref Arg1:T86 Arg2:T80	
+R29	Coref Arg1:T85 Arg2:T19	
+R30	Coref Arg1:T19 Arg2:T12	
+R31	Coref Arg1:T89 Arg2:T77	
+R32	Coref Arg1:T90 Arg2:T88	
+R33	Coref Arg1:T92 Arg2:T86	

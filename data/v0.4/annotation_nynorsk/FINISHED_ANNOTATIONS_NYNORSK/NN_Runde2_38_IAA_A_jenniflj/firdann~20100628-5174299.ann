@@ -1,0 +1,32 @@
+T1	Markable 0 13	Nytt tilbod |
+T2	Markable 21 32	alle skular
+T3	Markable 33 48	økologisk mjølk
+T4	Markable 55 62	hausten
+T5	Markable 67 81	alle skuleborn
+T6	Markable 82 107	tilbod om økologisk mjølk
+T7	Markable 92 107	økologisk mjølk
+T8	Markable 129 151	meieriprodusenten Tine
+T9	Markable 164 173	økobølgja
+T10	Markable 184 191	hausten
+T11	Markable 214 238	eit økologisk alternativ
+T12	Markable 242 275	alle skular med skulemjølkordning
+T13	Markable 258 275	skulemjølkordning
+T14	Markable 280 296	ei pressemelding
+T15	Markable 305 308	dei
+T16	Markable 312 349	tilbodet med vanleg , økologisk mjølk
+T17	Markable 325 349	vanleg , økologisk mjølk
+T18	Markable 368 404	dei skulane som frå før tilbyr dette
+T19	Markable 399 404	dette
+T20	Markable 413 433	motsetjing til dette
+T21	Markable 428 433	dette
+T22	Markable 440 456	det nye tilbodet
+T23	Markable 475 482	landets
+T24	Markable 470 489	alle landets skular
+T25	Markable 494 522	tillegg til å vere økologisk
+T26	Markable 528 543	bringebærmjølka
+R1	Bridging Arg1:T9 Arg2:T7	
+R2	Coref Arg1:T10 Arg2:T4	
+R3	Coref Arg1:T15 Arg2:T8	
+R4	Coref Arg1:T19 Arg2:T16	
+R5	Coref Arg1:T21 Arg2:T19	
+R6	Coref Arg1:T22 Arg2:T6	

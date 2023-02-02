@@ -1,0 +1,393 @@
+T1	Markable 0 17	Damer for Duckert
+T2	Markable 10 17	Duckert
+T3	Markable 20 22	Eg
+T4	Markable 27 35	inntrykk
+T5	Markable 42 62	nokre av kandidatane
+T6	Markable 71 79	rektorar
+T7	Markable 95 121	landets utdanningsminister
+T8	Markable 95 102	landets
+T9	Markable 132 135	dei
+R1	Coref Arg1:T9 Arg2:T5	
+T10	Markable 147 165	val til Stortinget
+T11	Markable 155 165	Stortinget
+T12	Markable 174 197	Harriet Bjerrum Nielsen
+T13	Markable 200 205	Sjølv
+R2	Coref Arg1:T13 Arg2:T12	
+T14	Markable 214 216	ho
+R3	Coref Arg1:T14 Arg2:T13	
+T15	Markable 217 230	Fanny Duckert
+R4	Coref Arg1:T15 Arg2:T2	
+T16	Markable 235 269	ny rektor ved Universitetet i Oslo
+T17	Markable 249 269	Universitetet i Oslo
+T18	Markable 272 284	Temperaturen
+T19	Markable 290 294	ferd
+T20	Markable 309 349	rektorvalkampen ved Universitetet i Oslo
+T21	Markable 329 349	Universitetet i Oslo
+R5	Coref Arg1:T21 Arg2:T17	
+T22	Markable 355 366	kandidatane
+T23	Markable 355 412	kandidatane sitt syn på kvalitetsreforma ved universiteta
+T25	Markable 423 434	ei hovudsak
+T26	Markable 440 462	fredagens Klassekampen
+T27	Markable 440 449	fredagens
+T28	Markable 466 496	historieprofessor Gro Hagemann
+T29	Markable 500 517	reformkritikarane
+T30	Markable 553 555	ho
+T31	Markable 556 561	sjølv
+R7	Coref Arg1:T31 Arg2:T30	
+R8	Coref Arg1:T30 Arg2:T28	
+T32	Markable 581 644	den reformlojale Stein A. Evensen i det føreståande rektorvalet
+T33	Markable 617 644	det føreståande rektorvalet
+T34	Markable 647 702	Nestor i norsk kjønnsforsking , Harriet Bjerrum Nielsen
+T35	Markable 717 721	line
+T36	Markable 726 734	Hagemann
+R9	Coref Arg1:T36 Arg2:T31	
+T37	Markable 737 767	kritikken av reformkritikarane
+T38	Markable 750 767	reformkritikarane
+T39	Markable 772 789	Reformkritikarane
+R10	Coref Arg1:T39 Arg2:T38	
+R11	Coref Arg1:T38 Arg2:T29	
+T40	Markable 379 412	kvalitetsreforma ved universiteta
+T41	Markable 400 412	universiteta
+T42	Markable 825 828	dei
+R12	Coref Arg1:T42 Arg2:T39	
+T43	Markable 868 870	Eg
+R13	Coref Arg1:T43 Arg2:T34	
+T44	Markable 887 918	forsvaret av den frie forskinga
+T45	Markable 900 918	den frie forskinga
+T46	Markable 925 937	forsvararane
+T47	Markable 951 964	universitetet
+T48	Markable 978 989	eit samfunn
+T49	Markable 995 997	vi
+T50	Markable 1001 1021	ein heilt annan måte
+T51	Markable 1030 1036	100 år
+T52	Markable 1049 1085	eit utvekslingsforhold med samfunnet
+T53	Markable 1076 1085	samfunnet
+R14	Coref Arg1:T53 Arg2:T48	
+T54	Markable 1088 1090	Vi
+R15	Coref Arg1:T54 Arg2:T49	
+T55	Markable 1110 1125	eit universitet
+T56	Markable 1132 1147	Humboldts dagar
+T57	Markable 1132 1141	Humboldts
+T58	Markable 1162 1165	oss
+T59	Markable 1166 1172	sjølve
+R16	Coref Arg1:T59 Arg2:T58	
+R17	Coref Arg1:T58 Arg2:T54	
+T60	Markable 1175 1190	Bjerrum Nielsen
+R18	Coref Arg1:T60 Arg2:T43	
+T61	Markable 1198 1252	forsvaret av det tradisjonelle universitetsdemokratiet
+T62	Markable 1211 1252	det tradisjonelle universitetsdemokratiet
+T63	Markable 1274 1296	ei elitistisk haldning
+R19	Coref Arg1:T46 Arg2:T42	
+T64	Markable 1305 1310	ingen
+T65	Markable 1334 1337	seg
+R20	Coref Arg1:T65 Arg2:T64	
+T66	Markable 1344 1367	instituttas faglege liv
+T67	Markable 1344 1355	instituttas
+T68	Markable 1377 1380	ein
+T69	Markable 1381 1385	augo
+T70	Markable 1390 1446	alle maktprosessane som føregår internt på universitetet
+T71	Markable 1433 1446	universitetet
+T72	Markable 1453 1456	dei
+T73	Markable 1480 1489	mest makt
+T74	Markable 1530 1539	dagsorden
+T75	Markable 1542 1559	Reformkritikarane
+R21	Coref Arg1:T75 Arg2:T46	
+T76	Markable 1572 1585	universitetet
+R22	Coref Arg1:T76 Arg2:T71	
+R23	Coref Arg1:T71 Arg2:T55	
+T77	Markable 1599 1606	omverda
+T78	Markable 1617 1621	fred
+T79	Markable 1633 1647	rasjonaliteten
+T80	Markable 1656 1676	det beste argumentet
+T81	Markable 1704 1713	ein plass
+T82	Markable 1714 1724	maktkampar
+T83	Markable 1747 1760	universitetet
+R24	Coref Arg1:T83 Arg2:T81	
+T84	Markable 1769 1784	Bjerrum Nielsen
+R25	Coref Arg1:T84 Arg2:T60	
+T85	Markable 1793 1800	Evensen
+R26	Coref Arg1:T85 Arg2:T32	
+T86	Markable 1813 1821	Hagemann
+R27	Coref Arg1:T86 Arg2:T36	
+T87	Markable 1836 1851	Bjerrum Nielsen
+R28	Coref Arg1:T87 Arg2:T84	
+T88	Markable 1884 1896	rektorkjedet
+T89	Markable 1855 1871	Stein A. Evensen
+R29	Coref Arg1:T89 Arg2:T85	
+T90	Markable 1901 1903	Eg
+R30	Coref Arg1:T90 Arg2:T87	
+T91	Markable 1917 1953	det universitetspolitiske landskapet
+T92	Markable 1972 1976	tida
+T93	Markable 1982 1995	den eine sida
+T94	Markable 2003 2020	reformkritikarane
+T95	Markable 2049 2056	forhold
+T96	Markable 2061 2084	det gamle universitetet
+R31	Coref Arg1:T94 Arg2:T75	
+T97	Markable 1611 1614	oss
+R32	Coref Arg1:T97 Arg2:T76	
+T98	Markable 2090 2104	den andre side
+T99	Markable 2112 2145	styringskåte og arrogante leiarar
+T100	Markable 2150 2168	Bjarne Rogan på HF
+T101	Markable 2166 2168	HF
+T102	Markable 2172 2211	rektorkandidat Stein Evensen på medisin
+T103	Markable 2204 2211	medisin
+R33	Coref Arg1:T102 Arg2:T89	
+T104	Markable 2214 2227	Fanny Duckert
+R34	Coref Arg1:T104 Arg2:T15	
+T105	Markable 2239 2270	ein pragmatisk sentrumskandidat
+T106	Markable 2284 2286	vi
+T107	Markable 2297 2329	noko ved det gamle universitetet
+T108	Markable 2306 2329	det gamle universitetet
+T109	Markable 2345 2358	universitetet
+R35	Coref Arg1:T108 Arg2:T96	
+R36	Coref Arg1:T109 Arg2:T83	
+T110	Markable 2365 2373	fornying
+T111	Markable 2381 2390	motsetnad
+T112	Markable 2395 2434	reformkritikarar som Kristian Gundersen
+T113	Markable 2416 2434	Kristian Gundersen
+T114	Markable 2439 2446	Duckert
+R37	Coref Arg1:T114 Arg2:T104	
+T115	Markable 2451 2505	leiar av det store og vanskelege Psykologisk institutt
+T116	Markable 2460 2505	det store og vanskelege Psykologisk institutt
+T117	Markable 2514 2517	ein
+T118	Markable 2550 2565	Bjerrum Nielsen
+R38	Coref Arg1:T118 Arg2:T90	
+T119	Markable 2568 2570	Ho
+R39	Coref Arg1:T119 Arg2:T118	
+T120	Markable 2582 2595	studiereforma
+T121	Markable 2599 2673	utslag av at nyliberalistisk tankegods slår gjennom i universitetssektoren
+T122	Markable 2612 2637	nyliberalistisk tankegods
+T123	Markable 2653 2673	universitetssektoren
+T124	Markable 2697 2704	reforma
+R40	Coref Arg1:T124 Arg2:T120	
+T125	Markable 2715 2732	Bologna-prosessen
+T126	Markable 2742 2805	ein prosess for ein felles studie- og forskingsmarknad i Europa
+T127	Markable 2815 2817	ho
+R41	Coref Arg1:T127 Arg2:T119	
+T128	Markable 2758 2805	ein felles studie- og forskingsmarknad i Europa
+T129	Markable 2799 2805	Europa
+R43	Coref Arg1:T120 Arg2:T40	
+T130	Markable 2822 2831	Prosessen
+R44	Coref Arg1:T130 Arg2:T126	
+T131	Markable 2857 2886	den økonomiske globaliseringa
+T132	Markable 2909 2912	han
+R45	Coref Arg1:T132 Arg2:T130	
+T133	Markable 2928 2968	positive utslag av internasjonaliseringa
+T134	Markable 2947 2968	internasjonaliseringa
+T135	Markable 2971 2973	Eg
+R46	Coref Arg1:T135 Arg2:T127	
+T136	Markable 2985 3003	universitetsstyret
+T137	Markable 3004 3022	dei siste fire åra
+T138	Markable 3035 3072	ingen av dei eksterne styremedlemmene
+T139	Markable 3044 3072	dei eksterne styremedlemmene
+T140	Markable 3081 3138	ein idé om at universitetet bør gå med økonomisk overskot
+T141	Markable 3095 3108	universitetet
+T142	Markable 3120 3138	økonomisk overskot
+T143	Markable 3146 3171	ein kamp mot kapitalismen
+T144	Markable 3159 3171	kapitalismen
+T145	Markable 3178 3180	eg
+R47	Coref Arg1:T145 Arg2:T135	
+T146	Markable 3218 3234	kvalitetsreforma
+T147	Markable 3246 3248	eg
+R48	Coref Arg1:T147 Arg2:T145	
+T148	Markable 3265 3268	meg
+R49	Coref Arg1:T148 Arg2:T147	
+T149	Markable 3275 3293	eit politisk parti
+T150	Markable 3304 3309	Attac
+T151	Markable 3312 3326	Dårleg prosess
+T152	Markable 3327 3360	Psykologiprofessor Siri Gullestad
+T153	Markable 3372 3379	Duckert
+T154	Markable 3384 3393	ny rektor
+R50	Coref Arg1:T153 Arg2:T114	
+T155	Markable 3396 3398	Ho
+R51	Coref Arg1:T155 Arg2:T152	
+T156	Markable 3419 3427	Hagemann
+T157	Markable 3431 3446	Bjerrum Nielsen
+R52	Coref Arg1:T157 Arg2:T148	
+R53	Coref Arg1:T156 Arg2:T86	
+T158	Markable 3450 3467	reformkritikarane
+R54	Coref Arg1:T158 Arg2:T112	
+T159	Markable 3512 3515	ein
+T160	Markable 3532 3540	den tida
+T161	Markable 3541 3562	ein liten eliteklasse
+T162	Markable 3571 3583	universiteta
+T163	Markable 3590 3615	finansiering frå foreldra
+T164	Markable 3607 3615	foreldra
+T165	Markable 3624 3633	Gullestad
+R55	Coref Arg1:T165 Arg2:T155	
+T166	Markable 3646 3662	kvalitetsreforma
+T167	Markable 3682 3696	eit framskritt
+R56	Coref Arg1:T166 Arg2:T146	
+R57	Coref Arg1:T146 Arg2:T124	
+T168	Markable 3701 3717	Kvalitetsreforma
+R58	Coref Arg1:T168 Arg2:T166	
+T169	Markable 3722 3746	nokre openberre fordeler
+T170	Markable 3749 3756	Reforma
+R59	Coref Arg1:T170 Arg2:T168	
+T171	Markable 3771 3788	studentanes behov
+T172	Markable 3771 3782	studentanes
+T173	Markable 3807 3815	lærarane
+T174	Markable 3828 3831	ein
+T175	Markable 3843 3866	ein del fag på HF og SV
+T176	Markable 3858 3860	HF
+T177	Markable 3864 3866	SV
+T178	Markable 3890 3906	megaførelesingar
+T179	Markable 3924 3953	kontakt med nokre av lærarane
+T181	Markable 3945 3953	lærarane
+R60	Coref Arg1:T181 Arg2:T173	
+T182	Markable 3956 3965	Gullestad
+R61	Coref Arg1:T182 Arg2:T165	
+T183	Markable 3971 4036	mange av dei som har engasjert seg sterkast på reformkritisk side
+T184	Markable 3980 4036	dei som har engasjert seg sterkast på reformkritisk side
+T185	Markable 4018 4036	reformkritisk side
+T186	Markable 4055 4153	protest mot den omorganiseringa av instituttsektoren som HF-dekan Bjarne Rogan har stått i spissen
+T187	Markable 4067 4153	den omorganiseringa av instituttsektoren som HF-dekan Bjarne Rogan har stått i spissen
+T188	Markable 4090 4107	instituttsektoren
+T189	Markable 4112 4133	HF-dekan Bjarne Rogan
+T190	Markable 4146 4153	spissen
+T191	Markable 4164 4173	Gullestad
+R62	Coref Arg1:T191 Arg2:T182	
+T192	Markable 4181 4184	ein
+T193	Markable 4211 4224	den prosessen
+T194	Markable 4245 4295	ein av dei uttalt reformkritiske rektorkandidatane
+T195	Markable 4252 4295	dei uttalt reformkritiske rektorkandidatane
+T196	Markable 4300 4305	Rogan
+R63	Coref Arg1:T196 Arg2:T189	
+T197	Markable 4300 4332	Rogan sin omorganiseringsprosess
+T198	Markable 4337 4350	eit skuledøme
+T199	Markable 4362 4365	ein
+T200	Markable 4389 4405	ein slik prosess
+T201	Markable 4417 4419	eg
+R64	Coref Arg1:T201 Arg2:T191	
+T202	Markable 4423 4436	Fanny Duckert
+R65	Coref Arg1:T202 Arg2:T153	
+T24	Markable 51 62	kandidatane
+R6	Coref Arg1:T22 Arg2:T24	
+T203	Markable 4449 4451	Ho
+R66	Coref Arg1:T203 Arg2:T202	
+T204	Markable 4456 4461	sjølv
+R67	Coref Arg1:T204 Arg2:T203	
+T205	Markable 4462 4484	organisasjonspsykologi
+T206	Markable 4489 4492	fag
+T207	Markable 4501 4510	Gullestad
+R68	Coref Arg1:T207 Arg2:T201	
+T208	Markable 4513 4526	Små skilnader
+T209	Markable 4527 4587	Kriminologiprofessor og tidlegare medlem i AKP , Liv Finstad
+T210	Markable 4593 4612	ein annan radikalar
+T211	Markable 4638 4640	si
+R69	Coref Arg1:T211 Arg2:T210	
+T212	Markable 4638 4647	si stemme
+T213	Markable 4652 4699	ein av dei to uttalt reformkritiske kandidatane
+T214	Markable 4659 4699	dei to uttalt reformkritiske kandidatane
+T215	Markable 4702 4709	Finstad
+R71	Coref Arg1:T215 Arg2:T209	
+T216	Markable 4715 4740	valkamp for Fanny Duckert
+T217	Markable 4727 4740	Fanny Duckert
+R72	Coref Arg1:T217 Arg2:T204	
+R70	Coref Arg1:T214 Arg2:T195	
+T218	Markable 4755 4764	Gullestad
+R73	Coref Arg1:T218 Arg2:T207	
+T219	Markable 4768 4783	Bjerrum Nielsen
+R74	Coref Arg1:T219 Arg2:T157	
+T220	Markable 4787 4794	Finstad
+R75	Coref Arg1:T220 Arg2:T215	
+T221	Markable 4855 4896	reformkritiske og reformlojale kandidatar
+T222	Markable 4921 4930	programma
+T223	Markable 4958 4981	universitetets eigenart
+T224	Markable 4958 4972	universitetets
+R76	Coref Arg1:T224 Arg2:T141	
+R77	Coref Arg1:T141 Arg2:T109	
+T225	Markable 4998 5001	ein
+T226	Markable 5009 5030	dei ulike kandidatane
+T227	Markable 5034 5038	kven
+T228	Markable 5051 5055	kven
+T229	Markable 5062 5065	ein
+T230	Markable 5133 5137	kven
+T231	Markable 5150 5154	kven
+R78	Coref Arg1:T226 Arg2:T22	
+T232	Markable 5211 5218	Finstad
+R79	Coref Arg1:T232 Arg2:T220	
+T233	Markable 5226 5282	skiljet mellom reformkritiske og reformlojale kandidatar
+T234	Markable 5241 5282	reformkritiske og reformlojale kandidatar
+T235	Markable 5302 5304	eg
+R80	Coref Arg1:T235 Arg2:T232	
+T236	Markable 5327 5330	ein
+T237	Markable 5389 5408	ei tabloid vinkling
+T238	Markable 5413 5415	eg
+R81	Coref Arg1:T238 Arg2:T235	
+T239	Markable 5434 5438	noko
+T240	Markable 5450 5452	eg
+R82	Coref Arg1:T240 Arg2:T238	
+T241	Markable 5468 5472	folk
+T242	Markable 5479 5487	stilling
+T243	Markable 5492 5516	den politiske plattforma
+T244	Markable 5517 5528	kandidatane
+T245	Markable 5537 5540	val
+R83	Coref Arg1:T244 Arg2:T226	
+T246	Markable 5562 5575	eit personval
+T247	Markable 5581 5586	sjølv
+R84	Coref Arg1:T247 Arg2:T240	
+T248	Markable 5595 5597	eg
+R85	Coref Arg1:T248 Arg2:T247	
+T249	Markable 5598 5610	den personen
+T250	Markable 5611 5613	eg
+R86	Coref Arg1:T250 Arg2:T248	
+T251	Markable 5652 5675	universitetsdemokratiet
+T252	Markable 5678 5685	praksis
+T253	Markable 5694 5709	reformkritikken
+T254	Markable 5723 5730	sutring
+T255	Markable 5734 5742	nostalgi
+T256	Markable 5763 5765	eg
+R87	Coref Arg1:T256 Arg2:T250	
+T257	Markable 5783 5796	slike uttrykk
+T258	Markable 5799 5814	Desse reformene
+T259	Markable 5819 5831	fleire sider
+T260	Markable 5835 5837	eg
+R88	Coref Arg1:T260 Arg2:T256	
+T261	Markable 5871 5873	vi
+T262	Markable 5888 5892	noko
+T263	Markable 5905 5937	negative utslag av studiereforma
+T264	Markable 5924 5937	studiereforma
+R89	Coref Arg1:T264 Arg2:T170	
+T265	Markable 5951 5953	eg
+R90	Coref Arg1:T265 Arg2:T260	
+T266	Markable 5982 6008	dei tilsettes moglegheiter
+T267	Markable 5982 5995	dei tilsettes
+T268	Markable 6018 6048	samanhengande tid til forsking
+T269	Markable 6040 6048	forsking
+T270	Markable 6051 6207	tendensen til rein « artikkelutdanning » med korte kurs og korte pensumlister og manglande moglegheit for å utvikle den kritiske refleksjonen hos studentane
+T271	Markable 6065 6207	rein « artikkelutdanning » med korte kurs og korte pensumlister og manglande moglegheit for å utvikle den kritiske refleksjonen hos studentane
+T272	Markable 6096 6106	korte kurs
+T273	Markable 6110 6128	korte pensumlister
+T274	Markable 6132 6207	manglande moglegheit for å utvikle den kritiske refleksjonen hos studentane
+T275	Markable 6167 6207	den kritiske refleksjonen hos studentane
+T276	Markable 6197 6207	studentane
+R91	Coref Arg1:T276 Arg2:T172	
+T277	Markable 6226 6228	du
+R92	Coref Arg1:T277 Arg2:T265	
+T278	Markable 6235 6245	Ellingsrud
+T279	Markable 6249 6258	Gundersen
+T280	Markable 6287 6294	Duckert
+R93	Coref Arg1:T279 Arg2:T113	
+R94	Coref Arg1:T280 Arg2:T217	
+T281	Markable 6308 6310	eg
+R95	Coref Arg1:T281 Arg2:T277	
+T282	Markable 6344 6354	Ellingsrud
+R96	Coref Arg1:T282 Arg2:T278	
+T283	Markable 6358 6367	Gundersen
+R97	Coref Arg1:T283 Arg2:T279	
+T284	Markable 6370 6381	større grad
+T285	Markable 6414 6427	Vox Academica
+T286	Markable 6434 6436	eg
+R98	Coref Arg1:T286 Arg2:T281	
+T287	Markable 6450 6455	stuss
+T288	Markable 6462 6511	dei prinsipielle universitetspolitiske skilnadene
+T289	Markable 6526 6549	Harriet Bjerrum Nielsen
+R99	Coref Arg1:T289 Arg2:T219	
+R100	Coref Arg1:T12 Arg2:T3	
+R101	Coref Arg1:T49 Arg2:T47	
+R102	Coref Arg1:T106 Arg2:T59	
+R42	Coref Arg1:T162 Arg2:T41	
+T180	Markable 3936 3953	nokre av lærarane
+R103	Coref Arg1:T193 Arg2:T187	
+T290	Markable 5080 5085	kryss

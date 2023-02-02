@@ -1,0 +1,128 @@
+T1	Markable 0 5	Fører
+T2	Markable 14 25	Dakar Rally
+T3	Markable 28 40	Ullevålseter
+T4	Markable 65 82	Sikkerhet først |
+T5	Markable 83 100	Twitter-melding |
+T6	Markable 113 132	åpningsdagen søndag
+T7	Markable 140 151	Dakar Rally
+T8	Markable 152 162	nok et liv
+T9	Markable 165 199	Den argentinske motorsykkelføreren
+T10	Markable 165 220	Den argentinske motorsykkelføreren Jorge Martínez Boero
+T11	Markable 233 245	Rally Dakars
+T12	Markable 233 256	Rally Dakars første dag
+T13	Markable 259 275	Foto : Scanpix |
+T14	Markable 266 273	Scanpix
+T15	Markable 276 299	Pål Anders Ullevålseter
+T16	Markable 309 314	årets
+T17	Markable 309 326	årets Rally Dakar
+T18	Markable 329 345	Foto : Scanpix |
+T19	Markable 336 343	Scanpix
+T20	Markable 346 380	Den argentinske motorsykkelføreren
+T21	Markable 346 401	Den argentinske motorsykkelføreren Jorge Martínez Boero
+T22	Markable 449 457	noe sånt
+T23	Markable 469 473	mine
+T24	Markable 469 480	mine tanker
+T25	Markable 489 493	hans
+T26	Markable 489 502	hans nærmeste
+T27	Markable 541 544	ord
+T28	Markable 548 556	det hele
+T29	Markable 569 578	en ulykke
+T30	Markable 620 629	to førere
+T31	Markable 658 693	kun mann og sykkel som går i bakken
+T32	Markable 658 666	kun mann
+T33	Markable 670 693	sykkel som går i bakken
+T34	Markable 687 693	bakken
+T35	Markable 716 721	dette
+T36	Markable 735 780	ens egne sikkerhetsmarginer som er avgjørende
+T37	Markable 785 788	Jeg
+T38	Markable 797 800	min
+T39	Markable 797 804	min del
+T40	Markable 805 814	mine egne
+T41	Markable 805 849	mine egne sikkerhetsmarginer å ta hensyn til
+T42	Markable 839 845	hensyn
+T43	Markable 853 855	de
+T44	Markable 859 862	jeg
+T45	Markable 919 924	dette
+T46	Markable 945 948	meg
+T47	Markable 972 977	dette
+T48	Markable 995 999	mine
+T49	Markable 995 1006	mine tanker
+T50	Markable 1015 1019	hans
+T51	Markable 1015 1028	hans nærmeste
+T52	Markable 1031 1041	Pål Anders
+T53	Markable 1054 1059	Boero
+T54	Markable 1074 1088	Martinez Boero
+T55	Markable 1125 1134	et stykke
+T56	Markable 1141 1175	den første etappen på 57 kilometer
+T57	Markable 1163 1175	57 kilometer
+T58	Markable 1178 1181	Han
+T59	Markable 1192 1204	store skader
+T60	Markable 1207 1215	Martinez
+T61	Markable 1237 1247	behandling
+T62	Markable 1262 1272	helikopter
+T63	Markable 1277 1302	sykehuset i Mar del Plata
+T64	Markable 1289 1302	Mar del Plata
+T65	Markable 1309 1314	livet
+T66	Markable 1338 1350	Argentineren
+T67	Markable 1361 1389	dette prestisjetunge rallyet
+T68	Markable 1394 1404	annen gang
+T69	Markable 1407 1410	Han
+T70	Markable 1432 1435	Jeg
+T71	Markable 1444 1447	alt
+T72	Markable 1454 1457	jeg
+T73	Markable 1465 1490	det som ikke dreper deg ,
+T74	Markable 1485 1488	deg
+T75	Markable 1496 1499	deg
+T76	Markable 1519 1533	Martinez Boero
+T77	Markable 1537 1555	twitterkontoen sin
+T78	Markable 1552 1555	sin
+T79	Markable 1556 1568	lørdag kveld
+T80	Markable 1563 1568	kveld
+T81	Markable 1577 1591	starten i 1979
+T82	Markable 1596 1608	25 deltakere
+T83	Markable 1621 1662	grunn av ulykker i dette krevende rallyet
+T84	Markable 1630 1662	ulykker i dette krevende rallyet
+T85	Markable 1640 1662	dette krevende rallyet
+T86	Markable 1665 1670	Norge
+T87	Markable 1679 1711	Pål Anders Ullevålseter fra Oslo
+T88	Markable 1707 1711	Oslo
+T89	Markable 1714 1717	Han
+T90	Markable 1727 1745	den første etappen
+T91	Markable 1746 1752	søndag
+T92	Markable 1756 1765	11.-plass
+R1	Coref Arg1:T7 Arg2:T2	
+R3	Coref Arg1:T12 Arg2:T6	
+R4	Coref Arg1:T21 Arg2:T10	
+R5	Coref Arg1:T23 Arg2:T15	
+R6	Coref Arg1:T25 Arg2:T21	
+R7	Coref Arg1:T38 Arg2:T37	
+R8	Coref Arg1:T40 Arg2:T38	
+R9	Coref Arg1:T43 Arg2:T41	
+R10	Coref Arg1:T44 Arg2:T40	
+R11	Coref Arg1:T46 Arg2:T44	
+R12	Coref Arg1:T48 Arg2:T46	
+R13	Coref Arg1:T50 Arg2:T25	
+R14	Coref Arg1:T52 Arg2:T48	
+R15	Coref Arg1:T53 Arg2:T50	
+R16	Coref Arg1:T54 Arg2:T53	
+T93	Markable 1188 1191	seg
+R17	Coref Arg1:T93 Arg2:T58	
+R18	Coref Arg1:T58 Arg2:T54	
+R19	Coref Arg1:T60 Arg2:T93	
+R20	Bridging Arg1:T65 Arg2:T60	
+R21	Coref Arg1:T66 Arg2:T60	
+R23	Coref Arg1:T69 Arg2:T66	
+R24	Coref Arg1:T70 Arg2:T69	
+R25	Coref Arg1:T72 Arg2:T70	
+R26	Coref Arg1:T75 Arg2:T74	
+R27	Coref Arg1:T76 Arg2:T72	
+R28	Coref Arg1:T78 Arg2:T76	
+R29	Coref Arg1:T85 Arg2:T67	
+R30	Coref Arg1:T87 Arg2:T52	
+R31	Coref Arg1:T89 Arg2:T87	
+R2	Coref Arg1:T17 Arg2:T11	
+R22	Coref Arg1:T15 Arg2:T3	
+R32	Coref Arg1:T45 Arg2:T35	
+R33	Coref Arg1:T47 Arg2:T45	
+R34	Bridging Arg1:T56 Arg2:T17	
+R35	Coref Arg1:T67 Arg2:T7	

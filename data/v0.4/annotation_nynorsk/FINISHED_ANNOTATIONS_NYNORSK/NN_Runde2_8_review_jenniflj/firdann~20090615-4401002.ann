@@ -1,0 +1,100 @@
+T1	Markable 0 6	Bilist
+T2	Markable 21 40	fartsbot på 7800 kr
+T3	Markable 33 40	7800 kr
+T4	Markable 43 53	Politiet :
+T5	Markable 56 58	Du
+T6	Markable 68 76	111 km/t
+T7	Markable 79 86	80-sone
+T8	Markable 89 99	Bilisten :
+T9	Markable 102 104	Eg
+T10	Markable 119 132	90 - 100 km/t
+T11	Markable 135 154	Illustrasjonsfoto .
+T12	Markable 155 176	Foto May Britt Eide |
+T13	Markable 160 174	May Britt Eide
+T14	Markable 177 197	Ein sogning i 40-åra
+T15	Markable 191 197	40-åra
+T16	Markable 205 209	fjor
+T17	Markable 210 231	ei bot på 7800 kroner
+T18	Markable 220 231	7800 kroner
+T19	Markable 249 257	111 km/t
+T20	Markable 260 280	ei 80-sone i Sogndal
+T21	Markable 273 280	Sogndal
+T22	Markable 287 293	mannen
+T23	Markable 312 316	bota
+T24	Markable 332 336	saka
+T25	Markable 339 345	retten
+T26	Markable 348 356	Bilisten
+T27	Markable 367 370	han
+T28	Markable 385 398	90 - 100 km/t
+T29	Markable 418 448	overskriding av vegtrafikklova
+T30	Markable 434 448	vegtrafikklova
+T31	Markable 455 458	han
+T32	Markable 477 503	bota på nærare 8000 kroner
+T33	Markable 485 503	nærare 8000 kroner
+T34	Markable 510 513	han
+T35	Markable 521 527	farten
+T36	Markable 543 553	førelegget
+T37	Markable 576 589	Sogn tingrett
+T38	Markable 595 601	retten
+T39	Markable 605 611	mannen
+T40	Markable 637 640	han
+T41	Markable 656 676	ein fart på 111 km/t
+T42	Markable 668 676	111 km/t
+T43	Markable 680 699	den aktuelle staden
+T44	Markable 712 718	mannen
+T45	Markable 726 795	den opphavlege bota på 7800 kroner pluss sakskostnader på 3000 kroner
+T46	Markable 726 760	den opphavlege bota på 7800 kroner
+T47	Markable 749 760	7800 kroner
+T48	Markable 761 795	pluss sakskostnader på 3000 kroner
+T49	Markable 784 795	3000 kroner
+T50	Markable 798 828	Den subsidiære fengselsstraffa
+T51	Markable 838 846	14 dagar
+T52	Markable 849 855	Dommen
+T53	Markable 873 879	retten
+T54	Markable 882 896	Forbikøyring |
+T55	Markable 897 915	Fartsoverskridinga
+T56	Markable 930 945	ei forbikøyring
+T57	Markable 954 983	politiet , som målte farten ,
+T58	Markable 975 981	farten
+T59	Markable 997 1005	bilisten
+T60	Markable 1018 1025	blålysa
+T61	Markable 1037 1045	tiltalte
+T62	Markable 1090 1098	111 km/t
+T63	Markable 1107 1110	han
+T64	Markable 1140 1148	politiet
+T65	Markable 1151 1157	Retten
+T66	Markable 1163 1220	ingen grunn til å tvile på at politiet si måling var feil
+T67	Markable 1193 1201	politiet
+T68	Markable 1193 1204	politiet si
+T69	Markable 1193 1211	politiet si måling
+T70	Markable 1223 1226	Dei
+T71	Markable 1256 1260;1282 1360	noko som tilseier at tiltalte ikkje burde vore merksam på ei slik fartsoverskriding
+T72	Markable 1263 1281	trafikksituasjonen
+T73	Markable 1298 1306	tiltalte
+T74	Markable 1335 1360	ei slik fartsoverskriding
+R1	Coref Arg1:T5 Arg2:T8	
+R2	Coref Arg1:T9 Arg2:T8	
+R3	Coref Arg1:T22 Arg2:T14	
+R4	Coref Arg1:T23 Arg2:T17	
+R5	Coref Arg1:T26 Arg2:T22	
+R6	Coref Arg1:T27 Arg2:T26	
+R7	Coref Arg1:T31 Arg2:T27	
+R8	Coref Arg1:T32 Arg2:T23	
+R9	Coref Arg1:T34 Arg2:T31	
+R10	Coref Arg1:T39 Arg2:T34	
+R11	Coref Arg1:T40 Arg2:T39	
+R12	Coref Arg1:T44 Arg2:T40	
+R13	Coref Arg1:T46 Arg2:T32	
+R14	Coref Arg1:T53 Arg2:T38	
+R15	Coref Arg1:T57 Arg2:T4	
+R16	Coref Arg1:T59 Arg2:T44	
+R17	Coref Arg1:T61 Arg2:T59	
+R18	Coref Arg1:T63 Arg2:T61	
+R19	Coref Arg1:T64 Arg2:T57	
+R20	Coref Arg1:T65 Arg2:T53	
+R21	Coref Arg1:T67 Arg2:T64	
+R22	Coref Arg1:T70 Arg2:T65	
+R23	Coref Arg1:T73 Arg2:T63	
+R24	Coref Arg1:T38 Arg2:T25	
+R25	Bridging Arg1:T36 Arg2:T32	
+R26	Bridging Arg1:T60 Arg2:T57	

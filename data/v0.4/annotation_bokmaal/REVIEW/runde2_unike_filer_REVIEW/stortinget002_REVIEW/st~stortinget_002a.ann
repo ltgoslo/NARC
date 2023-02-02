@@ -1,0 +1,729 @@
+T1	Markable 0 11	Presidenten
+T2	Markable 14 24	Stortinget
+T3	Markable 32 38	mandag
+T4	Markable 39 124	meddelelse fra Statsministerens kontor om at følgende vil møte til muntlig spørretime
+T5	Markable 54 77	Statsministerens kontor
+T6	Markable 84 92	følgende
+T7	Markable 106 124	muntlig spørretime
+T8	Markable 127 220	– statsminister Kjell Magne Bondevik – utenriksminister Knut Vollebæk – statsråd Kåre Gjønnes
+T9	Markable 129 163	statsminister Kjell Magne Bondevik
+T10	Markable 166 196	utenriksminister Knut Vollebæk
+T11	Markable 199 220	statsråd Kåre Gjønnes
+T12	Markable 223 256	De annonserte regjeringsmedlemmer
+T13	Markable 264 269	stede
+T14	Markable 275 277	vi
+T15	Markable 299 323	den muntlige spørretimen
+T16	Markable 326 411	De representanter som i tillegg til de forhåndspåmeldte ønsker å stille hovedspørsmål
+T17	Markable 350 381	tillegg til de forhåndspåmeldte
+T18	Markable 362 381	de forhåndspåmeldte
+T19	Markable 398 411	hovedspørsmål
+T20	Markable 432 434	Vi
+T21	Markable 447 506	første hovedspørsmål , fra representanten Thorbjørn Jagland
+T22	Markable 474 506	representanten Thorbjørn Jagland
+T23	Markable 509 532	Thorbjørn Jagland ( A )
+T24	Markable 527 532	( A )
+T25	Markable 535 538	Jeg
+T26	Markable 547 556;563 595	den saken som har dominert de siste dagene
+T27	Markable 580 595	de siste dagene
+T28	Markable 604 607	den
+T29	Markable 615 625	behandling
+T30	Markable 628 636	komiteen
+T31	Markable 643 646	jeg
+T32	Markable 658 673	statsministeren
+T33	Markable 677 694	en annen stor sak
+T34	Markable 699 702	går
+T35	Markable 720 730	Naturkraft
+T36	Markable 754 768	Verdensbankens
+T37	Markable 754 810	Verdensbankens fond for klimaprosjekter i utviklingsland
+T38	Markable 778 810	klimaprosjekter i utviklingsland
+T39	Markable 796 810	utviklingsland
+T40	Markable 813 822	Hensikten
+T41	Markable 838 886	reduksjoner i utslippene av CO2 i utviklingsland
+T42	Markable 852 886	utslippene av CO2 i utviklingsland
+T43	Markable 866 869	CO2
+T44	Markable 872 886	utviklingsland
+T45	Markable 900 903	man
+T46	Markable 927 934	pengene
+T47	Markable 937 942	Dette
+T48	Markable 962 1035	utslippene av CO2 fra gasskraftverk som Naturkraft har søkt om å få bygge
+T49	Markable 976 979	CO2
+T50	Markable 984 1035	gasskraftverk som Naturkraft har søkt om å få bygge
+T51	Markable 1002 1012	Naturkraft
+T52	Markable 1038 1049	Naturkrafts
+T53	Markable 1038 1059	Naturkrafts tankegang
+T54	Markable 1070 1106	samsvar med Kyotoavtalens prinsipper
+T55	Markable 1082 1095	Kyotoavtalens
+T56	Markable 1082 1106	Kyotoavtalens prinsipper
+T57	Markable 1109 1120	Regjeringen
+T58	Markable 1133 1233	søknaden fra Naturkraft om å bygge to gasskraftverk , og også om å utnytte CO2-kvoter på denne måten
+T59	Markable 1146 1156	Naturkraft
+T60	Markable 1168 1184	to gasskraftverk
+T61	Markable 1208 1218	CO2-kvoter
+T62	Markable 1222 1233	denne måten
+T63	Markable 1236 1239	Jeg
+T64	Markable 1254 1265	Regjeringen
+T65	Markable 1286 1295	nødvendig
+T66	Markable 1304 1315	denne saken
+T67	Markable 1319 1323	nytt
+T68	Markable 1353 1370	en slik bevegelse
+T69	Markable 1377 1380	den
+T70	Markable 1385 1466	stedet for å fortsette å importere kullkraft fra Danmark , som forurenser mye mer
+T71	Markable 1420 1429;1444 1466	kullkraft som forurenser mye mer
+T72	Markable 1434 1441	Danmark
+T73	Markable 1469 1503	Statsminister Kjell Magne Bondevik
+T74	Markable 1510 1513	det
+T75	Markable 1522 1535	gasskraftverk
+T76	Markable 1541 1553	Regjeringens
+T77	Markable 1541 1562	Regjeringens politikk
+T78	Markable 1575 1577	Vi
+T79	Markable 1622 1666	bygging av sterkt forurensende gasskraftverk
+T80	Markable 1633 1666	sterkt forurensende gasskraftverk
+T81	Markable 1689 1750	prosjekter som kan gi henimot forurensningsfrie gasskraftverk
+T82	Markable 1711 1750	henimot forurensningsfrie gasskraftverk
+T83	Markable 1753 1767	Forutsetningen
+T84	Markable 1783 1786	det
+T85	Markable 1816 1819	det
+T86	Markable 1826 1829	jeg
+T87	Markable 1833 1835	vi
+T88	Markable 1849 1852	tid
+T89	Markable 1873 1876	det
+T90	Markable 1885 1899	Verdensbankens
+T91	Markable 1885 1910	Verdensbankens karbonfond
+T92	Markable 1917 1928	Regjeringen
+T93	Markable 1941 1953	det tiltaket
+T94	Markable 1956 1959	Det
+T95	Markable 1973 1976	jeg
+T96	Markable 1987 2098	et tiltak som er tenkt å være gjeldende fram til ca. 2012 , som er perioden for implementering av Kyoto-avtalen
+T97	Markable 2054 2062	perioden
+T98	Markable 2067 2098	implementering av Kyoto-avtalen
+T99	Markable 2085 2098	Kyoto-avtalen
+T100	Markable 2106 2138	penger fra stater og fra private
+T101	Markable 2117 2123	stater
+T102	Markable 2131 2138	private
+T104	Markable 2169 2282	investering i utviklingsland , og også i land som har kommet noe over det en definerer som utviklingslandsstadium
+T105	Markable 2183 2197	utviklingsland
+T106	Markable 2210 2282	land som har kommet noe over det en definerer som utviklingslandsstadium
+T107	Markable 2239 2282	det en definerer som utviklingslandsstadium
+T108	Markable 2243 2245	en
+T109	Markable 2260 2282	utviklingslandsstadium
+T110	Markable 2285 2303	Dette karbonfondet
+T111	Markable 2324 2327	det
+T112	Markable 2335 2338	oss
+T113	Markable 2339 2414	erfaringer som er nyttige i forbindelse med implementering av Kyoto-avtalen
+T114	Markable 2367 2414	forbindelse med implementering av Kyoto-avtalen
+T115	Markable 2383 2414	implementering av Kyoto-avtalen
+T116	Markable 2401 2414	Kyoto-avtalen
+T117	Markable 2420 2432	fattige land
+T118	Markable 2450 2462	slike tiltak
+T119	Markable 2500 2517	Kyoto-mekanismene
+T120	Markable 2536 2546	stedet for
+T121	Markable 2558 2591	et supplement til hjemlige tiltak
+T122	Markable 2576 2591	hjemlige tiltak
+T123	Markable 2618 2620	vi
+T124	Markable 2637 2666	slike supplerende virkemidler
+T125	Markable 2685 2769	utviklingen henimot mer miljøvennlig teknologi når det gjelder gasskraftproduksjon ,
+T126	Markable 2705 2731	mer miljøvennlig teknologi
+T127	Markable 2736 2739	det
+T128	Markable 2748 2767	gasskraftproduksjon
+T129	Markable 2794 2805	Regjeringen
+T130	Markable 2856 2862	penger
+T131	Markable 2867 2885	dette karbonfondet
+T132	Markable 2892 2895	det
+T133	Markable 2915 2917	vi
+T134	Markable 2950 2984	en miljøvennlig gasskraftteknologi
+T135	Markable 3004 3036	en sterkt forurensende teknologi
+T136	Markable 3039 3062	Thorbjørn Jagland ( A )
+T137	Markable 3057 3062	( A )
+T138	Markable 3065 3080	Statsministeren
+T139	Markable 3087 3124	« sterkt forurensende gasskraftverk »
+T140	Markable 3127 3133	Faktum
+T141	Markable 3140 3145	Norge
+T142	Markable 3160 3191	enda mer forurensende kullkraft
+T143	Markable 3196 3203	Danmark
+T144	Markable 3214 3216	vi
+T145	Markable 3231 3275	den nye teknologien , som vi håper vil komme
+T146	Markable 3257 3259	vi
+T147	Markable 3282 3284	vi
+T148	Markable 3307 3329	forurensende kullkraft
+T149	Markable 3334 3341	Danmark
+T150	Markable 3344 3378	CO2-utslippene fra de kraftverkene
+T151	Markable 3363 3378	de kraftverkene
+T152	Markable 3393 3418	Det som er forholdet nå ,
+T153	Markable 3404 3413	forholdet
+T154	Markable 3425 3435	Naturkraft
+T155	Markable 3464 3478	Verdensbankens
+T156	Markable 3464 3483	Verdensbankens fond
+T157	Markable 3486 3496	Naturkraft
+T158	Markable 3509 3525	en pressemelding
+T159	Markable 3530 3532	Vi
+T160	Markable 3554 3610	en del av de CO2-kvotene vi trenger til gasskraftverkene
+T161	Markable 3564 3610	de CO2-kvotene vi trenger til gasskraftverkene
+T162	Markable 3579 3581	vi
+T163	Markable 3594 3610	gasskraftverkene
+T164	Markable 3619 3631	dette fondet
+T165	Markable 3650 3661	Stortingets
+T166	Markable 3650 3691	Stortingets behandling av energimeldingen
+T167	Markable 3676 3691	energimeldingen
+T168	Markable 3696 3699	Det
+T169	Markable 3709 3711	de
+T170	Markable 3729 3732	man
+T171	Markable 3740 3756	en ny beslutning
+T172	Markable 3759 3788	forhold til disse CO2-kvotene
+T173	Markable 3771 3788	disse CO2-kvotene
+T174	Markable 3799 3802	man
+T175	Markable 3816 3828	dette fondet
+T176	Markable 3838 3843	plass
+T177	Markable 3844 3860	gasskraftverkene
+T178	Markable 3880 3910	investeringer i utviklingsland
+T179	Markable 3896 3910	utviklingsland
+T180	Markable 3921 3961	forurensende importert kraft fra Danmark
+T181	Markable 3954 3961	Danmark
+T182	Markable 3964 3998	Statsminister Kjell Magne Bondevik
+T183	Markable 4012 4014	Vi
+T184	Markable 4070 4136	en ny teknologi som kan gi henimot forurensningsfrie gasskraftverk
+T185	Markable 4097 4136	henimot forurensningsfrie gasskraftverk
+T186	Markable 4142 4145	man
+T187	Markable 4160 4207	gammeldags teknologi som er sterkt forurensende
+T188	Markable 4210 4213	Jeg
+T189	Markable 4222 4258	en viss interesse og en viss undring
+T190	Markable 4222 4239	en viss interesse
+T191	Markable 4243 4258	en viss undring
+T192	Markable 4265 4307	Arbeiderpartiet og Arbeiderpartiets leders
+T193	Markable 4265 4280	Arbeiderpartiet
+T194	Markable 4284 4300	Arbeiderpartiets
+T195	Markable 4284 4307	Arbeiderpartiets leders
+T196	Markable 4265 4337	Arbeiderpartiet og Arbeiderpartiets leders holdning til dette spørsmålet
+T197	Markable 4321 4337	dette spørsmålet
+T198	Markable 4340 4357	Thorbjørn Jagland
+T199	Markable 4385 4395	april 1998
+T200	Markable 4399 4409	Stortinget
+T201	Markable 4426 4436	Naturkraft
+T202	Markable 4445 4458	gasskraftverk
+T203	Markable 4463 4502	det som kan bli en gammeldags teknologi
+T204	Markable 4479 4502	en gammeldags teknologi
+T205	Markable 4505 4508	Det
+T206	Markable 4515 4518	jeg
+T207	Markable 4523 4540	en klok uttalelse
+T208	Markable 4567 4705	arbeiderpartiregjeringen og Jagland som mente at utslippstillatelser skulle behandles av SFT etter forurensningsloven , noe som er gjort ,
+T209	Markable 4567 4591	arbeiderpartiregjeringen
+T210	Markable 4595 4703	Jagland som mente at utslippstillatelser skulle behandles av SFT etter forurensningsloven , noe som er gjort
+T211	Markable 4616 4635	utslippstillatelser
+T212	Markable 4656 4659	SFT
+T213	Markable 4666 4684	forurensningsloven
+T214	Markable 4687 4705	noe som er gjort ,
+T215	Markable 4721 4731	tillatelse
+T216	Markable 4736 4818	10 pst. av det som de to planlagte gasskraftverkene på Vestlandet vil representere
+T217	Markable 4747 4818	det som de to planlagte gasskraftverkene på Vestlandet vil representere
+T218	Markable 4755 4801	de to planlagte gasskraftverkene på Vestlandet
+T219	Markable 4791 4801	Vestlandet
+T220	Markable 4823 4835	Regjeringens
+T221	Markable 4823 4861	Regjeringens politikk på dette området
+T222	Markable 4848 4861	dette området
+T223	Markable 4869 4877	en linje
+T224	Markable 4880 4883	Jeg
+T225	Markable 4915 4918	det
+T226	Markable 4921 4937	Arbeiderpartiets
+T227	Markable 4921 4946	Arbeiderpartiets politikk
+T228	Markable 4949 4960	Presidenten
+T229	Markable 4963 4966	Det
+T230	Markable 4972 4991	oppfølgingsspørsmål
+T231	Markable 4994 5010	Jens Stoltenberg
+T232	Markable 5013 5035	Jens Stoltenberg ( A )
+T233	Markable 5030 5035	( A )
+T234	Markable 5038 5053	Arbeiderpartiet
+T235	Markable 5085 5167	en politikk der vi unntar gasskraftverkene fra behandling etter forurensningsloven
+T236	Markable 5101 5103	vi
+T237	Markable 5111 5127	gasskraftverkene
+T238	Markable 5132 5167	behandling etter forurensningsloven
+T239	Markable 5149 5167	forurensningsloven
+T240	Markable 5174 5176	vi
+T241	Markable 5186 5221	den utslippstillatelsen som er gitt
+T242	Markable 5235 5279	mer forurensning og ikke mindre forurensning
+T243	Markable 5235 5251	mer forurensning
+T244	Markable 5255 5279	ikke mindre forurensning
+T245	Markable 5286 5289	den
+T246	Markable 5308 5310	vi
+T247	Markable 5343 5352	mye kraft
+T248	Markable 5357 5390	vesentlig mer forurensende kilder
+T249	Markable 5414 5418	gang
+T250	Markable 5423 5453	utvikling av gasskraft i Norge
+T251	Markable 5436 5445	gasskraft
+T252	Markable 5448 5453	Norge
+T253	Markable 5454 5456	vi
+T254	Markable 5472 5492	utslippstillatelsene
+T255	Markable 5503 5505	vi
+T256	Markable 5514 5516	vi
+T257	Markable 5534 5538	gang
+T258	Markable 5543 5619	utvikling av mer miljøvennlig teknologi enn det Regjeringen har lagt opp til
+T259	Markable 5556 5619	mer miljøvennlig teknologi enn det Regjeringen har lagt opp til
+T260	Markable 5587 5619	det Regjeringen har lagt opp til
+T261	Markable 5591 5602	Regjeringen
+T262	Markable 5626 5665	det Regjeringen åpenbart ikke forstår ,
+T263	Markable 5630 5641	Regjeringen
+T264	Markable 5677 5680	man
+T265	Markable 5696 5715	det nye regelverket
+T266	Markable 5722 5734	ny teknologi
+T267	Markable 5748 5750	vi
+T268	Markable 5770 5848	den importen som vi har i de aller fleste år , bortsett fra i spesielt våte år
+T269	Markable 5787 5789	vi
+T270	Markable 5796 5814	de aller fleste år
+T271	Markable 5832 5848	spesielt våte år
+T272	Markable 5851 5855	Mitt
+T273	Markable 5851 5884	Mitt spørsmål til statsministeren
+T274	Markable 5869 5884	statsministeren
+T275	Markable 5891 5894	han
+T276	Markable 5918 5961	utslippstillatelsen som Naturkraft har fått
+T277	Markable 5942 5952	Naturkraft
+T278	Markable 5972 5974	vi
+T279	Markable 5987 5991	gang
+T280	Markable 6004 6014	norsk gass
+T281	Markable 6017 6022	Norge
+T282	Markable 6025 6053	stedet for å importere kraft
+T283	Markable 6048 6053	kraft
+T284	Markable 6062 6071	den måten
+T285	Markable 6082 6122	rette for en mer miljøvennlig politikk ,
+T286	Markable 6092 6120	en mer miljøvennlig politikk
+T287	Markable 6137 6147	Naturkraft
+T288	Markable 6173 6215	Kyoto-mekanismer og tiltak i Verdensbanken
+T289	Markable 6173 6189	Kyoto-mekanismer
+T290	Markable 6193 6215	tiltak i Verdensbanken
+T291	Markable 6202 6215	Verdensbanken
+T292	Markable 6218 6252	Statsminister Kjell Magne Bondevik
+T293	Markable 6259 6269	det første
+T294	Markable 6273 6276	jeg
+T295	Markable 6289 6513	utgangspunktet , at hvis en tillater gasskraftverk som er sterkt forurensende , ved å endre utslippstillatelsen – det vil si å godta et langt større utslipp – så vil det i seg selv stimulere til en mer miljøvennlig teknologi
+T296	Markable 6314 6316	en
+T297	Markable 6326 6368	gasskraftverk som er sterkt forurensende ,
+T298	Markable 6381 6400	utslippstillatelsen
+T299	Markable 6403 6406	det
+T300	Markable 6422 6445	et langt større utslipp
+T301	Markable 6455 6458	det
+T302	Markable 6484 6513	en mer miljøvennlig teknologi
+T303	Markable 6516 6519	Jeg
+T304	Markable 6544 6547	man
+T305	Markable 6565 6574	den linje
+T306	Markable 6584 6587	man
+T307	Markable 6591 6598	en måte
+T308	Markable 6614 6687	det presset som det bør være for å arbeide for mer miljøvennlig teknologi
+T309	Markable 6661 6687	mer miljøvennlig teknologi
+T310	Markable 6690 6692	Vi
+T311	Markable 6707 6780	flere seriøse selskaper som nå jobber for forurensningsfrie gasskraftverk
+T312	Markable 6749 6780	forurensningsfrie gasskraftverk
+T313	Markable 6788 6791	man
+T314	Markable 6796 6806	tillatelse
+T315	Markable 6811 6866	det motsatte , nemlig sterkt forurensende gasskraftverk
+T316	Markable 6826 6866	nemlig sterkt forurensende gasskraftverk
+T317	Markable 6874 6877	jeg
+T318	Markable 6881 6960	presset for å få fram økonomisk lønnsomme prosjekter som er forurensningsfrie ,
+T319	Markable 6903 6958	økonomisk lønnsomme prosjekter som er forurensningsfrie
+T320	Markable 6981 6983	vi
+T321	Markable 6988 7000	ingen planer
+T322	Markable 7004 7007	det
+T323	Markable 7010 7013	Jeg
+T324	Markable 7026 7030	sagt
+T325	Markable 7036 7113	det at dette skulle være så opplagt som Jens Stoltenberg nå gir uttrykk for ,
+T326	Markable 7043 7048	dette
+T327	Markable 7076 7092	Jens Stoltenberg
+T328	Markable 7100 7107	uttrykk
+T329	Markable 7136 7278	det partiets leder sa i april i fjor , at Stortinget ikke må pålegge Naturkraft å bygge gasskraftverk med det som kan bli gammeldags teknologi
+T330	Markable 7140 7148	partiets
+T331	Markable 7140 7154	partiets leder
+T332	Markable 7160 7172	april i fjor
+T333	Markable 7168 7172	fjor
+T334	Markable 7178 7188	Stortinget
+T335	Markable 7205 7215	Naturkraft
+T336	Markable 7224 7237	gasskraftverk
+T337	Markable 7242 7278	det som kan bli gammeldags teknologi
+T338	Markable 7258 7278	gammeldags teknologi
+T339	Markable 7281 7292	Presidenten
+T340	Markable 7295 7336	Carl I. Hagen – til oppfølgingsspørsmål .
+T341	Markable 7315 7334	oppfølgingsspørsmål
+T342	Markable 7337 7358	Carl I. Hagen ( Frp )
+T343	Markable 7351 7358	( Frp )
+T344	Markable 7361 7376	Statsministeren
+T345	Markable 7418 7430	ny teknologi
+T346	Markable 7436 7441	dette
+T347	Markable 7445 7468	et teknologisk spørsmål
+T348	Markable 7473 7493	Dagsavisen for i dag
+T349	Markable 7490 7493	dag
+T350	Markable 7509 7520	teknologien
+T351	Markable 7543 7559	ubegrenset plass
+T352	Markable 7564 7599	lagring av CO2 i tidligere oljefelt
+T353	Markable 7575 7578	CO2
+T354	Markable 7581 7599	tidligere oljefelt
+T355	Markable 7602 7611	Problemet
+T356	Markable 7629 7723	kostnadene ved den teknologi som er kjent , og som det ikke er varslet noe som helst nytt på ,
+T357	Markable 7644 7723	den teknologi som er kjent , og som det ikke er varslet noe som helst nytt på ,
+T358	Markable 7644 7672	den teknologi som er kjent ,
+T359	Markable 7732 7737	dette
+T360	Markable 7754 7757	Det
+T361	Markable 7766 7789	et teknologisk spørsmål
+T362	Markable 7792 7795	Jeg
+T363	Markable 7800 7804	lyst
+T364	Markable 7818 7829	et spørsmål
+T365	Markable 7834 7849	statsministeren
+T366	Markable 7859 7871	Regjeringens
+T367	Markable 7859 7880	Regjeringens politikk
+T368	Markable 7884 7887	man
+T369	Markable 7907 7944	energiprisen til norske husholdninger
+T370	Markable 7924 7944	norske husholdninger
+T371	Markable 7958 8105	den nødvendige økonomiske lønnsomhet i forurensningsfrie gasskraftverk , som det ikke trengs ny teknologi til , men som ganske enkelt er uøkonomisk
+T372	Markable 7997 8105	forurensningsfrie gasskraftverk , som det ikke trengs ny teknologi til , men som ganske enkelt er uøkonomisk
+T373	Markable 8051 8063	ny teknologi
+T374	Markable 8115 8156	det som egentlig er Regjeringens politikk
+T375	Markable 8135 8147	Regjeringens
+T376	Markable 8135 8156	Regjeringens politikk
+T377	Markable 8165 8199	prisen på strøm til husholdningene
+T378	Markable 8175 8199	strøm til husholdningene
+T379	Markable 8185 8199	husholdningene
+T380	Markable 8212 8217	dette
+T381	Markable 8229 8265	Statsminister Kjell Magne Bondevik :
+T382	Markable 8272 8275	det
+T383	Markable 8284 8296	Regjeringens
+T384	Markable 8284 8305	Regjeringens politikk
+T385	Markable 8327 8356	et tidligere svar som jeg gav
+T386	Markable 8349 8352	jeg
+T387	Markable 8362 8379;8391 8451	en forutsetning , for å sette i gang henimot forurensningsfrie gasskraftverk ,
+T388	Markable 8405 8409	gang
+T389	Markable 8418 8449	forurensningsfrie gasskraftverk
+T390	Markable 8458 8461	det
+T391	Markable 8467 8482	god nok økonomi
+T392	Markable 8485 8488	det
+T393	Markable 8491 8494	Jeg
+T394	Markable 8531 8689	oppslaget i Dagsavisen i dag om at slik teknologi sannsynligvis er like rundt hjørnet – kanskje allerede er der – men problemet er å få det økonomisk lønnsomt
+T395	Markable 8543 8559	Dagsavisen i dag
+T396	Markable 8556 8559	dag
+T397	Markable 8566 8580	slik teknologi
+T398	Markable 8609 8616	hjørnet
+T399	Markable 8649 8658	problemet
+T400	Markable 8667 8670	det
+T401	Markable 8703 8849	seriøse selskaper som faktisk jobber for det , og som mener at det er mulig å drive kostnadene ned , slik at slike prosjekter kan bli realiserbare
+T402	Markable 8744 8747	det
+T403	Markable 8787 8797	kostnadene
+T404	Markable 8812 8828	slike prosjekter
+T405	Markable 8852 8855	Det
+T406	Markable 8862 8865	jeg
+T407	Markable 8869 8889	regjering og storing
+T408	Markable 8869 8878	regjering
+T409	Markable 8882 8889	storing
+T410	Markable 8902 8905	tid
+T411	Markable 8966 9003	prisene på kraft til husholdningene ,
+T412	Markable 8977 9003	kraft til husholdningene ,
+T413	Markable 8987 9001	husholdningene
+T414	Markable 9008 9021	Carl I. Hagen
+T415	Markable 9032 9035	Det
+T416	Markable 9044 9056	Regjeringens
+T417	Markable 9044 9065	Regjeringens politikk
+T418	Markable 9068 9079	Presidenten
+T419	Markable 9082 9126	Øystein Djupedal – til oppfølgingsspørsmål .
+T420	Markable 9105 9124	oppfølgingsspørsmål
+T421	Markable 9127 9150	Øystein Djupedal ( SV )
+T422	Markable 9144 9150	( SV )
+T423	Markable 9175 9190	statsministeren
+T424	Markable 9207 9217	hvert fall
+T425	Markable 9221 9225;9247 9314	noen som er enig i Regjeringens holdning til spørsmålet om gasskraftverk
+T426	Markable 9232 9246	stortingssalen
+T427	Markable 9261 9273	Regjeringens
+T428	Markable 9261 9314	Regjeringens holdning til spørsmålet om gasskraftverk
+T429	Markable 9287 9314	spørsmålet om gasskraftverk
+T430	Markable 9301 9314	gasskraftverk
+T431	Markable 9320 9323	jeg
+T432	Markable 9344 9358	mye ros om det
+T433	Markable 9355 9358	det
+T434	Markable 9376 9378	vi
+T435	Markable 9387 9410	en betydelig utfordring
+T436	Markable 9434 9436	vi
+T437	Markable 9444 9457	gasskraftverk
+T438	Markable 9463 9469	Norges
+T439	Markable 9463 9489	Norges mål i Kyoto-avtalen
+T440	Markable 9476 9489	Kyoto-avtalen
+T441	Markable 9530 9532	vi
+T442	Markable 9542 9555	gasskraftverk
+T443	Markable 9565 9567	vi
+T444	Markable 9570 9573	dag
+T445	Markable 9589 9630	de utslippskrav som Kyoto-avtalen stiller
+T446	Markable 9609 9622	Kyoto-avtalen
+T447	Markable 9638 9641	man
+T448	Markable 9649 9676	utslippsprognosene framover
+T449	Markable 9686 9701	all mulig grunn
+T450	Markable 9715 9717	vi
+T451	Markable 9735 9758	enda mange prosentpoeng
+T452	Markable 9764 9803	det vi er tillatt gjennom Kyoto-avtalen
+T453	Markable 9768 9770	vi
+T454	Markable 9790 9803	Kyoto-avtalen
+T455	Markable 9812 9822	spørsmålet
+T456	Markable 9831 9834	man
+T457	Markable 9846 9849	dag
+T458	Markable 9864 9932	tiltak som gjør at man kan nå den planen som er lagt i Kyoto-avtalen
+T459	Markable 9883 9886	man
+T460	Markable 9894 9932	den planen som er lagt i Kyoto-avtalen
+T461	Markable 9919 9932	Kyoto-avtalen
+T462	Markable 9944 9956	utfordringen
+T463	Markable 9961 9972	Regjeringen
+T464	Markable 9975 10040;10048 10126	Hvilke konkrete tiltak annet enn å stoppe planlagte gasskraftverk Regjeringen har tenkt på for at vi faktisk skal klare å redusere CO2-utslippet
+T465	Markable 10017 10040	planlagte gasskraftverk
+T466	Markable 10048 10059	Regjeringen
+T467	Markable 10080 10082	vi
+T468	Markable 10113 10126	CO2-utslippet
+T469	Markable 10133 10136	det
+T470	Markable 10145 10161	gasskraftverkene
+T471	Markable 10171 10173	de
+T472	Markable 10182 10237	større utslipp enn den totale norske aluminiumsindustri
+T473	Markable 10201 10237	den totale norske aluminiumsindustri
+T474	Markable 10243 10246	det
+T475	Markable 10263 10277	hvilket omfang
+T476	Markable 10278 10280	vi
+T477	Markable 10298 10302	mitt
+T478	Markable 10298 10311	mitt spørsmål
+T479	Markable 10317 10330;10338 10411	Hvilke tiltak Bondevik-regjeringen har tenkt å iverksette for å nå Kyotos forpliktelser
+T480	Markable 10338 10358	Bondevik-regjeringen
+T481	Markable 10391 10397	Kyotos
+T482	Markable 10391 10411	Kyotos forpliktelser
+T483	Markable 10414 10448	Statsminister Kjell Magne Bondevik
+T484	Markable 10451 10454	Jeg
+T485	Markable 10476 10479	SVs
+T486	Markable 10476 10515	SVs klare holdning i gasskraftverksaken
+T487	Markable 10497 10515	gasskraftverksaken
+T488	Markable 10518 10521	Jeg
+T489	Markable 10537 10550;10558 10594	andre partier som tidligere lå mer på den linjen ,
+T490	Markable 10582 10592	den linjen
+T491	Markable 10641 10656	endring av kurs
+T492	Markable 10652 10656	kurs
+T493	Markable 10682 10698	Øystein Djupedal
+T494	Markable 10743 10748	Norge
+T495	Markable 10754 10779	kravene fra Kyoto-avtalen
+T496	Markable 10766 10779	Kyoto-avtalen
+T497	Markable 10785 10787	vi
+T498	Markable 10795 10847	forurensende gasskraftverk basert på eldre teknologi
+T499	Markable 10832 10847	eldre teknologi
+T500	Markable 10864 10883	slike gasskraftverk
+T501	Markable 10887 10889	vi
+T502	Markable 10899 10909	utslippene
+T503	Markable 10916 10919	jeg
+T504	Markable 10925 10928	det
+T505	Markable 10934 10973	rundt 24 pst. i forhold til dagens nivå
+T506	Markable 10950 10973	forhold til dagens nivå
+T507	Markable 10962 10968	dagens
+T508	Markable 10962 10973	dagens nivå
+T509	Markable 10989 11019	forpliktelsene i Kyoto-avtalen
+T510	Markable 11006 11019	Kyoto-avtalen
+T511	Markable 11029 11031	vi
+T512	Markable 11034 11041	tillegg
+T513	Markable 11048 11094	de to omstridte gasskraftverkene på Vestlandet
+T514	Markable 11084 11094	Vestlandet
+T515	Markable 11103 11116	den prosenten
+T516	Markable 11129 11131	vi
+T517	Markable 11155 11158	det
+T518	Markable 11171 11174	det
+T519	Markable 11208 11210	vi
+T520	Markable 11223 11226	det
+T521	Markable 11230 11253	fremtidsrettet politikk
+T522	Markable 11260 11263	det
+T523	Markable 11283 11296	Kyoto-kravene
+T524	Markable 11306 11317	Regjeringen
+T525	Markable 11341 11351	Stortinget
+T526	Markable 11352 11358	en del
+T527	Markable 11352 11429	en del forslag til tiltak som bringer oss , så vidt jeg husker , ca. halvveis
+T528	Markable 11371 11429	tiltak som bringer oss , så vidt jeg husker , ca. halvveis
+T529	Markable 11390 11393	oss
+T530	Markable 11404 11407	jeg
+T531	Markable 11435 11437	vi
+T532	Markable 11458 11469	presidenten
+T533	Markable 11480 11498;11524 11607	ytterligere tiltak hvor en må bruke både avgifter og andre former for restriksjoner for å få dette ned
+T535	Markable 11529 11531	en
+T536	Markable 11546 11588	avgifter og andre former for restriksjoner
+T537	Markable 11546 11554	avgifter
+T538	Markable 11558 11588	andre former for restriksjoner
+T539	Markable 11575 11588	restriksjoner
+T540	Markable 11598 11603	dette
+T541	Markable 11610 11621	Presidenten
+R1	Coref Arg1:T12 Arg2:T8	
+R2	Coref Arg1:T15 Arg2:T7	
+R3	Coref Arg1:T6 Arg2:T8	
+R4	Coref Arg1:T23 Arg2:T22	
+R5	Coref Arg1:T25 Arg2:T23	
+R6	Coref Arg1:T28 Arg2:T26	
+R7	Coref Arg1:T31 Arg2:T25	
+R8	Coref Arg1:T32 Arg2:T9	
+R9	Coref Arg1:T51 Arg2:T35	
+R10	Coref Arg1:T52 Arg2:T51	
+R11	Coref Arg1:T59 Arg2:T52	
+R12	Coref Arg1:T63 Arg2:T31	
+R13	Coref Arg1:T64 Arg2:T57	
+R14	Coref Arg1:T69 Arg2:T66	
+R15	Coref Arg1:T76 Arg2:T64	
+R16	Coref Arg1:T66 Arg2:T33	
+R17	Coref Arg1:T73 Arg2:T32	
+R18	Coref Arg1:T78 Arg2:T76	
+R19	Coref Arg1:T90 Arg2:T36	
+R20	Coref Arg1:T92 Arg2:T78	
+T542	Markable 742 751	investere
+R21	Bridging Arg1:T46 Arg2:T542	
+R22	Coref Arg1:T95 Arg2:T86	
+R23	Coref Arg1:T99 Arg2:T55	
+R24	Coref Arg1:T94 Arg2:T93	
+T543	Markable 2152 2164	dette fondet
+R25	Coref Arg1:T543 Arg2:T91	
+R26	Coref Arg1:T110 Arg2:T543	
+R27	Coref Arg1:T111 Arg2:T110	
+R28	Coref Arg1:T116 Arg2:T99	
+R29	Coref Arg1:T131 Arg2:T111	
+R30	Coref Arg1:T129 Arg2:T92	
+R31	Coref Arg1:T136 Arg2:T63	
+R32	Coref Arg1:T138 Arg2:T95	
+R33	Coref Arg1:T143 Arg2:T72	
+R34	Coref Arg1:T149 Arg2:T143	
+R35	Coref Arg1:T155 Arg2:T90	
+R36	Coref Arg1:T154 Arg2:T59	
+R37	Coref Arg1:T159 Arg2:T157	
+R38	Coref Arg1:T162 Arg2:T159	
+R39	Coref Arg1:T164 Arg2:T156	
+R40	Coref Arg1:T173 Arg2:T161	
+R41	Coref Arg1:T175 Arg2:T164	
+R42	Coref Arg1:T181 Arg2:T149	
+R43	Coref Arg1:T169 Arg2:T162	
+R44	Coref Arg1:T177 Arg2:T163	
+R45	Coref Arg1:T165 Arg2:T2	
+R46	Coref Arg1:T157 Arg2:T154	
+R47	Bridging Arg1:T151 Arg2:T148	
+R48	Coref Arg1:T156 Arg2:T131	
+R50	Coref Arg1:T145 Arg2:T134	
+R51	Coref Arg1:T163 Arg2:T60	
+R52	Coref Arg1:T182 Arg2:T138	
+R53	Coref Arg1:T188 Arg2:T182	
+R54	Coref Arg1:T194 Arg2:T193	
+R55	Coref Arg1:T183 Arg2:T129	
+R56	Coref Arg1:T201 Arg2:T169	
+R57	Coref Arg1:T200 Arg2:T165	
+R58	Coref Arg1:T198 Arg2:T195	
+R59	Coref Arg1:T195 Arg2:T136	
+R60	Coref Arg1:T206 Arg2:T188	
+R61	Coref Arg1:T210 Arg2:T198	
+R62	Coref Arg1:T226 Arg2:T194	
+R63	Coref Arg1:T220 Arg2:T183	
+R64	Coref Arg1:T224 Arg2:T206	
+R65	Coref Arg1:T228 Arg2:T1	
+R66	Coref Arg1:T232 Arg2:T231	
+R67	Coref Arg1:T234 Arg2:T233	
+R68	Coref Arg1:T240 Arg2:T234	
+R69	Coref Arg1:T245 Arg2:T241	
+R70	Coref Arg1:T261 Arg2:T220	
+R71	Coref Arg1:T263 Arg2:T261	
+R72	Coref Arg1:T275 Arg2:T274	
+T103	Markable 5906 5909	seg
+R73	Coref Arg1:T103 Arg2:T275	
+R74	Coref Arg1:T274 Arg2:T224	
+R75	Coref Arg1:T287 Arg2:T277	
+R76	Coref Arg1:T281 Arg2:T252	
+R77	Coref Arg1:T291 Arg2:T155	
+R78	Coref Arg1:T277 Arg2:T201	
+R79	Coref Arg1:T294 Arg2:T292	
+T544	Markable 6461 6469	seg selv
+R80	Coref Arg1:T544 Arg2:T301	
+R81	Coref Arg1:T303 Arg2:T294	
+T545	Markable 6554 6557	seg
+R82	Coref Arg1:T545 Arg2:T304	
+R83	Coref Arg1:T317 Arg2:T303	
+R84	Coref Arg1:T323 Arg2:T317	
+T546	Markable 6161 6164	seg
+R85	Coref Arg1:T546 Arg2:T287	
+R86	Coref Arg1:T327 Arg2:T272	
+R87	Coref Arg1:T330 Arg2:T255	
+R88	Coref Arg1:T335 Arg2:T546	
+T547	Markable 424 427	seg
+R89	Coref Arg1:T547 Arg2:T16	
+T548	Markable 8898 8901	seg
+R90	Coref Arg1:T548 Arg2:T407	
+T549	Markable 8922 8925	seg
+R91	Coref Arg1:T549 Arg2:T405	
+R92	Coref Arg1:T339 Arg2:T228	
+R93	Coref Arg1:T334 Arg2:T200	
+R94	Bridging Arg1:T40 Arg2:T542	
+R49	Coref Arg1:T218 Arg2:T177	
+R95	Coref Arg1:T225 Arg2:T223	
+R96	Coref Arg1:T239 Arg2:T213	
+R97	Coref Arg1:T253 Arg2:T240	
+R98	Coref Arg1:T255 Arg2:T253	
+R99	Coref Arg1:T276 Arg2:T245	
+R100	Coref Arg1:T298 Arg2:T276	
+R101	Coref Arg1:T320 Arg2:T263	
+R102	Coref Arg1:T292 Arg2:T103	
+R103	Coref Arg1:T331 Arg2:T210	
+T550	Markable 7295 7308	Carl I. Hagen
+R104	Coref Arg1:T342 Arg2:T550	
+R105	Coref Arg1:T344 Arg2:T323	
+R106	Coref Arg1:T365 Arg2:T344	
+R107	Coref Arg1:T362 Arg2:T342	
+R108	Coref Arg1:T375 Arg2:T366	
+R109	Coref Arg1:T366 Arg2:T320	
+R110	Coref Arg1:T379 Arg2:T370	
+R111	Coref Arg1:T380 Arg2:T372	
+R112	Coref Arg1:T381 Arg2:T365	
+R113	Coref Arg1:T383 Arg2:T375	
+R114	Coref Arg1:T386 Arg2:T381	
+R115	Coref Arg1:T393 Arg2:T386	
+R116	Coref Arg1:T392 Arg2:T389	
+R117	Coref Arg1:T395 Arg2:T348	
+R118	Coref Arg1:T406 Arg2:T393	
+R119	Coref Arg1:T414 Arg2:T362	
+R120	Coref Arg1:T413 Arg2:T379	
+R121	Coref Arg1:T377 Arg2:T369	
+R122	Coref Arg1:T416 Arg2:T408	
+T551	Markable 9082 9098	Øystein Djupedal
+R123	Coref Arg1:T421 Arg2:T551	
+R124	Coref Arg1:T418 Arg2:T339	
+R125	Coref Arg1:T427 Arg2:T416	
+R126	Coref Arg1:T431 Arg2:T421	
+R127	Coref Arg1:T423 Arg2:T406	
+R128	Coref Arg1:T446 Arg2:T440	
+R129	Coref Arg1:T454 Arg2:T446	
+R130	Coref Arg1:T461 Arg2:T454	
+R131	Coref Arg1:T463 Arg2:T427	
+R132	Coref Arg1:T466 Arg2:T463	
+R133	Coref Arg1:T471 Arg2:T470	
+R134	Coref Arg1:T438 Arg2:T141	
+R135	Coref Arg1:T470 Arg2:T465	
+R136	Coref Arg1:T477 Arg2:T431	
+R137	Coref Arg1:T480 Arg2:T466	
+R138	Coref Arg1:T481 Arg2:T461	
+R139	Coref Arg1:T483 Arg2:T423	
+R140	Coref Arg1:T484 Arg2:T483	
+R141	Coref Arg1:T488 Arg2:T484	
+R142	Coref Arg1:T493 Arg2:T477	
+R143	Coref Arg1:T494 Arg2:T438	
+R144	Coref Arg1:T496 Arg2:T481	
+R145	Coref Arg1:T510 Arg2:T496	
+R146	Coref Arg1:T503 Arg2:T488	
+R147	Bridging Arg1:T490 Arg2:T486	
+R148	Coref Arg1:T515 Arg2:T505	
+R149	Coref Arg1:T524 Arg2:T519	
+R150	Coref Arg1:T525 Arg2:T409	
+R151	Coref Arg1:T530 Arg2:T503	
+T552	Markable 11512 11521	president
+R152	Coref Arg1:T541 Arg2:T552	
+R153	Coref Arg1:T552 Arg2:T532	
+R154	Coref Arg1:T532 Arg2:T418	
+R155	Coref Arg1:T531 Arg2:T524	
+R156	Coref Arg1:T540 Arg2:T502	
+R157	Coref Arg1:T433 Arg2:T428	
+R158	Coref Arg1:T440 Arg2:T116	
+R159	Coref Arg1:T514 Arg2:T219	
+R160	Coref Arg1:T513 Arg2:T218	
+R161	Coref Arg1:T519 Arg2:T480	
+R162	Coref Arg1:T495 Arg2:T482	
+R163	Coref Arg1:T509 Arg2:T495	
+R164	Coref Arg1:T523 Arg2:T509	
+R165	Coref Arg1:T86 Arg2:T73	
+R166	Coref Arg1:T272 Arg2:T232	
+R167	Coref Arg1:T20 Arg2:T14	
+R168	Coref Arg1:T408 Arg2:T383	
+R169	Coref Arg1:T409 Arg2:T334	
+R170	Bridging Arg1:T93 Arg2:T91	
+R171	Coref Arg1:T137 Arg2:T24	
+R172	Coref Arg1:T193 Arg2:T137	
+R173	Coref Arg1:T233 Arg2:T226	
+R174	Coref Arg1:T485 Arg2:T422	
+T534	Markable 11634 11645	presidenten
+R175	Coref Arg1:T534 Arg2:T541	
+T553	Markable 11652 11658	klubba
+R176	Bridging Arg1:T553 Arg2:T534	

@@ -1,0 +1,104 @@
+T1	Markable 0 36	Bånn gass i nye « Need for Speed » |
+T2	Markable 12 34	nye « Need for Speed »
+T3	Markable 37 45	Politiet
+T4	Markable 66 70	hjul
+T5	Markable 86 94	en slags
+T6	Markable 86 104	en slags tradisjon
+T7	Markable 127 142	førjulsstresset
+T8	Markable 147 188	den årlige « Need for Speed » -utgivelsen
+T9	Markable 205 214	fjorårets
+T10	Markable 205 245	fjorårets « Need for Speed : ProStreet »
+T11	Markable 265 297	et overkjørt kadaver i veikanten
+T12	Markable 288 297	veikanten
+T13	Markable 315 318	det
+T14	Markable 330 343	sjefen for EA
+T15	Markable 341 343	EA
+T16	Markable 362 365	det
+T17	Markable 396 410	bot og bedring
+T18	Markable 396 399	bot
+T19	Markable 403 410	bedring
+T20	Markable 413 423	Resultatet
+T21	Markable 427 458	« Need for Speed : Undercover »
+T22	Markable 486 507	bøter og forbedringer
+T23	Markable 486 491	bøter
+T24	Markable 495 507	forbedringer
+T25	Markable 522 527	lovet
+T26	Markable 535 544	fjorårets
+T27	Markable 535 576	fjorårets klamme , feilslåtte realismejag
+T28	Markable 579 610	« Need for Speed : Undercover »
+T29	Markable 623 629	tråden
+T30	Markable 634 668	« Underground » og « Most Wanted »
+T31	Markable 634 649	« Underground »
+T32	Markable 653 668	« Most Wanted »
+T33	Markable 671 674	Det
+T34	Markable 684 686	du
+T35	Markable 697 739	et stort , åpent bylandskap å boltre deg i
+T36	Markable 734 737	deg
+T37	Markable 745 757	onkel politi
+T38	Markable 803 805	Du
+T39	Markable 826 851	de forskjellige billøpene
+T40	Markable 856 871	hjelp av kartet
+T41	Markable 865 871	kartet
+T42	Markable 877 879	du
+T43	Markable 898 941	penger , biler og skjerpede kjøreegenskaper
+T44	Markable 898 906	penger ,
+T45	Markable 907 912	biler
+T46	Markable 916 941	skjerpede kjøreegenskaper
+T47	Markable 948 954	vanlig
+T48	Markable 959 961	du
+T49	Markable 981 984	din
+T50	Markable 981 997	din utvalgte bil
+T51	Markable 1010 1013	det
+T52	Markable 1021 1024	deg
+T53	Markable 1043 1079	filmsekvensene med ekte skuespillere
+T54	Markable 1062 1079	ekte skuespillere
+T55	Markable 1089 1095	vanlig
+T56	Markable 1099 1101	de
+T57	Markable 1117 1119	de
+T58	Markable 1139 1141	De
+T59	Markable 1147 1223	jobben med å gi spillet en atmosfære av b-filmkvalitet som er uhyre passende
+T60	Markable 1163 1170	spillet
+T61	Markable 1171 1223	en atmosfære av b-filmkvalitet som er uhyre passende
+T62	Markable 1187 1201	b-filmkvalitet
+T63	Markable 1226 1235	Historien
+T64	Markable 1245 1287	en blåkopi av « The Fast and the Furious »
+T65	Markable 1259 1287	« The Fast and the Furious »
+T66	Markable 1294 1297	det
+T67	Markable 1326 1331	regel
+T68	Markable 1339 1353	disse spillene
+T69	Markable 1360 1362	du
+T70	Markable 1369 1404	tidligere « Need for Speed » -spill
+T71	Markable 1411 1413	du
+T72	Markable 1421 1424	deg
+T73	Markable 1438 1441	jeg
+T74	Markable 1482 1496	« Undercover »
+T75	Markable 1513 1560	den smålugubre stemningen og kaotiske kjøringen
+T76	Markable 1513 1538	den smålugubre stemningen
+T77	Markable 1542 1560	kaotiske kjøringen
+T78	Markable 1577 1580	jeg
+T79	Markable 1587 1590	den
+T80	Markable 1603 1606	jeg
+T81	Markable 1610 1613	meg
+T82	Markable 1631 1636	årets
+T83	Markable 1631 1643	årets utgave
+R1	Coref Arg1:T13 Arg2:T10	
+R2	Coref Arg1:T16 Arg2:T13	
+R3	Coref Arg1:T21 Arg2:T2	
+R4	Coref Arg1:T28 Arg2:T21	
+R5	Coref Arg1:T36 Arg2:T34	
+R6	Bridging Arg1:T39 Arg2:T28	
+R7	Bridging Arg1:T41 Arg2:T28	
+R8	Coref Arg1:T49 Arg2:T48	
+R9	Coref Arg1:T52 Arg2:T49	
+R10	Coref Arg1:T56 Arg2:T53	
+R11	Coref Arg1:T57 Arg2:T56	
+R12	Coref Arg1:T58 Arg2:T57	
+R13	Coref Arg1:T60 Arg2:T28	
+R14	Bridging Arg1:T63 Arg2:T60	
+R15	Coref Arg1:T72 Arg2:T71	
+R16	Coref Arg1:T74 Arg2:T60	
+R17	Coref Arg1:T78 Arg2:T73	
+R18	Coref Arg1:T79 Arg2:T75	
+R19	Coref Arg1:T80 Arg2:T78	
+R20	Coref Arg1:T81 Arg2:T80	
+R21	Coref Arg1:T83 Arg2:T74	

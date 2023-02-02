@@ -1,0 +1,83 @@
+T1	Markable 7 19	taxisjåføren
+T2	Markable 27 35	ansiktet
+T3	Markable 60 68	sjåføren
+T4	Markable 90 172	den unge jenta i slutten av tenåra som nyleg måtte svare for seg i Sogn tingrett ,
+T5	Markable 107 124	slutten av tenåra
+T6	Markable 118 124	tenåra
+T7	Markable 157 170	Sogn tingrett
+T8	Markable 198 205	kjeften
+T9	Markable 208 225	ilske situasjonar
+T10	Markable 230 237	oktober
+T11	Markable 247 249	ho
+T12	Markable 250 263	ei spyttklyse
+T13	Markable 267 281	ein politimann
+T14	Markable 289 297	desember
+T15	Markable 302 304	ho
+T16	Markable 317 329	Denne gongen
+T17	Markable 344 403	ein taxisjåføren i Sogndal som fekk merke misnøya til jenta
+T18	Markable 363 370	Sogndal
+T19	Markable 386 403	misnøya til jenta
+T20	Markable 398 403	jenta
+T21	Markable 406 420	Ho og sjåføren
+T22	Markable 406 408	Ho
+T23	Markable 412 420	sjåføren
+T24	Markable 429 444	ei misforståing
+T25	Markable 447 495	det ho skulle gå ut frå taxien ein desemberkveld
+T26	Markable 451 453	ho
+T27	Markable 471 477	taxien
+T28	Markable 478 495	ein desemberkveld
+T29	Markable 498 516	Den rusa sogningen
+T30	Markable 526 529	det
+T31	Markable 538 546	sjåføren
+T32	Markable 560 562	ho
+T33	Markable 577 583	taxien
+T34	Markable 616 624	sjåføren
+T35	Markable 627 635	ansiktet
+T36	Markable 641 643	ho
+T37	Markable 656 661	bilen
+T38	Markable 668 676	sjåføren
+T39	Markable 695 713	tak i armen hennar
+T40	Markable 701 713	armen hennar
+T41	Markable 707 713	hennar
+T42	Markable 716 718	Ho
+T43	Markable 729 733	nytt
+T44	Markable 738 744	mannen
+T45	Markable 752 755	han
+T46	Markable 765 772	brystet
+T47	Markable 775 784	Sogningen
+T48	Markable 788 793	korta
+T49	Markable 797 803	bordet
+T50	Markable 807 809	ho
+T51	Markable 818 831	Sogn tingrett
+T52	Markable 856 918	ei bot på 2000 kroner og ei betinga fengselsstraff på 14 dagar
+T53	Markable 856 877	ei bot på 2000 kroner
+T54	Markable 866 877	2000 kroner
+T55	Markable 881 918	ei betinga fengselsstraff på 14 dagar
+T56	Markable 910 918	14 dagar
+R1	Coref Arg1:T3 Arg2:T1	
+R2	Coref Arg1:T11 Arg2:T57	
+R3	Coref Arg1:T15 Arg2:T11	
+R5	Coref Arg1:T20 Arg2:T15	
+R6	Coref Arg1:T22 Arg2:T20	
+R7	Coref Arg1:T23 Arg2:T17	
+R8	Coref Arg1:T26 Arg2:T22	
+R10	Coref Arg1:T29 Arg2:T26	
+R11	Coref Arg1:T31 Arg2:T23	
+R12	Coref Arg1:T32 Arg2:T29	
+R13	Coref Arg1:T33 Arg2:T27	
+R14	Coref Arg1:T34 Arg2:T31	
+R15	Coref Arg1:T35 Arg2:T2	
+R16	Coref Arg1:T36 Arg2:T32	
+R17	Coref Arg1:T37 Arg2:T33	
+R18	Coref Arg1:T38 Arg2:T34	
+R20	Coref Arg1:T42 Arg2:T41	
+R21	Coref Arg1:T44 Arg2:T38	
+R22	Coref Arg1:T45 Arg2:T44	
+R23	Coref Arg1:T47 Arg2:T42	
+R24	Coref Arg1:T50 Arg2:T47	
+R25	Coref Arg1:T51 Arg2:T7	
+T57	Markable 151 154	seg
+R26	Coref Arg1:T57 Arg2:T4	
+R4	Coref Arg1:T41 Arg2:T36	
+T58	Markable 847 850	seg
+R9	Coref Arg1:T58 Arg2:T50	

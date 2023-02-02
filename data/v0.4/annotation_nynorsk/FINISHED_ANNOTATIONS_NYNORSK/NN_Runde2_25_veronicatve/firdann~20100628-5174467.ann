@@ -1,0 +1,57 @@
+T1	Markable 13 32	sidemålundervisning
+T2	Markable 35 62	75 prosent av alle nordmenn
+T3	Markable 49 62	alle nordmenn
+T4	Markable 68 75	sidemål
+T5	Markable 89 115	Berre kvar fjerde nordmann
+T6	Markable 140 155	alle skuleelvar
+T7	Markable 184 201	nynorsk og bokmål
+T8	Markable 184 191	nynorsk
+T9	Markable 195 201	bokmål
+T10	Markable 204 250	Nesten halvparten av dei spurde , 46 prosent ,
+T11	Markable 225 235	dei spurde
+T12	Markable 238 250	46 prosent ,
+T13	Markable 281 285	unge
+T14	Markable 313 320	sidemål
+T15	Markable 331 379	ei meiningsmåling Sentio har utført for Nationen
+T16	Markable 349 355	Sentio
+T17	Markable 371 379	Nationen
+T18	Markable 403 440	Vestlendingar og Senterparti-veljarar
+T19	Markable 403 416	Vestlendingar
+T20	Markable 420 440	Senterparti-veljarar
+T21	Markable 462 498	obligatorisk sidemål i undervisninga
+T22	Markable 485 498	undervisninga
+T23	Markable 518 568	dei som bur på Austlandet og dei som stemmer Høgre
+T24	Markable 533 568	Austlandet og dei som stemmer Høgre
+T25	Markable 533 543	Austlandet
+T26	Markable 547 568	dei som stemmer Høgre
+T27	Markable 563 568	Høgre
+T28	Markable 571 611	Leiar Håvard B. Øvregård i Noregs Mållag
+T29	Markable 598 611	Noregs Mållag
+T30	Markable 622 627	avisa
+T31	Markable 631 646	Framstegspariet
+T32	Markable 631 650	Framstegspariet sin
+T33	Markable 631 671	Framstegspariet sin Ungdom og Unge Høgre
+T34	Markable 631 657	Framstegspariet sin Ungdom
+T35	Markable 661 671	Unge Høgre
+T36	Markable 697 715	splid om nynorsken
+T37	Markable 706 715	nynorsken
+T38	Markable 722 725	dei
+T39	Markable 733 738	dette
+T40	Markable 741 750	skulevala
+T41	Markable 760 776	auka oppslutning
+T42	Markable 779 787	Øvregård
+T43	Markable 810 814	folk
+T44	Markable 831 849	bakgrunn i språket
+T45	Markable 842 849	språket
+T46	Markable 861 866	dette
+T47	Markable 902 920	rase eller legning
+T48	Markable 902 906	rase
+T49	Markable 913 920	legning
+T50	Markable 923 939	Unge Høgre-leiar
+T51	Markable 923 953	Unge Høgre-leiar Henrik Asheim
+T52	Markable 962 971	kritikken
+T53	Markable 292 295	seg
+R1	Coref Arg1:T53 Arg2:T13	
+R2	Coref Arg1:T30 Arg2:T17	
+R3	Coref Arg1:T38 Arg2:T33	
+R4	Coref Arg1:T42 Arg2:T28	

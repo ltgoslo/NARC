@@ -1,0 +1,56 @@
+T1	Markable 0 5	Norge
+T2	Markable 17 23	Sveits
+T3	Markable 32 39	kamp to
+T4	Markable 47 52	Norge
+T5	Markable 71 111	nok en god kamp i innebandy-VM i Ostrava
+T6	Markable 89 111	innebandy-VM i Ostrava
+T7	Markable 104 111	Ostrava
+T8	Markable 127 140	siste periode
+T9	Markable 160 166	Sveits
+T10	Markable 167 173	søndag
+T11	Markable 178 180	Vi
+T12	Markable 202 213	to perioder
+T13	Markable 228 230	vi
+T14	Markable 231 237	en del
+T15	Markable 231 248	en del dumme feil
+T16	Markable 273 298	starten av tredje periode
+T17	Markable 284 298	tredje periode
+T18	Markable 304 310	Norges
+T19	Markable 304 325	Norges stjernespiller
+T20	Markable 304 340	Norges stjernespiller Ketil Kronberg
+T21	Markable 343 346	Han
+T22	Markable 351 357	Norges
+T23	Markable 351 368	Norges toppscorer
+T24	Markable 373 379	to mål
+T25	Markable 382 456	Også Tommy Midtsveen , Willy Fauskanger , Raymond Evensen og Thomas Stræte
+T26	Markable 382 404	Også Tommy Midtsveen ,
+T27	Markable 405 423	Willy Fauskanger ,
+T28	Markable 424 439	Raymond Evensen
+T29	Markable 443 456	Thomas Stræte
+T30	Markable 471 485	scoringslisten
+T31	Markable 492 495	det
+T32	Markable 511 531	møtet med sveitserne
+T33	Markable 521 531	sveitserne
+T34	Markable 540 575	to jevne perioder ( 2 - 2 , 3 - 3 )
+T35	Markable 580 586	Sveits
+T36	Markable 600 614	tredjeperioden
+T37	Markable 617 627	Sveitserne
+T38	Markable 633 650	den siste periode
+T39	Markable 659 665	Lørdag
+T40	Markable 670 675	Norge
+T41	Markable 676 683	Danmark
+T42	Markable 692 712	den første VM-kampen
+R1	Coref Arg1:T4 Arg2:T1	
+T43	Markable 42 44	VM
+R2	Coref Arg1:T6 Arg2:T43	
+R3	Coref Arg1:T9 Arg2:T2	
+R4	Coref Arg1:T13 Arg2:T11	
+R5	Coref Arg1:T17 Arg2:T8	
+R6	Coref Arg1:T21 Arg2:T20	
+R7	Coref Arg1:T22 Arg2:T4	
+R8	Coref Arg1:T35 Arg2:T9	
+R9	Bridging Arg1:T33 Arg2:T9	
+R10	Coref Arg1:T37 Arg2:T33	
+R11	Coref Arg1:T36 Arg2:T17	
+R12	Coref Arg1:T38 Arg2:T36	
+R13	Coref Arg1:T40 Arg2:T22	

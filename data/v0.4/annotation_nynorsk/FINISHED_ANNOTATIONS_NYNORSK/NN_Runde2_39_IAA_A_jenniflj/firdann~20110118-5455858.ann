@@ -1,0 +1,57 @@
+T1	Markable 4 6	di
+T2	Markable 4 30	di meining om nye firda.no
+T3	Markable 18 30	nye firda.no
+T4	Markable 33 50	Tysdag føremiddag
+T5	Markable 40 50	føremiddag
+T6	Markable 55 63	firda.no
+T7	Markable 66 81	heilt ny design
+T8	Markable 84 95	Firda Media
+T9	Markable 84 99	Firda Media sin
+T10	Markable 84 108	Firda Media sin nettstad
+T11	Markable 84 154	Firda Media sin nettstad firda.no og resten av nettavisene i A-pressen
+T12	Markable 84 117	Firda Media sin nettstad firda.no
+T13	Markable 121 154	resten av nettavisene i A-pressen
+T14	Markable 131 154	nettavisene i A-pressen
+T15	Markable 145 154	A-pressen
+T16	Markable 160 169	ny design
+T17	Markable 170 187	tysdag 18. januar
+T18	Markable 177 187	18. januar
+T19	Markable 192 208	den nye designen
+T20	Markable 212 261	høgre og venstre spalte på framsida til nettavisa
+T21	Markable 239 261	framsida til nettavisa
+T22	Markable 252 261	nettavisa
+T23	Markable 271 276	Målet
+T24	Markable 288 296	framsida
+T25	Markable 342 349	starten
+T26	Markable 372 384	utfordringar
+T27	Markable 399 452	det som hadde sine faste plassar i den gamle designen
+T28	Markable 413 417	sine
+T29	Markable 413 431	sine faste plassar
+T30	Markable 434 452	den gamle designen
+T31	Markable 469 475	dagens
+T32	Markable 469 516	dagens avstemming og linken til Firda som eavis
+T33	Markable 469 486	dagens avstemming
+T34	Markable 490 516	linken til Firda som eavis
+T35	Markable 501 516	Firda som eavis
+T36	Markable 511 516	eavis
+T37	Markable 538 542	sida
+T38	Markable 545 547	Vi
+T39	Markable 565 567	di
+T40	Markable 565 595	di meining om den nye designen
+T41	Markable 579 595	den nye designen
+T42	Markable 609 614	glede
+T43	Markable 620 645	innspel frå lesarane våre
+T44	Markable 632 645	lesarane våre
+T45	Markable 641 645	våre
+R1	Coref Arg1:T6 Arg2:T3	
+R2	Coref Arg1:T12 Arg2:T6	
+R3	Coref Arg1:T9 Arg2:T8	
+R4	Coref Arg1:T17 Arg2:T4	
+R5	Coref Arg1:T19 Arg2:T16	
+R6	Coref Arg1:T22 Arg2:T11	
+R7	Coref Arg1:T24 Arg2:T21	
+R8	Coref Arg1:T28 Arg2:T27	
+R9	Bridging Arg1:T30 Arg2:T19	
+R10	Coref Arg1:T37 Arg2:T24	
+R11	Bridging Arg1:T35 Arg2:T22	
+R12	Coref Arg1:T41 Arg2:T19	

@@ -1,0 +1,86 @@
+T1	Markable 0 7	Solheim
+T2	Markable 13 18	proff
+T3	Markable 36 43	Sogndal
+T4	Markable 50 58	sesongen
+T5	Markable 61 73	Mats Solheim
+T6	Markable 79 87	neste år
+T7	Markable 96 115	den svenske klubben
+T8	Markable 96 122	den svenske klubben Kalmar
+T9	Markable 125 136	Arkivfoto .
+T10	Markable 137 149	Mats Solheim
+T11	Markable 167 174	Sogndal
+T12	Markable 175 189	denne sesongen
+T13	Markable 192 204	Neste sesong
+T14	Markable 210 213	han
+T15	Markable 224 247	den svenske toppklubben
+T16	Markable 224 254	den svenske toppklubben Kalmar
+T17	Markable 274 279	23-år
+T18	Markable 270 300	Den 23-år gamle nordfjordingen
+T19	Markable 315 322	klubben
+T20	Markable 325 336	januar 2012
+T21	Markable 339 349	Kontrakten
+T22	Markable 356 362	3,5 år
+T23	Markable 368 375	Solheim
+T24	Markable 391 398	Sogndal
+T25	Markable 403 407	Mats
+T26	Markable 411 487	ein løpssterk kantspelar som først og fremst er tiltenkt rolla som høgreback
+T27	Markable 468 487	rolla som høgreback
+T28	Markable 478 487	høgreback
+T29	Markable 511 546	ei meir offensiv rolle på høgresida
+T30	Markable 537 546	høgresida
+T31	Markable 556 658	ein spelar som har etablert seg i Tippeligaen , og som vi håpar vil passe godt inn vår måte å spele på
+T32	Markable 590 601	Tippeligaen
+T33	Markable 611 613	vi
+T34	Markable 639 642	vår
+T35	Markable 639 658	vår måte å spele på
+T36	Markable 667 676	Kalmar FF
+T37	Markable 667 680	Kalmar FF sin
+T38	Markable 667 690	Kalmar FF sin klubbsjef
+T39	Markable 667 708	Kalmar FF sin klubbsjef Svante Samuelsson
+T40	Markable 713 721	klubbens
+T41	Markable 713 731	klubbens heimeside
+T42	Markable 734 755	Tippeligaen direkte :
+T43	Markable 756 774	Viking - Sogndal |
+T44	Markable 756 764;773 774	Viking - |
+T45	Markable 765 772	Sogndal
+T46	Markable 775 788	Riktig steg |
+T47	Markable 791 800	Kalmar FF
+T48	Markable 811 828	eit godt inntrykk
+T49	Markable 832 835	det
+T50	Markable 847 876	eit riktig steg i mi karriere
+T51	Markable 865 867	mi
+T52	Markable 865 876	mi karriere
+T53	Markable 912 934	Sverige og Allsvenskan
+T54	Markable 912 919	Sverige
+T55	Markable 923 934	Allsvenskan
+T56	Markable 943 955	Mats Solheim
+T57	Markable 960 970	nettstaden
+T58	Markable 975 978	dag
+T59	Markable 984 990	Kalmar
+T60	Markable 994 1031	sjuandeplass i den svenske toppserien
+T61	Markable 1009 1031	den svenske toppserien
+T62	Markable 1037 1042	laget
+T63	Markable 1070 1080	cupfinalen
+R1	Coref Arg1:T5 Arg2:T1	
+R2	Coref Arg1:T10 Arg2:T5	
+R3	Coref Arg1:T11 Arg2:T3	
+R4	Coref Arg1:T12 Arg2:T4	
+R5	Coref Arg1:T14 Arg2:T10	
+R6	Coref Arg1:T16 Arg2:T8	
+R7	Coref Arg1:T18 Arg2:T14	
+R8	Coref Arg1:T19 Arg2:T16	
+R9	Coref Arg1:T23 Arg2:T18	
+R10	Coref Arg1:T24 Arg2:T11	
+R11	Coref Arg1:T25 Arg2:T23	
+R12	Coref Arg1:T34 Arg2:T33	
+R13	Coref Arg1:T36 Arg2:T34	
+R15	Coref Arg1:T40 Arg2:T36	
+R16	Coref Arg1:T33 Arg2:T19	
+R17	Coref Arg1:T45 Arg2:T24	
+R18	Coref Arg1:T47 Arg2:T40	
+R19	Coref Arg1:T51 Arg2:T25	
+R20	Coref Arg1:T56 Arg2:T51	
+R21	Coref Arg1:T57 Arg2:T41	
+R22	Coref Arg1:T59 Arg2:T47	
+R23	Coref Arg1:T61 Arg2:T55	
+R24	Coref Arg1:T62 Arg2:T59	

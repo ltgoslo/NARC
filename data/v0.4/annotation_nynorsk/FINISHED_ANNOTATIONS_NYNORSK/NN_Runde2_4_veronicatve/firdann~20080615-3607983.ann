@@ -1,0 +1,108 @@
+T1	Markable 0 7	Bjørnen
+T2	Markable 29 36	Bjørnen
+T3	Markable 62 68	søndag
+T4	Markable 71 74	Det
+T5	Markable 84 114	fellingsleiar Finn Olav Myhren
+T6	Markable 119 127	firda.no
+T7	Markable 130 137	Bjørnen
+T8	Markable 149 155	planen
+T9	Markable 173 178	breen
+T10	Markable 183 193	helikopter
+T11	Markable 204 207	dag
+T12	Markable 212 220	Fellinga
+T13	Markable 234 243	dramatikk
+T14	Markable 252 258	Myhren
+T15	Markable 261 268	Bjørnen
+T16	Markable 283 294	1200 meters
+T17	Markable 283 345	1200 meters høgde på Vetlebreen , ovanfor Bøyadalen i Fjærland
+T18	Markable 304 314	Vetlebreen
+T19	Markable 325 345	Bøyadalen i Fjærland
+T20	Markable 337 345	Fjærland
+T21	Markable 350 367	11.30-tida søndag
+T22	Markable 361 367	søndag
+T23	Markable 378 384	Myhren
+T24	Markable 392 399	jegerar
+T25	Markable 400 407	laurdag
+T26	Markable 408 447	spor som førte til fjells frå Bøyadalen
+T27	Markable 427 433	fjells
+T28	Markable 438 447	Bøyadalen
+T29	Markable 466 475	eige spor
+T30	Markable 502 507	dette
+T31	Markable 512 522	bjørnespor
+T32	Markable 525 535	To jegerar
+T33	Markable 543 549	sporet
+T34	Markable 562 565	det
+T35	Markable 566 583	søndag føremiddag
+T36	Markable 573 583	føremiddag
+T37	Markable 586 589	Dei
+T38	Markable 596 603	bjørnen
+T39	Markable 607 610	han
+T40	Markable 618 629	veg tilbake
+T41	Markable 632 636	sitt
+T42	Markable 632 646	sitt eige spor
+T43	Markable 655 661	Myhren
+T44	Markable 664 671	Bjørnen
+T45	Markable 700 705	breen
+T46	Markable 710 720	helikopter
+T47	Markable 731 734	dag
+T48	Markable 753 755	eg
+T49	Markable 765 768	det
+T50	Markable 772 791	hann- eller hobjørn
+T51	Markable 772 777	hann-
+T52	Markable 784 791	hobjørn
+T53	Markable 798 801	han
+T54	Markable 829 831	Eg
+T55	Markable 846 849	det
+T56	Markable 853 863	eit ungdyr
+T57	Markable 872 888	Finn Olav Myhren
+T58	Markable 893 901	firda.no
+T59	Markable 904 922	50 år sidan sist |
+T60	Markable 923 932	Søndagens
+T61	Markable 923 946	Søndagens bjørnefelling
+T62	Markable 982 987	bjørn
+T63	Markable 994 1000	fylket
+T64	Markable 1016 1019	Det
+T65	Markable 1030 1048	Leirdalen i Luster
+T66	Markable 1042 1048	Luster
+T67	Markable 1051 1115	Bjørnen som siste vekene har streifa rundt i Sunnfjord og Sogn ,
+T68	Markable 1063 1075	siste vekene
+T69	Markable 1096 1113	Sunnfjord og Sogn
+T70	Markable 1096 1105	Sunnfjord
+T71	Markable 1109 1113	Sogn
+T72	Markable 1135 1144	ei rekkje
+T73	Markable 1135 1150	ei rekkje sauer
+T74	Markable 1153 1168	m.a. Haukedalen
+T75	Markable 1175 1180	helga
+T76	Markable 1196 1217	ein ille medfaren sau
+T77	Markable 1222 1334	ei turistløype mellom Fjærlandstunnelen og Bøyabreen - eir område som ligg nedanfor breen der bjørnen no er felt
+T78	Markable 1244 1274	Fjærlandstunnelen og Bøyabreen
+T79	Markable 1244 1261	Fjærlandstunnelen
+T80	Markable 1265 1274	Bøyabreen
+T81	Markable 1277 1334	eir område som ligg nedanfor breen der bjørnen no er felt
+T82	Markable 1306 1334	breen der bjørnen no er felt
+T83	Markable 1316 1323	bjørnen
+R1	Coref Arg1:T2 Arg2:T1	
+R2	Coref Arg1:T7 Arg2:T2	
+R3	Coref Arg1:T14 Arg2:T5	
+R4	Coref Arg1:T15 Arg2:T7	
+R5	Coref Arg1:T18 Arg2:T9	
+R6	Coref Arg1:T23 Arg2:T14	
+R7	Coref Arg1:T28 Arg2:T19	
+R8	Coref Arg1:T33 Arg2:T31	
+R9	Coref Arg1:T31 Arg2:T26	
+R10	Coref Arg1:T37 Arg2:T32	
+R11	Coref Arg1:T38 Arg2:T15	
+R12	Coref Arg1:T39 Arg2:T38	
+R13	Coref Arg1:T42 Arg2:T33	
+R14	Coref Arg1:T41 Arg2:T39	
+R15	Coref Arg1:T43 Arg2:T23	
+R16	Coref Arg1:T44 Arg2:T41	
+R17	Coref Arg1:T45 Arg2:T18	
+R18	Coref Arg1:T48 Arg2:T43	
+R19	Coref Arg1:T53 Arg2:T44	
+R20	Coref Arg1:T54 Arg2:T48	
+R21	Coref Arg1:T57 Arg2:T54	
+R22	Coref Arg1:T58 Arg2:T6	
+R23	Coref Arg1:T67 Arg2:T53	
+R24	Coref Arg1:T83 Arg2:T67	
+R25	Coref Arg1:T61 Arg2:T12	

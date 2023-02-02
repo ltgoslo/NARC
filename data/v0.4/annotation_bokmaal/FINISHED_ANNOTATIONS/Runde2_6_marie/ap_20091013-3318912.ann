@@ -1,0 +1,54 @@
+T1	Markable 0 23	Religiøs feiltolkning |
+T2	Markable 36 48	religionenes
+T3	Markable 36 54	religionenes skyld
+T4	Markable 58 64	verden
+T5	Markable 68 81	et trist sted
+T6	Markable 91 123	onde mennesker som misbruker dem
+T7	Markable 120 123	dem
+T8	Markable 134 145	innsenderen
+T9	Markable 148 175	Til August E. H. ( 6.10 . )
+T10	Markable 176 206	Det som er galt med religion ,
+T11	Markable 196 204	religion
+T12	Markable 218 226	så mange
+T13	Markable 235 241	tidene
+T14	Markable 253 256	den
+T15	Markable 267 286	kristendommen f.eks
+T16	Markable 289 294	Satan
+T17	Markable 305 309	Guds
+T18	Markable 305 377	Guds fremste skapninger , som skulle teste menneskets kjærlighet til Gud
+T19	Markable 348 358	menneskets
+T20	Markable 348 377	menneskets kjærlighet til Gud
+T21	Markable 374 377	Gud
+T22	Markable 402 415	middelalderen
+T23	Markable 419 434	kristne prester
+T24	Markable 438 441	ham
+T25	Markable 442 491	et skremmende utseende og et helvete til å matche
+T26	Markable 442 464	et skremmende utseende
+T27	Markable 468 491	et helvete til å matche
+T28	Markable 523 535	konvertering
+T29	Markable 538 627	Mange religiøse ledere som utfører grusomheter i dag , som du refererer til i Midtøsten ,
+T30	Markable 573 584;593 625	grusomheter som du refererer til i Midtøsten
+T31	Markable 587 590	dag
+T32	Markable 597 599	du
+T33	Markable 616 625	Midtøsten
+T34	Markable 649 653	sine
+T35	Markable 649 664	sine handlinger
+T36	Markable 669 688	feiltolket religion
+T37	Markable 706 718	religionenes
+T38	Markable 706 724	religionenes skyld
+T39	Markable 728 734	verden
+T40	Markable 738 751	et trist sted
+T41	Markable 761 793	onde mennesker som misbruker dem
+T42	Markable 790 793	dem
+T43	Markable 818 835	generell religion
+T44	Markable 865 868	Den
+R1	Coref Arg1:T7 Arg2:T2	
+R2	Coref Arg1:T21 Arg2:T17	
+R3	Coref Arg1:T24 Arg2:T16	
+R4	Coref Arg1:T42 Arg2:T37	
+R5	Coref Arg1:T34 Arg2:T29	
+R6	Coref Arg1:T44 Arg2:T43	
+R7	Coref Arg1:T14 Arg2:T11	
+R8	Coref Arg1:T37 Arg2:T7	
+R9	Coref Arg1:T32 Arg2:T9	
+R10	Coref Arg1:T39 Arg2:T4	

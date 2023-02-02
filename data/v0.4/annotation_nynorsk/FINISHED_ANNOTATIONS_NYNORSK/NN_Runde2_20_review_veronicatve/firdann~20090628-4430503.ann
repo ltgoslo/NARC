@@ -1,0 +1,86 @@
+T1	Markable 16 26	Baltic Cup
+T2	Markable 29 43	Yngve Apneseth
+T3	Markable 59 100	tre nye personlege rekordar i vektløfting
+T4	Markable 89 100	vektløfting
+T5	Markable 113 127	Yngve Apneseth
+T6	Markable 133 142	god klaff
+T7	Markable 149 159	Baltic Cup
+T8	Markable 171 198	tre nye personlege rekordar
+T9	Markable 201 252	Foto Rune Fossum Firda Media PB. 160 , 6801 Førde .
+T10	Markable 206 217	Rune Fossum
+T11	Markable 218 250	Firda Media PB. 160 , 6801 Førde
+T12	Markable 262 274	www.firda.no
+T13	Markable 287 317	vektløftarstjerna Ruth Kasirye
+T14	Markable 326 421	Yngve Apneseth som leverte dei mest imponerande norske resultata under Baltic Cup i finske Pori
+T15	Markable 353 390	dei mest imponerande norske resultata
+T16	Markable 397 421	Baltic Cup i finske Pori
+T17	Markable 410 421	finske Pori
+T18	Markable 424 440	Tre nye persar |
+T19	Markable 447 454	Kasirye
+T20	Markable 461 478	ny nordisk rekord
+T21	Markable 497 505	Apneseth
+T22	Markable 506 511	høvet
+T23	Markable 532 536	sine
+T24	Markable 527 560	alle sine tre personlege rekordar
+T25	Markable 573 589	eit bra resultat
+T26	Markable 592 594	Eg
+T27	Markable 616 639	Tambarskjelvar-løftaren
+T28	Markable 642 668	Pers med fem kilo i rykk |
+T29	Markable 651 666	fem kilo i rykk
+T30	Markable 662 666	rykk
+T31	Markable 669 672	Han
+T32	Markable 681 701	klassen 56 - 77 kilo
+T33	Markable 689 701	56 - 77 kilo
+T34	Markable 724 793	eit samanlagtresultat på 258 kilo - ny personleg rekord med åtte kilo
+T35	Markable 749 793	258 kilo - ny personleg rekord med åtte kilo
+T36	Markable 760 793	ny personleg rekord med åtte kilo
+T37	Markable 784 793	åtte kilo
+T38	Markable 798 802	rykk
+T39	Markable 811 819	Apneseth
+T40	Markable 820 828	117 kilo
+T41	Markable 840 872	ny personleg rekord med fem kilo
+T42	Markable 864 872	fem kilo
+T43	Markable 877 881	støt
+T44	Markable 887 890	han
+T45	Markable 899 932	141 kilo , ny rekord med éin kilo
+T46	Markable 910 932	ny rekord med éin kilo
+T47	Markable 924 932	éin kilo
+T48	Markable 939 944	Kvame
+T49	Markable 948 958	kroppsvekt
+T50	Markable 961 964	Han
+T51	Markable 976 1002	lagkameraten Steinar Kvame
+T52	Markable 1006 1024	lettare kroppsvekt
+T53	Markable 1027 1037	Også Kvame
+T54	Markable 1053 1087	117 kilo i rykk og 141 kilo i støt
+T55	Markable 1053 1068	117 kilo i rykk
+T56	Markable 1064 1068	rykk
+T57	Markable 1072 1087	141 kilo i støt
+T58	Markable 1083 1087	støt
+T59	Markable 1090 1119	den same klassen som Apneseth
+T60	Markable 1111 1119	Apneseth
+T61	Markable 1143 1150	Steinar
+T62	Markable 1165 1173	Apneseth
+T63	Markable 1176 1186	Baltic Cup
+T64	Markable 1190 1239	ein lagkonkurranse med fleire nasjonslag i aksjon
+T65	Markable 1213 1239	fleire nasjonslag i aksjon
+T66	Markable 1233 1239	aksjon
+R1	Coref Arg1:T5 Arg2:T2	
+R2	Coref Arg1:T7 Arg2:T1	
+R3	Coref Arg1:T14 Arg2:T5	
+R4	Coref Arg1:T16 Arg2:T7	
+R5	Coref Arg1:T19 Arg2:T13	
+R6	Coref Arg1:T21 Arg2:T14	
+R7	Coref Arg1:T23 Arg2:T21	
+R8	Coref Arg1:T26 Arg2:T23	
+R9	Coref Arg1:T27 Arg2:T26	
+R10	Coref Arg1:T31 Arg2:T27	
+R11	Coref Arg1:T39 Arg2:T31	
+R12	Coref Arg1:T44 Arg2:T39	
+R13	Coref Arg1:T50 Arg2:T44	
+R14	Coref Arg1:T51 Arg2:T48	
+R15	Coref Arg1:T53 Arg2:T51	
+R16	Coref Arg1:T60 Arg2:T50	
+R17	Coref Arg1:T59 Arg2:T32	
+R18	Coref Arg1:T61 Arg2:T53	
+R19	Coref Arg1:T62 Arg2:T60	
+R20	Coref Arg1:T63 Arg2:T16	

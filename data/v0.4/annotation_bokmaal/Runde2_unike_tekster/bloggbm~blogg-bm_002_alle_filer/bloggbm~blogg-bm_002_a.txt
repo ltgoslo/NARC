@@ -1,0 +1,93 @@
+Apple og kart , en tragedie ?
+Dette innlegget er også publisert på Masterbloggen , men jeg legger det her for å ha full historikk over innlegg skrevet av meg .
+IT-verdenen er full av merkelige situasjoner , for eksempel hvor et selskap har erklært " thermonuclear war " mot et annet , men likefullt er avhengig av tjenester fra dem .
+Vi snakker da selvfølgelig om Apple og Google , tjenesten er kart .
+For å endre denne situasjonen lanserte Apple sin egen karttjeneste i iOS6 og iPhone 5 .
+Det er kanskje ikke det smarteste de har gjort .
+Ord som " Horror show " , " Reality distortion " , " maps problem " og " kartfiasko " har blitt flittig brukt av kommentatorer de siste ukene .
+Det har til og med dukket opp en blogg som presenterer " høydepunkter " fra de nye kartene .
+Kartene til Apple er altså ikke bra , adresser mangler , ting er feilklassifisert , 3d-visningene ser ikke ut .
+Lista er lang .
+Det er bare ikke så fint som det er i Google Maps .
+Til og med Apple selv innrømmer at kartene er langt fra optimale .
+Men , hvordan kunne det gå så galt ?
+Apple har de siste årene kjøpt opp flere kartselskaper , de kan IT og de er kjent for å være perfeksjonistiske .
+Det er sjelden det kommer noe halvveis fra den kanten .
+Og kartdataene er hentet fra store aktører som TomTom , OpenStreetMap og Waze .
+Dermed er det ikke kartgrunnlaget i seg selv det er noe galt med , men hvordan det er satt sammen .
+Her håper jeg å kunne peke på en del av utfordringene som kommer med kartdata hvor de kommer fra , hva som er " riktig " og hvordan slike data skiller seg fra andre data .
+Hvor kommer kartdata fra ?
+Grovt sett kan vi si at kartdata kommer fra tre kilder : det offentlige , kommersielle selskaper og fra privatpersoner .
+Offentlige kartdata er det vi kaller " Kartverkets data " her i Norge ( selv om det er en sannhet med visse modifikasjoner ) .
+Disse er som regel offisielle , pleier å være rimelig komplette og " korrekte " , men de kan være dyre eller umulige å ta i bruk .
+Data fra kommersielle selskaper var tradisjonelt data fra de to selskapene NavTeq og TeleAtlas .
+Dette er i hovedsak data som brukes i bil-GPSer , med fokus på vegdata etc .
+Tenk Cappelens veikart i digital utgave .
+Disse dataene kan være samlet inn av selskapene selv , eller kan være bearbeidede offentlige data .
+Google startet med å kjøpe data fra slike leverandører , men har begynt å samle inn data selv , og dermed blitt et kommersielt kartselskap de også .
+Data fra privatpersoner er det man kaller " crowdsourcede " data .
+De er samlet inn på dugnadsbasis av folk som bidrar uten betaling .
+De gjør dette fordi de vil at det skal finnes fritt tilgjengelige kartdata som kan brukes uten restriksjoner .
+Det beste eksempelet på dette er OpenStreetMap .
+Man kan si mye om dataene her , men i mange områder er dette " gode " data , fullt på høyde med kommersielle og offentlige data .
+Andre områder står det dårligere til med .
+Hva er kvalitet når vi snakker om kart ?
+Kart ( og dermed kartdata ) er " en generalisert avbildning av geografiske objekter med deres romlige relasjoner " [ wikipedia ] .
+Nøkkelordet her er " generalisert " .
+Vi kan ikke ha med alle detaljene fra naturen i et kart , det vil gjøre det ubrukelig .
+Dermed må noen bestemme seg for hva som er en god generalisering .
+Skal vi ta med omriss på alle husene i Oslo , eller holder det å merke av hvor Slottet , Stortinget og Oslo S er ?
+Skal vi ta med alle små stier i en kommune , eller holder det å vite hvor riks- og fylkesveiene går ?
+Trenger vi å ha med alle svingene i en bekk , eller holder det med en linje som viser hvor den sånn ca går ?
+Det riktige svaret her er " det kommer an på " .
+Hva kommer det an på ?
+Jo , hva du skal bruke kartet til .
+Det er forskjell på et kart for en reguleringsplan , NAFs veibok og et orienteringskart .
+Kartene generalene i en krig sitter med skiller seg også fra kartene den enkelte soldat har med seg i felten .
+Vi må generalisere bort noe , men ikke mer enn at kartet fungerer i den konteksten vi er i .
+Digitale kart gir oss her en stor fordel :
+Kartet er ikke skrevet i stein i det kartografen sier seg ferdig med det .
+Vi tenker ikke over at når vi zoomer inn på et digitalt kart dukker det opp mer informasjon , vi ser småveier , stier og husomriss .
+Byer går fra å være en prikk på kartet til detaljerte oversikter .
+Vi kan også legge over kartlag som viser andre ting .
+Digitale kart er mye mer dynamiske enn papirkart .
+Dette setter imidlertid strengere krav til dataene .
+Vi må ha alle mulige data tilgjengelig , slik at de kan automatisk dukke opp når vi zoomer inn .
+I tillegg må disse dataene være kodet riktig .
+Hva som vises når og og på hvilken måte , styres av regler av typen :
+" Tegn alle skogsbilveier med denne fargen , men kun ved målestokk 1:50000 " .
+Dermed er det viktig at dataene har denne informasjonen .
+Hvis noe som egentlig er en riksveg har data som sier " sti " , kan ting bli veldig feil .
+Når det sitter mennesker og tegner et kart , vil de stusse dersom det går en riksveg over Besseggen , mens software som tegner etter gitte regler ikke tenker slik .
+I en ideell verden er ikke dette noe problem .
+Der er alle data korrekt markert , med riktig informasjon , slik at datamaskinen klarer å tegne dem riktig .
+Slik er ikke den virkelige verden .
+Problemet er todelt :
+Enten er det mennesker som har samlet inn denne informasjonen , og vi gjør feil .
+Kanskje stien over Besseggen ble " digitalisert " fredag etter en noe fuktig lønningspils , og klassifiseringen ble satt feil .
+Datamaskiner er det andre problemet her .
+Vi liker å sette bort repetitivt , kjedelig arbeid til maskiner .
+Derfor har vi naturligvis prøvd å få datamaskiner til å se på flybilder og lage kartdata fra disse .
+Men , når stien over Besseggen kan se ut som en motorvei for oss mennesker er det ikke så rart at datamaskinen tar feil .
+Dermed må maskinene holdes i hånden for å forsikre seg om at ting blir riktig .
+Kartdata er vanskelig , og vi som brukere har vanskelig for å tilgi .
+Hvordan sjekker du om et kart er " godt " ?
+Sannsynligvis finner du nærområdet ditt , du sjekker om huset ditt har riktig adresse , om veien går der den skal og om gangstien ligger riktig .
+Vi er alle eksperter på vårt nærområde , mens kartprodusentene ikke er det .
+De må hele tiden gjøre antakelser , vurderinger og avveiinger ; " Er dette en vei eller sti ? "
+" Er det viktig å ta med denne lekeplassen " .
+Et større problem blir det når man skal kombinere data fra flere kilder .
+Disse kan kode dataene sine forskjellige , og skal man sammenstille disse dataene kan mye informasjon gå tapt .
+Hvis du får dataene fra kilde A og B kan det godt være slik at kilde A klassifiserer veier etter et generalisert system som skal fungere i alle land , mens Statens Vegvesen klassifiserer vegene etter de norske veitypene .
+Her kan man fort bomme .
+Feil klassifisering og problemer med å sammenstille dem er et problem .
+Et annet problem er nøyaktigheten .
+Hvis du har data fra 2 land , der land A har målt inn vegene sine med millimeterpresisjon , mens land B har digitalisert sine gamle papirkart , er sjansen stor for at ikke europavegen vil treffe korrekt på grensen .
+Konklusjon |
+Kartdata er altså spesielle , siden de er generaliseringer .
+Dermed vil det alltid være et spørsmål om hvordan man skal generalisere data for å få dem til å fungere på skjermen .
+Dette er noe man må lære ved prøving og feiling , og Nokia ( som har holdt på med digitale kart lenge ) mener at det å lage kart på nett er noe som ikke kan hverken læres eller gjøres over natta .
+Man trenger folk som kan noe om kart , som kan jobbe med data fra ulike kilder og man må for all del sjekke manuelt hva kartsystemet produserer .
+Dermed får vi bare håpe at Apple klarer å sette inn et ekstra gir , jobbe hardt og gi iOS en kartapplikasjon de kan være stolte av .
+Så kan vi som jobber i kartbransjen atter en gang konstatere at kart ikke er noe man tar lett på !
+På tampen kan vi jo også notere oss at selv ikke Google Maps er skrevet i stein , de utvikler seg stadig .

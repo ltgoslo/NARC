@@ -1,0 +1,59 @@
+T1	Markable 0 13	Siste frist |
+T2	Markable 18 20	du
+T3	Markable 21 33	våpenet ditt
+T4	Markable 29 33	ditt
+T5	Markable 45 47	du
+T6	Markable 55 58	deg
+T7	Markable 59 68	våpenskap
+T8	Markable 75 82	torsdag
+T9	Markable 89 96	1. juli
+T10	Markable 104 112	politiet
+T11	Markable 117 131	stikkontrollar
+T12	Markable 149 159	alle våpen
+T13	Markable 177 186	våpenskap
+T14	Markable 205 232	eigarar av rifler og hagler
+T15	Markable 216 232	rifler og hagler
+T16	Markable 216 222	rifler
+T17	Markable 226 232	hagler
+T18	Markable 236 255	inntil fire stykker
+T19	Markable 258 261	hus
+T20	Markable 280 297	krav om våpenskap
+T21	Markable 288 297	våpenskap
+T22	Markable 300 308	Politiet
+T23	Markable 313 394	eit mål om at det strengare regelverket , skal hindre tjuveri og misbruk av våpen
+T24	Markable 327 354	det strengare regelverket ,
+T25	Markable 367 394	tjuveri og misbruk av våpen
+T26	Markable 367 374	tjuveri
+T27	Markable 378 394	misbruk av våpen
+T28	Markable 389 394	våpen
+T29	Markable 403 422	Hardanger Folkeblad
+T30	Markable 425 446	Betre dokumentasjon |
+T31	Markable 449 474	tillegg til betre sikring
+T32	Markable 461 474	betre sikring
+T33	Markable 481 500	det nye regelverket
+T34	Markable 501 538	krav til betre dokumentasjon av våpen
+T35	Markable 510 538	betre dokumentasjon av våpen
+T36	Markable 533 538	våpen
+T37	Markable 541 561	Det nye føreskriftet
+T38	Markable 571 576	kraft
+T39	Markable 577 589	1. juli 2009
+T40	Markable 600 637	utsett frist til førstkomande torsdag
+T41	Markable 617 637	førstkomande torsdag
+T42	Markable 644 684	dei som kjøpte våpen etter sommaren 2009
+T43	Markable 659 664	våpen
+T44	Markable 671 684	sommaren 2009
+T45	Markable 689 707	den nye forskrifta
+T46	Markable 725 730	kraft
+T47	Markable 733 748	Dei nye reglane
+T48	Markable 760 782	dei som har arva våpen
+T49	Markable 777 782	våpen
+R1	Coref Arg1:T4 Arg2:T2	
+R2	Coref Arg1:T5 Arg2:T4	
+R3	Coref Arg1:T6 Arg2:T5	
+R5	Coref Arg1:T22 Arg2:T10	
+R6	Coref Arg1:T33 Arg2:T24	
+R7	Coref Arg1:T37 Arg2:T33	
+R4	Coref Arg1:T41 Arg2:T8	
+R8	Coref Arg1:T39 Arg2:T9	
+R9	Coref Arg1:T45 Arg2:T37	
+R10	Coref Arg1:T47 Arg2:T45	

@@ -1,0 +1,58 @@
+T1	Markable 13 32	fiske i Lærdalselva
+T2	Markable 21 32	Lærdalselva
+T3	Markable 39 54	grunniegarlaget
+T4	Markable 70 82	Fylkesmannen
+T5	Markable 96 115	fiske i Lærdalselva
+T6	Markable 104 115	Lærdalselva
+T7	Markable 122 137	grunneigarlaget
+T8	Markable 160 180	NRK Sogn og Fjordane
+T9	Markable 185 187	Me
+T10	Markable 203 215;230 274	så lite laks , at me ikkje vil ta opp siste lærdalslaksen
+T11	Markable 222 226	elva
+T12	Markable 235 237	me
+T13	Markable 255 274	siste lærdalslaksen
+T14	Markable 280 282	me
+T15	Markable 290 309	ei lita laksestamme
+T16	Markable 316 320	elva
+T17	Markable 329 360	formann i Lærdal elveeigarlag ,
+T18	Markable 339 358	Lærdal elveeigarlag
+T19	Markable 329 374	formann i Lærdal elveeigarlag , Lasse Sælthun
+T20	Markable 377 402	- Dårleg marknadsføring |
+T21	Markable 403 419	24. oktober 1996
+T22	Markable 437 447	gyrosmitte
+T23	Markable 450 461	Lærdalselva
+T24	Markable 476 480	elva
+T25	Markable 494 501	rotenon
+T26	Markable 504 579	Eit omdiskutert tiltak , som møtte motstand frå mellom anna Kurt Oddekalv .
+T27	Markable 539 577	motstand frå mellom anna Kurt Oddekalv
+T28	Markable 552 577	mellom anna Kurt Oddekalv
+T29	Markable 592 614	aluminiumsbehandlingar
+T30	Markable 621 629	resultat
+T31	Markable 638 658	dei to siste prøvane
+T32	Markable 679 713	laksedreparen Gyrodactylus salaris
+T33	Markable 720 727	Sælthun
+T34	Markable 748 772	nok fisk til å opne elva
+T35	Markable 768 772	elva
+T36	Markable 790 808	noko å fiska etter
+T37	Markable 822 827	fiske
+T38	Markable 842 863	dårleg marknadsføring
+T39	Markable 873 877	elva
+T40	Markable 896 900	fisk
+T41	Markable 909 916	Sælthun
+T42	Markable 921 941	NRK Sogn og Fjordane
+R1	Coref Arg1:T6 Arg2:T2	
+R2	Coref Arg1:T7 Arg2:T3	
+R3	Coref Arg1:T9 Arg2:T7	
+R4	Coref Arg1:T11 Arg2:T6	
+R5	Coref Arg1:T12 Arg2:T9	
+R6	Coref Arg1:T14 Arg2:T12	
+R7	Coref Arg1:T16 Arg2:T11	
+R8	Coref Arg1:T18 Arg2:T14	
+R9	Coref Arg1:T23 Arg2:T16	
+R10	Coref Arg1:T24 Arg2:T23	
+R11	Coref Arg1:T32 Arg2:T22	
+R12	Coref Arg1:T33 Arg2:T19	
+R13	Coref Arg1:T35 Arg2:T24	
+R14	Coref Arg1:T39 Arg2:T35	
+R15	Coref Arg1:T41 Arg2:T33	
+R16	Coref Arg1:T42 Arg2:T8	
