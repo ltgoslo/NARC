@@ -1,7 +1,0 @@
-for f in $(ls):
-do
-    if [[ $f =~ *.txt ]];then
-       echo $f
-    fi
-    
-done
