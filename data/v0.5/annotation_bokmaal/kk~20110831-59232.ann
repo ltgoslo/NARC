@@ -1,0 +1,102 @@
+T1	Markable 3 7	tide
+T2	Markable 10 75	Margot Eriksson , hjelpepleier ved Ilsvika sykehjem i Trondheim ,
+T3	Markable 28 75	hjelpepleier ved Ilsvika sykehjem i Trondheim ,
+T4	Markable 45 73	Ilsvika sykehjem i Trondheim
+T5	Markable 64 73	Trondheim
+T6	Markable 93 107	stillingen sin
+T7	Markable 104 107	sin
+T8	Markable 124 152	vedtaket i Trondheim bystyre
+T9	Markable 135 152	Trondheim bystyre
+T10	Markable 155 158	Hun
+T11	Markable 174 184	20 prosent
+T12	Markable 171 193	en 20 prosent stilling
+T13	Markable 230 240	50 prosent
+T14	Markable 245 248	hun
+T15	Markable 256 308	rett til den stillingsprosenten hun faktisk jobber i
+T16	Markable 265 308	den stillingsprosenten hun faktisk jobber i
+T17	Markable 288 291	hun
+T18	Markable 313 316	Jeg
+T19	Markable 329 363	råd til å si nei til ekstra vakter
+T20	Markable 342 345	nei
+T21	Markable 350 363	ekstra vakter
+T22	Markable 391 397	en del
+T23	Markable 412 519	Eriksson , som mener det er den økonomiske usikkerheten som er verst med det å jobbe i en så liten stilling
+T24	Markable 440 519	den økonomiske usikkerheten som er verst med det å jobbe i en så liten stilling
+T25	Markable 485 519	det å jobbe i en så liten stilling
+T26	Markable 499 519	en så liten stilling
+T27	Markable 551 554	jeg
+T28	Markable 559 602	nok penger til å betale husleia neste måned
+T29	Markable 583 590	husleia
+T30	Markable 591 602	neste måned
+T31	Markable 609 622	en 20 prosent
+T32	Markable 609 631	en 20 prosent stilling
+T33	Markable 636 639	jeg
+T34	Markable 640 647	4000 kr
+T35	Markable 659 666	måneden
+T36	Markable 669 671	du
+T37	Markable 685 693	deg selv
+T38	Markable 705 708	det
+T39	Markable 723 737	hjelpepleieren
+T40	Markable 740 743	Hun
+T41	Markable 759 786	helsefagarbeiderutdanningen
+T42	Markable 789 795	januar
+T43	Markable 816 832	Ilsvika sykehjem
+T44	Markable 833 847	annenhver helg
+T45	Markable 854 857	det
+T46	Markable 860 868	Erikssen
+T47	Markable 893 934	arbeidsmiljøet og tilbudet til pasientene
+T48	Markable 893 907	arbeidsmiljøet
+T49	Markable 911 934	tilbudet til pasientene
+T50	Markable 924 934	pasientene
+T51	Markable 938 946	så mange
+T52	Markable 954 960	deltid
+T53	Markable 964 975	sykehjemmet
+T54	Markable 980 1008	En som jobber i hel stilling
+T55	Markable 996 1008	hel stilling
+T56	Markable 1013 1023;1042 1081	mer ansvar enn vi som bare har små stillingsbrøker
+T57	Markable 1027 1041	arbeidsplassen
+T58	Markable 1046 1081	vi som bare har små stillingsbrøker
+T59	Markable 1062 1081	små stillingsbrøker
+T60	Markable 1102 1147	veldig mange nye mennesker å forholde seg til
+T61	Markable 1152 1162	pasientene
+T62	Markable 1165 1177	Mange av dem
+T63	Markable 1174 1177	dem
+T64	Markable 1194 1197	jeg
+T65	Markable 1216 1230	dette vedtaket
+T66	Markable 1241 1270	mange økte stillingsprosenter
+T67	Markable 1285 1295	pasientene
+T68	Markable 1327 1330	oss
+T69	Markable 1340 1348	Erikssen
+T70	Markable 1355 1363	vedtaket
+T71	Markable 1376 1382	en dag
+T72	Markable 1409 1476	ingen gode argumenter for å la folk være ansatt i så små stillinger
+T73	Markable 1440 1444	folk
+T74	Markable 1459 1476	så små stillinger
+T75	Markable 1500 1504	tide
+R1	Coref Arg1:T7 Arg2:T2	
+T76	Markable 1140 1143	seg
+T77	Markable 1305 1308	seg
+R2	Coref Arg1:T10 Arg2:T7	
+R3	Coref Arg1:T14 Arg2:T10	
+R4	Coref Arg1:T17 Arg2:T14	
+R5	Coref Arg1:T18 Arg2:T17	
+R6	Coref Arg1:T23 Arg2:T18	
+R7	Coref Arg1:T27 Arg2:T23	
+R8	Coref Arg1:T33 Arg2:T27	
+R9	Coref Arg1:T37 Arg2:T36	
+R10	Coref Arg1:T38 Arg2:T34	
+R11	Coref Arg1:T39 Arg2:T33	
+R12	Coref Arg1:T40 Arg2:T39	
+R13	Coref Arg1:T43 Arg2:T4	
+R14	Coref Arg1:T46 Arg2:T40	
+R15	Bridging Arg1:T47 Arg2:T43	
+R16	Coref Arg1:T53 Arg2:T43	
+R17	Coref Arg1:T61 Arg2:T76	
+R18	Coref Arg1:T63 Arg2:T61	
+R19	Coref Arg1:T64 Arg2:T46	
+R20	Coref Arg1:T65 Arg2:T8	
+R21	Coref Arg1:T67 Arg2:T63	
+R22	Coref Arg1:T77 Arg2:T67	
+R23	Bridging Arg1:T68 Arg2:T43	
+R24	Coref Arg1:T69 Arg2:T64	
+R25	Coref Arg1:T70 Arg2:T65	

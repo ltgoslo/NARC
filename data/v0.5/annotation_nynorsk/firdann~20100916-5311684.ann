@@ -1,0 +1,54 @@
+T1	Markable 9 14	taket
+T2	Markable 17 22	sjøen
+T3	Markable 25 36	To personar
+T4	Markable 47 55	sjukehus
+T5	Markable 58 71	Ein personbil
+T6	Markable 82 87	vegen
+T7	Markable 100 105	taket
+T8	Markable 108 113	sjøen
+T9	Markable 118 153	Birkeli mellom Kjelkenes og Svelgen
+T10	Markable 133 153	Kjelkenes og Svelgen
+T11	Markable 133 142	Kjelkenes
+T12	Markable 146 153	Svelgen
+T13	Markable 154 172	seint onsdag kveld
+T14	Markable 167 172	kveld
+T15	Markable 175 183	Politiet
+T16	Markable 189 223	melding om utforkøyringa på rv 614
+T17	Markable 200 223	utforkøyringa på rv 614
+T18	Markable 217 223	rv 614
+T19	Markable 224 230	klokka
+T20	Markable 247 258;267 329	to personar , ein mann i slutten av tenåra og ein mann i starten av 20-åra
+T21	Markable 261 266	bilen
+T22	Markable 269 329	ein mann i slutten av tenåra og ein mann i starten av 20-åra
+T23	Markable 269 297	ein mann i slutten av tenåra
+T24	Markable 280 297	slutten av tenåra
+T25	Markable 291 297	tenåra
+T26	Markable 301 329	ein mann i starten av 20-åra
+T27	Markable 312 329	starten av 20-åra
+T28	Markable 323 329	20-åra
+T29	Markable 340 348	politiet
+T30	Markable 353 356	dei
+T31	Markable 374 379	bilen
+T32	Markable 382 396	Dei to mennene
+T33	Markable 418 432	lege i Svelgen
+T34	Markable 425 432	Svelgen
+T35	Markable 439 442	dei
+T36	Markable 465 486	Førde sentralsjukehus
+T37	Markable 553 608	operasjonssentralen ved Sogn og Fjordane politidistrikt
+T38	Markable 577 608	Sogn og Fjordane politidistrikt
+R1	Bridging Arg1:T7 Arg2:T5	
+R2	Coref Arg1:T8 Arg2:T2	
+R3	Coref Arg1:T21 Arg2:T5	
+R4	Coref Arg1:T30 Arg2:T22	
+R5	Coref Arg1:T31 Arg2:T21	
+R6	Coref Arg1:T29 Arg2:T15	
+R7	Coref Arg1:T32 Arg2:T39	
+R8	Coref Arg1:T34 Arg2:T12	
+R9	Coref Arg1:T35 Arg2:T32	
+R10	Coref Arg1:T18 Arg2:T6	
+T39	Markable 357 360	seg
+R11	Coref Arg1:T39 Arg2:T30	
+T40	Markable 489 497	Den eine
+T41	Markable 518 527	den andre
+R12	Split_antecedent Arg1:T40 Arg2:T35	
+R13	Split_antecedent Arg1:T41 Arg2:T35	

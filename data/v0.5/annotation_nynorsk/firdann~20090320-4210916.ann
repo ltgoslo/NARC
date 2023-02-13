@@ -1,0 +1,130 @@
+T1	Markable 13 21	bilbrann
+T2	Markable 24 37	Ein personbil
+T3	Markable 57 73	sentrum av Florø
+T4	Markable 68 73	Florø
+T5	Markable 74 86	fredag kveld
+T6	Markable 81 86	kveld
+T7	Markable 89 97	Bilbrann
+T8	Markable 100 118	Denne eldre Forden
+T9	Markable 123 135	fredag kveld
+T10	Markable 130 135	kveld
+T11	Markable 151 167	sentrum av Florø
+T12	Markable 162 167	Florø
+T13	Markable 170 190	Politi og brannvesen
+T14	Markable 170 176	Politi
+T15	Markable 180 190	brannvesen
+T16	Markable 204 210	staden
+T17	Markable 213 223	Kontroll :
+T18	Markable 224 236	Brannvesenet
+T19	Markable 247 268	kontroll over brannen
+T20	Markable 261 268	brannen
+T21	Markable 271 294	Foto Simon F. Solheim |
+T22	Markable 276 292	Simon F. Solheim
+T23	Markable 295 331	Foto Simon F. Solheim ( MMS-foto ) |
+T24	Markable 300 316	Simon F. Solheim
+T25	Markable 317 329	( MMS-foto )
+T26	Markable 332 340	Politiet
+T27	Markable 346 419	melding om at ein personbil stod i fyr i Florø sentrum seint fredag kveld
+T28	Markable 360 373	ein personbil
+T29	Markable 381 384	fyr
+T30	Markable 387 400	Florø sentrum
+T31	Markable 393 400	sentrum
+T32	Markable 401 419	seint fredag kveld
+T33	Markable 414 419	kveld
+T34	Markable 422 437	Fort kontroll |
+T35	Markable 443 463	politi og brannvesen
+T36	Markable 443 449	politi
+T37	Markable 453 463	brannvesen
+T38	Markable 476 484	meldinga
+T39	Markable 495 507	Brannvesenet
+T40	Markable 522 528	staden
+T41	Markable 537 556	kontroll på brannen
+T42	Markable 549 556	brannen
+T43	Markable 561 563	Vi
+T44	Markable 573 581;597 643	meldinga om at ein bil stod i brann ved Fugleskjærskaia
+T45	Markable 586 596	23.15-tida
+T46	Markable 603 610	ein bil
+T47	Markable 618 623	brann
+T48	Markable 628 643	Fugleskjærskaia
+T49	Markable 655 682	operasjonsleiar Olaug Holme
+T50	Markable 687 718	Sogn og Fjordane politidistrikt
+T51	Markable 721 726	Bilen
+T52	Markable 734 757	veg opp bakken ved kaia
+T53	Markable 742 757	bakken ved kaia
+T54	Markable 753 757	kaia
+T55	Markable 763 772	riksveg 5
+T56	Markable 775 816	Eit vitne firda.no har vore i kontakt med
+T57	Markable 785 793	firda.no
+T58	Markable 805 816	kontakt med
+T59	Markable 843 848	bilen
+T60	Markable 853 861	Flammane
+T61	Markable 873 890	panseret på bilen
+T62	Markable 885 890	bilen
+T63	Markable 921 933	brannvesenet
+T64	Markable 944 952	kontroll
+T65	Markable 961 967	vitnet
+T66	Markable 970 986	Bensinlekkasje |
+T67	Markable 987 1025	To polititenestebilar og to brannbilar
+T68	Markable 987 1008	To polititenestebilar
+T69	Markable 1012 1025	to brannbilar
+T70	Markable 1033 1039	staden
+T71	Markable 1045 1050	vegen
+T72	Markable 1067 1090	arbeidet på skadestaden
+T73	Markable 1079 1090	skadestaden
+T74	Markable 1103 1110	Brannen
+T75	Markable 1128 1165	grunn av ein bensinlekkasje i motoren
+T76	Markable 1137 1165	ein bensinlekkasje i motoren
+T77	Markable 1158 1165	motoren
+T78	Markable 1171 1180	politiets
+T79	Markable 1171 1193	politiets innsatsleiar
+T80	Markable 1171 1213	politiets innsatsleiar Kjell Magne Barsnes
+T81	Markable 1218 1226	firda.no
+T82	Markable 1230 1236	staden
+T83	Markable 1254 1281	Operasjonsleiar Olaug Holme
+T84	Markable 1291 1298	brannen
+T85	Markable 1314 1324	23.45-tida
+T86	Markable 1333 1347	ingen personar
+T87	Markable 1361 1366	skade
+T88	Markable 1369 1379	bilbrannen
+T89	Markable 1384 1392	Aksjonen
+T90	Markable 1419 1436	operasjonsleiaren
+T91	Markable 1441 1451	23.50-tida
+T92	Markable 1454 1465	Personbilen
+T93	Markable 1482 1489	vegbana
+T94	Markable 1495 1500	vegen
+T95	Markable 1520 1531	fri ferdsel
+R1	Coref Arg1:T8 Arg2:T2	
+R2	Coref Arg1:T12 Arg2:T4	
+R3	Bridging Arg1:T16 Arg2:T11	
+R4	Coref Arg1:T18 Arg2:T15	
+R5	Coref Arg1:T24 Arg2:T22	
+R6	Coref Arg1:T26 Arg2:T14	
+R7	Coref Arg1:T30 Arg2:T11	
+R8	Coref Arg1:T38 Arg2:T27	
+R9	Coref Arg1:T39 Arg2:T18	
+R10	Coref Arg1:T40 Arg2:T16	
+R11	Coref Arg1:T42 Arg2:T20	
+R12	Coref Arg1:T43 Arg2:T26	
+R13	Coref Arg1:T44 Arg2:T38	
+R14	Coref Arg1:T51 Arg2:T8	
+R15	Coref Arg1:T54 Arg2:T48	
+R16	Coref Arg1:T59 Arg2:T51	
+R17	Coref Arg1:T62 Arg2:T59	
+R18	Coref Arg1:T65 Arg2:T56	
+R19	Coref Arg1:T63 Arg2:T39	
+R20	Coref Arg1:T70 Arg2:T40	
+R21	Coref Arg1:T71 Arg2:T55	
+R22	Coref Arg1:T73 Arg2:T70	
+R23	Coref Arg1:T74 Arg2:T42	
+R24	Coref Arg1:T81 Arg2:T57	
+R25	Coref Arg1:T82 Arg2:T73	
+R26	Coref Arg1:T83 Arg2:T49	
+R27	Coref Arg1:T84 Arg2:T74	
+R28	Coref Arg1:T88 Arg2:T84	
+R29	Coref Arg1:T90 Arg2:T83	
+R30	Coref Arg1:T92 Arg2:T62	
+R31	Bridging Arg1:T93 Arg2:T71	
+R32	Coref Arg1:T94 Arg2:T71	
+R33	Bridging Arg1:T60 Arg2:T42	
+R34	Coref Arg1:T20 Arg2:T7	
+R35	Bridging Arg1:T77 Arg2:T62	

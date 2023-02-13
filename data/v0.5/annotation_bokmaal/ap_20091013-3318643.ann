@@ -1,0 +1,109 @@
+T1	Markable 0 5	Tiden
+T2	Markable 17 20	FNs
+T3	Markable 17 37	FNs spesialutsending
+T4	Markable 17 46	FNs spesialutsending Kai Eide
+T5	Markable 56 69	sterk kritikk
+T6	Markable 74 77	sin
+T7	Markable 74 123	sin håndtering av valget i Afghanistan 20. august
+T8	Markable 92 123	valget i Afghanistan 20. august
+T9	Markable 101 112	Afghanistan
+T10	Markable 113 123	20. august
+T11	Markable 126 130	Hans
+T12	Markable 126 160	Hans tidligere nestkommanderende ,
+T13	Markable 161 187	den amerikanske diplomaten
+T14	Markable 126 203	Hans tidligere nestkommanderende , den amerikanske diplomaten Peter Galbraith
+T15	Markable 225 265	en personlig kampanje mot sin gamle sjef
+T16	Markable 251 254	sin
+T17	Markable 251 265	sin gamle sjef
+T18	Markable 275 284	Galbraith
+T19	Markable 289 293	Eide
+T20	Markable 320 374	meldingene om alvorlige uregelmessigheter under valget
+T21	Markable 334 374	alvorlige uregelmessigheter under valget
+T22	Markable 368 374	valget
+T23	Markable 377 380	Han
+T24	Markable 399 411	unnfallenhet
+T25	Markable 420 442	president Hamid Karzai
+T26	Markable 445 449	Eide
+T27	Markable 456 462	søndag
+T28	Markable 463 482	en pressekonferanse
+T29	Markable 485 490	Kabul
+T30	Markable 506 520	beskyldningene
+T31	Markable 523 526	Han
+T32	Markable 541 602	ambassadørene fra USA , Storbritannia , Frankrike og Tyskland
+T33	Markable 559 602	USA , Storbritannia , Frankrike og Tyskland
+T34	Markable 559 564	USA ,
+T35	Markable 565 580	Storbritannia ,
+T36	Markable 581 590	Frankrike
+T37	Markable 594 602	Tyskland
+T38	Markable 607 654	tillegg til at EU og NATO også var representert
+T39	Markable 622 632	EU og NATO
+T40	Markable 622 624	EU
+T41	Markable 628 632	NATO
+T42	Markable 657 660	Det
+T43	Markable 665 740	et kraftfullt svar på antydningene om at han står uten internasjonal støtte
+T44	Markable 687 740	antydningene om at han står uten internasjonal støtte
+T45	Markable 706 709	han
+T46	Markable 720 740	internasjonal støtte
+T47	Markable 743 747	Eide
+T48	Markable 773 779	valget
+T49	Markable 782 785	Han
+T50	Markable 797 839	« utbredt valgfusk » i mange stemmelokaler
+T51	Markable 820 839	mange stemmelokaler
+T52	Markable 842 847	Dette
+T53	Markable 889 895	Karzai
+T54	Markable 910 913	sin
+T55	Markable 910 920	sin støtte
+T56	Markable 923 926	FNs
+T57	Markable 923 961	FNs øverste representant i Afghanistan
+T58	Markable 950 961	Afghanistan
+T59	Markable 969 994	hardere ord enn noen gang
+T60	Markable 985 994	noen gang
+T61	Markable 1036 1053	kontrolltellingen
+T62	Markable 1068 1083	Foreløpige tall
+T63	Markable 1093 1099	Karzai
+T64	Markable 1117 1129	54,6 prosent
+T65	Markable 1117 1141	54,6 prosent oppslutning
+T66	Markable 1148 1176	tallet på forkastede stemmer
+T67	Markable 1158 1176	forkastede stemmer
+T68	Markable 1197 1200	han
+T69	Markable 1214 1224	50 prosent
+T70	Markable 1233 1239	Karzai
+T71	Markable 1254 1317	en ny valgomgang mot sin nærmeste utfordrer , Abdullah Abdullah
+T72	Markable 1275 1278	sin
+T73	Markable 1275 1299	sin nærmeste utfordrer ,
+T74	Markable 1275 1317	sin nærmeste utfordrer , Abdullah Abdullah
+T75	Markable 1347 1359	en avklaring
+T76	Markable 1362 1373	Afghanistan
+T77	Markable 1383 1454	råd til mer tvil om legitimiteten til regjeringen som skal styre landet
+T78	Markable 1391 1454	mer tvil om legitimiteten til regjeringen som skal styre landet
+T79	Markable 1403 1454	legitimiteten til regjeringen som skal styre landet
+T80	Markable 1421 1454	regjeringen som skal styre landet
+T81	Markable 1448 1454	landet
+R1	Coref Arg1:T6 Arg2:T4	
+R2	Coref Arg1:T11 Arg2:T6	
+R3	Coref Arg1:T16 Arg2:T14	
+R4	Coref Arg1:T17 Arg2:T11	
+R5	Coref Arg1:T18 Arg2:T16	
+R6	Coref Arg1:T19 Arg2:T17	
+R7	Coref Arg1:T22 Arg2:T8	
+R8	Coref Arg1:T23 Arg2:T19	
+R10	Coref Arg1:T26 Arg2:T23	
+R11	Coref Arg1:T31 Arg2:T26	
+R12	Coref Arg1:T45 Arg2:T31	
+R13	Coref Arg1:T47 Arg2:T45	
+R14	Coref Arg1:T48 Arg2:T22	
+R15	Coref Arg1:T49 Arg2:T47	
+R16	Coref Arg1:T52 Arg2:T50	
+R17	Coref Arg1:T53 Arg2:T25	
+R18	Coref Arg1:T54 Arg2:T53	
+R19	Coref Arg1:T56 Arg2:T2	
+R20	Coref Arg1:T58 Arg2:T9	
+R21	Bridging Arg1:T61 Arg2:T48	
+R22	Coref Arg1:T63 Arg2:T54	
+R23	Coref Arg1:T68 Arg2:T63	
+R24	Coref Arg1:T70 Arg2:T68	
+T82	Markable 1247 1250	seg
+R25	Coref Arg1:T82 Arg2:T70	
+R26	Coref Arg1:T72 Arg2:T82	
+R27	Coref Arg1:T76 Arg2:T58	
+R28	Coref Arg1:T81 Arg2:T76	

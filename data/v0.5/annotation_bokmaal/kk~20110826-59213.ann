@@ -1,0 +1,82 @@
+T1	Markable 6 9	oss
+T2	Markable 24 37	fagbevegelsen
+T3	Markable 46 49	KrF
+T4	Markable 70 80	neste valg
+T5	Markable 84 135	en diskusjon vi skal ta i partiet etter lokalvalget
+T6	Markable 97 99	vi
+T7	Markable 110 117	partiet
+T8	Markable 124 135	lokalvalget
+T9	Markable 143 171	KrF-leder Knut Arild Hareide
+T10	Markable 176 188	Klassekampen
+T11	Markable 191 194	Han
+T12	Markable 212 240	avgjørelsene om KrFs veivalg
+T13	Markable 228 232	KrFs
+T14	Markable 228 240	KrFs veivalg
+T15	Markable 253 256	KrF
+T16	Markable 264 301	for mye innflytelse fra andre aktører
+T17	Markable 288 301	andre aktører
+T18	Markable 306 309	KrF
+T19	Markable 318 361	et parti som lar seg styre av fagbevegelsen
+T20	Markable 348 361	fagbevegelsen
+T21	Markable 364 366	Vi
+T22	Markable 386 417	en god dialog med fagbevegelsen
+T23	Markable 404 417	fagbevegelsen
+T24	Markable 442 445	oss
+T25	Markable 455 458	vår
+T26	Markable 455 466	vår egenart
+T27	Markable 474 481	Hareide
+T28	Markable 484 487	Han
+T29	Markable 521 585	konklusjoner om partiets veivalg fram mot stortingsvalget i 2013
+T30	Markable 537 545	partiets
+T31	Markable 537 585	partiets veivalg fram mot stortingsvalget i 2013
+T32	Markable 563 585	stortingsvalget i 2013
+T33	Markable 596 598	vi
+T34	Markable 606 624	en lokalvalgkamp ,
+T35	Markable 654 703	noe som er rett eller som vi er beredt på å gjøre
+T36	Markable 665 669	rett
+T37	Markable 680 682	vi
+T38	Markable 711 722	KrF-lederen
+T39	Markable 725 728	Han
+T40	Markable 735 744	alle fall
+T41	Markable 768 776	Flåthens
+T42	Markable 768 889	Flåthens visjoner om at KrF kan være med på å demme opp mot privatisering og konkurranseutsetting av offentlige tjenester
+T43	Markable 792 795	KrF
+T44	Markable 828 889	privatisering og konkurranseutsetting av offentlige tjenester
+T45	Markable 828 841	privatisering
+T46	Markable 845 889	konkurranseutsetting av offentlige tjenester
+T47	Markable 869 889	offentlige tjenester
+T48	Markable 894 896	Vi
+T49	Markable 901 934	et nyansert syn på de spørsmålene
+T50	Markable 920 934	de spørsmålene
+T51	Markable 941 944	oss
+T52	Markable 967 991	den ideelle virksomheten
+T53	Markable 1001 1025	de offentlige tjenestene
+T54	Markable 1031 1033	vi
+T55	Markable 1059 1076	private initiativ
+R1	Coref Arg1:T7 Arg2:T3	
+R2	Coref Arg1:T11 Arg2:T9	
+R3	Coref Arg1:T13 Arg2:T7	
+R4	Coref Arg1:T15 Arg2:T13	
+R5	Coref Arg1:T18 Arg2:T15	
+R6	Coref Arg1:T2 Arg2:T20	
+R7	Coref Arg1:T1 Arg2:T6	
+R8	Coref Arg1:T21 Arg2:T18	
+R9	Coref Arg1:T23 Arg2:T2	
+R10	Coref Arg1:T24 Arg2:T21	
+R11	Coref Arg1:T25 Arg2:T24	
+R12	Coref Arg1:T27 Arg2:T11	
+R13	Coref Arg1:T28 Arg2:T27	
+R14	Coref Arg1:T30 Arg2:T25	
+R15	Coref Arg1:T32 Arg2:T4	
+R16	Coref Arg1:T31 Arg2:T14	
+R17	Coref Arg1:T33 Arg2:T30	
+R18	Coref Arg1:T37 Arg2:T33	
+R19	Coref Arg1:T38 Arg2:T28	
+R20	Coref Arg1:T39 Arg2:T38	
+R21	Coref Arg1:T43 Arg2:T37	
+R22	Coref Arg1:T48 Arg2:T43	
+R23	Coref Arg1:T50 Arg2:T44	
+R24	Coref Arg1:T51 Arg2:T48	
+R25	Coref Arg1:T54 Arg2:T51	
+T56	Markable 760 763	seg
+R26	Coref Arg1:T56 Arg2:T39	

@@ -1,0 +1,142 @@
+T1	Markable 10 34	angrep på fleire kvinner
+T2	Markable 20 34	fleire kvinner
+T3	Markable 43 46	arm
+T4	Markable 58 71	drapstrugslar
+T5	Markable 74 97	Mannen i 40-åra i Florø
+T6	Markable 83 89	40-åra
+T7	Markable 92 97	Florø
+T8	Markable 108 127	angrep på sambuaren
+T9	Markable 118 127	sambuaren
+T10	Markable 134 137	tak
+T11	Markable 140 145	henne
+T12	Markable 154 156	ho
+T13	Markable 162 188	vansklegheitar med å puste
+T14	Markable 212 224	tennene sine
+T15	Markable 220 224	sine
+T16	Markable 227 230	Han
+T17	Markable 249 255	kvinna
+T18	Markable 259 261	ho
+T19	Markable 266 286	kontakt med politiet
+T20	Markable 278 286	politiet
+T21	Markable 295 311	armen til kvinne
+T22	Markable 305 311	kvinne
+T23	Markable 326 332	mannen
+T24	Markable 343 394	dette tilfellet , truslar , promillekøyring og vald
+T25	Markable 343 360	dette tilfellet ,
+T26	Markable 361 370	truslar ,
+T27	Markable 371 386	promillekøyring
+T28	Markable 390 394	vald
+T29	Markable 397 414	Fjordane tingrett
+T30	Markable 419 434	november i fjor
+T31	Markable 430 434	fjor
+T32	Markable 441 449	tiltalte
+T33	Markable 450 459	ei kvinne
+T34	Markable 462 468	bakken
+T35	Markable 477 479	ho
+T36	Markable 486 495	overarmen
+T37	Markable 501 504	han
+T38	Markable 526 558;561 583	tre tilfeller av promillekøyring eitt i båt og to i bil
+T39	Markable 543 558	promillekøyring
+T40	Markable 568 571	båt
+T41	Markable 580 583	bil
+T42	Markable 586 592	Mannen
+T43	Markable 612 628	gyldig førarkort
+T44	Markable 649 657	politiet
+T45	Markable 662 665	dei
+T46	Markable 682 685	han
+T47	Markable 725 736	morgondagen
+T48	Markable 741 756	desember i fjor
+T49	Markable 752 756	fjor
+T50	Markable 764 767	han
+T51	Markable 772 780	ein mann
+T52	Markable 788 791	han
+T53	Markable 806 810	vare
+T54	Markable 823 826	han
+T55	Markable 830 836	mannen
+T56	Markable 856 897	bremsespor frå når små born blei nedkøyrd
+T57	Markable 875 883	små born
+T58	Markable 906 911	dette
+T59	Markable 928 934	mannen
+T60	Markable 937 945	Tiltalte
+T61	Markable 957 963	mannen
+T62	Markable 998 1009	morgondagen
+T63	Markable 1012 1018	Mannen
+T64	Markable 1051 1066	nær 5000 kroner
+T65	Markable 1071 1084	sambuaren sin
+T66	Markable 1081 1084	sin
+T67	Markable 1091 1096	dette
+T68	Markable 1103 1106	han
+T69	Markable 1117 1123	retten
+T70	Markable 1126 1129	Han
+T71	Markable 1146 1174	erstatningskravet frå kvinna
+T72	Markable 1168 1174	kvinna
+T73	Markable 1185 1198	fleire gonger
+T74	Markable 1211 1217	Mannen
+T75	Markable 1229 1240	fire gonger
+T76	Markable 1263 1274	januar 2009
+T77	Markable 1277 1317	Dei kriminelle handlingane han har gjort
+T78	Markable 1304 1307	han
+T79	Markable 1331 1368	prøvetida etter andre kriminelle ting
+T80	Markable 1347 1368	andre kriminelle ting
+T81	Markable 1379 1430	fjerde gongen mannen skulle domfellast for promille
+T82	Markable 1393 1399	mannen
+T83	Markable 1422 1430	promille
+T84	Markable 1433 1467	noko som tilseier ein streng dom ,
+T85	Markable 1451 1465	ein streng dom
+T86	Markable 1475 1481	retten
+T87	Markable 1484 1492	Tiltalte
+T88	Markable 1524 1544	tilfella av promille
+T89	Markable 1536 1544	promille
+T90	Markable 1580 1602	Fengsel i 11 månader |
+T91	Markable 1590 1600	11 månader
+T92	Markable 1603 1609	Mannen
+T93	Markable 1624 1644	fengsel i 11 månader
+T94	Markable 1634 1644	11 månader
+T95	Markable 1658 1681	ei bot på 20.000 kroner
+T96	Markable 1668 1681	20.000 kroner
+T97	Markable 1684 1692	Tiltalte
+T98	Markable 1703 1731	sakskostnader på 2000 kroner
+T99	Markable 1720 1731	2000 kroner
+R1	Coref Arg1:T11 Arg2:T9	
+R2	Coref Arg1:T12 Arg2:T11	
+R3	Coref Arg1:T15 Arg2:T12	
+R4	Coref Arg1:T16 Arg2:T5	
+R5	Coref Arg1:T17 Arg2:T15	
+R6	Coref Arg1:T18 Arg2:T17	
+R7	Coref Arg1:T23 Arg2:T16	
+R8	Coref Arg1:T32 Arg2:T23	
+R9	Coref Arg1:T35 Arg2:T33	
+R10	Coref Arg1:T37 Arg2:T32	
+R11	Coref Arg1:T42 Arg2:T37	
+R12	Coref Arg1:T44 Arg2:T20	
+R13	Coref Arg1:T45 Arg2:T44	
+R14	Coref Arg1:T46 Arg2:T42	
+R15	Coref Arg1:T50 Arg2:T46	
+R16	Coref Arg1:T52 Arg2:T51	
+R17	Coref Arg1:T54 Arg2:T50	
+R18	Coref Arg1:T55 Arg2:T52	
+R19	Coref Arg1:T59 Arg2:T55	
+R20	Coref Arg1:T60 Arg2:T54	
+R21	Coref Arg1:T61 Arg2:T59	
+T100	Markable 986 989	seg
+R22	Coref Arg1:T100 Arg2:T61	
+R23	Coref Arg1:T63 Arg2:T60	
+R24	Coref Arg1:T66 Arg2:T63	
+R25	Coref Arg1:T65 Arg2:T18	
+R26	Coref Arg1:T68 Arg2:T66	
+R27	Coref Arg1:T70 Arg2:T68	
+R28	Coref Arg1:T72 Arg2:T65	
+R29	Coref Arg1:T74 Arg2:T70	
+R30	Coref Arg1:T78 Arg2:T74	
+R31	Coref Arg1:T82 Arg2:T78	
+R32	Coref Arg1:T87 Arg2:T82	
+T101	Markable 1554 1557	seg
+T102	Markable 1502 1505	seg
+R33	Coref Arg1:T102 Arg2:T87	
+R34	Coref Arg1:T101 Arg2:T102	
+R35	Coref Arg1:T92 Arg2:T101	
+R36	Coref Arg1:T97 Arg2:T92	
+R37	Coref Arg1:T69 Arg2:T29	
+R38	Bridging Arg1:T9 Arg2:T5	
+R39	Bridging Arg1:T36 Arg2:T35	
+R40	Coref Arg1:T86 Arg2:T69	

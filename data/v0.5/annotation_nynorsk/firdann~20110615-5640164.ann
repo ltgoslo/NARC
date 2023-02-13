@@ -1,0 +1,77 @@
+T1	Markable 4 12	langrenn
+T2	Markable 17 21	olje
+T3	Markable 24 41	Morten Aa Djupvik
+T4	Markable 50 64	Aker Solutions
+T5	Markable 67 84	Morten Aa Djupvik
+T6	Markable 92 106	Hyen i Gloppen
+T7	Markable 99 106	Gloppen
+T8	Markable 109 112	Han
+T9	Markable 116 172	tidlegare landslagstrenar for herrelandslaget i langrenn
+T10	Markable 146 172	herrelandslaget i langrenn
+T11	Markable 164 172	langrenn
+T12	Markable 175 235	Den tidlegare hovudtrenaren for herrelandslaget i langrenn ,
+T13	Markable 207 233	herrelandslaget i langrenn
+T14	Markable 225 233	langrenn
+T15	Markable 175 255	Den tidlegare hovudtrenaren for herrelandslaget i langrenn , Morten Aa Djupvik ,
+T16	Markable 263 368	ein sentral rolle i å framdyrke ein endå sterkare prestasjonskultur i oljeserviceselskapet Aker Solutions
+T17	Markable 295 330	ein endå sterkare prestasjonskultur
+T18	Markable 333 368	oljeserviceselskapet Aker Solutions
+T19	Markable 371 374	Det
+T20	Markable 381 390	selskapet
+T21	Markable 393 409	ei pressemelding
+T22	Markable 410 416	onsdag
+T23	Markable 421 435	Aker Solutions
+T24	Markable 441 455	Djupvik ( 36 )
+T25	Markable 490 519	team- og prestasjonsutvikling
+T26	Markable 490 495	team-
+T27	Markable 499 519	prestasjonsutvikling
+T28	Markable 533 547	leiarerfaringa
+T29	Markable 552 557	Dette
+T30	Markable 561 619	område der han har levert fantastiske resultat i fleire år
+T31	Markable 572 575	han
+T32	Markable 587 607	fantastiske resultat
+T33	Markable 610 619	fleire år
+T34	Markable 635 649	pressemeldinga
+T35	Markable 652 655	Han
+T36	Markable 672 674	si
+T37	Markable 672 703	si erfaring som leiar og trenar
+T38	Markable 688 703	leiar og trenar
+T39	Markable 688 693	leiar
+T40	Markable 697 703	trenar
+T41	Markable 713 717	sine
+T42	Markable 713 731	sine nye kollegaer
+T43	Markable 760 772	fysisk helse
+T44	Markable 785 808	prestasjonsevna på jobb
+T45	Markable 804 808	jobb
+T46	Markable 825 834	1. august
+T47	Markable 839 841	Eg
+T48	Markable 851 1005	ein jobb der det var kontinuerleg fokus på individuelle prestasjonar , teknologi , forbetring av ørsmå detaljar og samhandling for å gjere kvardagen betre
+T49	Markable 872 977	kontinuerleg fokus på individuelle prestasjonar , teknologi , forbetring av ørsmå detaljar og samhandling
+T50	Markable 894 977	individuelle prestasjonar , teknologi , forbetring av ørsmå detaljar og samhandling
+T51	Markable 894 921	individuelle prestasjonar ,
+T52	Markable 922 933	teknologi ,
+T53	Markable 934 962	forbetring av ørsmå detaljar
+T54	Markable 948 962	ørsmå detaljar
+T55	Markable 966 977	samhandling
+T56	Markable 990 999	kvardagen
+T57	Markable 1008 1030	Dei same utfordringane
+T58	Markable 1035 1037	eg
+T59	Markable 1045 1059	Aker Solutions
+T60	Markable 1068 1085	Morten Aa Djupvik
+R1	Coref Arg1:T5 Arg2:T3	
+R2	Coref Arg1:T8 Arg2:T5	
+R3	Coref Arg1:T15 Arg2:T8	
+R4	Coref Arg1:T13 Arg2:T10	
+R5	Coref Arg1:T18 Arg2:T4	
+R6	Coref Arg1:T20 Arg2:T18	
+R7	Coref Arg1:T23 Arg2:T20	
+R8	Coref Arg1:T24 Arg2:T15	
+R9	Coref Arg1:T34 Arg2:T21	
+R10	Coref Arg1:T31 Arg2:T24	
+R11	Coref Arg1:T35 Arg2:T31	
+R12	Coref Arg1:T36 Arg2:T35	
+R13	Coref Arg1:T41 Arg2:T36	
+R14	Coref Arg1:T47 Arg2:T41	
+R15	Coref Arg1:T58 Arg2:T47	
+R16	Coref Arg1:T60 Arg2:T58	
+R17	Coref Arg1:T59 Arg2:T23	

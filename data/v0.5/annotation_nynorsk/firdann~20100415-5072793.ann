@@ -1,0 +1,57 @@
+T1	Markable 0 10	Pensjonist
+T2	Markable 20 35	promillekøyring
+T3	Markable 49 61	høg promille
+T4	Markable 65 77	Nordfjordeid
+T5	Markable 80 98	Illustrasjonfoto .
+T6	Markable 99 166	Tre år utan sertifikat , 26 dagar bak murane og 39 000 kroner i bot
+T7	Markable 99 121	Tre år utan sertifikat
+T8	Markable 111 121	sertifikat
+T9	Markable 124 143	26 dagar bak murane
+T10	Markable 137 143	murane
+T11	Markable 147 166	39 000 kroner i bot
+T12	Markable 163 166	bot
+T13	Markable 172 226	resultatet av handleturen til pensjonisten i Nordfjord
+T14	Markable 186 226	handleturen til pensjonisten i Nordfjord
+T15	Markable 202 226	pensjonisten i Nordfjord
+T16	Markable 217 226	Nordfjord
+T17	Markable 229 235	Mannen
+T18	Markable 244 247	han
+T19	Markable 254 282	behov for ein tur i butikken
+T20	Markable 264 282	ein tur i butikken
+T21	Markable 274 282	butikken
+T22	Markable 283 310	ein føremiddag i desember ,
+T23	Markable 300 308	desember
+T24	Markable 320 335	alkoholkonsumet
+T25	Markable 349 361	høgste laget
+T26	Markable 368 388	ein promille på 1,83
+T27	Markable 394 400	retten
+T28	Markable 401 493	to alternativ - anten å gjennomgå eit promilleprogram eller å gje fengselsstraff utan vilkår
+T29	Markable 435 454	eit promilleprogram
+T30	Markable 467 481	fengselsstraff
+T31	Markable 487 493	vilkår
+T32	Markable 496 502	Mannen
+T33	Markable 522 540	promilleprogrammet
+T34	Markable 551 578	nesten fire veker i fengsel
+T35	Markable 571 578	fengsel
+T36	Markable 609 615	dommen
+T37	Markable 644 648	bota
+T38	Markable 680 704	15 ekstra dagar på cella
+T39	Markable 699 704	cella
+T40	Markable 714 726	pensjonisten
+T41	Markable 735 786	håp om å setje seg bak eit ratt ein gong i framtida
+T42	Markable 758 766	eit ratt
+T43	Markable 767 786	ein gong i framtida
+T44	Markable 778 786	framtida
+T45	Markable 792 795	han
+T46	Markable 804 817	ny førarprøve
+R1	Coref Arg1:T15 Arg2:T1	
+R2	Coref Arg1:T17 Arg2:T15	
+R3	Coref Arg1:T18 Arg2:T17	
+R4	Coref Arg1:T14 Arg2:T20	
+R5	Bridging Arg1:T24 Arg2:T18	
+R6	Coref Arg1:T32 Arg2:T18	
+R7	Coref Arg1:T33 Arg2:T29	
+R8	Coref Arg1:T37 Arg2:T11	
+R9	Bridging Arg1:T39 Arg2:T35	
+R10	Coref Arg1:T40 Arg2:T32	
+R11	Coref Arg1:T45 Arg2:T40	

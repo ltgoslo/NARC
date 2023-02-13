@@ -1,0 +1,67 @@
+T1	Markable 5 12	hjorten
+T2	Markable 19 25	oppsyn
+T3	Markable 29 33	nett
+T4	Markable 38 41	alt
+T5	Markable 47 89;92 106	17 hjortar i Luster , Leikanger og Sogndal samt tre i Vik
+T6	Markable 47 89	17 hjortar i Luster , Leikanger og Sogndal
+T7	Markable 60 89	Luster , Leikanger og Sogndal
+T8	Markable 60 68	Luster ,
+T9	Markable 69 78	Leikanger
+T10	Markable 82 89	Sogndal
+T11	Markable 103 106	Vik
+T12	Markable 121 130	Internett
+T13	Markable 133 136	vår
+T14	Markable 139 158	Illustrasjonsfoto .
+T15	Markable 159 181	Foto Stig Roger Eide |
+T16	Markable 164 179	Stig Roger Eide
+T17	Markable 184 186	Vi
+T18	Markable 202 222	fleire dyr enn venta
+T19	Markable 217 222	venta
+T20	Markable 231 244;263 279	viltforvaltar i Luster kommune
+T21	Markable 231 279	viltforvaltar Maria Knagenhjelm i Luster kommune
+T22	Markable 265 279	Luster kommune
+T23	Markable 284 293	Sogn Avis
+T24	Markable 296 298	Ho
+T25	Markable 329 345	så mange hjortar
+T26	Markable 349 359	ein vinter
+T27	Markable 362 370	regionen
+T28	Markable 373 378	Siste
+T29	Markable 392 397	påska
+T30	Markable 402 425	løpet av vintersesongen
+T31	Markable 411 425	vintersesongen
+T32	Markable 436 442	17 dyr
+T33	Markable 448 456	halsband
+T34	Markable 459 488	Luster , Sogndal go Leikanger
+T35	Markable 459 467	Luster ,
+T36	Markable 468 475	Sogndal
+T37	Markable 479 488	Leikanger
+T38	Markable 491 500	Den siste
+T39	Markable 505 569	ein bukk på Eikjastrondi i Marifjøra , som fekk halspryd i påska
+T40	Markable 517 541	Eikjastrondi i Marifjøra
+T41	Markable 532 541	Marifjøra
+T42	Markable 553 561	halspryd
+T43	Markable 564 569	påska
+T44	Markable 583 586	ein
+T45	Markable 601 607	nettet
+T46	Markable 613 617	dyra
+T47	Markable 644 647	ein
+T48	Markable 662 680	Målet med merkinga
+T49	Markable 672 680	merkinga
+T50	Markable 689 729	meir kunnskap om hjorten sine trekkruter
+T51	Markable 706 713	hjorten
+T52	Markable 706 718	hjorten sine
+T53	Markable 706 729	hjorten sine trekkruter
+T54	Markable 742 749	hjorten
+T55	Markable 762 781	eit viktig spørsmål
+T56	Markable 784 788	Dyra
+T57	Markable 814 816	vi
+T58	Markable 819 833	utgangspunktet
+R1	Coref Arg1:T24 Arg2:T21	
+R2	Coref Arg1:T27 Arg2:T7	
+R3	Coref Arg1:T34 Arg2:T27	
+R4	Coref Arg1:T46 Arg2:T32	
+R5	Coref Arg1:T45 Arg2:T12	
+R6	Coref Arg1:T54 Arg2:T51	
+R7	Coref Arg1:T56 Arg2:T46	
+R8	Bridging Arg1:T38 Arg2:T32	
+R9	Coref Arg1:T51 Arg2:T1	
