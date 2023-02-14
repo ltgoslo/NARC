@@ -1,11 +1,11 @@
 # NARC v0.5
 
-This version was created on 2023-02-14 00:20:01
+This version was created on 2023-02-14 10:49:22
 
 Last commit:
-```commit 3521514e812e1a86f1d09f81d9516ccdd015ef9a
+```commit d2d6c91654cd7c2fe940b62f458a84fab81646a4
 Author: Tollef Jørgensen <tollefj@gmail.com>
-Date:   Mon Feb 13 23:32:18 2023 +0100
+Date:   Tue Feb 14 00:21:11 2023 +0100
 
-    extract finished annotations for public NARC repo
+    fast extraction and update of NARC public repo
 ```
