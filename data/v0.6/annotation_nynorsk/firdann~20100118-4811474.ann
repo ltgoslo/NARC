@@ -1,0 +1,80 @@
+T1	Markable 0 30	Verdskjend boyband til Sogndal
+T2	Markable 23 30	Sogndal
+T3	Markable 35 38	Det
+T4	Markable 61 63	vi
+T5	Markable 77 80	det
+T6	Markable 86 102	ein stor suksess
+T7	Markable 111 121	vekasjefen
+T8	Markable 124 142	Meieriet i Sogndal
+T9	Markable 135 142	Sogndal
+T10	Markable 147 184	besøk av det verdskjende boybandet A1
+T11	Markable 156 181	det verdskjende boybandet
+T12	Markable 156 184	det verdskjende boybandet A1
+T13	Markable 187 209	Det verdskjende bandet
+T14	Markable 187 256	Det verdskjende bandet A1 med norske Christian Ingebrigtsen i spissen
+T15	Markable 217 246	norske Christian Ingebrigtsen
+T16	Markable 249 256	spissen
+T17	Markable 268 275	Sogndal
+T18	Markable 294 350	studentveka i Sogndal som går av stabelen 16.-27 februar
+T19	Markable 308 315	Sogndal
+T20	Markable 327 335	stabelen
+T21	Markable 336 350	16.-27 februar
+T22	Markable 399 416	eit så kjend band
+T23	Markable 425 428	tid
+T24	Markable 445 448	oss
+T25	Markable 455 466	VEKA TjueTi
+T26	Markable 475 501	vekasjef Ida Johanne Ulvik
+T27	Markable 506 515	Sogn Avis
+T28	Markable 518 520	A1
+T29	Markable 536 548	50 millionar
+T30	Markable 530 555	kring 50 millionar plater
+T31	Markable 583 623	30-årsjubileet for studentveka i Sogndal
+T32	Markable 602 623	studentveka i Sogndal
+T33	Markable 616 623	Sogndal
+T34	Markable 654 661	Sogndal
+T35	Markable 664 675	27. februar
+T36	Markable 681 687	gruppa
+T37	Markable 691 720	scena i studenthuset Meieriet
+T38	Markable 699 720	studenthuset Meieriet
+T39	Markable 733 745	stor suksess
+T40	Markable 748 761	Gruppa bandet
+T41	Markable 776 795	slutten av 90-talet
+T42	Markable 787 795	90-talet
+T43	Markable 808 817	ei rekkje
+T44	Markable 808 823	ei rekkje hitar
+T45	Markable 826 833	England
+T46	Markable 839 849	andre land
+T47	Markable 852 854	A1
+T48	Markable 867 871	fjor
+T49	Markable 879 898	konserten i Sogndal
+T50	Markable 891 898	Sogndal
+T51	Markable 915 925	heilaftans
+T52	Markable 904 957	den første heilaftans konserten dei gjer saman i 2010
+T53	Markable 936 939	dei
+T54	Markable 986 992	gruppa
+T55	Markable 997 1004	Sogndal
+T56	Markable 1017 1022	Ulvik
+R1	Coref Arg1:T9 Arg2:T2	
+R2	Coref Arg1:T5 Arg2:T3	
+R3	Coref Arg1:T3 Arg2:T1	
+R4	Coref Arg1:T12 Arg2:T5	
+R5	Coref Arg1:T14 Arg2:T12	
+R6	Coref Arg1:T17 Arg2:T9	
+R7	Coref Arg1:T19 Arg2:T17	
+R8	Coref Arg1:T24 Arg2:T18	
+R9	Coref Arg1:T7 Arg2:T26	
+R10	Coref Arg1:T28 Arg2:T14	
+R11	Coref Arg1:T32 Arg2:T24	
+R12	Coref Arg1:T33 Arg2:T19	
+R13	Coref Arg1:T34 Arg2:T33	
+R14	Coref Arg1:T36 Arg2:T28	
+R15	Coref Arg1:T38 Arg2:T8	
+R16	Coref Arg1:T40 Arg2:T36	
+R17	Coref Arg1:T47 Arg2:T40	
+R18	Coref Arg1:T50 Arg2:T34	
+R19	Coref Arg1:T53 Arg2:T47	
+R20	Coref Arg1:T54 Arg2:T53	
+R21	Coref Arg1:T55 Arg2:T50	
+R22	Coref Arg1:T56 Arg2:T7	
+T57	Markable 421 424	seg
+R23	Coref Arg1:T57 Arg2:T22	

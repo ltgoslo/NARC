@@ -1,0 +1,81 @@
+T1	Markable 0 15	Madam Tussaud's
+T2	Markable 25 30	oljen
+T3	Markable 33 74	Dei store oljeeksporterande landa i verda
+T4	Markable 69 74	verda
+T5	Markable 90 93	dei
+T6	Markable 108 154	all rikdommen som den høge oljeprisen gjev dei
+T7	Markable 126 145	den høge oljeprisen
+T8	Markable 151 154	dei
+T9	Markable 159 161	år
+T10	Markable 166 193	dei oljeeksporterande landa
+T11	Markable 204 224	kring 700 milliardar
+T12	Markable 204 231	kring 700 milliardar dollar
+T13	Markable 235 265	eksport av den dyrebare råvara
+T14	Markable 246 265	den dyrebare råvara
+T15	Markable 274 287	The Economist
+T16	Markable 290 330	Handelsoverskotet til oljeeksportørlanda
+T17	Markable 312 330	oljeeksportørlanda
+T18	Markable 352 366	400 milliardar
+T19	Markable 352 373	400 milliardar dollar
+T21	Markable 415 430	Oljeprisveksten
+T22	Markable 441 525	ei kolossal pengeoverføring frå dei oljeimporterande til dei oljeeksporterande landa
+T23	Markable 473 493	dei oljeimporterande
+T24	Markable 498 525	dei oljeeksporterande landa
+T25	Markable 541 553	alle pengane
+T26	Markable 559 563	Noko
+T27	Markable 588 607	offentlege utgifter
+T28	Markable 623 628	Noreg
+T29	Markable 635 649	andre oljeland
+T30	Markable 660 674	liks med Noreg
+T31	Markable 669 674	Noreg
+T33	Markable 718 740	Opec-landa og Russland
+T34	Markable 718 728	Opec-landa
+T35	Markable 732 740	Russland
+T36	Markable 746 781	ein mykje større del av formuen sin
+T37	Markable 770 781	formuen sin
+T38	Markable 778 781	sin
+T39	Markable 784 803	Dei fleste oljeland
+T40	Markable 816 848	tidlegare sløsing med oljepengar
+T41	Markable 838 848	oljepengar
+T42	Markable 851 872	Det meste av sparinga
+T43	Markable 864 872	sparinga
+T44	Markable 881 926	form av aksjar og andre verdipapir i utlandet
+T45	Markable 889 926	aksjar og andre verdipapir i utlandet
+T46	Markable 889 895	aksjar
+T47	Markable 899 926	andre verdipapir i utlandet
+T48	Markable 918 926	utlandet
+T49	Markable 929 949	Oljepengar frå Dubai
+T50	Markable 944 949	Dubai
+T51	Markable 958 963	dømes
+T52	Markable 989 995	aksjar
+T53	Markable 1000 1012	ein milliard
+T54	Markable 1000 1019	ein milliard dollar
+T55	Markable 1022 1137	DaimlerChrysler - og heile Tussaud's Group , temaparkselskapet bygd opp frå vokskabinettet Madam Tussaud's i London
+T56	Markable 1022 1039	DaimlerChrysler -
+T57	Markable 1043 1137	heile Tussaud's Group , temaparkselskapet bygd opp frå vokskabinettet Madam Tussaud's i London
+T58	Markable 1067 1137	temaparkselskapet bygd opp frå vokskabinettet Madam Tussaud's i London
+T59	Markable 1098 1137	vokskabinettet Madam Tussaud's i London
+T60	Markable 1131 1137	London
+T61	Markable 1158 1180	sparinga av oljepengar
+T62	Markable 1170 1180	oljepengar
+T64	Markable 1221 1230	( IMF ) ,
+T65	Markable 1259 1287	innstrammingar og moderasjon
+T66	Markable 1259 1273	innstrammingar
+T67	Markable 1277 1287	moderasjon
+T68	Markable 1302 1312	Opec-landa
+T69	Markable 408 412	2002
+R1	Coref Arg1:T5 Arg2:T3	
+R2	Coref Arg1:T8 Arg2:T5	
+R3	Coref Arg1:T10 Arg2:T8	
+R5	Coref Arg1:T17 Arg2:T10	
+T20	Markable 381 392	fire gonger
+R7	Coref Arg1:T24 Arg2:T17	
+R8	Bridging Arg1:T25 Arg2:T22	
+R9	Coref Arg1:T31 Arg2:T28	
+R13	Coref Arg1:T61 Arg2:T43	
+R14	Coref Arg1:T68 Arg2:T34	
+R4	Coref Arg1:T59 Arg2:T1	
+R6	Coref Arg1:T14 Arg2:T2	
+T32	Markable 685 711	dei fleste store oljelanda
+R11	Coref Arg1:T38 Arg2:T32	
+T63	Markable 1190 1287	Det internasjonale pengefondet ( IMF ) , som nesten alltid talar for innstrammingar og moderasjon

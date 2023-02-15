@@ -1,0 +1,40 @@
+T1	Markable 0 32	Trafikkulykke ved Kvam i Sogndal
+T2	Markable 18 32	Kvam i Sogndal
+T3	Markable 25 32	Sogndal
+T4	Markable 45 64	15.04.2011 kl 12:11
+T5	Markable 56 58	kl
+T6	Markable 77 96	15.04.2011 kl 13:23
+T7	Markable 88 90	kl
+T8	Markable 117 122	Origo
+T9	Markable 125 131	Klokka
+T10	Markable 138 144	fredag
+T11	Markable 150 158	politiet
+T12	Markable 159 226	melding om at ein bilist hadde køyrt ut for Fv55 ved Kvam i Sogndal
+T13	Markable 173 183	ein bilist
+T14	Markable 203 207	Fv55
+T15	Markable 212 226	Kvam i Sogndal
+T16	Markable 219 226	Sogndal
+T17	Markable 229 246	Ein mann i 20-åra
+T18	Markable 240 246	20-åra
+T19	Markable 283 287	lege
+T20	Markable 292 300	kontroll
+T21	Markable 317 324	éin bil
+T22	Markable 327 384	ulykka , som fekk både politi og ambulanse til å rykke ut
+T23	Markable 350 369	politi og ambulanse
+T24	Markable 350 356	politi
+T25	Markable 360 369	ambulanse
+T26	Markable 400 427	mistanke om promillekøyring
+T27	Markable 412 427	promillekøyring
+T28	Markable 430 453	Sogndal lensmannskontor
+T29	Markable 471 475	saka
+T30	Markable 485 496	Berre timar
+T31	Markable 514 538	ei skulejente på seks år
+T32	Markable 531 538	seks år
+T33	Markable 548 555	ein bil
+T34	Markable 558 575	Eikefjord i Flora
+T35	Markable 570 575	Flora
+T36	Markable 582 586	saka
+R1	Coref Arg1:T15 Arg2:T2	
+R2	Coref Arg1:T16 Arg2:T3	
+R3	Coref Arg1:T22 Arg2:T1	
+R4	Bridging Arg1:T29 Arg2:T22	

@@ -1,0 +1,117 @@
+T1	Markable 0 8	Telenors
+T2	Markable 0 22	Telenors nulltoleranse
+T3	Markable 25 35	Redd Barna
+T4	Markable 40 73	nulltoleranse overfor barnearbeid
+T5	Markable 62 73	barnearbeid
+T7	Markable 90 112	styreleiaren i Telenor
+T8	Markable 105 112	Telenor
+T9	Markable 117 127	Dagsrevyen
+T10	Markable 134 137	det
+T11	Markable 182 193	styrerommet
+T12	Markable 206 212	styret
+T13	Markable 213 227	stor toleranse
+T14	Markable 236 252	leiinga i styret
+T15	Markable 246 252	styret
+T16	Markable 253 264	full tillit
+T17	Markable 271 305	barnearbeidsskandalen i Bangladesh
+T18	Markable 295 305	Bangladesh
+T19	Markable 330 372	fokus på barnearbeid i lågkostlanda i Asia
+T20	Markable 339 372	barnearbeid i lågkostlanda i Asia
+T21	Markable 353 372	lågkostlanda i Asia
+T22	Markable 368 372	Asia
+T28	Markable 454 501	Alle verksemder som etablerer seg i desse landa
+T29	Markable 490 501	desse landa
+T30	Markable 525 576	barnearbeid og sterkt kritikkverdige arbeidstilhøve
+T31	Markable 525 536	barnearbeid
+T32	Markable 540 576	sterkt kritikkverdige arbeidstilhøve
+T33	Markable 579 582	Det
+T34	Markable 598 612	ei overrasking
+T35	Markable 616 621	nokon
+T36	Markable 624 627	Ein
+T37	Markable 644 673	eit program på norsk fjernsyn
+T38	Markable 659 673	norsk fjernsyn
+T39	Markable 687 690	det
+T40	Markable 697 711	norske selskap
+T41	Markable 720 747	store delar av produksjonen
+T42	Markable 735 747	produksjonen
+T43	Markable 752 756	Asia
+T45	Markable 787 793	logoen
+T46	Markable 796 809	salsapparatet
+T48	Markable 840 850	heimlandet
+T49	Markable 857 860	dei
+T50	Markable 884 953	ansvar for at underleverandørane fylgjer eit minimum av etiske reglar
+T51	Markable 898 916	underleverandørane
+T52	Markable 925 953	eit minimum av etiske reglar
+T53	Markable 940 953	etiske reglar
+T54	Markable 982 1055	tale om å kjøpa nokre einskilde komponentar til produksjonen i heimlandet
+T55	Markable 998 1025	nokre einskilde komponentar
+T56	Markable 1030 1055	produksjonen i heimlandet
+T57	Markable 1045 1055	heimlandet
+T58	Markable 1058 1084	Så å seia heile verdikjeda
+T59	Markable 1117 1143	omgrepet underleverandørar
+T60	Markable 1164 1171	praksis
+T61	Markable 1179 1205	meir tale om dotterselskap
+T62	Markable 1192 1205	dotterselskap
+T63	Markable 1216 1221	dette
+T64	Markable 1261 1264	Det
+T65	Markable 1270 1315	mange kontrollar , utførde av kompetente folk
+T66	Markable 1300 1315	kompetente folk
+T67	Markable 1318 1321	Det
+T68	Markable 1327 1415	eigne folk på staden og at ein betalar produksjonsselskapa betre enn det andre kan tilby
+T69	Markable 1327 1347	eigne folk på staden
+T70	Markable 1341 1347	staden
+T71	Markable 1354 1357	ein
+T72	Markable 1366 1385	produksjonsselskapa
+T73	Markable 1396 1415	det andre kan tilby
+T74	Markable 1418 1441	Konsernsjefen i Statoil
+T75	Markable 1434 1441	Statoil
+T76	Markable 1454 1483	ei korrupsjonssak i selskapet
+T77	Markable 1474 1483	selskapet
+T78	Markable 1486 1501	Korrupsjonssaka
+T79	Markable 1517 1526	verksemda
+T80	Markable 1533 1536	det
+T81	Markable 1550 1581	folk som var tilsette i Statoil
+T82	Markable 1574 1581	Statoil
+T83	Markable 1588 1608	alvoret i denne saka
+T84	Markable 1598 1608	denne saka
+T85	Markable 1621 1624	Ein
+T86	Markable 1641 1657	styret i Telenor
+T87	Markable 1650 1657	Telenor
+T88	Markable 1664 1685	det norske oljefondet
+T90	Markable 1698 1732	det amerikanske selskapet Wallmart
+T91	Markable 1739 1748	selskapet
+T92	Markable 1759 1807	større ansvar for tilhøva hjå underleverandørane
+T93	Markable 1777 1807	tilhøva hjå underleverandørane
+T94	Markable 1789 1807	underleverandørane
+T6	Markable 76 81	Vi òg
+R1	Coref Arg1:T8 Arg2:T6	
+R3	Bridging Arg1:T11 Arg2:T8	
+R2	Coref Arg1:T6 Arg2:T1	
+R4	Bridging Arg1:T12 Arg2:T8	
+R5	Coref Arg1:T15 Arg2:T12	
+T23	Markable 375 416	Fotballar til VM som er handsydde av born
+T24	Markable 419 433	idrettsdrakter
+T25	Markable 436 451	og så bortetter
+T26	Markable 389 391	VM
+T27	Markable 412 416	born
+T95	Markable 375 451	Fotballar til VM som er handsydde av born , idrettsdrakter , og så bortetter
+R6	Coref Arg1:T29 Arg2:T21	
+R7	Bridging Arg1:T42 Arg2:T40	
+R8	Coref Arg1:T43 Arg2:T22	
+R9	Coref Arg1:T49 Arg2:T40	
+T44	Markable 813 837	informasjonskonsulentane
+T47	Markable 787 837	logoen , salsapparatet og informasjonskonsulentane
+R10	Bridging Arg1:T48 Arg2:T40	
+R11	Bridging Arg1:T47 Arg2:T40	
+R12	Bridging Arg1:T51 Arg2:T49	
+R13	Coref Arg1:T57 Arg2:T48	
+R14	Bridging Arg1:T58 Arg2:T41	
+R15	Coref Arg1:T77 Arg2:T75	
+R16	Coref Arg1:T78 Arg2:T76	
+R17	Coref Arg1:T82 Arg2:T77	
+R18	Coref Arg1:T86 Arg2:T15	
+R19	Coref Arg1:T87 Arg2:T8	
+R20	Coref Arg1:T91 Arg2:T90	
+R21	Bridging Arg1:T94 Arg2:T91	
+T89	Markable 484 487	seg
+R22	Coref Arg1:T89 Arg2:T28	

@@ -1,0 +1,269 @@
+T1	Markable 7 23	klasseperspektiv
+T2	Markable 24 41	Reformkritikarane
+T4	Markable 67 81	arbeidarklassa
+T5	Markable 94 110	kvalitetsreforma
+T6	Markable 120 161	sosiologiprofessor Marianne Nordli Hansen
+T7	Markable 165 187	Marianne Nordli Hansen
+R1	Coref Arg1:T7 Arg2:T6	
+T8	Markable 210 224	klassebakgrunn
+T9	Markable 234 278	rekruttering til utdanning og arbeidsmarknad
+T10	Markable 251 260	utdanning
+T11	Markable 264 278	arbeidsmarknad
+T12	Markable 288 291	dag
+T13	Markable 295 323	studentar frå arbeidarklassa
+T14	Markable 309 323	arbeidarklassa
+T15	Markable 355 367	universiteta
+T16	Markable 374 387	Nordli Hansen
+R3	Coref Arg1:T16 Arg2:T7	
+T17	Markable 395 446	den omstridde kvalitetsreforma for høgare utdanning
+R4	Coref Arg1:T17 Arg2:T5	
+T18	Markable 430 446	høgare utdanning
+T19	Markable 456 475	eit positivt bidrag
+T20	Markable 525 535	studentane
+T21	Markable 540 566	betre kontakt med lærarane
+T22	Markable 558 566	lærarane
+T23	Markable 573 580	reforma
+R6	Coref Arg1:T23 Arg2:T17	
+T24	Markable 600 603	ein
+T25	Markable 611 614	seg
+R7	Coref Arg1:T25 Arg2:T24	
+T26	Markable 632 643	situasjonen
+T27	Markable 657 689	studentar med låg klassebakgrunn
+T28	Markable 671 689	låg klassebakgrunn
+T29	Markable 53 81	studentar frå arbeidarklassa
+R2	Coref Arg1:T14 Arg2:T4	
+T3	Markable 694 712	det gamle systemet
+T30	Markable 738 778	lite kontakt mellom studentar og lærarar
+T31	Markable 758 767	studentar
+T32	Markable 771 778	lærarar
+T33	Markable 797 807	studentane
+T34	Markable 808 814	sjølve
+R8	Coref Arg1:T34 Arg2:T33	
+T35	Markable 828 831	seg
+R9	Coref Arg1:T35 Arg2:T34	
+T36	Markable 836 858	interessante studentar
+T37	Markable 875 901	dei med høg klassebakgrunn
+T38	Markable 883 901	høg klassebakgrunn
+T39	Markable 940 943	seg
+R10	Coref Arg1:T39 Arg2:T37	
+T40	Markable 966 969	seg
+R11	Coref Arg1:T40 Arg2:T39	
+T41	Markable 973 988	den beste måten
+T42	Markable 998 1011	Nordli Hansen
+R12	Coref Arg1:T42 Arg2:T16	
+T43	Markable 1014 1025	Kortare tid
+T44	Markable 1026 1039	Nordli Hansen
+R13	Coref Arg1:T44 Arg2:T42	
+T45	Markable 1057 1079	ein fordel ved reforma
+T46	Markable 1072 1079	reforma
+R14	Coref Arg1:T46 Arg2:T23	
+T47	Markable 1083 1086	ein
+T48	Markable 1107 1128	det samla studieløpet
+T49	Markable 1170 1204	ei fast stilling ved universitetet
+T50	Markable 1191 1204	universitetet
+T51	Markable 1208 1211	ein
+T52	Markable 1226 1233	student
+T53	Markable 1245 1250	20 år
+T54	Markable 1253 1282	Noko av poenget med reformene
+T55	Markable 1273 1282	reformene
+T56	Markable 1304 1314	denne tida
+R15	Coref Arg1:T56 Arg2:T53	
+T57	Markable 1347 1366	ei kvalitetssenking
+T58	Markable 1402 1420	Det gamle systemet
+R16	Coref Arg1:T58 Arg2:T3	
+T59	Markable 1433 1445	uthaldenheit
+T60	Markable 1451 1454	ein
+T61	Markable 1483 1499	Eit slikt system
+T62	Markable 1525 1540	dei som har råd
+T63	Markable 1583 1604	eit kortare studieløp
+T64	Markable 1615 1638	kvaliteten på forskinga
+T65	Markable 1629 1638	forskinga
+T66	Markable 1666 1668	Eg
+R17	Coref Arg1:T66 Arg2:T44	
+T67	Markable 1691 1703	doktorgraden
+T68	Markable 1718 1730	eit livsverk
+T69	Markable 1737 1740	ein
+T70	Markable 1756 1759	den
+R18	Coref Arg1:T70 Arg2:T67	
+T71	Markable 1766 1769	ein
+T72	Markable 1772 1778	40-åra
+T73	Markable 1781 1784	ein
+T74	Markable 1836 1839	ein
+T75	Markable 1846 1858	doktorgraden
+R19	Coref Arg1:T75 Arg2:T70	
+T76	Markable 1869 1886	eit sveinnestykke
+T77	Markable 1896 1899	ein
+T78	Markable 1928 1936	forsking
+T79	Markable 1943 1946	ein
+T80	Markable 1947 1962	eit kortare løp
+T81	Markable 1969 2023	yngre og nyfikne personar med ambisjonar og pågangsmot
+T82	Markable 1999 2009	ambisjonar
+T83	Markable 2013 2023	pågangsmot
+T84	Markable 1999 2023	ambisjonar og pågangsmot
+T85	Markable 2047 2056	forskarar
+T86	Markable 2059 2067	Nostalgi
+T87	Markable 2068 2081	Nordli Hansen
+R20	Coref Arg1:T87 Arg2:T66	
+T88	Markable 2089 2112	desse klasseperspektiva
+T89	Markable 2143 2171	debatten om kvalitetsreforma
+T90	Markable 2155 2171	kvalitetsreforma
+R21	Coref Arg1:T90 Arg2:T46	
+T91	Markable 2206 2214	debatten
+R22	Coref Arg1:T91 Arg2:T89	
+T92	Markable 2220 2234	mitt institutt
+T93	Markable 2220 2224	mitt
+R23	Coref Arg1:T93 Arg2:T87	
+T94	Markable 2247 2251	tvil
+T95	Markable 2252 2273	eit betre studetilbod
+T96	Markable 2310 2312	eg
+R24	Coref Arg1:T96 Arg2:T93	
+T97	Markable 2338 2363	mange sider ved reformene
+T98	Markable 2354 2363	reformene
+R25	Coref Arg1:T98 Arg2:T55	
+T99	Markable 2313 2315	vi
+T100	Markable 2370 2372	vi
+R26	Coref Arg1:T100 Arg2:T99	
+T101	Markable 2389 2408	dei positive sidene
+T102	Markable 2428 2440	ein nostalgi
+T103	Markable 2483 2485	Eg
+R27	Coref Arg1:T103 Arg2:T96	
+T104	Markable 2504 2542	ein tendens til ei nostalgisk stemning
+T105	Markable 2520 2542	ei nostalgisk stemning
+T106	Markable 2549 2552	ein
+T107	Markable 2596 2601	dømes
+T108	Markable 2611 2613	eg
+R28	Coref Arg1:T108 Arg2:T103	
+T109	Markable 2614 2666	Rune Slagstads appell på demonstrasjonsmøte i Aulaen
+T110	Markable 2614 2628	Rune Slagstads
+T111	Markable 2639 2666	demonstrasjonsmøte i Aulaen
+T112	Markable 2660 2666	Aulaen
+T113	Markable 2691 2693	Eg
+R29	Coref Arg1:T113 Arg2:T108	
+T114	Markable 2711 2746	kritikken mot universitetsreformene
+T115	Markable 2725 2746	universitetsreformene
+R30	Coref Arg1:T115 Arg2:T98	
+T116	Markable 2760 2772	feil retning
+T117	Markable 2779 2802	dette nostalgiske synet
+T118	Markable 2808 2832	ein så framståande plass
+T119	Markable 3678 3693	reformkritikken
+R31	Coref Arg1:T119 Arg2:T114	
+T120	Markable 2873 2886	Nordli Hansen
+R32	Coref Arg1:T120 Arg2:T113	
+T121	Markable 2891 2893	Eg
+R33	Coref Arg1:T121 Arg2:T120	
+T122	Markable 2905 2923	mi eiga studenttid
+T123	Markable 2905 2912	mi eiga
+R34	Coref Arg1:T123 Arg2:T121	
+T124	Markable 2947 2959	undervisning
+T125	Markable 2962 2975	undervisninga
+R35	Coref Arg1:T125 Arg2:T124	
+T126	Markable 3012 3022	studentane
+T127	Markable 3040 3043	tid
+T128	Markable 3050 3057	Evensen
+T129	Markable 3067 3149	deler av reformene som òg har negative utslag for studentar med låg klassebakgrunn
+T130	Markable 3076 3085	reformene
+T131	Markable 3097 3149	negative utslag for studentar med låg klassebakgrunn
+T132	Markable 3117 3149	studentar med låg klassebakgrunn
+T133	Markable 3131 3149	låg klassebakgrunn
+R36	Coref Arg1:T130 Arg2:T115	
+T134	Markable 3166 3183	stipendutbetaling
+T135	Markable 3207 3220	gjennomføring
+T136	Markable 3247 3273	dei med låg klassebakgrunn
+T137	Markable 3255 3273	låg klassebakgrunn
+R37	Coref Arg1:T136 Arg2:T132	
+T138	Markable 3276 3279	Dei
+R38	Coref Arg1:T138 Arg2:T136	
+T139	Markable 3308 3311	dei
+R39	Coref Arg1:T139 Arg2:T138	
+T140	Markable 3319 3326	eksamen
+T141	Markable 3333 3336	dei
+R40	Coref Arg1:T141 Arg2:T139	
+T142	Markable 3356 3367	større grad
+T143	Markable 3340 3353	universitetet
+T144	Markable 3401 3423	fredagens Klassekampen
+T145	Markable 3401 3410	fredagens
+T146	Markable 3431 3461	historieprofessor Gro Hagemann
+T147	Markable 3462 3479	reformkritikarane
+T148	Markable 3516 3524	Hagemann
+R41	Coref Arg1:T148 Arg2:T146	
+T149	Markable 3547 3580	den reformlojale Stein A. Evensen
+R42	Coref Arg1:T149 Arg2:T128	
+T150	Markable 3583 3610	det føreståande rektorvalet
+T151	Markable 3622 3644	Marianne Nordli Hansen
+R43	Coref Arg1:T151 Arg2:T123	
+T152	Markable 3652 3693	innvendingar mot deler av reformkritikken
+T153	Markable 3669 3693	deler av reformkritikken
+T154	Markable 3700 3702	ho
+R44	Coref Arg1:T154 Arg2:T151	
+T155	Markable 3713 3721	si røyst
+T156	Markable 3713 3715	si
+R45	Coref Arg1:T156 Arg2:T154	
+T157	Markable 3726 3733	Evensen
+R46	Coref Arg1:T157 Arg2:T149	
+T158	Markable 3752 3754	eg
+R47	Coref Arg1:T158 Arg2:T156	
+T159	Markable 3763 3765	Eg
+R48	Coref Arg1:T159 Arg2:T158	
+T160	Markable 3779 3827	retning av ein av dei reformkritiske kandidatane
+T161	Markable 3790 3827	ein av dei reformkritiske kandidatane
+T162	Markable 3833 3835	eg
+R49	Coref Arg1:T162 Arg2:T159	
+T163	Markable 3865 3882	desse kandidatane
+T164	Markable 3885 3896	størst grad
+T165	Markable 3911 3936	eit veldig nostalgisk syn
+T166	Markable 3797 3827	dei reformkritiske kandidatane
+R50	Coref Arg1:T163 Arg2:T166	
+T167	Markable 3939 3956	Reformkritikarane
+R51	Coref Arg1:T167 Arg2:T163	
+T168	Markable 3970 3988	akademiske verdiar
+T169	Markable 3992 4015	den akademiske fridomen
+T170	Markable 4021 4024	dei
+R52	Coref Arg1:T170 Arg2:T167	
+T171	Markable 4029 4048	mange viktige poeng
+T172	Markable 4055 4060	dømes
+T173	Markable 4063 4070	forhold
+T174	Markable 4075 4089	styringssystem
+T175	Markable 4092 4113	universitetsdemokrati
+T176	Markable 4117 4165	det problematiske ved å belønne gjennomstrøyming
+T177	Markable 4149 4165	gjennomstrøyming
+T178	Markable 4176 4186	studentane
+R53	Coref Arg1:T178 Arg2:T126	
+T179	Markable 4192 4194	eg
+R54	Coref Arg1:T179 Arg2:T162	
+T180	Markable 4204 4215	situasjonen
+T181	Markable 4237 4244	reforma
+R55	Coref Arg1:T181 Arg2:T90	
+T182	Markable 4247 4257	Studentane
+R56	Coref Arg1:T182 Arg2:T178	
+T183	Markable 4267 4279	betre rettar
+T184	Markable 4283 4299	eit betre tilbod
+T185	Markable 4304 4313	alle fall
+T186	Markable 4317 4331	vårt institutt
+T187	Markable 4317 4321	vårt
+T188	Markable 4334 4336	Eg
+R57	Coref Arg1:T188 Arg2:T179	
+T189	Markable 4352 4367	mange kollegaer
+T190	Markable 4371 4382	desse tinga
+T191	Markable 4388 4390	eg
+R58	Coref Arg1:T191 Arg2:T188	
+T192	Markable 4410 4412	eg
+R59	Coref Arg1:T192 Arg2:T191	
+T193	Markable 4422 4437	eit særeige syn
+T194	Markable 4450 4453	meg
+R60	Coref Arg1:T194 Arg2:T192	
+T195	Markable 4472 4485	store problem
+R5	Coref Arg1:T33 Arg2:T31	
+R61	Coref Arg1:T126 Arg2:T35	
+R62	Coref Arg1:T143 Arg2:T50	
+T196	Markable 2447 2450	alt
+T197	Markable 2572 2575	alt
+T198	Markable 2839 2842	alt
+T199	Markable 2557 2565	inntrykk
+T200	Markable 3368 3396	noko framand og høgtflygande
+T201	Markable 4526 4529	alt
+T202	Markable 1317 1322	Mange
+T203	Markable 1708 1713	mange
+T204	Markable 4440 4453	Mange med meg
+T205	Markable 1537 1540	råd
+R64	Coref Arg1:T180 Arg2:T26	
+R63	Coref Arg1:T186 Arg2:T92	

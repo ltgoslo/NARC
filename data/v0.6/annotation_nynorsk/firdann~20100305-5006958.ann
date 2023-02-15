@@ -1,0 +1,40 @@
+T1	Markable 20 35	demonstrasjonar
+T2	Markable 38 64	Aksjonsleiar frå Nordfjord
+T3	Markable 55 64	Nordfjord
+T4	Markable 70 74	alle
+T5	Markable 86 93	godsida
+T6	Markable 100 112	Svein Hansen
+T7	Markable 116 148	sjukehusforkjempar frå Nordfjord
+T8	Markable 139 148	Nordfjord
+T9	Markable 153 155	Eg
+T10	Markable 166 169	meg
+T11	Markable 184 189	dette
+T12	Markable 194 196	eg
+T13	Markable 204 219	ein endeleg dom
+T14	Markable 228 281	lokalsjukehusforkjempar Svein Hansen frå Nordfjordeid
+T15	Markable 269 281	Nordfjordeid
+T16	Markable 284 287	Han
+T17	Markable 317 395	grunnlag for å uttale seg bombastisk i verken den eine eller den andre retning
+T18	Markable 378 395	den andre retning
+T19	Markable 426 432	legane
+T20	Markable 448 453	dette
+T21	Markable 463 492	dei som sit nærast pasientane
+T22	Markable 482 492	pasientane
+T23	Markable 501 507	Hansen
+T24	Markable 510 513	Han
+T25	Markable 520 531	alle partar
+T26	Markable 543 550	godsida
+T27	Markable 567 577	ei løysing
+R1	Coref Arg1:T6 Arg2:T2	
+R2	Coref Arg1:T8 Arg2:T3	
+R3	Coref Arg1:T10 Arg2:T9	
+R4	Coref Arg1:T9 Arg2:T6	
+R5	Coref Arg1:T12 Arg2:T10	
+R6	Coref Arg1:T14 Arg2:T12	
+R7	Coref Arg1:T16 Arg2:T14	
+T28	Markable 339 342	seg
+R8	Coref Arg1:T28 Arg2:T16	
+R9	Coref Arg1:T20 Arg2:T11	
+R10	Coref Arg1:T21 Arg2:T19	
+R11	Coref Arg1:T23 Arg2:T28	
+R12	Coref Arg1:T24 Arg2:T23	

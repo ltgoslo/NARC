@@ -1,0 +1,218 @@
+T1	Markable 0 5	Fr.p.
+T2	Markable 12 33	veien for Bondevik II
+T3	Markable 22 33	Bondevik II
+T4	Markable 40 85	helgens fylkesstyremøter i Fremskrittspartiet
+T5	Markable 40 47	helgens
+T6	Markable 67 85	Fremskrittspartiet
+T8	Markable 165 174	går kveld
+T9	Markable 196 205	noen tvil
+T10	Markable 101 106	Høyre
+T11	Markable 109 129	Kristelig Folkeparti
+T12	Markable 133 140	Venstre
+T13	Markable 144 162	Fr.p.s 54 spørsmål
+T14	Markable 144 150	Fr.p.s
+R1	Coref Arg1:T6 Arg2:T1	
+T7	Markable 89 162	svarene fra Høyre , Kristelig Folkeparti og Venstre på Fr.p.s 54 spørsmål
+R2	Coref Arg1:T14 Arg2:T6	
+T15	Markable 211 216	kveld
+T16	Markable 224 246	Fr.p.s stortingsgruppe
+T17	Markable 224 230	Fr.p.s
+R3	Coref Arg1:T17 Arg2:T14	
+T18	Markable 271 278	partiet
+R4	Coref Arg1:T18 Arg2:T17	
+T19	Markable 291 349	en trepartiregjering under ledelse av Kjell Magne Bondevik
+T20	Markable 318 349	ledelse av Kjell Magne Bondevik
+T21	Markable 329 349	Kjell Magne Bondevik
+T22	Markable 358 383	en fortsatt Ap.-regjering
+T23	Markable 386 399	Carl I. Hagen
+T24	Markable 422 425	seg
+R5	Coref Arg1:T24 Arg2:T23	
+T25	Markable 438 449	gruppemøtet
+T26	Markable 472 475	han
+R6	Coref Arg1:T26 Arg2:T24	
+T27	Markable 486 502	stortingsgruppen
+T28	Markable 513 521	han selv
+T29	Markable 532 555	det endelige klarsignal
+T30	Markable 565 568	han
+R8	Coref Arg1:T30 Arg2:T28	
+T31	Markable 576 591	de tre partiene
+T32	Markable 605 612	støtten
+T33	Markable 627 641	noen selvfølge
+R9	Coref Arg1:T27 Arg2:T16	
+T35	Markable 670 675	Fr.p.
+T36	Markable 679 684	plass
+T37	Markable 685 692	torsdag
+T38	Markable 696 733	de tre påtroppende regjeringspartiene
+R10	Coref Arg1:T35 Arg2:T18	
+R11	Coref Arg1:T38 Arg2:T31	
+R12	Split_antecedent Arg1:T31 Arg2:T12	
+R13	Split_antecedent Arg1:T31 Arg2:T11	
+R14	Split_antecedent Arg1:T31 Arg2:T10	
+T39	Markable 752 790	partiets første nestformann Siv Jensen
+T40	Markable 752 760	partiets
+R15	Coref Arg1:T40 Arg2:T35	
+T41	Markable 791 861	den innflytelsesrike posisjonen som leder for Stortingets finanskomité
+T42	Markable 827 861	leder for Stortingets finanskomité
+T43	Markable 837 861	Stortingets finanskomité
+T44	Markable 837 848	Stortingets
+T45	Markable 864 893	Ingen regjeringskonstellasjon
+T46	Markable 917 933	denne posisjonen
+T47	Markable 938 957	et opposisjonsparti
+R17	Coref Arg1:T46 Arg2:T41	
+T48	Markable 969 976	en gest
+T49	Markable 990 993	vei
+T50	Markable 1009 1037	Fr.p.s sårede forfengelighet
+T51	Markable 1009 1015	Fr.p.s
+R18	Coref Arg1:T51 Arg2:T40	
+T52	Markable 1043 1049	pillen
+T53	Markable 1080 1119	partiets andre nestformann John Alvheim
+T54	Markable 1080 1088	partiets
+R19	Coref Arg1:T54 Arg2:T51	
+T55	Markable 1138 1161	leder av sosialkomitéen
+T56	Markable 1147 1161	sosialkomitéen
+T57	Markable 1166 1199	de politiske markeringsmuligheter
+T58	Markable 1210 1236	Svarene på Fr.p.s spørsmål
+T59	Markable 1221 1236	Fr.p.s spørsmål
+T60	Markable 1221 1227	Fr.p.s
+R20	Coref Arg1:T60 Arg2:T54	
+T61	Markable 1240 1479	en passende blanding av imøtekommenhet og politisk velvilje , markering av at en ny regjering trenger tid for å avgjøre hvordan den skal håndtere politisk vanskelige og økonomisk kostbare saker og noen få klare avvisninger av Fr.p.s ønsker
+T62	Markable 1264 1278	imøtekommenhet
+T63	Markable 1282 1299	politisk velvilje
+T65	Markable 1318 1333	en ny regjering
+T66	Markable 1342 1345	tid
+T67	Markable 1368 1371	den
+R21	Coref Arg1:T67 Arg2:T65	
+T68	Markable 1386 1433	politisk vanskelige og økonomisk kostbare saker
+T69	Markable 1437 1479	noen få klare avvisninger av Fr.p.s ønsker
+T70	Markable 1466 1479	Fr.p.s ønsker
+T71	Markable 1466 1472	Fr.p.s
+R22	Coref Arg1:T71 Arg2:T60	
+T72	Markable 1486 1504	tonen i svarbrevet
+T73	Markable 1494 1504	svarbrevet
+T74	Markable 1521 1536	de tre partiene
+R23	Coref Arg1:T74 Arg2:T38	
+T75	Markable 1562 1564	de
+R24	Coref Arg1:T75 Arg2:T74	
+T76	Markable 1581 1593	Hagens parti
+T77	Markable 1581 1587	Hagens
+R25	Coref Arg1:T77 Arg2:T30	
+T78	Markable 1610 1616	makten
+T79	Markable 1619 1621	De
+R26	Coref Arg1:T79 Arg2:T75	
+T80	Markable 1638 1671	et rimelig godt forhold til Fr.p.
+T81	Markable 1666 1671	Fr.p.
+R27	Coref Arg1:T81 Arg2:T76	
+R28	Coref Arg1:T76 Arg2:T71	
+T82	Markable 1691 1702	en viss tid
+T83	Markable 1711 1733	hele stortingsperioden
+T84	Markable 1752 1757	Kr.F.
+T85	Markable 1761 1768	Venstre
+R29	Coref Arg1:T84 Arg2:T11	
+R30	Coref Arg1:T85 Arg2:T12	
+T86	Markable 1820 1829	et faktum
+T87	Markable 1833 1838	Fr.p.
+R31	Coref Arg1:T87 Arg2:T81	
+T88	Markable 1844 1901	det viktigste støttepartiet for Bondeviks andre regjering
+R32	Coref Arg1:T88 Arg2:T87	
+T89	Markable 1876 1901	Bondeviks andre regjering
+T90	Markable 1876 1885	Bondeviks
+R33	Coref Arg1:T90 Arg2:T21	
+T91	Markable 1904 1919	De tre partiene
+R34	Coref Arg1:T91 Arg2:T79	
+T92	Markable 1937 1952	Arbeiderpartiet
+T94	Markable 1964 2034	noen enkeltsaker som kan være viktige for profileringen av regjeringen
+T95	Markable 2006 2034	profileringen av regjeringen
+T96	Markable 2023 2034	regjeringen
+T97	Markable 2041 2043	de
+R35	Coref Arg1:T97 Arg2:T91	
+T98	Markable 2082 2087	Fr.p.
+R36	Coref Arg1:T98 Arg2:T88	
+T99	Markable 2091 2168	statsbudsjettet ikke bare for neste år , men også i resten av fireårsperioden
+T100	Markable 2121 2129	neste år
+T101	Markable 2143 2168	resten av fireårsperioden
+T102	Markable 2153 2168	fireårsperioden
+R37	Coref Arg1:T102 Arg2:T83	
+T103	Markable 2181 2197	statsbudsjettene
+T104	Markable 2210 2226	noen andre saker
+T105	Markable 2233 2256	den politiske retningen
+T106	Markable 2259 2291	En rekke av Kr.F.s tillitsvalgte
+T107	Markable 2271 2291	Kr.F.s tillitsvalgte
+T108	Markable 2271 2277	Kr.F.s
+R38	Coref Arg1:T108 Arg2:T84	
+T109	Markable 2323 2334	et inntrykk
+T110	Markable 2341 2349	Bondevik
+R39	Coref Arg1:T110 Arg2:T90	
+T111	Markable 2366 2377	Fr.p.s nåde
+T112	Markable 2366 2372	Fr.p.s
+R40	Coref Arg1:T112 Arg2:T98	
+T113	Markable 2400 2402	de
+T114	Markable 2403 2429	bindende avtaler med Fr.p.
+T115	Markable 2424 2428	Fr.p
+R41	Coref Arg1:T115 Arg2:T112	
+R42	Coref Arg1:T113 Arg2:T106	
+T116	Markable 2430 2445	De tre partiene
+R43	Coref Arg1:T116 Arg2:T97	
+T117	Markable 2464 2477	slike avtaler
+T118	Markable 2497 2551	avgrensede områder der de og Fr.p. har felles politikk
+T119	Markable 2520 2522	de
+R44	Coref Arg1:T119 Arg2:T116	
+T120	Markable 2526 2531	Fr.p.
+R45	Coref Arg1:T120 Arg2:T115	
+T121	Markable 2536 2551	felles politikk
+T122	Markable 2554 2566	Dette svaret
+T123	Markable 2581 2585	Fr.p
+R46	Coref Arg1:T123 Arg2:T120	
+T124	Markable 2640 2655	de tre partiene
+R47	Coref Arg1:T124 Arg2:T119	
+T125	Markable 2658 2663	Høyre
+T126	Markable 2666 2671	Kr.F.
+T127	Markable 2675 2682	Venstre
+R48	Coref Arg1:T126 Arg2:T108	
+T128	Markable 2715 2734	forholdet til Fr.p.
+T129	Markable 2729 2734	Fr.p.
+R49	Coref Arg1:T129 Arg2:T123	
+R50	Coref Arg1:T125 Arg2:T10	
+R51	Coref Arg1:T127 Arg2:T85	
+T130	Markable 2742 2745	dem
+R52	Split_antecedent Arg1:T130 Arg2:T127	
+R53	Split_antecedent Arg1:T130 Arg2:T126	
+R54	Split_antecedent Arg1:T130 Arg2:T125	
+T131	Markable 2746 2878	langt vanskeligere utfordringer etter regjeringsskiftet enn de 54 spørsmålene de måtte besvare for å komme inn i regjeringskontorene
+T132	Markable 2784 2801	regjeringsskiftet
+T133	Markable 2806 2878	de 54 spørsmålene de måtte besvare for å komme inn i regjeringskontorene
+T134	Markable 2824 2826	de
+R55	Coref Arg1:T134 Arg2:T130	
+T135	Markable 2859 2878	regjeringskontorene
+R56	Coref Arg1:T133 Arg2:T59	
+T136	Markable 2881 2886	Hagen
+T137	Markable 2896 2899	seg
+R57	Coref Arg1:T137 Arg2:T136	
+R58	Coref Arg1:T136 Arg2:T77	
+T138	Markable 2908 2918	den makten
+T139	Markable 2919 2922	han
+R59	Coref Arg1:T139 Arg2:T137	
+T140	Markable 2943 2981	fødselshjelper for den nye regjeringen
+T141	Markable 2962 2981	den nye regjeringen
+T142	Markable 2992 2995	han
+R60	Coref Arg1:T142 Arg2:T139	
+T143	Markable 2998 3001	dag
+T144	Markable 3016 3035	en helhetsvurdering
+T145	Markable 3047 3066	et regjeringsskifte
+T146	Markable 3081 3084	han
+R61	Coref Arg1:T146 Arg2:T142	
+T147	Markable 3105 3130	temmelig ubehagelige krav
+T148	Markable 3152 3169	denne vurderingen
+R62	Coref Arg1:T148 Arg2:T144	
+R63	Coref Arg1:T141 Arg2:T96	
+R64	Coref Arg1:T96 Arg2:T89	
+T149	Markable 2595 2598	det
+R65	Coref Arg1:T149 Arg2:T122	
+T151	Markable 650 660	realiteten
+T152	Markable 1744 1768	mange i Kr.F. og Venstre
+T64	Markable 1302 1433	markering av at en ny regjering trenger tid for å avgjøre hvordan den skal håndtere politisk vanskelige og økonomisk kostbare saker
+T93	Markable 1959 1961	SV
+R67	Coref Arg1:T3 Arg2:T19	
+R68	Coref Arg1:T59 Arg2:T13	
+R7	Coref Arg1:T28 Arg2:T26	
+R16	Coref Arg1:T89 Arg2:T19	
+R66	Coref Arg1:T103 Arg2:T99	

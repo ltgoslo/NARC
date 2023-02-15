@@ -1,0 +1,50 @@
+T1	Markable 0 19	Færre forbrukslån |
+T2	Markable 35 41	fleire
+T3	Markable 52 57	Færre
+T4	Markable 66 77	forbrukslån
+T5	Markable 95 101	fleire
+T6	Markable 110 122	pengane sine
+T7	Markable 118 122	sine
+T8	Markable 131 178	mange år med til dels sterk vekst i forbrukslån
+T9	Markable 148 152	dels
+T10	Markable 144 178	til dels sterk vekst i forbrukslån
+T11	Markable 167 178	forbrukslån
+T12	Markable 186 199	gjeldsveksten
+T13	Markable 200 208	forteikn
+T14	Markable 211 230	første kvartal i år
+T15	Markable 228 230	år
+T16	Markable 239 256	Dagens Næringsliv
+T17	Markable 273 281	nordmenn
+T18	Markable 286 295	1 prosent
+T19	Markable 286 312	1 prosent mindre slike lån
+T20	Markable 328 347	same periode i fjor
+T21	Markable 343 347	fjor
+T22	Markable 362 380	den samla sparinga
+T23	Markable 398 405	normalt
+T24	Markable 410 414	Vårt
+T25	Markable 410 423	Vårt inntrykk
+T26	Markable 430 435	dette
+T27	Markable 447 497	banker og finansieringsselskap som gir slike lån ,
+T28	Markable 447 453;496 497	banker ,
+T29	Markable 457 495	finansieringsselskap som gir slike lån
+T30	Markable 486 495	slike lån
+T31	Markable 507 534	ei meir restriktiv haldning
+T32	Markable 539 546	tillegg
+T33	Markable 551 580	dei som tek opp forbrukslån ,
+T34	Markable 567 578	forbrukslån
+T35	Markable 611 638	direktør i Finanstilsynet ,
+T36	Markable 622 636	Finanstilsynet
+T37	Markable 611 658	direktør i Finanstilsynet , Bjørn Skogstad Aamo
+T38	Markable 661 707	Informasjonsdirektør Thomas Midteide i DnB NOR
+T39	Markable 700 707	DnB NOR
+T40	Markable 727 743	dei låge rentene
+T41	Markable 757 789	behovet for å ta opp forbrukslån
+T42	Markable 778 789	forbrukslån
+T43	Markable 805 816	Forbrukslån
+T44	Markable 832 892	2 prosent av den totale lånemassen til hushalda her i landet
+T45	Markable 845 892	den totale lånemassen til hushalda her i landet
+T46	Markable 871 892	hushalda her i landet
+T47	Markable 886 892	landet
+R1	Coref Arg1:T7 Arg2:T5	
+T48	Markable 303 312	slike lån
+R4	Coref Arg1:T24 Arg2:T36	

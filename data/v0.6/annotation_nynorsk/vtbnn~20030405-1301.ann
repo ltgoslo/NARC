@@ -1,0 +1,77 @@
+T1	Markable 0 22	Utvikling av skisenter
+T2	Markable 13 22	skisenter
+T3	Markable 27 40	reiselivspris
+T4	Markable 49 101	årsmøtet til Telemark reiselivsråd i Kragerø torsdag
+T5	Markable 62 83	Telemark reiselivsråd
+T6	Markable 86 93	Kragerø
+T7	Markable 94 101	torsdag
+T8	Markable 109 157	dagleg leiar ved Vierli Turistsenter i Rauland ,
+T9	Markable 126 155	Vierli Turistsenter i Rauland
+T10	Markable 148 155	Rauland
+T11	Markable 109 171	dagleg leiar ved Vierli Turistsenter i Rauland , Erlend Larsen
+T12	Markable 174 205	Telemark reiselivspris for 2002
+T13	Markable 208 211	Han
+T14	Markable 217 223	prisen
+T15	Markable 228 281	den store innsatsen har vist i oppbygging av senteret
+T16	Markable 259 281	oppbygging av senteret
+T17	Markable 273 281	senteret
+T18	Markable 289 293	sine
+T19	Markable 289 310	sine nyskapande evner
+T20	Markable 313 365	Det at Vierli var fyrst ute med kjelketrekk i heisen
+T21	Markable 320 326	Vierli
+T22	Markable 345 365	kjelketrekk i heisen
+T23	Markable 359 365	heisen
+T24	Markable 377 411	grunnane til at Larsen fekk prisen
+T25	Markable 393 399	Larsen
+T26	Markable 405 411	prisen
+T27	Markable 414 429	Eit anna moment
+T28	Markable 437 440	han
+T29	Markable 453 481	kunstsnø til langrennsløyper
+T30	Markable 466 481	langrennsløyper
+T31	Markable 490 498	sesongen
+T32	Markable 527 548	statuttane for prisen
+T33	Markable 542 548	prisen
+T34	Markable 563 581	den som får prisen
+T35	Markable 575 581	prisen
+T36	Markable 594 614	ein spesiell innsats
+T37	Markable 619 640	reiselivet i Telemark
+T38	Markable 632 640	Telemark
+T39	Markable 649 663	ein inspirator
+T40	Markable 668 688	resten av reiselivet
+T41	Markable 678 688	reiselivet
+T42	Markable 691 724	Formann i Telemark Reiselivsråd ,
+T43	Markable 701 722	Telemark Reiselivsråd
+T44	Markable 691 736	Formann i Telemark Reiselivsråd , Jan Stabell
+T45	Markable 746 755	utdelinga
+T46	Markable 759 764	årets
+T47	Markable 759 771	årets vinnar
+T48	Markable 791 808	reiselivsbransjen
+T49	Markable 811 814	Han
+T50	Markable 824 834	ein pioner
+T51	Markable 855 868	Sjølve prisen
+T52	Markable 876 901	tillegg til heider og ære
+T53	Markable 888 901	heider og ære
+T54	Markable 888 894	heider
+T55	Markable 898 901	ære
+T56	Markable 904 949	diplom og eit kunstverk laga av Terje Grøstad
+T57	Markable 904 910	diplom
+T58	Markable 914 949	eit kunstverk laga av Terje Grøstad
+T59	Markable 936 949	Terje Grøstad
+T60	Markable 201 205	2002
+R1	Coref Arg1:T13 Arg2:T11	
+R2	Coref Arg1:T14 Arg2:T12	
+R3	Coref Arg1:T17 Arg2:T9	
+R4	Coref Arg1:T18 Arg2:T13	
+R5	Coref Arg1:T21 Arg2:T17	
+R6	Bridging Arg1:T23 Arg2:T21	
+R7	Coref Arg1:T25 Arg2:T18	
+R8	Coref Arg1:T26 Arg2:T14	
+R9	Coref Arg1:T28 Arg2:T25	
+R10	Coref Arg1:T33 Arg2:T26	
+R11	Coref Arg1:T35 Arg2:T33	
+R12	Coref Arg1:T41 Arg2:T37	
+R13	Coref Arg1:T43 Arg2:T5	
+R14	Bridging Arg1:T45 Arg2:T35	
+R15	Coref Arg1:T46 Arg2:T60	
+R16	Coref Arg1:T49 Arg2:T28	
+R17	Coref Arg1:T51 Arg2:T35	

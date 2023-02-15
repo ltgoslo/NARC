@@ -1,0 +1,87 @@
+T1	Markable 0 8	Dagmamma
+T2	Markable 16 28	Hells Angels
+T3	Markable 45 50	gjeld
+T4	Markable 53 63	Barnefaren
+T5	Markable 79 86	MC-menn
+T6	Markable 93 151	assistanse fra medlemmer av MC-klubben Hells Angels ( HA )
+T7	Markable 108 151	medlemmer av MC-klubben Hells Angels ( HA )
+T8	Markable 121 151	MC-klubben Hells Angels ( HA )
+T9	Markable 145 151	( HA )
+T10	Markable 161 184	den oppsagte dagmammaen
+T11	Markable 196 213	utestående penger
+T12	Markable 225 236	en barnefar
+T13	Markable 244 254	kontrakten
+T14	Markable 264 267	sin
+T15	Markable 268 274	ett år
+T16	Markable 264 287	sin ett år gamle datter
+T17	Markable 298 308	dagmammaen
+T18	Markable 315 318	han
+T19	Markable 330 342	HA-medlemmer
+T20	Markable 353 358	døren
+T21	Markable 363 377	krav om penger
+T22	Markable 371 377	penger
+T23	Markable 380 392	oktober 2005
+T24	Markable 397 422	dommen fra Jæren tingrett
+T25	Markable 408 422	Jæren tingrett
+T26	Markable 440 457	dagmammaen ( 44 )
+T27	Markable 469 577	anledning til kreve inn 9.000 kroner fra mannen som mente kvinnen hadde misligholdt avtalen de hadde inngått
+T28	Markable 493 505	9.000 kroner
+T29	Markable 510 577	mannen som mente kvinnen hadde misligholdt avtalen de hadde inngått
+T30	Markable 527 534	kvinnen
+T31	Markable 553 577	avtalen de hadde inngått
+T32	Markable 561 563	de
+T33	Markable 580 587	Kvinnen
+T34	Markable 603 631	to medlemmer av Hells Angels
+T35	Markable 619 631	Hells Angels
+T36	Markable 635 638	han
+T37	Markable 666 679	småbarnsfaren
+T38	Markable 696 703	kvinnen
+T39	Markable 704 711	pengene
+T40	Markable 735 748	HA-medlemmene
+T41	Markable 760 762	de
+T42	Markable 777 784	gjelden
+T43	Markable 792 799	beløpet
+T44	Markable 823 833	Fornærmede
+T45	Markable 850 853	han
+T46	Markable 872 882	skremmende
+T47	Markable 886 889	han
+T48	Markable 905 945	personer tilhørende Hells Angels-miljøet
+T49	Markable 925 945	Hells Angels-miljøet
+T50	Markable 951 954	han
+T51	Markable 966 1021	tvil om at de var i stand til å gjøre alvor av truslene
+T52	Markable 977 979	de
+T53	Markable 986 1021	stand til å gjøre alvor av truslene
+T54	Markable 1004 1009	alvor
+T55	Markable 1013 1021	truslene
+T56	Markable 1035 1041	dommen
+R2	Coref Arg1:T10 Arg2:T1	
+R1	Coref Arg1:T8 Arg2:T2	
+R3	Coref Arg1:T12 Arg2:T4	
+R4	Coref Arg1:T7 Arg2:T5	
+R5	Coref Arg1:T14 Arg2:T12	
+R6	Coref Arg1:T17 Arg2:T10	
+R7	Coref Arg1:T18 Arg2:T14	
+R8	Coref Arg1:T19 Arg2:T7	
+R9	Coref Arg1:T26 Arg2:T17	
+R10	Coref Arg1:T29 Arg2:T18	
+R11	Coref Arg1:T30 Arg2:T26	
+R12	Split_antecedent Arg1:T32 Arg2:T30	
+R13	Split_antecedent Arg1:T32 Arg2:T29	
+R14	Coref Arg1:T33 Arg2:T30	
+R15	Coref Arg1:T34 Arg2:T19	
+R16	Coref Arg1:T35 Arg2:T8	
+R17	Coref Arg1:T36 Arg2:T29	
+R18	Coref Arg1:T37 Arg2:T36	
+R19	Coref Arg1:T38 Arg2:T33	
+R20	Coref Arg1:T39 Arg2:T28	
+T57	Markable 724 748	den ene av HA-medlemmene
+R21	Coref Arg1:T41 Arg2:T35	
+R22	Coref Arg1:T43 Arg2:T39	
+R23	Coref Arg1:T44 Arg2:T37	
+R24	Coref Arg1:T45 Arg2:T44	
+R25	Coref Arg1:T40 Arg2:T34	
+R26	Coref Arg1:T47 Arg2:T45	
+R27	Coref Arg1:T49 Arg2:T41	
+R28	Coref Arg1:T50 Arg2:T47	
+R29	Coref Arg1:T52 Arg2:T49	
+R30	Coref Arg1:T56 Arg2:T24	

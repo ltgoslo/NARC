@@ -1,0 +1,54 @@
+T1	Markable 2 5	Han
+T2	Markable 10 15	alibi
+T3	Markable 18 43	Foto : Jan Petter Lynau |
+T4	Markable 25 41	Jan Petter Lynau
+T5	Markable 44 57	( VG Nett ) |
+T6	Markable 62 69	pressen
+T7	Markable 93 99	bomben
+T8	Markable 110 118	VG-huset
+T9	Markable 135 158	avissidene fra 22. juli
+T10	Markable 150 158	22. juli
+T11	Markable 161 173	Avisstativet
+T12	Markable 189 222	bomben til Anders Behring Breivik
+T13	Markable 200 222	Anders Behring Breivik
+T14	Markable 225 241	Foto : Scanpix |
+T15	Markable 232 239	Scanpix
+T16	Markable 242 255	( VG Nett ) |
+T17	Markable 256 270	Adresseavisens
+T18	Markable 256 281	Adresseavisens nettutgave
+T19	Markable 292 304	morgentimene
+T20	Markable 305 388	en video hvor Utøya-overlevende Kristoffer Bergersen som går opp sin egen fluktrute
+T21	Markable 319 357	Utøya-overlevende Kristoffer Bergersen
+T22	Markable 370 373	sin
+T23	Markable 370 388	sin egen fluktrute
+T24	Markable 391 398	Videoen
+T25	Markable 413 417	hans
+T26	Markable 413 421	hans far
+T27	Markable 425 427	de
+T28	Markable 443 446	øya
+T29	Markable 447 457	19. august
+T30	Markable 463 468	papir
+T31	Markable 471 474	dag
+T32	Markable 483 492	Dagbladet
+T33	Markable 496 525	massemorderen Behring Breivik
+T34	Markable 536 555	kafébygget på Utøya
+T35	Markable 550 555	Utøya
+T36	Markable 556 571	minst to ganger
+T37	Markable 572 580	22. juli
+T38	Markable 583 586	Det
+T39	Markable 590 678	øyenvitner som så Behring Breivik ved huset på to separate anledninger som uttaler dette
+T40	Markable 608 623	Behring Breivik
+T41	Markable 628 633	huset
+T42	Markable 637 660	to separate anledninger
+T43	Markable 673 678	dette
+R1	Coref Arg1:T7 Arg2:T12	
+R2	Coref Arg1:T22 Arg2:T21	
+R3	Coref Arg1:T24 Arg2:T20	
+R4	Coref Arg1:T25 Arg2:T22	
+R5	Split_antecedent Arg1:T27 Arg2:T26	
+R6	Split_antecedent Arg1:T27 Arg2:T25	
+R7	Coref Arg1:T33 Arg2:T13	
+R8	Coref Arg1:T35 Arg2:T28	
+R9	Coref Arg1:T37 Arg2:T10	
+R10	Coref Arg1:T40 Arg2:T33	
+R11	Coref Arg1:T41 Arg2:T34	

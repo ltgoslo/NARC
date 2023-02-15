@@ -1,0 +1,48 @@
+T1	Markable 10 12	OL
+T2	Markable 15 34	Odd-Bjørn Hjelmeset
+T3	Markable 15 39	Odd-Bjørn Hjelmeset sitt
+T4	Markable 15 44	Odd-Bjørn Hjelmeset sitt namn
+T5	Markable 62 75	Olympiatoppen
+T6	Markable 86 97	23 utøvarar
+T7	Markable 102 104	OL
+T8	Markable 107 110	dag
+T9	Markable 113 134	Seks langrennsløparar
+T10	Markable 153 158	lista
+T11	Markable 161 200	Mellom anna Ronny Hafsås frå Stårheim .
+T12	Markable 190 198	Stårheim
+T13	Markable 201 232	Ann Kristin Flatland frå Vik IL
+T14	Markable 226 232	Vik IL
+T15	Markable 249 259	skiskyting
+T16	Markable 262 265	Det
+T17	Markable 275 291	Sogn og Fjordane
+T18	Markable 309 321	tre utøvarar
+T19	Markable 338 360	skiskyttaren Tarjei Bø
+T20	Markable 371 381	klarsignal
+T21	Markable 384 425	Framleis tru på OL etter uflaks- sesong |
+T22	Markable 400 402	OL
+T23	Markable 409 423	uflaks- sesong
+T24	Markable 426 431	Mange
+T25	Markable 457 504	Odd-Bjørn Hjelmeset ( Fjellhug / Vereide-Hyen )
+T26	Markable 477 504	( Fjellhug / Vereide-Hyen )
+T27	Markable 477 489;503 504	( Fjellhug / )
+T28	Markable 490 502	Vereide-Hyen
+T29	Markable 526 529	dag
+T30	Markable 532 535	Han
+T31	Markable 550 558	8.-plass
+T32	Markable 562 614	15-kilometeren i verdscupen i estiske Otepää laurdag
+T33	Markable 579 606	verdscupen i estiske Otepää
+T34	Markable 592 606	estiske Otepää
+T35	Markable 607 614	laurdag
+T36	Markable 641 644	det
+T37	Markable 651 695	Heller ikkje klubbkameraten Roger Aa Djupvik
+T38	Markable 705 715	klarsignal
+T39	Markable 718 721	Han
+T40	Markable 748 750	år
+T41	Markable 771 777	nummer
+T42	Markable 781 788	laurdag
+R1	Coref Arg1:T7 Arg2:T1	
+R2	Coref Arg1:T22 Arg2:T7	
+R3	Coref Arg1:T25 Arg2:T2	
+R4	Coref Arg1:T30 Arg2:T25	
+R5	Coref Arg1:T36 Arg2:T31	
+R6	Coref Arg1:T39 Arg2:T37	

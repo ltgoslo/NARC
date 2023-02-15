@@ -1,0 +1,98 @@
+T1	Markable 0 35	Godt innspel frå barnevernpanelet |
+T2	Markable 17 33	barnevernpanelet
+T3	Markable 36 52	Barnevernpanelet
+T4	Markable 85 139	lettare adopsjon av små born som er hjå fosterforeldre
+T5	Markable 105 139	små born som er hjå fosterforeldre
+T6	Markable 125 139	fosterforeldre
+T7	Markable 142 145	Det
+T8	Markable 279 288	rapporten
+T9	Markable 291 298	Panelet
+T10	Markable 318 329	barnevernet
+T11	Markable 345 368	mogelege fosterforeldre
+T12	Markable 372 375	dei
+T13	Markable 418 431	trong for det
+T14	Markable 428 431	det
+T15	Markable 436 443	tillegg
+T16	Markable 449 472	dei biologiske foreldra
+T17	Markable 476 517	mindre høve til å anka vedtak om adopsjon
+T18	Markable 499 517	vedtak om adopsjon
+T19	Markable 509 517	adopsjon
+T20	Markable 520 530	Framlegget
+T21	Markable 556 559	Det
+T22	Markable 571 587	kor tett kontakt
+T23	Markable 588 611	dei biologiske foreldra
+T24	Markable 625 631	barnet
+T25	Markable 634 649	Kor stor sjanse
+T26	Markable 664 703	situasjonen for dei biologiske foreldra
+T27	Markable 680 703	dei biologiske foreldra
+T28	Markable 732 774	rusmiddel som er grunn til foreldresvikten
+T29	Markable 749 774	grunn til foreldresvikten
+T30	Markable 759 774	foreldresvikten
+T31	Markable 789 812	sjansen for tilbakefall
+T32	Markable 801 812	tilbakefall
+T33	Markable 831 870	snakk om skjøn som gjer vala vanskelege
+T34	Markable 840 870	skjøn som gjer vala vanskelege
+T35	Markable 855 859	vala
+T36	Markable 892 909	sjansane for anke
+T37	Markable 905 909	anke
+T38	Markable 940 945	dette
+T39	Markable 948 958	framlegget
+T40	Markable 979 982	Ein
+T41	Markable 1000 1004	vekt
+T42	Markable 1023 1043	det beste for barnet
+T43	Markable 1037 1043	barnet
+T44	Markable 1046 1049	Det
+T45	Markable 1061 1115	ein stabil busituasjon med same foreldre over lang tid
+T46	Markable 1088 1101	same foreldre
+T47	Markable 1107 1115	lang tid
+T48	Markable 1122 1135	ein fireåring
+T49	Markable 1141 1146	to år
+T50	Markable 1151 1170	same fosterforeldre
+T51	Markable 1176 1179	ein
+T52	Markable 1184 1194	hovudregel
+T53	Markable 1207 1213	barnet
+T54	Markable 1231 1251	desse fosterforeldra
+T55	Markable 1256 1259	det
+T56	Markable 1286 1289	det
+T57	Markable 1305 1328	dei biologiske foreldra
+T58	Markable 1344 1355	situasjonen
+T59	Markable 1385 1399	mange tilfelle
+T60	Markable 1404 1407	ein
+T61	Markable 1411 1472	nær kontakt med biologiske besteforeldre , onklar og tanter ,
+T62	Markable 1427 1472	biologiske besteforeldre , onklar og tanter ,
+T63	Markable 1427 1453	biologiske besteforeldre ,
+T64	Markable 1454 1460	onklar
+T65	Markable 1464 1472	tanter ,
+T66	Markable 1476 1542	gjerne biologiske foreldre òg , om dei skulle vera i stand til det
+T67	Markable 1511 1514	dei
+T68	Markable 1529 1542	stand til det
+T69	Markable 1539 1542	det
+T70	Markable 1545 1556	Barnevernet
+T71	Markable 1570 1589	fleksible ordningar
+T72	Markable 1600 1616	grunnlag for det
+T73	Markable 1613 1616	det
+T74	Markable 1619 1626	Poenget
+T75	Markable 1638 1687	ein stabil situasjon i dei avgjerande oppvekståra
+T76	Markable 1661 1687	dei avgjerande oppvekståra
+T77	Markable 1707 1716	rapporten
+T78	Markable 1722 1761	det viktige arbeidet barnevernet gjer ,
+T79	Markable 1743 1754	barnevernet
+T80	Markable 1762 1775	meir merksemd
+R1	Coref Arg1:T3 Arg2:T2	
+R2	Coref Arg1:T9 Arg2:T3	
+R3	Coref Arg1:T12 Arg2:T11	
+R4	Coref Arg1:T23 Arg2:T16	
+R5	Coref Arg1:T27 Arg2:T23	
+R6	Coref Arg1:T39 Arg2:T20	
+R7	Coref Arg1:T53 Arg2:T48	
+R8	Coref Arg1:T54 Arg2:T50	
+R9	Coref Arg1:T55 Arg2:T53	
+R10	Coref Arg1:T57 Arg2:T27	
+T81	Markable 1483 1502	biologiske foreldre
+R11	Coref Arg1:T67 Arg2:T81	
+R12	Coref Arg1:T70 Arg2:T10	
+R13	Coref Arg1:T73 Arg2:T71	
+R14	Coref Arg1:T77 Arg2:T8	
+R15	Coref Arg1:T79 Arg2:T70	
+T82	Markable 714 717	seg
+R16	Coref Arg1:T82 Arg2:T26	

@@ -1,0 +1,69 @@
+T1	Markable 17 23	fredag
+T2	Markable 48 58	luftrommet
+T3	Markable 85 107	Førebelse vêrprognosar
+T4	Markable 116 138	luftfartsmyndigheitene
+T5	Markable 153 171	luftrommet i Norge
+T6	Markable 166 171	Norge
+T7	Markable 183 196	fredag morgon
+T8	Markable 190 196	morgon
+T9	Markable 202 239	ei pressekonferanse klokka 12 torsdag
+T10	Markable 222 228	klokka
+T11	Markable 232 239	torsdag
+T12	Markable 248 275	Avinor og Luftfartstilsynet
+T13	Markable 248 254	Avinor
+T14	Markable 258 275	Luftfartstilsynet
+T15	Markable 294 307	nokon trafikk
+T16	Markable 310 323	norsk luftrom
+T17	Markable 328 351	tidlegast fredag morgon
+T18	Markable 345 351	morgon
+T19	Markable 356 374	Vêr og vindretning
+T20	Markable 356 359	Vêr
+T21	Markable 363 374	vindretning
+T22	Markable 403 414	flyproblema
+T23	Markable 439 441	vi
+T24	Markable 470 475	natta
+T25	Markable 483 496	fredag morgon
+T26	Markable 490 496	morgon
+T27	Markable 503 505	vi
+T28	Markable 528 538	luftrommet
+T29	Markable 580 599;611 619	flysikringsdirektør i Avinor
+T30	Markable 580 619	flysikringsdirektør Knut Skaar i Avinor
+T31	Markable 613 619	Avinor
+T32	Markable 626 643	pressekonferansen
+T33	Markable 646 662	Kvar sjette time
+T34	Markable 667 689	luftfartsmyndigheitene
+T35	Markable 694 765	nye vêrprognosar frå det britiske meteorologiske instituttet Met Office
+T36	Markable 715 754	det britiske meteorologiske instituttet
+T37	Markable 715 765	det britiske meteorologiske instituttet Met Office
+T38	Markable 776 881	prognosane frå klokka åtte torsdag morgon som medførte at all norsk lufttrafikk vart stoppa frå klokka 10
+T39	Markable 791 797	klokka
+T40	Markable 803 817	torsdag morgon
+T41	Markable 811 817	morgon
+T42	Markable 834 855	all norsk lufttrafikk
+T43	Markable 872 878	klokka
+T44	Markable 893 907;918 1028	ei ny prognose , der luftfartsmyndigheitene ser betre korleis vulkanaktiviteten påverkar flyforholda i Europa utover fredagen
+T45	Markable 908 914	klokka
+T46	Markable 924 946	luftfartsmyndigheitene
+T47	Markable 965 982	vulkanaktiviteten
+T48	Markable 992 1012	flyforholda i Europa
+T49	Markable 1006 1012	Europa
+T50	Markable 1020 1028	fredagen
+T51	Markable 1031 1113	All flytrafikk i Storbritannia , Belgia , Nederland , Danmark og delar av Tyskland
+T52	Markable 1048 1113	Storbritannia , Belgia , Nederland , Danmark og delar av Tyskland
+T53	Markable 1048 1063	Storbritannia ,
+T54	Markable 1064 1072	Belgia ,
+T55	Markable 1073 1084	Nederland ,
+T56	Markable 1085 1092	Danmark
+T57	Markable 1096 1113	delar av Tyskland
+T58	Markable 1105 1113	Tyskland
+T59	Markable 1133 1153	følgje av vulkanoska
+T60	Markable 1143 1153	vulkanoska
+R1	Coref Arg1:T27 Arg2:T23	
+R2	Coref Arg1:T28 Arg2:T5	
+R3	Coref Arg1:T5 Arg2:T2	
+R4	Coref Arg1:T32 Arg2:T9	
+R5	Coref Arg1:T34 Arg2:T12	
+R6	Coref Arg1:T46 Arg2:T34	
+R7	Bridging Arg1:T60 Arg2:T47	
+R8	Coref Arg1:T31 Arg2:T13	
+R9	Coref Arg1:T12 Arg2:T4	

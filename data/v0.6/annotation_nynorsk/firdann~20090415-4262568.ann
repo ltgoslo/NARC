@@ -1,0 +1,33 @@
+T1	Markable 0 26	Traktorvandalar på ferde |
+T2	Markable 19 24	ferde
+T3	Markable 27 39	Knuste ruter
+T4	Markable 27 57	Knuste ruter og punkterte dekk
+T5	Markable 43 57	punkterte dekk
+T6	Markable 60 75	Aurland kommune
+T8	Markable 60 87	Aurland kommune sin traktor
+T9	Markable 93 105	hard medfart
+T10	Markable 106 122	siste påskedagen
+T11	Markable 125 135	Seks ruter
+T12	Markable 151 160	eitt dekk
+T13	Markable 179 187	vandalar
+T14	Markable 202 207	ferde
+T15	Markable 210 227	Trist oppleving |
+T16	Markable 236 245	Sogn Avis
+T17	Markable 251 293	vitne som kommunetilsette har snakka med ,
+T18	Markable 261 276	kommunetilsette
+T19	Markable 302 311	hærverket
+T20	Markable 334 340	klokka
+T21	Markable 356 362	måndag
+T22	Markable 370 372	vi
+T23	Markable 379 383	Flåm
+T24	Markable 384 398	måndagskvelden
+T25	Markable 406 408	vi
+T26	Markable 416 436	alle dei seks rutene
+T27	Markable 456 466	framdekket
+T28	Markable 488 520	maskinkøyrar i Aurland kommune ,
+T29	Markable 503 518	Aurland kommune
+T30	Markable 488 530	maskinkøyrar i Aurland kommune , Jonny Bøe
+R1	Coref Arg1:T25 Arg2:T22	
+R2	Coref Arg1:T26 Arg2:T11	
+R3	Bridging Arg1:T27 Arg2:T8	
+R4	Coref Arg1:T29 Arg2:T6	
