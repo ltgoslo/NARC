@@ -1,0 +1,76 @@
+T1	Markable 0 4	Beat
+T2	Markable 14 29	avtale med Sony
+T3	Markable 25 29	Sony
+T4	Markable 38 64	kampen mot Spotify og Wimp
+T5	Markable 49 64	Spotify og Wimp
+T6	Markable 49 56	Spotify
+T7	Markable 60 64	Wimp
+T8	Markable 67 76	full gang
+T9	Markable 79 110	Administrerande direktør i Sony
+T10	Markable 106 110	Sony
+T11	Markable 79 203	Administrerande direktør i Sony Lena Midtveit , dagleg leiar i Beat Simen Wilberg og digital business manager Stein Vegusdal
+T12	Markable 79 124	Administrerande direktør i Sony Lena Midtveit
+T13	Markable 127 146	dagleg leiar i Beat
+T14	Markable 142 146	Beat
+T15	Markable 127 160	dagleg leiar i Beat Simen Wilberg
+T16	Markable 164 188	digital business manager
+T17	Markable 164 203	digital business manager Stein Vegusdal
+T18	Markable 215 218	går
+T19	Markable 219 228	ei avtale
+T20	Markable 231 269	Musikkteneste-selskapet Beat frå Gulen
+T21	Markable 264 269	Gulen
+T22	Markable 281 285	hamn
+T23	Markable 286 314	millionavtale med Sony Music
+T24	Markable 304 314	Sony Music
+T25	Markable 327 352	jakta på streamingkundane
+T26	Markable 336 352	streamingkundane
+T27	Markable 355 364	full gang
+T28	Markable 374 378	Beat
+T29	Markable 381 397	ei pressemelding
+T30	Markable 398 404	fredag
+T31	Markable 409 411	Vi
+T32	Markable 436 440	Sony
+T33	Markable 448 453	laget
+T34	Markable 456 459	Det
+T35	Markable 469 471	vi
+T36	Markable 479 528	eit komplett musikktilbod til alle våre medlemmar
+T37	Markable 514 518	våre
+T38	Markable 509 528	alle våre medlemmar
+T39	Markable 537 558	dagleg leiar i Beat ,
+T40	Markable 552 556	Beat
+T41	Markable 537 572	dagleg leiar i Beat , Simen Wilberg
+T42	Markable 577 580	går
+T43	Markable 587 590	dei
+T44	Markable 595 616	avtale med Sony Music
+T45	Markable 606 616	Sony Music
+T46	Markable 626 629	dei
+T47	Markable 630 684	all musikk som er frigjeve til streaming og nedlasting
+T48	Markable 661 684	streaming og nedlasting
+T49	Markable 661 670	streaming
+T50	Markable 674 684	nedlasting
+T51	Markable 702 706	sine
+T52	Markable 702 716	sine medlemmar
+T53	Markable 719 726	Beat.no
+T54	Markable 730 788	ei nettleserbasert streamingteneste som kostar 99 kr / mnd
+T55	Markable 777 788	99 kr / mnd
+T56	Markable 785 788	mnd
+T57	Markable 810 816	mp3-ar
+T58	Markable 833 841	musikken
+T59	Markable 854 862	nettsida
+R1	Coref Arg1:T10 Arg2:T3	
+R2	Coref Arg1:T14 Arg2:T1	
+R3	Coref Arg1:T20 Arg2:T14	
+R4	Coref Arg1:T24 Arg2:T10	
+R5	Coref Arg1:T28 Arg2:T20	
+R6	Coref Arg1:T31 Arg2:T28	
+R7	Coref Arg1:T32 Arg2:T24	
+R8	Coref Arg1:T35 Arg2:T31	
+R9	Coref Arg1:T37 Arg2:T35	
+R10	Coref Arg1:T40 Arg2:T37	
+R11	Coref Arg1:T41 Arg2:T15	
+R12	Coref Arg1:T43 Arg2:T40	
+R13	Coref Arg1:T45 Arg2:T32	
+R14	Coref Arg1:T46 Arg2:T43	
+R15	Coref Arg1:T51 Arg2:T46	
+R16	Coref Arg1:T59 Arg2:T53	
+R17	Coref Arg1:T58 Arg2:T47	

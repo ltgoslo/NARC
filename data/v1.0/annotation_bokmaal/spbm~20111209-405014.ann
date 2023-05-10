@@ -1,0 +1,47 @@
+T1	Markable 8 17	klimamøte
+T2	Markable 27 33	safari
+T3	Markable 36 63	Syv stortingsrepresentanter
+T4	Markable 75 85	Sør-Afrika
+T5	Markable 98 117	klimaforhandlingene
+T6	Markable 122 125	går
+T7	Markable 138 141	dem
+T8	Markable 163 180	Dagens Næringsliv
+T9	Markable 183 202	Oskar J. Grimstad |
+T10	Markable 203 224	Foto : Staale Wattø |
+T11	Markable 210 222	Staale Wattø
+T12	Markable 227 229	Vi
+T13	Markable 236 239	tur
+T14	Markable 242 257	en nasjonalpark
+T15	Markable 296 315	Fremskrittspartiets
+T16	Markable 296 330	Fremskrittspartiets Oskar Grimstad
+T17	Markable 333 370	en tekstmelding til Dagens Næringsliv
+T18	Markable 353 370	Dagens Næringsliv
+T19	Markable 371 378	torsdag
+T20	Markable 381 387	Høyres
+T21	Markable 381 442	Høyres Gunnar Gundersen og Siri A. Meling og Sps Erling Sande
+T22	Markable 381 404	Høyres Gunnar Gundersen
+T23	Markable 408 422	Siri A. Meling
+T24	Markable 426 429	Sps
+T25	Markable 426 442	Sps Erling Sande
+T26	Markable 454 462	safarien
+T27	Markable 465 498	De norske stortingsrepresentanter
+T28	Markable 504 514	Sør-Afrika
+T29	Markable 518 534	skattebetalernes
+T30	Markable 518 542	skattebetalernes regning
+T31	Markable 558 585	en klimakonferanse i Durban
+T32	Markable 579 585	Durban
+T33	Markable 592 599	torsdag
+T34	Markable 622 625	dem
+T35	Markable 626 631	møtet
+T36	Markable 642 648	safari
+T37	Markable 651 657	stedet
+R1	Bridging Arg1:T5 Arg2:T1	
+R2	Coref Arg1:T7 Arg2:T3	
+R3	Coref Arg1:T18 Arg2:T8	
+R4	Coref Arg1:T26 Arg2:T2	
+R9	Coref Arg1:T28 Arg2:T4	
+R10	Coref Arg1:T35 Arg2:T1	
+R11	Coref Arg1:T34 Arg2:T27	
+T38	Markable 130 141	fire av dem
+R5	Coref Arg1:T12 Arg2:T38	
+R6	Coref Arg1:T27 Arg2:T7	

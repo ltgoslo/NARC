@@ -1,0 +1,58 @@
+T1	Markable 0 4	Jerv
+T2	Markable 14 22	11 sauer
+T3	Markable 36 48	jerveherjing
+T4	Markable 49 59	tre gonger
+T5	Markable 62 68	sommar
+T6	Markable 71 114	Sauebonde Roald Lunde på Grinde i Leikanger
+T7	Markable 96 114	Grinde i Leikanger
+T8	Markable 105 114	Leikanger
+T9	Markable 125 186	11 sauekadaver som det er stadfesta at jerv har teke i sommar
+T10	Markable 164 168	jerv
+T11	Markable 180 186	sommar
+T12	Markable 189 208	Tre gonger i sommar
+T13	Markable 202 208	sommar
+T14	Markable 213 256	sauebonde Roald Lunde på Grinde i Leikanger
+T15	Markable 238 256	Grinde i Leikanger
+T16	Markable 247 256	Leikanger
+T17	Markable 268 274	jerven
+T18	Markable 294 310	saueflokken hans
+T19	Markable 306 310	hans
+T20	Markable 315 320	Dette
+T21	Markable 324 375	det 11. kadaveret som er stadfesta at jerv har teke
+T22	Markable 362 366	jerv
+T23	Markable 378 380	Eg
+T24	Markable 400 419	Statens naturoppsyn
+T25	Markable 427 437	helikopter
+T26	Markable 450 454	jerv
+T27	Markable 459 467	vinteren
+T28	Markable 477 479	vi
+T29	Markable 497 501	jerv
+T30	Markable 506 516	lisensjakt
+T31	Markable 523 526	det
+T32	Markable 540 554	oss sauebønder
+T33	Markable 559 563	narr
+T34	Markable 572 577	Lunde
+T35	Markable 582 591	Sogn Avis
+T36	Markable 604 667	ein eller fleire jervar som har vore på ferde i systrondsfjella
+T37	Markable 644 649	ferde
+T38	Markable 652 667	systrondsfjella
+T39	Markable 679 686	bøndene
+T40	Markable 689 755	Viltkonsulent Hermund Mjelstad hos Fylkesmannen i Sogn og Fjordane
+T41	Markable 724 755	Fylkesmannen i Sogn og Fjordane
+T42	Markable 776 801	ein soleklar jobb for SNO
+T43	Markable 798 801	SNO
+T44	Markable 810 833	skadejerven i Leikanger
+T45	Markable 824 833	Leikanger
+T46	Markable 845 855	Stortinget
+T47	Markable 891 895	jerv
+T48	Markable 898 914	Sogn og Fjordane
+R1	Coref Arg1:T14 Arg2:T6	
+R2	Coref Arg1:T19 Arg2:T14	
+R3	Coref Arg1:T23 Arg2:T19	
+R4	Coref Arg1:T34 Arg2:T23	
+R5	Coref Arg1:T44 Arg2:T17	
+R6	Coref Arg1:T39 Arg2:T32	
+R7	Coref Arg1:T32 Arg2:T28	
+R8	Coref Arg1:T15 Arg2:T7	
+R9	Coref Arg1:T16 Arg2:T8	
+R10	Coref Arg1:T45 Arg2:T16	

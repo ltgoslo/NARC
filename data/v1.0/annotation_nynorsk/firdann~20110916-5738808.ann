@@ -1,0 +1,69 @@
+T1	Markable 16 27	samhandling
+T2	Markable 30 61	Dei to andre fylka i Helse Vest
+T3	Markable 51 61	Helse Vest
+T4	Markable 66 88	over to millionar kvar
+T5	Markable 91 131	Helseminister Anne-Grethe Strøm-Erichsen
+T6	Markable 141 170	5,1 millionar til samhandling
+T7	Markable 159 170	samhandling
+T8	Markable 175 197	kommunar på Vestlandet
+T9	Markable 187 197	Vestlandet
+T10	Markable 200 241	Kommunar i føretaksområdet til Helse Vest
+T11	Markable 211 241	føretaksområdet til Helse Vest
+T12	Markable 231 241	Helse Vest
+T13	Markable 256 269	5,1 millionar
+T14	Markable 256 297	5,1 millionar kroner i samhandlingsmidlar
+T15	Markable 279 297	samhandlingsmidlar
+T16	Markable 302 332	Helse- og omsorgsdepartementet
+T17	Markable 338 351	desse midlane
+T18	Markable 356 365	Hordaland
+T19	Markable 366 379	2,6 millionar
+T20	Markable 366 386	2,6 millionar kroner
+T21	Markable 389 416	Rogaland 2 millionar kroner
+T22	Markable 398 409	2 millionar
+T23	Markable 398 416	2 millionar kroner
+T24	Markable 420 451	Sogn og Fjordane 500.000 kroner
+T25	Markable 437 451	500.000 kroner
+T26	Markable 454 473	Samhandlingsmidlane
+T27	Markable 502 595	lokalmedisinske senter , der kommunar og sjukehus samarbeider om å byggje opp lokale tenester
+T28	Markable 531 551	kommunar og sjukehus
+T29	Markable 531 539	kommunar
+T30	Markable 543 551	sjukehus
+T31	Markable 580 595	lokale tenester
+T32	Markable 598 605	Midlane
+T33	Markable 619 630	andre typar
+T34	Markable 619 744	andre typar samarbeid om helse- og omsorgstenester , både samarbeid mellom kommunar og sjukehus og samarbeid kommunar imellom
+T35	Markable 644 669	helse- og omsorgstenester
+T36	Markable 644 650	helse-
+T37	Markable 654 669	omsorgstenester
+T38	Markable 677 744	samarbeid mellom kommunar og sjukehus og samarbeid kommunar imellom
+T39	Markable 694 744	kommunar og sjukehus og samarbeid kommunar imellom
+T40	Markable 694 702	kommunar
+T41	Markable 706 714	sjukehus
+T42	Markable 718 744	samarbeid kommunar imellom
+T43	Markable 728 736	kommunar
+T44	Markable 747 757	Regjeringa
+T45	Markable 764 766	år
+T46	Markable 775 795	totalt 133 millionar
+T47	Markable 775 802	totalt 133 millionar kroner
+T48	Markable 807 834	samhandling ute i kommunane
+T49	Markable 825 834	kommunane
+T50	Markable 839 843	juni
+T51	Markable 849 862	104 millionar
+T52	Markable 849 869	104 millionar kroner
+T53	Markable 882 915	samhandlingsprosjekt landet rundt
+T54	Markable 903 909	landet
+T55	Markable 926 940	24,3 millioner
+T56	Markable 926 947	24,3 millioner kroner
+T57	Markable 961 983	5,1 millionar av desse
+T58	Markable 978 983	desse
+T59	Markable 992 1037	samhandlingsprosjekt i kommunar på Vestlandet
+T60	Markable 1015 1037	kommunar på Vestlandet
+T61	Markable 1027 1037	Vestlandet
+T62	Markable 1063 1089	helsetenester der folk bur
+T63	Markable 1081 1085	folk
+R1	Coref Arg1:T17 Arg2:T14	
+R2	Coref Arg1:T26 Arg2:T17	
+R3	Coref Arg1:T32 Arg2:T26	
+R4	Coref Arg1:T61 Arg2:T9	
+R5	Coref Arg1:T12 Arg2:T3	
+R6	Coref Arg1:T58 Arg2:T56	

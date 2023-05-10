@@ -1,0 +1,82 @@
+T1	Markable 0 11	Motorhavari
+T2	Markable 20 33	Marit Strømøy
+T3	Markable 36 53	Abu Dhabi ( NTB )
+T4	Markable 46 53	( NTB )
+T5	Markable 56 69	Marit Strømøy
+T6	Markable 97 108	tredjeplass
+T7	Markable 111 154	formel 1-racet for båter i Abu Dhabi fredag
+T8	Markable 130 135	båter
+T9	Markable 138 147	Abu Dhabi
+T10	Markable 148 154	fredag
+T11	Markable 161 188	et motorhavari like før mål
+T12	Markable 185 188	mål
+T13	Markable 199 204	henne
+T14	Markable 207 214	Strømøy
+T15	Markable 226 248	en historisk pallplass
+T16	Markable 254 257	den
+T17	Markable 264 267	hun
+T18	Markable 280 290	rekkevidde
+T19	Markable 293 296	Hun
+T20	Markable 319 331	god kontroll
+T21	Markable 348 377	et havari på den første runde
+T22	Markable 361 377	den første runde
+T23	Markable 388 393	løpet
+T24	Markable 418 423	banen
+T25	Markable 446 449	det
+T26	Markable 456 460	gang
+T27	Markable 476 483	Strømøy
+T28	Markable 484 496	noen sjanser
+T29	Markable 513 522	det sikre
+T30	Markable 535 547	en pallplass
+T31	Markable 554 561	uhellet
+T32	Markable 574 590	den norske jenta
+T33	Markable 600 603	mål
+T34	Markable 606 613	Motoren
+T35	Markable 649 665	ingen plassering
+T36	Markable 669 780	Strømøy , som hadde alle tiders sjanse til å klatre opp på seierspallen for aller første gang i et formel 1-løp
+T37	Markable 689 700	alle tiders
+T38	Markable 689 780	alle tiders sjanse til å klatre opp på seierspallen for aller første gang i et formel 1-løp
+T39	Markable 728 740	seierspallen
+T40	Markable 745 762	aller første gang
+T41	Markable 765 780	et formel 1-løp
+T42	Markable 785 788	Jeg
+T43	Markable 817 827	løpet mitt
+T44	Markable 823 827	mitt
+T45	Markable 844 847	jeg
+T46	Markable 866 869	jeg
+T47	Markable 877 894	listene fra løpet
+T48	Markable 889 894	løpet
+T49	Markable 909 912	jeg
+T50	Markable 934 948	de aller beste
+T51	Markable 955 958	jeg
+T52	Markable 982 993	en ny motor
+T53	Markable 997 1002	plass
+T54	Markable 1005 1010	båten
+T55	Markable 1019 1036	den neste finalen
+T56	Markable 1042 1045	jeg
+T57	Markable 1049 1055	pallen
+T58	Markable 1061 1074	Marit Strømøy
+T59	Markable 1077 1089	en kommentar
+T60	Markable 1096 1101	løpet
+R1	Coref Arg1:T5 Arg2:T2	
+R2	Coref Arg1:T9 Arg2:T3	
+R3	Coref Arg1:T13 Arg2:T5	
+R4	Coref Arg1:T14 Arg2:T13	
+R5	Coref Arg1:T16 Arg2:T15	
+R6	Coref Arg1:T17 Arg2:T14	
+R7	Coref Arg1:T19 Arg2:T17	
+R8	Coref Arg1:T25 Arg2:T23	
+R9	Coref Arg1:T27 Arg2:T19	
+R10	Coref Arg1:T32 Arg2:T27	
+R11	Coref Arg1:T36 Arg2:T32	
+R12	Coref Arg1:T44 Arg2:T42	
+R13	Coref Arg1:T45 Arg2:T44	
+R14	Coref Arg1:T42 Arg2:T36	
+R15	Coref Arg1:T48 Arg2:T25	
+R16	Coref Arg1:T49 Arg2:T46	
+R17	Coref Arg1:T23 Arg2:T7	
+R18	Coref Arg1:T46 Arg2:T45	
+R19	Coref Arg1:T51 Arg2:T49	
+R20	Coref Arg1:T56 Arg2:T51	
+R21	Coref Arg1:T58 Arg2:T56	
+R22	Coref Arg1:T60 Arg2:T48	

@@ -1,0 +1,89 @@
+T1	Markable 11 25	200.000 kroner
+T2	Markable 28 43	Hoppe frå Førde
+T3	Markable 38 43	Førde
+T4	Markable 53 60	landets
+T5	Markable 53 72	landets aller beste
+T6	Markable 75 89	Hoppa Rapptina
+T7	Markable 100 143	tolv hopper i finalen i Norsk travkriterium
+T8	Markable 114 143	finalen i Norsk travkriterium
+T9	Markable 124 143	Norsk travkriterium
+T10	Markable 146 153	Biletet
+T11	Markable 161 212	kvalifiseringsløpet på Bjerke Travbane 5. september
+T12	Markable 184 199	Bjerke Travbane
+T13	Markable 200 212	5. september
+T14	Markable 215 266	Arne Morten Fond og Ola Kvaal frå Angedalen i Førde
+T15	Markable 215 231	Arne Morten Fond
+T16	Markable 235 266	Ola Kvaal frå Angedalen i Førde
+T17	Markable 249 266	Angedalen i Førde
+T18	Markable 261 266	Førde
+T19	Markable 270 315	eigarar av ei av Norges beste kaldblodshopper
+T20	Markable 287 293	Norges
+T21	Markable 287 315	Norges beste kaldblodshopper
+T22	Markable 318 324	Søndag
+T23	Markable 328 340	hesten deira
+T24	Markable 335 340	deira
+T25	Markable 347 438	tolv hopper i alderen tre år som skal delta i finalen i løpet Norsk travkriterium på Bjerke
+T26	Markable 361 375	alderen tre år
+T27	Markable 369 375	tre år
+T28	Markable 393 428	finalen i løpet Norsk travkriterium
+T29	Markable 403 428	løpet Norsk travkriterium
+T30	Markable 432 438	Bjerke
+T31	Markable 441 465	Prestasjon i seg sjølv |
+T32	Markable 466 477	Dette løpet
+T33	Markable 493 551	ein norgesmeisterskap for travhestar i same alder og kjønn
+T34	Markable 519 551	travhestar i same alder og kjønn
+T35	Markable 532 551	same alder og kjønn
+T36	Markable 532 542	same alder
+T37	Markable 546 551	kjønn
+T38	Markable 557 564	hestane
+T39	Markable 576 593	kvalifiseringsløp
+T40	Markable 631 657	ein prestasjon i seg sjølv
+T41	Markable 675 686	dette løpet
+T42	Markable 692 694	vi
+T43	Markable 730 736	Resten
+T44	Markable 748 753	bonus
+T45	Markable 762 767	Kvaal
+T46	Markable 770 838	Førstepremien i Norsk travkriterium for tre år gamle kaldblodshopper
+T47	Markable 786 805	Norsk travkriterium
+T48	Markable 810 816	tre år
+T49	Markable 810 838	tre år gamle kaldblodshopper
+T50	Markable 842 856	200.000 kroner
+T51	Markable 861 863	Vi
+T52	Markable 868 909	eit håp om å bli blant dei tre-fire beste
+T53	Markable 891 909	dei tre-fire beste
+T54	Markable 918 923	Kvaal
+T55	Markable 926 931	Årets
+T56	Markable 926 945	Årets storhending |
+T57	Markable 949 957	firda.no
+T58	Markable 969 972	han
+T59	Markable 979 985	klokka
+T60	Markable 992 998	fredag
+T61	Markable 1010 1021	han og Fond
+T62	Markable 1010 1013	han
+T63	Markable 1017 1021	Fond
+T64	Markable 1032 1042	Gardermoen
+T65	Markable 1045 1050	Løpet
+T66	Markable 1058 1066	stabelen
+T67	Markable 1070 1085	Bjerke travbane
+T68	Markable 1089 1095	søndag
+T69	Markable 1101 1107	kusken
+T70	Markable 1111 1138	Øyvind Austevoll frå Bergen
+T71	Markable 1132 1138	Bergen
+R1	Coref Arg1:T18 Arg2:T3	
+R2	Coref Arg1:T20 Arg2:T4	
+R3	Coref Arg1:T23 Arg2:T6	
+R4	Coref Arg1:T24 Arg2:T14	
+R5	Coref Arg1:T29 Arg2:T9	
+R6	Coref Arg1:T32 Arg2:T29	
+R7	Coref Arg1:T41 Arg2:T32	
+R8	Coref Arg1:T42 Arg2:T24	
+R9	Coref Arg1:T45 Arg2:T16	
+R10	Coref Arg1:T47 Arg2:T41	
+R11	Coref Arg1:T51 Arg2:T42	
+R12	Coref Arg1:T54 Arg2:T45	
+R13	Coref Arg1:T58 Arg2:T54	
+R14	Coref Arg1:T62 Arg2:T58	
+R15	Coref Arg1:T63 Arg2:T15	
+R16	Coref Arg1:T65 Arg2:T47	
+R17	Coref Arg1:T67 Arg2:T12	
+R18	Coref Arg1:T61 Arg2:T51	

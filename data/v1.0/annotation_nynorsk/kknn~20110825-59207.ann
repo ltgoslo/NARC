@@ -1,0 +1,86 @@
+T1	Markable 0 53	Ekspedisjonssjef Heidi Heggenes i Finansdepartementet
+T2	Markable 34 53	Finansdepartementet
+T3	Markable 74 84	SSB-sjefen
+T4	Markable 88 98	instruksen
+T5	Markable 121 123	Ho
+T6	Markable 141 144	FIN
+T7	Markable 169 201	dei faglege vurderingane til SSB
+T8	Markable 198 201	SSB
+T9	Markable 206 211	Dette
+T10	Markable 231 250	retningslinene våre
+T11	Markable 246 250	våre
+T12	Markable 253 264	snart 20 år
+T13	Markable 267 277	Stortinget
+T14	Markable 293 307	utgangspunktet
+T15	Markable 318 328	statsråden
+T16	Markable 359 370	Stortingets
+T17	Markable 359 379	Stortingets komitear
+T18	Markable 384 415	tilgang til etatane si kunnskap
+T19	Markable 396 403	etatane
+T21	Markable 396 415	etatane si kunnskap
+T22	Markable 427 437	statsråden
+T23	Markable 453 475	Dei nye retningslinene
+T24	Markable 492 497	dette
+T25	Markable 500 512	Klassekampen
+T26	Markable 521 543	prov på at det er feil
+T27	Markable 532 535	det
+T28	Markable 548 581	dei gamle retningslinene frå 1992
+T29	Markable 607 643	SSB , Finanstilsynet og andre etatar
+T30	Markable 607 610	SSB
+T31	Markable 613 627	Finanstilsynet
+T32	Markable 631 643	andre etatar
+T33	Markable 657 660	lov
+T34	Markable 670 702	kontakt med partia på Stortinget
+T35	Markable 682 702	partia på Stortinget
+T36	Markable 692 702	Stortinget
+T37	Markable 710 752	komitemøte og arbeidet med statsbudsjettet
+T38	Markable 710 720	komitemøte
+T39	Markable 724 752	arbeidet med statsbudsjettet
+T40	Markable 737 752	statsbudsjettet
+T41	Markable 767 770	dei
+T42	Markable 786 797	Stortingets
+T43	Markable 786 803	Stortingets organ
+T44	Markable 814 830	finansministeren
+T45	Markable 868 881	departementet
+T46	Markable 891 894	nei
+T47	Markable 909 922	departementet
+T48	Markable 932 942	sine eigne
+T49	Markable 932 957	sine eigne retningslinjer
+T50	Markable 970 974	saka
+T51	Markable 989 1023	debatt eller røysting i Stortinget
+T52	Markable 989 995	debatt
+T53	Markable 1002 1023	røysting i Stortinget
+T54	Markable 1013 1023	Stortinget
+T55	Markable 1026 1029	Alt
+T56	Markable 1043 1052	kulissene
+T57	Markable 1058 1113	ingen stortingsrepresentantar Klassekampen har tala med
+T58	Markable 1088 1100	Klassekampen
+T59	Markable 1128 1132	FINs
+T60	Markable 1128 1143	FINs nye policy
+T61	Markable 1146 1154	Heggenes
+T62	Markable 1169 1182	departementet
+T63	Markable 1185 1199	utgangspunktet
+T64	Markable 1225 1232	etatane
+T65	Markable 1251 1264	partigruppene
+R1	Coref Arg1:T5 Arg2:T1	
+R2	Coref Arg1:T6 Arg2:T2	
+R3	Coref Arg1:T11 Arg2:T6	
+R4	Coref Arg1:T16 Arg2:T13	
+R5	Coref Arg1:T10 Arg2:T4	
+R6	Coref Arg1:T22 Arg2:T15	
+R7	Bridging Arg1:T19 Arg2:T8	
+R9	Coref Arg1:T28 Arg2:T10	
+R8	Coref Arg1:T30 Arg2:T8	
+R10	Coref Arg1:T36 Arg2:T16	
+R11	Coref Arg1:T41 Arg2:T29	
+R12	Coref Arg1:T42 Arg2:T36	
+R13	Coref Arg1:T45 Arg2:T11	
+R14	Coref Arg1:T47 Arg2:T45	
+R15	Coref Arg1:T48 Arg2:T47	
+R16	Coref Arg1:T54 Arg2:T42	
+R17	Coref Arg1:T58 Arg2:T25	
+R18	Coref Arg1:T59 Arg2:T48	
+R19	Coref Arg1:T61 Arg2:T5	
+R20	Coref Arg1:T62 Arg2:T59	
+R21	Coref Arg1:T64 Arg2:T41	
+R22	Bridging Arg1:T65 Arg2:T35	

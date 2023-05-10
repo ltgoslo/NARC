@@ -1,0 +1,123 @@
+T1	Markable 0 8	Eva Joly
+T2	Markable 26 40	aksent-kritikk
+T3	Markable 43 66	Paris ( NTB-Reuters ) :
+T4	Markable 49 64	( NTB-Reuters )
+T5	Markable 67 75	Rivalene
+T6	Markable 81 123	narr av presidentkandidat Eva Jolys aksent
+T7	Markable 89 116	presidentkandidat Eva Jolys
+T8	Markable 89 123	presidentkandidat Eva Jolys aksent
+T9	Markable 126 130	Joly
+T10	Markable 142 204	en video hvor hun hyller mangfoldet i den fransktalende verden
+T11	Markable 156 159	hun
+T12	Markable 167 204	mangfoldet i den fransktalende verden
+T13	Markable 180 204	den fransktalende verden
+T14	Markable 210 221	mange måter
+T15	Markable 225 243	norsk-franske Joly
+T16	Markable 244 287	prakteksemplaret på en vellykket innvandrer
+T17	Markable 264 287	en vellykket innvandrer
+T18	Markable 298 305	Reuters
+T19	Markable 318 322	Joly
+T20	Markable 327 337	De grønnes
+T21	Markable 327 355	De grønnes presidentkandidat
+T22	Markable 362 368	hennes
+T23	Markable 362 389	hennes utenlandske bakgrunn
+T24	Markable 396 408	litt trøbbel
+T25	Markable 413 418	henne
+T26	Markable 421 442	politiske motstandere
+T27	Markable 454 467	kommentatorer
+T28	Markable 482 487	henne
+T29	Markable 492 506	uttalen hennes
+T30	Markable 500 506	hennes
+T31	Markable 528 532	Joly
+T32	Markable 533 550	prikkfritt fransk
+T33	Markable 561 566	norsk
+T34	Markable 571 578	morsmål
+T35	Markable 582 590	aksenten
+T36	Markable 601 618	myke v-er og d-er
+T37	Markable 601 610	myke v-er
+T38	Markable 614 618	d-er
+T39	Markable 629 654	det britiske nyhetsbyrået
+T40	Markable 657 693	Høyrenasjonalisten Jean-Marie Le Pen
+T41	Markable 710 725	aksenten hennes
+T42	Markable 719 725	hennes
+T43	Markable 728 759	en video på sin egen hjemmeside
+T44	Markable 740 743	sin
+T45	Markable 740 759	sin egen hjemmeside
+T46	Markable 767 785	magasinet Le Point
+T47	Markable 803 882	en satirisk artikkel skrevet i sin helhet i en fonetisk versjon av Jolys uttale
+T48	Markable 834 837	sin
+T49	Markable 834 844	sin helhet
+T50	Markable 847 882	en fonetisk versjon av Jolys uttale
+T51	Markable 870 875	Jolys
+T52	Markable 870 882	Jolys uttale
+T53	Markable 885 919	Selv motedesigneren Karl Lagerfeld
+T54	Markable 938 947	kritikken
+T55	Markable 950 1011	Tyskeren , som selv snakker fransk med en sterk , tysk aksent
+T56	Markable 978 984	fransk
+T57	Markable 989 1011	en sterk , tysk aksent
+T58	Markable 1026 1031	Jolys
+T59	Markable 1026 1048	Jolys måte å snakke på
+T60	Markable 1052 1094	« en fornærmelse mot det franske språket »
+T61	Markable 1073 1092	det franske språket
+T62	Markable 1099 1158	en video på ukeavisen Journal de Dimanches nettsider fredag
+T63	Markable 1111 1141	ukeavisen Journal de Dimanches
+T64	Markable 1111 1158	ukeavisen Journal de Dimanches nettsider fredag
+T65	Markable 1152 1158	fredag
+T66	Markable 1165 1170	Jolys
+T67	Markable 1165 1178	Jolys motsvar
+T68	Markable 1183 1186	Jeg
+T69	Markable 1195 1204	Frankrike
+T70	Markable 1208 1211	jeg
+T71	Markable 1225 1237	dette landet
+T72	Markable 1242 1245	min
+T73	Markable 1242 1250	min drøm
+T74	Markable 1253 1256	Jeg
+T75	Markable 1272 1277	50 år
+T76	Markable 1280 1292	Aksenten min
+T77	Markable 1289 1292	min
+T78	Markable 1296 1368	et bevis på det franske språkets glans og dets verdensomspennende appell
+T79	Markable 1308 1328	det franske språkets
+T80	Markable 1308 1368	det franske språkets glans og dets verdensomspennende appell
+T81	Markable 1308 1334	det franske språkets glans
+T82	Markable 1338 1368	dets verdensomspennende appell
+T83	Markable 1376 1395	presidentkandidaten
+T84	Markable 1398 1465	videoen , som fikk 23.000 treff i timene etter at den ble publisert
+T85	Markable 1417 1429	23.000 treff
+T86	Markable 1432 1465	timene etter at den ble publisert
+T87	Markable 1448 1451	den
+R1	Coref Arg1:T7 Arg2:T1	
+R2	Coref Arg1:T9 Arg2:T7	
+R3	Coref Arg1:T11 Arg2:T9	
+R4	Coref Arg1:T15 Arg2:T11	
+R5	Coref Arg1:T19 Arg2:T15	
+R6	Coref Arg1:T22 Arg2:T19	
+R7	Coref Arg1:T25 Arg2:T22	
+R8	Coref Arg1:T28 Arg2:T25	
+R9	Coref Arg1:T30 Arg2:T28	
+R10	Coref Arg1:T29 Arg2:T8	
+R11	Coref Arg1:T31 Arg2:T30	
+R12	Coref Arg1:T35 Arg2:T29	
+R13	Coref Arg1:T42 Arg2:T31	
+R14	Coref Arg1:T41 Arg2:T35	
+R15	Coref Arg1:T44 Arg2:T40	
+R16	Coref Arg1:T48 Arg2:T47	
+R17	Coref Arg1:T52 Arg2:T41	
+R18	Coref Arg1:T51 Arg2:T42	
+R19	Coref Arg1:T54 Arg2:T2	
+R20	Coref Arg1:T55 Arg2:T88	
+R21	Coref Arg1:T58 Arg2:T51	
+R22	Coref Arg1:T59 Arg2:T52	
+R23	Coref Arg1:T66 Arg2:T58	
+R24	Coref Arg1:T68 Arg2:T66	
+R25	Coref Arg1:T70 Arg2:T68	
+R26	Coref Arg1:T71 Arg2:T69	
+R27	Coref Arg1:T72 Arg2:T70	
+R28	Coref Arg1:T74 Arg2:T72	
+R29	Coref Arg1:T77 Arg2:T74	
+R30	Coref Arg1:T76 Arg2:T59	
+R31	Coref Arg1:T79 Arg2:T61	
+R32	Coref Arg1:T80 Arg2:T79	
+R33	Coref Arg1:T83 Arg2:T77	
+R34	Coref Arg1:T87 Arg2:T84	
+T88	Markable 931 934	seg
+R35	Coref Arg1:T88 Arg2:T53	

@@ -1,0 +1,231 @@
+T1	Markable 14 19	Fr.p.
+T2	Markable 43 60	Tettere samarbeid
+T3	Markable 64 69	Fr.p.
+R1	Coref Arg1:T3 Arg2:T1	
+T4	Markable 82 86	sitt
+R2	Coref Arg1:T4 Arg2:T3	
+T5	Markable 82 140	sitt politiske press mot de tre kommende regjeringspartier
+T6	Markable 107 140	de tre kommende regjeringspartier
+T7	Markable 155 159	høst
+T8	Markable 167 174	partiet
+R3	Coref Arg1:T8 Arg2:T4	
+T9	Markable 175 223	konkrete avtaler , bl.a. om forsvarsbevilgninger
+T10	Markable 203 223	forsvarsbevilgninger
+T11	Markable 249 285	krav om en generell samarbeidsavtale
+T12	Markable 257 285	en generell samarbeidsavtale
+T13	Markable 295 305	spenningen
+T14	Markable 316 325	går kveld
+T15	Markable 382 410	Fr.p.-formann Carl I. Hagens
+T18	Markable 436 445	hans eget
+T19	Markable 332 374	statsministerkandidat Kjell Magne Bondevik
+R4	Coref Arg1:T18 Arg2:T19	
+T20	Markable 420 424	vegg
+T21	Markable 427 431	vegg
+T24	Markable 468 572	de tre samarbeidspartienes svar på 54 spørsmål som sist torsdag ble oversendt fra Fr.p.s stortingsgruppe
+T25	Markable 503 572	54 spørsmål som sist torsdag ble oversendt fra Fr.p.s stortingsgruppe
+T26	Markable 519 531	sist torsdag
+T27	Markable 550 572	Fr.p.s stortingsgruppe
+T28	Markable 550 556	Fr.p.s
+T16	Markable 382 417	Fr.p.-formann Carl I. Hagens kontor
+T17	Markable 464 467	han
+R6	Coref Arg1:T17 Arg2:T18	
+T29	Markable 577 580	dag
+T30	Markable 586 599	Fr.p.-gruppen
+R7	Coref Arg1:T30 Arg2:T27	
+T31	Markable 620 644	en ny regjering Bondevik
+T33	Markable 677 682	Fr.p.
+T34	Markable 696 713	en slik regjering
+R8	Coref Arg1:T33 Arg2:T28	
+T35	Markable 728 733	Fr.p.
+R9	Coref Arg1:T35 Arg2:T33	
+T36	Markable 752 791	sine krav til komitéledere i Stortinget
+T37	Markable 752 756	sine
+R10	Coref Arg1:T37 Arg2:T35	
+T39	Markable 766 791	komitéledere i Stortinget
+T40	Markable 781 791	Stortinget
+T41	Markable 799 805	svaret
+T42	Markable 836 841	Hagen
+T43	Markable 850 853	går
+R11	Coref Arg1:T42 Arg2:T15	
+T44	Markable 871 900	utfallet av Fr.p.s gruppemøte
+T45	Markable 883 900	Fr.p.s gruppemøte
+T46	Markable 883 889	Fr.p.s
+R12	Coref Arg1:T46 Arg2:T37	
+T47	Markable 656 682	17 av 19 fylkeslag i Fr.p.
+T32	Markable 907 918	dette møtet
+T48	Markable 925 928	han
+R13	Coref Arg1:T48 Arg2:T42	
+T49	Markable 955 994	hans oppfatning av regjeringsspørsmålet
+T50	Markable 955 959	hans
+R14	Coref Arg1:T50 Arg2:T48	
+T51	Markable 974 994	regjeringsspørsmålet
+T52	Markable 999 1014	Noen av svarene
+T53	Markable 1030 1034	noen
+T54	Markable 1053 1057	mine
+T55	Markable 1053 1062	mine øyne
+T56	Markable 1068 1071	han
+R15	Coref Arg1:T56 Arg2:T54	
+R16	Coref Arg1:T54 Arg2:T50	
+R17	Coref Arg1:T32 Arg2:T45	
+T57	Markable 1074 1079	Hagen
+T58	Markable 1091 1094	går
+T59	Markable 1103 1113	spenningen
+R18	Coref Arg1:T57 Arg2:T56	
+T60	Markable 1141 1144	seg
+T61	Markable 1149 1176	et døgns medieoppmerksomhet
+T62	Markable 1149 1157	et døgns
+R19	Coref Arg1:T60 Arg2:T57	
+T63	Markable 1007 1014	svarene
+T64	Markable 1179 1182	Han
+R21	Coref Arg1:T64 Arg2:T60	
+T65	Markable 1186 1196	hans parti
+T66	Markable 1186 1190	hans
+R22	Coref Arg1:T66 Arg2:T64	
+T67	Markable 1208 1213	fokus
+T68	Markable 1225 1238	Fr.p.-gruppen
+R23	Coref Arg1:T68 Arg2:T30	
+T69	Markable 1239 1250	sist onsdag
+T70	Markable 1268 1289	avgjørelsen om støtte
+T71	Markable 1283 1289	støtte
+T72	Markable 1295 1313	sine fylkespartier
+T73	Markable 1295 1299	sine
+R24	Coref Arg1:T73 Arg2:T68	
+T74	Markable 1317 1320	råd
+T75	Markable 1334 1355	listen på 54 spørsmål
+T76	Markable 1344 1355	54 spørsmål
+T77	Markable 1366 1374	Bondevik
+R25	Coref Arg1:T77 Arg2:T17	
+T78	Markable 1377 1401	Høyre-leder Jan Petersen
+T79	Markable 1405 1432	Venstre-leder Lars Sponheim
+T80	Markable 1448 1464	en del vage svar
+T81	Markable 1475 1488	noen negative
+T82	Markable 1494 1512	tonen i svarbrevet
+T83	Markable 1502 1512	svarbrevet
+T84	Markable 1546 1561	mange tilfeller
+T85	Markable 1566 1607	klare signaler om politiske kursendringer
+T86	Markable 1610 1621	den retning
+T87	Markable 1622 1627	Fr.p.
+R26	Coref Arg1:T87 Arg2:T65	
+T88	Markable 1584 1607	politiske kursendringer
+T89	Markable 1637 1649	Andre ganger
+T90	Markable 1659 1661	de
+T91	Markable 1662 1665	seg
+R27	Coref Arg1:T91 Arg2:T90	
+T92	Markable 1675 1677	de
+T93	Markable 1695 1719	en ny vurdering av saken
+T94	Markable 1714 1719	saken
+R28	Split_antecedent Arg1:T90 Arg2:T79	
+R29	Split_antecedent Arg1:T90 Arg2:T78	
+R30	Split_antecedent Arg1:T90 Arg2:T77	
+R31	Coref Arg1:T92 Arg2:T91	
+T95	Markable 1722 1730	Bondevik
+T96	Markable 1744 1759	en ny regjering
+T97	Markable 1801 1804	lag
+T98	Markable 1809 1814	Hagen
+R32	Coref Arg1:T98 Arg2:T66	
+T99	Markable 1819 1821	Vi
+T100	Markable 1856 1877	det første budsjettet
+T101	Markable 1898 1903	Fr.p.
+R33	Coref Arg1:T101 Arg2:T87	
+T102	Markable 1940 1943	han
+T103	Markable 1946 1949	går
+R34	Coref Arg1:T102 Arg2:T95	
+R35	Coref Arg1:T99 Arg2:T92	
+T104	Markable 1955 1960	Hagen
+R36	Coref Arg1:T104 Arg2:T98	
+T105	Markable 1978 1995	presset fra Fr.p.
+T106	Markable 1990 1995	Fr.p.
+R37	Coref Arg1:T106 Arg2:T101	
+T107	Markable 2011 2022	forbindelse
+T108	Markable 2027 2047	budsjettbehandlingen
+T109	Markable 2052 2055	han
+R38	Coref Arg1:T109 Arg2:T104	
+T110	Markable 2065 2089	de tre regjeringspartier
+T111	Markable 2097 2136	avtaler med Fr.p. på avgrensede områder
+T112	Markable 2109 2114	Fr.p.
+R39	Coref Arg1:T112 Arg2:T106	
+T113	Markable 2118 2136	avgrensede områder
+T114	Markable 4 19	press fra Fr.p.
+T115	Markable 2156 2222	den avtalen om kontantstøtte som Høyre , Fr.p. og sentrumspartiene
+T116	Markable 2189 2194	Høyre
+T117	Markable 2197 2202	Fr.p.
+T118	Markable 2206 2222	sentrumspartiene
+T119	Markable 2239 2246	fire år
+T120	Markable 2255 2260	Hagen
+R40	Coref Arg1:T120 Arg2:T109	
+T121	Markable 2285 2350	forpliktende avtaler om forsvarsbudsjettet og om pensjonsbeløpene
+T122	Markable 2309 2327	forsvarsbudsjettet
+T123	Markable 2334 2350	pensjonsbeløpene
+T124	Markable 2355 2358	går
+T125	Markable 2367 2370	han
+R41	Coref Arg1:T125 Arg2:T120	
+T126	Markable 2415 2442	Fr.p.-støtte for budsjettet
+T127	Markable 2432 2442	budsjettet
+T128	Markable 2453 2460	partiet
+R42	Coref Arg1:T128 Arg2:T117	
+T129	Markable 2481 2491	de tallene
+R43	Coref Arg1:T127 Arg2:T100	
+T130	Markable 2512 2520	Bondevik
+T131	Markable 2524 2529	Hagen
+R44	Coref Arg1:T131 Arg2:T125	
+R45	Coref Arg1:T130 Arg2:T102	
+T132	Markable 2542 2549	en gang
+T133	Markable 2553 2573	en trepartiregjering
+T134	Markable 2578 2581	tid
+T135	Markable 2622 2666	støtte for sine forslag i Ap. eller endog SV
+T136	Markable 2648 2651	Ap.
+T137	Markable 2664 2666	SV
+T138	Markable 2633 2666	sine forslag i Ap. eller endog SV
+T139	Markable 2633 2637	sine
+R46	Coref Arg1:T139 Arg2:T133	
+T140	Markable 2674 2689	Hagens strategi
+T141	Markable 2674 2680	Hagens
+R47	Coref Arg1:T141 Arg2:T131	
+T142	Markable 2709 2720	regjeringen
+T143	Markable 2740 2744	Fr.p
+R48	Coref Arg1:T117 Arg2:T112	
+R49	Coref Arg1:T143 Arg2:T128	
+T144	Markable 2749 2763	et år eller to
+T145	Markable 2768 2771	han
+R50	Coref Arg1:T145 Arg2:T141	
+T146	Markable 2787 2792	tiden
+T147	Markable 2819 2860	en generell avtale mellom de fire partier
+T148	Markable 2845 2860	de fire partier
+T149	Markable 2895 2900	Fr.p.
+R51	Coref Arg1:T149 Arg2:T143	
+T150	Markable 2918 2946	krav om regjeringsdeltagelse
+T151	Markable 2926 2946	regjeringsdeltagelse
+T152	Markable 2952 2953	å
+T153	Markable 2963 2966	han
+R52	Coref Arg1:T153 Arg2:T145	
+T154	Markable 2975 2992	disse spørsmålene
+T155	Markable 3045 3063	en generell avtale
+T156	Markable 3068 3070	Vi
+T157	Markable 3096 3107	utviklingen
+T158	Markable 3124 3127	han
+R53	Coref Arg1:T158 Arg2:T153	
+T159	Markable 3133 3144	Aftenposten
+T160	Markable 3159 3162	ham
+R54	Coref Arg1:T160 Arg2:T158	
+T161	Markable 3196 3201	Hagen
+R55	Coref Arg1:T161 Arg2:T160	
+T162	Markable 3176 3186	muligheten
+T163	Markable 3211 3214	Jeg
+R56	Coref Arg1:T163 Arg2:T161	
+T164	Markable 3219 3229	ingen ting
+R58	Coref Arg1:T142 Arg2:T139	
+R59	Coref Arg1:T95 Arg2:T77	
+R60	Coref Arg1:T75 Arg2:T24	
+T165	Markable 22 27	vente
+T166	Markable 1889 1903	støtte i Fr.p.
+T23	Markable 2145 2222	mønster av den avtalen om kontantstøtte som Høyre , Fr.p. og sentrumspartiene
+R57	Coref Arg1:T59 Arg2:T13	
+R62	Coref Arg1:T28 Arg2:T8	
+R5	Coref Arg1:T65 Arg2:T46	
+R61	Coref Arg1:T110 Arg2:T99	
+T22	Markable 468 494	de tre samarbeidspartienes
+R63	Coref Arg1:T22 Arg2:T6	
+R64	Split_antecedent Arg1:T148 Arg2:T143	
+R65	Split_antecedent Arg1:T148 Arg2:T22	
+T38	Markable 3242 3245	det
+R20	Coref Arg1:T38 Arg2:T162	

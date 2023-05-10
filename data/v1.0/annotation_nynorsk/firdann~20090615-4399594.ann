@@ -1,0 +1,83 @@
+T1	Markable 0 10	Studentane
+T2	Markable 22 25	HSF
+T3	Markable 28 38	89 prosent
+T4	Markable 48 62	studentmiljøet
+T5	Markable 80 93	700 studentar
+T6	Markable 103 165	beskjed om at dei trivst godt ved Høgskulen i Sogn og Fjordane
+T7	Markable 117 120	dei
+T8	Markable 137 165	Høgskulen i Sogn og Fjordane
+T9	Markable 168 185	Vel 700 studentar
+T10	Markable 195 267	ei større undersøking om læringsmiljøet ved Høgskulen i Sogn og Fjordane
+T11	Markable 220 267	læringsmiljøet ved Høgskulen i Sogn og Fjordane
+T12	Markable 239 267	Høgskulen i Sogn og Fjordane
+T13	Markable 270 273	vår
+T14	Markable 276 285	Resultata
+T15	Markable 295 305	89 prosent
+T16	Markable 315 329	studentmiljøet
+T17	Markable 338 348	84 prosent
+T18	Markable 364 371	miljøet
+T19	Markable 376 388	inkluderande
+T20	Markable 391 419	Trivsel viktig i seg sjølv |
+T21	Markable 422 427	Dette
+T22	Markable 431 444	gledelege tal
+T23	Markable 453 477	studiedirektør ved HSF ,
+T24	Markable 472 475	HSF
+T25	Markable 453 490	studiedirektør ved HSF , Terje Bjelle
+T26	Markable 497 504	hisf.no
+T27	Markable 519 521	vi
+T28	Markable 522 641	positive tilbakemeldingar og stadfesting på at det store fleirtalet av studentane finn seg godt til rette ved høgskulen
+T29	Markable 522 547	positive tilbakemeldingar
+T30	Markable 551 641	stadfesting på at det store fleirtalet av studentane finn seg godt til rette ved høgskulen
+T31	Markable 569 603	det store fleirtalet av studentane
+T32	Markable 593 603	studentane
+T33	Markable 622 627	rette
+T34	Markable 632 641	høgskulen
+T35	Markable 644 651	Trivsel
+T36	Markable 680 736	også ein føresetnad for å lykkast i det faglege arbeidet
+T37	Markable 716 736	det faglege arbeidet
+T38	Markable 748 754	Bjelle
+T39	Markable 757 783	Spørsmål frå fleire felt |
+T40	Markable 770 781	fleire felt
+T41	Markable 784 808	Læringsmiljøundersøkinga
+T42	Markable 818 939	spørsmål om trivsel og tilrettelegging på ei rekkje område , frå it-tenester og bibliotek til kantine- og barnehagetilbod
+T43	Markable 830 939	trivsel og tilrettelegging på ei rekkje område , frå it-tenester og bibliotek til kantine- og barnehagetilbod
+T44	Markable 830 837	trivsel
+T45	Markable 841 939	tilrettelegging på ei rekkje område , frå it-tenester og bibliotek til kantine- og barnehagetilbod
+T46	Markable 860 869	ei rekkje
+T47	Markable 860 939	ei rekkje område , frå it-tenester og bibliotek til kantine- og barnehagetilbod
+T48	Markable 883 907	it-tenester og bibliotek
+T49	Markable 883 894	it-tenester
+T50	Markable 898 907	bibliotek
+T51	Markable 912 939	kantine- og barnehagetilbod
+T52	Markable 912 920	kantine-
+T53	Markable 924 939	barnehagetilbod
+T54	Markable 944 981	Tilbakemeldingane frå studentane våre
+T55	Markable 966 981	studentane våre
+T56	Markable 977 981	våre
+T57	Markable 1004 1007	dei
+T58	Markable 1012 1014	vi
+T59	Markable 1035 1038	oss
+T60	Markable 1054 1060	Bjelle
+T61	Markable 1070 1072	du
+T62	Markable 1077 1086	høgskulen
+R1	Coref Arg1:T1 Arg2:T5	
+R2	Coref Arg1:T7 Arg2:T1	
+R3	Coref Arg1:T8 Arg2:T2	
+R4	Coref Arg1:T12 Arg2:T8	
+R5	Coref Arg1:T16 Arg2:T4	
+R6	Coref Arg1:T18 Arg2:T16	
+R7	Split_antecedent Arg1:T21 Arg2:T15	
+R8	Split_antecedent Arg1:T21 Arg2:T17	
+R9	Coref Arg1:T24 Arg2:T12	
+R11	Coref Arg1:T34 Arg2:T24	
+R12	Bridging Arg1:T37 Arg2:T34	
+R13	Coref Arg1:T38 Arg2:T25	
+R14	Coref Arg1:T41 Arg2:T10	
+R15	Coref Arg1:T55 Arg2:T32	
+R16	Coref Arg1:T56 Arg2:T27	
+R17	Coref Arg1:T57 Arg2:T54	
+R18	Coref Arg1:T54 Arg2:T28	
+R19	Coref Arg1:T58 Arg2:T56	
+R20	Coref Arg1:T59 Arg2:T58	
+R21	Coref Arg1:T60 Arg2:T38	
+R22	Coref Arg1:T62 Arg2:T34	

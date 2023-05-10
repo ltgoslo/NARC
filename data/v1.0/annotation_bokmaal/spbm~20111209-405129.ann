@@ -1,0 +1,81 @@
+T1	Markable 0 11	Stålhandler
+T2	Markable 17 25	seks års
+T3	Markable 17 33	seks års fengsel
+T4	Markable 36 52	Drammen tingrett
+T5	Markable 55 69	Oslo ( NTB ) :
+T6	Markable 60 67	( NTB )
+T7	Markable 70 142	Styrelederen i et stålhandelselskap med kontor på Lierstranda i Buskerud
+T8	Markable 85 142	et stålhandelselskap med kontor på Lierstranda i Buskerud
+T9	Markable 110 142	kontor på Lierstranda i Buskerud
+T10	Markable 120 142	Lierstranda i Buskerud
+T11	Markable 134 142	Buskerud
+T12	Markable 148 164	Drammen tingrett
+T13	Markable 174 191	fengsel i seks år
+T14	Markable 184 191	seks år
+T15	Markable 196 214	økonomisk utroskap
+T16	Markable 217 223	Mannen
+T17	Markable 250 263	320 millioner
+T18	Markable 250 270	320 millioner kroner
+T19	Markable 275 292	selskapet i Norge
+T20	Markable 287 292	Norge
+T21	Markable 300 326	søsterselskapet i Tyskland
+T22	Markable 318 326	Tyskland
+T23	Markable 331 378	to selskap på henholdsvis Kypros og Isle of Man
+T24	Markable 345 378	henholdsvis Kypros og Isle of Man
+T25	Markable 345 363	henholdsvis Kypros
+T26	Markable 367 378	Isle of Man
+T27	Markable 381 418	Metoden som er benyttet gjennom 15 år
+T28	Markable 413 418	15 år
+T29	Markable 434 551	fiktive fakturaer som sikrer at overskudd blir flyttet fra Norge og Tyskland til et skatteparadis før de er beskattet
+T30	Markable 466 475	overskudd
+T31	Markable 493 510	Norge og Tyskland
+T32	Markable 493 498	Norge
+T33	Markable 502 510	Tyskland
+T34	Markable 515 531	et skatteparadis
+T35	Markable 536 538	de
+T36	Markable 556 570	domspremissene
+T37	Markable 579 585	retten
+T38	Markable 589 613	allmennpreventive hensyn
+T39	Markable 630 786	den aktuelle formen for samfunnsskadelig kriminalitet som har skjedd fordekt og med utvisning av stor oppfinnsomhet når det gjelder å skjule hva som foregår
+T40	Markable 654 683	samfunnsskadelig kriminalitet
+T41	Markable 714 786	utvisning av stor oppfinnsomhet når det gjelder å skjule hva som foregår
+T42	Markable 727 786	stor oppfinnsomhet når det gjelder å skjule hva som foregår
+T43	Markable 789 808	Oppdagelsesrisikoen
+T44	Markable 826 839	slike forhold
+T45	Markable 863 888	allmennpreventive grunner
+T46	Markable 902 915	streng straff
+T47	Markable 925 972	Økokrim som har ført saken ved Drammen tingrett
+T48	Markable 946 951	saken
+T49	Markable 956 972	Drammen tingrett
+T50	Markable 975 987	Styrelederen
+T51	Markable 1010 1013	Han
+T52	Markable 1027 1064	en inndragning på 73 millioner kroner
+T53	Markable 1045 1057	73 millioner
+T54	Markable 1045 1064	73 millioner kroner
+T55	Markable 1067 1074	Økokrim
+T56	Markable 1087 1090	sin
+T57	Markable 1087 1105	sin etterforskning
+T58	Markable 1113 1119	mannen
+T59	Markable 1144 1156	bedrageriene
+T60	Markable 1171 1174	han
+T61	Markable 1178 1195	alle overføringer
+T62	Markable 1200 1230	betaling for utførte tjenester
+T63	Markable 1213 1230	utførte tjenester
+T64	Markable 1233 1258	noe retten ikke trodde på
+T65	Markable 1237 1243	retten
+R1	Coref Arg1:T7 Arg2:T1	
+R2	Coref Arg1:T12 Arg2:T4	
+R3	Coref Arg1:T16 Arg2:T7	
+R4	Coref Arg1:T19 Arg2:T8	
+R5	Coref Arg1:T35 Arg2:T30	
+R6	Coref Arg1:T37 Arg2:T12	
+R7	Coref Arg1:T49 Arg2:T37	
+R8	Coref Arg1:T50 Arg2:T16	
+R9	Coref Arg1:T51 Arg2:T50	
+R10	Coref Arg1:T55 Arg2:T47	
+R11	Coref Arg1:T56 Arg2:T55	
+R12	Coref Arg1:T58 Arg2:T51	
+R13	Coref Arg1:T60 Arg2:T58	
+R14	Coref Arg1:T65 Arg2:T49	
+R15	Coref Arg1:T32 Arg2:T20	
+R16	Coref Arg1:T33 Arg2:T22	

@@ -1,0 +1,49 @@
+T1	Markable 0 3	Lam
+T2	Markable 7 32	piggvar på bryllupsmenyen
+T3	Markable 18 32	bryllupsmenyen
+T4	Markable 33 42	Kamskjell
+T5	Markable 45 52	piggvar
+T6	Markable 56 66	lammefilet
+T7	Markable 74 80	menyen
+T9	Markable 87 114	den kongelige gallamiddagen
+T8	Markable 135 159	Parfait à la Mette-Marit
+T10	Markable 125 132	dessert
+R1	Coref Arg1:T7 Arg2:T3	
+T11	Markable 162 171	Forretten
+T14	Markable 283 308	trøffelhonningvinaigrette
+T15	Markable 311 323	ruccolasalat
+T16	Markable 551 559	appelsin
+T17	Markable 563 575	fenikkelsmak
+T18	Markable 370 410	" Turbot au Four - purée de chou-fleur "
+T20	Markable 578 589	Hovedretten
+T21	Markable 593 633	" Filet d'agneau - girolles a la creme "
+R2	Bridging Arg1:T11 Arg2:T9	
+R3	Bridging Arg1:T20 Arg2:T9	
+T23	Markable 728 742	rissolepoteter
+T24	Markable 746 757	rosmarinsjy
+T26	Markable 763 830	desserten , " Parfait à la Mette-Marit - coulis de muron arctique "
+T27	Markable 841 849	Snøfrisk
+T29	Markable 900 906	blåbær
+T30	Markable 910 919	bjørnebær
+T32	Markable 942 953	multecoulis
+T34	Markable 259 276	norsk spekeskinke
+T35	Markable 327 350	ristede gresskarkjerner
+T38	Markable 449 480	ingefærmarinert klasetomatbåter
+T39	Markable 507 525	finhakket gressløk
+T41	Markable 531 575	fransk smørsaus med appelsin og fenikkelsmak
+T43	Markable 420 480	ovnsbakt piggvar dandert med ingefærmarinert klasetomatbåter
+T37	Markable 483 525	blomkålpuré drysset med finhakket gressløk
+T19	Markable 649 658	norsk lam
+T40	Markable 636 658	Ytrefilet av norsk lam
+T22	Markable 661 686	kremet kantareller i nepe
+T44	Markable 682 686	nepe
+T45	Markable 689 704	bakt minisquash
+T46	Markable 707 725	lettrøkte rødbeter
+T47	Markable 853 919	yoghurtisparfait med friske norske bringebær , blåbær og bjørnebær
+T48	Markable 874 897	friske norske bringebær
+T49	Markable 927 953	multemousse på multecoulis
+R5	Coref Arg1:T26 Arg2:T8	
+T33	Markable 178 228	navnet " Coquilles St. Jacques Prince de Norvege "
+T12	Markable 238 350	grillet kamskjell på norsk spekeskinke - med trøffelhonningvinaigrette , ruccolasalat og ristede gresskarkjerner
+T13	Markable 413 416	Det
+R4	Coref Arg1:T13 Arg2:T18	

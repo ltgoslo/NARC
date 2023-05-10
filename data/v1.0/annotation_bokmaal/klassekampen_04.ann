@@ -1,0 +1,349 @@
+T1	Markable 2 11	Soldatane
+T2	Markable 19 24	vegen
+T3	Markable 25 29	Krig
+T4	Markable 48 65	vestlege soldatar
+T5	Markable 80 83	seg
+R1	Coref Arg1:T5 Arg2:T4	
+T6	Markable 94 105	Afghanistan
+T7	Markable 108 111	Dei
+T8	Markable 157 184	Raudt-leiar Turid Thomassen
+T9	Markable 130 148	sin eigen flyplass
+T10	Markable 130 139	sin eigen
+R2	Coref Arg1:T10 Arg2:T7	
+R3	Coref Arg1:T7 Arg2:T5	
+R4	Coref Arg1:T1 Arg2:T4	
+T11	Markable 189 197	to veker
+T12	Markable 202 204	ho
+R5	Coref Arg1:T12 Arg2:T8	
+T13	Markable 230 248	vanlege afghanarar
+T14	Markable 251 263	Afghanistans
+R6	Coref Arg1:T14 Arg2:T6	
+T15	Markable 251 271	Afghanistans framtid
+T16	Markable 275 325	Ein borneskole for både gutar og jenter i Faizabad
+T17	Markable 299 304	gutar
+T18	Markable 308 314	jenter
+T19	Markable 317 325	Faizabad
+T20	Markable 339 366	Raudt-leiar Turid Thomassen
+R7	Coref Arg1:T20 Arg2:T12	
+T21	Markable 369 375	Skolen
+R8	Coref Arg1:T21 Arg2:T16	
+T22	Markable 380 390	600 elevar
+T23	Markable 407 412	USAID
+T24	Markable 416 444	Afghanistan-komiteen i Noreg
+T25	Markable 447 450	AiN
+R9	Coref Arg1:T25 Arg2:T24	
+T26	Markable 455 459	Foto
+T27	Markable 462 465	AiN
+R10	Coref Arg1:T27 Arg2:T25	
+T28	Markable 466 493	Raudt-leiar Turid Thomassen
+R11	Coref Arg1:T28 Arg2:T20	
+T29	Markable 511 515	heim
+T30	Markable 541 546	Kabul
+T31	Markable 549 557	Faizabad
+R12	Coref Arg1:T31 Arg2:T19	
+T32	Markable 560 566	Kunduz
+T33	Markable 569 583	Mazar-i-Sharif
+T34	Markable 587 618	andre stader i Nord-Afghanistan
+T35	Markable 602 618	Nord-Afghanistan
+T36	Markable 628 630	eg
+R13	Coref Arg1:T36 Arg2:T28	
+T37	Markable 640 648	to veker
+T38	Markable 663 680	fleire afghanarar
+T39	Markable 685 688	ein
+T40	Markable 710 729	norske styresmakter
+T41	Markable 733 743	seks turar
+T42	Markable 775 780	Noreg
+T43	Markable 790 796	folket
+T44	Markable 828 837	Thomassen
+T45	Markable 842 854	Klassekampen
+R14	Coref Arg1:T44 Arg2:T36	
+T46	Markable 857 871	Ei openberring
+T47	Markable 877 879	ho
+R15	Coref Arg1:T47 Arg2:T44	
+T48	Markable 883 885	ho
+R16	Coref Arg1:T48 Arg2:T47	
+T49	Markable 892 921	ISAF sin militærbase i Kunduz
+T50	Markable 915 921	Kunduz
+R17	Coref Arg1:T50 Arg2:T32	
+T51	Markable 892 896	ISAF
+T52	Markable 938 941	dei
+R18	Coref Arg1:T52 Arg2:T51	
+T53	Markable 963 990	sin eigen militære flyplass
+T54	Markable 963 972	sin eigen
+R19	Coref Arg1:T54 Arg2:T52	
+T55	Markable 1011 1029	ingen av soldatane
+T56	Markable 1058 1064	leiren
+T57	Markable 1067 1090	Dei einaste afghanarane
+T58	Markable 1091 1094	dei
+T59	Markable 1101 1108	kontakt
+T60	Markable 1119 1170	dei som ber inn vatn og andre forsyningar til basen
+T61	Markable 1135 1139	vatn
+T62	Markable 1143 1170	andre forsyningar til basen
+T63	Markable 1165 1170	basen
+R21	Coref Arg1:T56 Arg2:T53	
+R22	Coref Arg1:T63 Arg2:T56	
+R23	Coref Arg1:T58 Arg2:T55	
+T64	Markable 1177 1183	bilete
+T65	Markable 1188 1197	soldatane
+T66	Markable 1201 1212	afghanarane
+R24	Coref Arg1:T65 Arg2:T58	
+T67	Markable 1225 1231	bilete
+T68	Markable 1236 1247	afghanarane
+R25	Coref Arg1:T68 Arg2:T66	
+T69	Markable 1251 1254	oss
+T70	Markable 1257 1259	Vi
+T71	Markable 1272 1276	folk
+T72	Markable 1302 1311	Thomassen
+R26	Coref Arg1:T72 Arg2:T48	
+T73	Markable 1316 1320	ISAF
+T74	Markable 1328 1333	vegen
+R27	Coref Arg1:T73 Arg2:T54	
+T75	Markable 1334 1403	Den offisielle grunngjevinga bak okkupasjonen av det fjellrike landet
+T76	Markable 1367 1403	okkupasjonen av det fjellrike landet
+T77	Markable 1383 1403	det fjellrike landet
+R28	Coref Arg1:T77 Arg2:T14	
+T78	Markable 1424 1429	kvart
+T79	Markable 1441 1455	Taliban-styret
+T80	Markable 1471 1486	Osama bin-Laden
+T81	Markable 1500 1505	flukt
+T82	Markable 1521 1540	norske styresmakter
+T83	Markable 1548 1552	vekt
+T84	Markable 1556 1620	vår plikt til å hjelpe dei afghanske sivile , og særleg kvinnene
+T85	Markable 1612 1620	kvinnene
+T86	Markable 1579 1599	dei afghanske sivile
+T87	Markable 1623 1637	Soldatane våre
+T88	Markable 1664 1671	bistand
+T89	Markable 1683 1685	vi
+T90	Markable 1686 1689	oss
+R29	Coref Arg1:T90 Arg2:T89	
+T91	Markable 1698 1705	Taliban
+T92	Markable 1717 1729	jenteskolane
+T93	Markable 1735 1769	meldinga frå Utanriksdepartementet
+T94	Markable 1748 1769	Utanriksdepartementet
+R30	Coref Arg1:T87 Arg2:T65	
+T95	Markable 1772 1793	Thomassens erfaringar
+T96	Markable 1772 1782	Thomassens
+R31	Coref Arg1:T96 Arg2:T72	
+T97	Markable 1823 1825	Ho
+R32	Coref Arg1:T97 Arg2:T96	
+T98	Markable 1832 1835	seg
+R33	Coref Arg1:T98 Arg2:T97	
+T99	Markable 1839 1867	Afghanistan-komiteen i Noreg
+R34	Coref Arg1:T99 Arg2:T27	
+T100	Markable 1878 1906	tretti års erfaring i landet
+T101	Markable 1900 1906	landet
+R35	Coref Arg1:T101 Arg2:T77	
+T102	Markable 1922 1924	ho
+T103	Markable 1929 1934	reisa
+R36	Coref Arg1:T102 Arg2:T98	
+T104	Markable 1950 1991	bistandsprosjekt i nærleiken av soldatane
+T105	Markable 1969 1991	nærleiken av soldatane
+T106	Markable 1982 1991	soldatane
+R37	Coref Arg1:T106 Arg2:T87	
+T107	Markable 1996 1999	Dei
+R38	Coref Arg1:T107 Arg2:T106	
+T108	Markable 2032 2044	okkupasjonen
+T109	Markable 2054 2063	Thomassen
+R39	Coref Arg1:T109 Arg2:T102	
+T110	Markable 2068 2079	Afghanarane
+T111	Markable 2080 2082	eg
+R40	Coref Arg1:T111 Arg2:T109	
+R41	Coref Arg1:T110 Arg2:T68	
+T112	Markable 2105 2113	lærarane
+T113	Markable 2126 2170	koplinga mellom okkupasjon og bistandsarbeid
+T114	Markable 2142 2152	okkupasjon
+T115	Markable 2156 2170	bistandsarbeid
+T116	Markable 2173 2194	Dei bistandsprosjekta
+T118	Markable 2237 2244	Faizaba
+T119	Markable 2248 2269	vasspumpa i landsbyen
+T120	Markable 2260 2269	landsbyen
+R42	Coref Arg1:T118 Arg2:T31	
+R43	Coref Arg1:T108 Arg2:T76	
+T122	Markable 2296 2299	dei
+T121	Markable 2315 2318	dei
+T123	Markable 2345 2348	dei
+T124	Markable 2363 2371	soldatar
+R44	Coref Arg1:T123 Arg2:T122	
+R45	Coref Arg1:T122 Arg2:T116	
+T125	Markable 2374 2383	Soldatane
+R46	Coref Arg1:T125 Arg2:T124	
+T126	Markable 2412 2426	soldatane våre
+R47	Coref Arg1:T126 Arg2:T125	
+T127	Markable 2439 2441	du
+R48	Coref Arg1:T127 Arg2:T111	
+T128	Markable 2448 2455	Taliban
+R49	Coref Arg1:T128 Arg2:T91	
+T129	Markable 2466 2502	ein stoppar for alle desse prosjekta
+T130	Markable 2482 2502	alle desse prosjekta
+R50	Coref Arg1:T130 Arg2:T123	
+T131	Markable 2510 2517	Taliban
+R51	Coref Arg1:T131 Arg2:T128	
+T132	Markable 2532 2542	vi i Noreg
+T133	Markable 2537 2542	Noreg
+T134	Markable 797 799	vi
+T135	Markable 1277 1279	vi
+R53	Coref Arg1:T135 Arg2:T70	
+R54	Coref Arg1:T70 Arg2:T69	
+R55	Coref Arg1:T89 Arg2:T235	
+T136	Markable 2403 2405	vi
+R56	Coref Arg1:T136 Arg2:T90	
+R57	Coref Arg1:T132 Arg2:T236	
+T137	Markable 2550 2573	Leiaren for ein landsby
+T138	Markable 2562 2573	ein landsby
+T139	Markable 2574 2576	eg
+T140	Markable 2596 2603	Taliban
+R58	Coref Arg1:T140 Arg2:T131	
+T141	Markable 2614 2617	seg
+R59	Coref Arg1:T141 Arg2:T140	
+T142	Markable 2618 2634	lokalbefolkninga
+T143	Markable 2650 2653	dei
+T144	Markable 2654 2670	bistand i områda
+R60	Coref Arg1:T143 Arg2:T141	
+T145	Markable 2664 2670	områda
+T146	Markable 2671 2674	dei
+R61	Coref Arg1:T146 Arg2:T143	
+T147	Markable 2690 2701	Jenteskolar
+T148	Markable 2712 2715	dei
+R62	Coref Arg1:T148 Arg2:T146	
+T149	Markable 2728 2744	folk i landsbyen
+T150	Markable 2735 2744	landsbyen
+T151	Markable 2762 2774	eit av krava
+T152	Markable 2769 2774	krava
+T153	Markable 2775 2782	Taliban
+R63	Coref Arg1:T153 Arg2:T148	
+T154	Markable 2799 2835	ein diskusjon om framtida for landet
+T155	Markable 2816 2835	framtida for landet
+T156	Markable 2829 2835	landet
+R64	Coref Arg1:T156 Arg2:T101	
+T157	Markable 2838 2848	Slike krav
+T158	Markable 2862 2880	afghanarane sjølve
+T159	Markable 2889 2898	Thomassen
+T160	Markable 2904 2907	USA
+T161	Markable 2926 2935	bin Laden
+T162	Markable 2946 2962	ingen afghanarar
+R66	Coref Arg1:T161 Arg2:T80	
+T163	Markable 2980 2990	Korrupsjon
+T164	Markable 2991 3000	Thomassen
+R67	Coref Arg1:T164 Arg2:T159	
+T165	Markable 3010 3017	kontakt
+T166	Markable 3022 3053	ein sikkerheitsansvarleg for FN
+T167	Markable 3051 3053	FN
+T168	Markable 3056 3065	Thomassen
+R68	Coref Arg1:T168 Arg2:T164	
+T169	Markable 3073 3076	han
+R69	Coref Arg1:T169 Arg2:T166	
+T170	Markable 3097 3127	det vestlege nærværet i landet
+T171	Markable 3121 3127	landet
+R70	Coref Arg1:T171 Arg2:T156	
+T172	Markable 3132 3135	Han
+R71	Coref Arg1:T172 Arg2:T169	
+T173	Markable 3142 3145	han
+R72	Coref Arg1:T173 Arg2:T172	
+T174	Markable 3157 3163	landet
+R73	Coref Arg1:T174 Arg2:T171	
+T175	Markable 3166 3175	det heile
+T176	Markable 3197 3204	pengane
+T177	Markable 3213 3216	han
+R74	Coref Arg1:T177 Arg2:T173	
+T178	Markable 3220 3246	dei innleigde vaktene hans
+T179	Markable 3242 3246	hans
+R75	Coref Arg1:T179 Arg2:T177	
+T180	Markable 3262 3279	pengar i systemet
+T181	Markable 3271 3279	systemet
+T182	Markable 3287 3296	Thomassen
+R76	Coref Arg1:T182 Arg2:T168	
+T183	Markable 3320 3330	Han frå FN
+T184	Markable 3328 3330	FN
+R77	Coref Arg1:T184 Arg2:T167	
+R78	Coref Arg1:T183 Arg2:T179	
+T185	Markable 3344 3353	telefonen
+T186	Markable 3358 3379	ein afghansk minister
+T187	Markable 3398 3401	han
+T188	Markable 3415 3424	50 dollar
+T189	Markable 3429 3434	visum
+T190	Markable 3444 3451	ny vakt
+T191	Markable 3452 3455	han
+R79	Coref Arg1:T191 Arg2:T187	
+R80	Coref Arg1:T187 Arg2:T186	
+T192	Markable 3480 3486	prisen
+T193	Markable 3496 3507	5000 dollar
+T194	Markable 3522 3525	dei
+T195	Markable 3531 3540	telefonen
+R81	Coref Arg1:T195 Arg2:T185	
+R82	Split_antecedent Arg1:T194 Arg2:T191	
+R83	Split_antecedent Arg1:T194 Arg2:T183	
+T196	Markable 3543 3545	Eg
+R84	Coref Arg1:T196 Arg2:T182	
+T197	Markable 3588 3594	pengar
+T198	Markable 3610 3616	bordet
+T199	Markable 3625 3634	Thomassen
+R85	Coref Arg1:T199 Arg2:T196	
+T200	Markable 3650 3656	armane
+R86	Bridging Arg1:T200 Arg2:T199	
+T201	Markable 3659 3670	Småbrukarar
+T202	Markable 3674 3689	føretakseigarar
+T203	Markable 3701 3710	Thomassen
+R87	Coref Arg1:T203 Arg2:T199	
+T204	Markable 3714 3717	dei
+R88	Split_antecedent Arg1:T204 Arg2:T202	
+R89	Split_antecedent Arg1:T204 Arg2:T201	
+T205	Markable 3742 3748	pengar
+T206	Markable 3738 3741	seg
+R90	Coref Arg1:T206 Arg2:T204	
+T207	Markable 3752 3755	dei
+R91	Coref Arg1:T207 Arg2:T206	
+T208	Markable 3769 3786	offentlege kontor
+T209	Markable 3799 3801	du
+R92	Coref Arg1:T209 Arg2:T203	
+T210	Markable 3811 3844	utanriksminister Jonas Gahr Støre
+T211	Markable 3848 3877	forsvarsminister Grete Faremo
+T212	Markable 3899 3910	afghanarane
+R93	Coref Arg1:T212 Arg2:T158	
+R94	Coref Arg1:T158 Arg2:T110	
+R65	Coref Arg1:T159 Arg2:T139	
+T213	Markable 3920 3929	soldatane
+R95	Coref Arg1:T213 Arg2:T126	
+T214	Markable 3937 3948	Afghanarane
+T215	Markable 3954 3957	dei
+T216	Markable 3961 3972	pashtunarar
+T217	Markable 3975 3984	tadsjikar
+T218	Markable 3991 4000	usbekarar
+T219	Markable 4008 4012	folk
+R96	Coref Arg1:T214 Arg2:T212	
+T220	Markable 4021 4024	Dei
+T221	Markable 4032 4041	tryggleik
+R97	Coref Arg1:T220 Arg2:T215	
+T222	Markable 4051 4053	vi
+T223	Markable 4067 4081	vår mentalitet
+T224	Markable 4085 4088	dei
+R98	Coref Arg1:T224 Arg2:T220	
+T225	Markable 4067 4070	vår
+R99	Coref Arg1:T225 Arg2:T222	
+T226	Markable 4105 4119	få jenteskolar
+T227	Markable 4134 4136	vi
+R100	Coref Arg1:T227 Arg2:T225	
+T228	Markable 4152 4160	kvinnene
+T229	Markable 4173 4180	knekken
+T230	Markable 4184 4201	mørkemennene sine
+T231	Markable 4197 4201	sine
+R101	Coref Arg1:T231 Arg2:T228	
+T232	Markable 4209 4216	kvinner
+T233	Markable 4246 4255	Thomassen
+R102	Coref Arg1:T233 Arg2:T209	
+R103	Coref Arg1:T215 Arg2:T214	
+R104	Coref Arg1:T222 Arg2:T132	
+T234	Markable 1556 1559	vår
+R105	Coref Arg1:T234 Arg2:T135	
+T235	Markable 1633 1637	våre
+R106	Coref Arg1:T235 Arg2:T234	
+T236	Markable 2422 2426	våre
+R107	Coref Arg1:T236 Arg2:T136	
+T237	Markable 330 366	besøk av Raudt-leiar Turid Thomassen
+T238	Markable 84 105	bistand i Afghanistan
+T239	Markable 2219 2244	skoleprosjektet i Faizaba
+T117	Markable 2304 2310	støtte
+R108	Coref Arg1:T66 Arg2:T43	
+R109	Coref Arg1:T69 Arg2:T134	
+R110	Coref Arg1:T134 Arg2:T42	
+R20	Coref Arg1:T139 Arg2:T127	
+R52	Coref Arg1:T150 Arg2:T138	
